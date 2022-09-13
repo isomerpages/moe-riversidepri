@@ -1,6 +1,19 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: About
+    url: /about/
+  - title: Family
+    url: /family/
+    sublinks: []
+  - title: Programmes
+    url: /programmes
+    sublinks: []
+  - title: Partnerships
+    url: /partnerships
+    sublinks: []
+  - title: Information
+    url: /information
+    sublinks: []
+  - title: Mk @Riverside
+    url: /permalink
+    sublinks: []
