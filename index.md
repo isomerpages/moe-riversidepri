@@ -4,7 +4,7 @@ title: Riverside Primary School
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
       title: Hero title
@@ -23,11 +23,18 @@ sections:
           description: Page A is important too
           url: /privacy/
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
+      title: Get to know more about us!
+      subtitle: virtual open house
+      description: <iframe width="560" height="315"
+        src="https://www.youtube.com/embed/okwRgsOqfzY" title="YouTube video
+        player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+        encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen></iframe>
       url: /faq/
+  - infopic:
+      title: Riverside Celebrates
+      subtitle: photo gallery
+      button: view gallery
+      url: jjjjj
+      image: /images/homephoto1.jpg
 ---
-
-
