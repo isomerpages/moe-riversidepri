@@ -7,11 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
-      background: /images/hero-banner.png
-      button: Contact Us
-      url: /contact-us/
+      background: /images/home1.jpg
       key_highlights:
         - title: Highlight A
           description: Important highlight A is important
@@ -37,4 +33,7 @@ sections:
       button: view gallery
       url: jjjjj
       image: /images/homephoto1.jpg
+  - resources:
+      title: ANNOUNCEMENTS
+      button: View all news here
 ---
