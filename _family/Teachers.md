@@ -3,7 +3,6 @@ title: Teachers
 permalink: /family/teachers/
 description: ""
 ---
-
 <ul class="jekyllcodex\_accordion">
   <li>
     <input type="checkbox" id="accordion1">
