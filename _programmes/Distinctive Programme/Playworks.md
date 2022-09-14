@@ -33,19 +33,92 @@ Riverians engaged in active discussions and reflections with their peers and tea
 
   <li>
     <input type="checkbox" id="accordion1">
-    <label for="accordion1">Simple</label>
-
+    <label for="accordion1"><h5 style="color:RoyalBlue">Implementation of PlayWorks in Riverside</h5></label>
     <div>
+      <p>Our school engages Riverians in PlayWorks through two prongs: Signature Experience and Pervasive Application. In Signature Experience, there is a signature module at every grade level which uses different mediums and tools as shown in the table below.</p>
+			<p>
+    <style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-x189{background-color:#E0F7FE;color:#333;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-h9yw{background-color:#E0F7FE;color:#333;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-x189"><span style="font-weight:700;font-style:inherit">Level</span></th>
+    <th class="tg-x189"><span style="font-weight:700;font-style:inherit">Theme</span></th>
+    <th class="tg-x189"><span style="font-weight:700">Medium Involved</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-h9yw"><span style="font-weight:inherit;font-style:inherit">P1</span></td>
+    <td class="tg-x189"><span style="font-weight:700">LegoWorks</span><br><span style="font-weight:400;font-style:inherit">“Twinkle Twinkle Little Star”</span></td>
+    <td class="tg-h9yw"><span style="font-weight:400;font-style:inherit">Lego</span></td>
+  </tr>
+  <tr>
+    <td class="tg-h9yw"><span style="font-weight:inherit;font-style:inherit">P2</span></td>
+    <td class="tg-x189"><span style="font-weight:700">LegoWorks</span><br><span style="font-weight:400;font-style:inherit">“The Three Little Bunnies and the Big Bad Wolf”</span></td>
+    <td class="tg-h9yw"><span style="font-weight:400;font-style:inherit">Lego</span></td>
+  </tr>
+  <tr>
+    <td class="tg-h9yw"><span style="font-weight:inherit;font-style:inherit">P3</span></td>
+    <td class="tg-x189"><span style="font-weight:700">PaperWorks</span><br><span style="font-weight:400;font-style:inherit">“Redesign the Game that We Once Played”</span><br></td>
+    <td class="tg-h9yw"><span style="font-weight:inherit;font-style:inherit">Paper</span></td>
+  </tr>
+  <tr>
+    <td class="tg-h9yw"><span style="font-weight:inherit;font-style:inherit">P4</span></td>
+    <td class="tg-x189"><span style="font-weight:700">ParkWorks</span><br><span style="font-weight:400;font-style:inherit">“Building a Park that Meets Community Needs”</span><br></td>
+    <td class="tg-h9yw"><span style="font-weight:400;font-style:inherit">Recycled Materials</span></td>
+  </tr>
+  <tr>
+    <td class="tg-h9yw"><span style="font-weight:inherit;font-style:inherit">P5</span></td>
+    <td class="tg-x189"><span style="font-weight:700">UpWorks</span><br><span style="font-weight:400;font-style:inherit">“Transforming Trash to Treasure”</span><br></td>
+    <td class="tg-h9yw"><span style="font-weight:400;font-style:inherit">Discarded Materials</span></td>
+  </tr>
+  <tr>
+    <td class="tg-h9yw"><span style="font-weight:inherit;font-style:inherit">P6</span></td>
+    <td class="tg-x189"><span style="font-weight:700">HeartWorks</span><br><span style="font-weight:400;font-style:inherit">“Leaving a Mark”</span><br></td>
+    <td class="tg-h9yw"><span style="font-weight:400;font-style:inherit">Discarded Materials</span></td>
+  </tr>
+</tbody>
+</table>
+			
+<br>
+<img src="/images/playwork4.jpg" align="left" style="width:49%;">
+<img src="/images/playwork5.jpg" align="right" style="width:49%;">
+<br>
+<br>
 
-      <p>This is a simple one line item</p>
+P1 and P2 Riverians working together to come out with their group solutions using Lego bricks.
 
-    </div>
+<br>
+<img src="/images/playwork6.jpg" align="left" style="width:49%;">
+<img src="/images/playwork7.jpg" align="right" style="width:49%;">
+<br>
+<br>
+			
+P3 and P4 Riverians made use of paper and other recycled materials to solve problem scenarios that are relatable to their daily lives.
+			
+<br>
+<img src="/images/playwork8.jpg" align="left" style="width:49%;">
+<img src="/images/playwork9.jpg" align="right" style="width:49%;">
+<br>
+<br>
+<br>
+	
+P5 and P6 Riverians learnt about the importance of upcycling to ensure a sustainable future. They made use of waste pallet wood to create artefacts. The graduating cohorts made use of the wood tiles to design what the school meant to them.
 
-</li>  
+In Pervasive Application, Riverside’s PlayWorks Protocol is applied across various disciplines (i.e. Composition Writing, Science Performance Tasks, Art and VIA projects etc. ) It is essentially a relevant problem-solving protocol that we hope Riverians can use beyond the six years in Riverside.
+</p>
+  </div>
+</li>
 
-  <li>
-
-    <input type="checkbox" id="accordion2">
+ <input type="checkbox" id="accordion2">
 
     <label for="accordion2">Multi-line Block</label>
 
@@ -64,4 +137,3 @@ Riverians engaged in active discussions and reflections with their peers and tea
   <li>
 
 **
-
