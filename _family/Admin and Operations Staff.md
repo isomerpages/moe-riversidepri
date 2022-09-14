@@ -15,19 +15,19 @@ If you wish to contact our Support and Administrative Staff, please email to [r
     <div>
 			<ul>
 				<li>
-**Mdm Aminah Saad**  
+					<b>Mdm Aminah Saad</b><br>
 Administration Manager
 
-**Ms Clara Neo**  
+<b>Ms Clara Neo</b><br>
 Administrative Executive
 
-**Ms Nurul Nadhilah**   
+<b>Ms Nurul Nadhilah</b>   
 Administrative Executive
 
-**Mdm Sharon Lim**  
+<b>Mdm Sharon Lim</b><br>
 Corporate Support Officer
 
-**Mdm Halimah Ali**  
+<b>Mdm Halimah Ali</b>  
 Corporate Support Officer</li>
 			</ul>
 		</div>
@@ -39,22 +39,22 @@ Corporate Support Officer</li>
 		<ul>
 			<li>
 				
-**Mr Teo Teck Lam**  
+<b>Mr Teo Teck Lam</b>  
 Operations Manager
 
-**Mdm Tan Ai Tuan**  
+<b>Mdm Tan Ai Tuan</b><br> 
 Operations Support Officer
 
-**Mdm Koh Chu Tee**  
+<b>Mdm Koh Chu Tee</b>  
 Operations Support Officer
 
-**Mdm Liow Luan Wah**  
+<b>Mdm Liow Luan Wah</b>  
 Operations Support Officer
 
-**Mdm Chong Lai Keun**  
+<b>Mdm Chong Lai Keun</b>  
 Operations Support Officer
 
-**Mdm Jesslyn Choo**  
+<b>Mdm Jesslyn Choo</b><br> 
 Operations Support Officer</li>
 			</ul>
     </div>
@@ -66,16 +66,16 @@ Operations Support Officer</li>
 			<ul>
 				<li>
 		
-**Mr Hardi Mustaffa**  
+<b>Mr Hardi Mustaffa</b>  
 ICT Manager
 
-**Mr Muhammad Zaki Ahmad**  
+<b>Mr Muhammad Zaki Ahmad</b>   
 ICT Associate
 
-**Mr Patrick Tan**  
+<b>Mr Patrick Tan</b>    
 Desktop Engineer 1
 
-**Ms Nurul Atika**  
+<b>Ms Nurul Atika</b>    
 Desktop Engineer 2</li>
 			</ul>
 		</div>
