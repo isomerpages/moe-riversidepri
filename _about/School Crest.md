@@ -18,11 +18,11 @@ Emerging from the flow of the river water is a rising star which symbolizes our 
 
 The effect of the sun’s rays on the river produces an inter-play of colours that sparkle. With the holistic school and curriculum experience at Riverside Primary School, our pupils will sparkle as confident persons, self-directed learners, active contributors and concerned citizens. The sparkle is depicted by the seven bright yellow stars and one blue rising star which represent the eight SPARKLE values and dispositions of pupils of Riverside Primary School.
 
-**S**trength of Character  
+**_S_** trength of Character  
 **_P_** erseverance  
-**A**_daptability  
-**R**_esponsibility  
-**K**_indness  
-**L**_eadership  
-**E**_nthusiasm  
-**S**_incerity
+**_A_** daptability  
+**_R_** esponsibility  
+**_K_** indness  
+**_L_** eadership  
+**_E_** nthusiasm  
+**_S_** incerity
