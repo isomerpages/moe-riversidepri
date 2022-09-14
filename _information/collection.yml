@@ -2,6 +2,7 @@ collections:
   information:
     output: true
     order:
+      - School Canteen.md
       - Service Providers.md
       - School Calendar.md
       - 2022 Primary 1 Orientation.md
