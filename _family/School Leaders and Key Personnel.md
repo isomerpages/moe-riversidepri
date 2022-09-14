@@ -12,112 +12,107 @@ description: ""
 <ul>
 <li>
 	
-**Mr Tony Tan**<br>Principal<br>email: 
+<b>Mr Tony Tan</b><br>Principal<br>email: 
 	tan\_choon\_kheng@schools.gov.sg
 	
-**Mdm Regina Khoo**  
+<b>Mdm Regina Khoo</b>  
 Vice-Principal 1  
 email: Regina\_KHOO@schools.gov.sg
 
-**Mrs Ranuka Palanivelu**  
+<b>Mrs Ranuka Palanivelu</b>  
 Vice-Principal 2  
 email: Ranuka\_PALANIVELU@schools.gov.sg
 
-**Ms Karin Neo**  
+<b>Ms Karin Neo</b><br>
 Vice-Principal (Administration)  
-email: Karin\_NEO@schools.gov.sg
-	
-</li>
+email: Karin\_NEO@schools.gov.sg</li>
 			</ul>
-			</div>
-				
+		</div>
+</li>	
+	<li>
     <input type="checkbox" id="accordion2">
     <label for="accordion2"><h5 style="color:RoyalBlue">Head of Department/Year Head/Assisstant Head</h5></label>
-
-    <div>
-<ul>
-<li>
-	
-**Ms Ng See Tee**  
+	<div>
+		<ul>
+			<li>
+<b>Ms Ng See Tee</b><br>  
 Head of Department, Mother Tongue Languages  
 email: ng\_see\_tee@moe.edu.sg
 	
-**Mr Bobby Chan**  
+<b>Mr Bobby Chan</b><br>   
 Head of Department, Physical Education and  
 Co-Curricular Activities  
 email: chan\_teck\_hock\_bobby@moe.edu.sg
 	
-**Mdm Ho Yan Yan**  
+<b>Mdm Ho Yan Yan</b><br>   
 Head of Department, Mathematics  
 email: ho\_yan\_yan@moe.edu.sg
 	
-**Ms Chan Yu Min Wendy**  
+<b>Ms Chan Yu Min Wendy</b><br>   
 Head of Department, English Language  
 email: chan\_yu\_min\_wendy@moe.edu.sg
 	
-**Mrs Fio Ng**  
+<b>Mrs Fio Ng</b><br>   
 Head of Department, Science  
 email: ang\_hwee\_tit@moe.edu.sg
 
-**Mdm Jacqueline Kho**  
+<b>Mdm Jacqueline Kho</b>   
 Head of Department, CCE
 email: kho_ee_ling_jacqueline@moe.edu.sg
 	
-**Mrs Yip Wenjun**
-<br>Head of Department, Aesthetics  
+<b>Mrs Yip Wenjun</b><br> 
+Head of Department, Aesthetics  
 email: huang\_wenjun@moe.edu.sg
 	
-**Ms Lim Shin Gann**  
+<b>Ms Lim Shin Gann</b><br>   
 Year Head, Lower Primary  
 email: lim\_shin\_gann@moe.edu.sg
 
-**Mrs Sharon Sakthi**  
+<b>Mrs Sharon Sakthi</b><br>   
 Year Head, Middle Primary  
 email: pang\_shu\_fang\_sharon@moe.edu.sg
 
-**Mr Jeff Huang**  
+<b>Mr Jeff Huang</b><br>   
 Year Head, Upper Primary  
 email: huang\_yaosheng@moe.edu.sg
 
-**Mr Abdul Rahman B Amid Marican**  
+<b>Mr Abdul Rahman B Amid Marican</b><br>   
 Asst Year Head, Primary 5  
 email: rahman\_marican@moe.edu.sg
 </li>
 			</ul>
 			</div>
-				
-    <input type="checkbox" id="accordion3">
-    <label for="accordion3"><h5 style="color:RoyalBlue">Subject Head/Level Head</h5></label>
-
-    <div>
-<ul>
-<li> 
+				<input type="checkbox" id="accordion3">
+				<label for="accordion3"><h5 style="color:RoyalBlue">Subject Head/Level Head</h5></label>
+	<div>
+		<ul>
+			<li> 
 	
-**Mrs Christina Muru**  
+<b>Mrs Christina Muru</b><br> 
 Subject Head, Pupil Management  
 email: christina\_s\_zaccheus@moe.edu.sg
 	
-**Ms Goh Qi Qing**  
+<b>Ms Goh Qi Qing</b><br>  
 Subject Head, ICT  
 email: goh\_qi\_qing@moe.edu.sg
 	
-**Ms Aslinda Bte Abdullah**
+<b>Ms Aslinda Bte Abdullah</b><br>
 <br>Subject Head, PE  
 email: aslinda\_abdullah@moe.edu.sg
 	
-**Mr Mohammad Shaifullizan Bin Sapieah**  
+<b>Mr Mohammad Shaifullizan Bin Sapieah</b><br>  
 Subject Head, CCE & SS  
 email: mohammad\_shaifullizan\_sapi@moe.edu.sg
 	
-**Ms Jasmine Poi**
-	<br>Level Head, Mathematics  
+<b>Ms Jasmine Poi</b><br>
+Level Head, Mathematics  
 email: poi\_mei\_ling\_jasmine@moe.edu.sg
 	
-**Ms Ng Yuting**  
+<b>Ms Ng Yuting</b><br>  
 Level Head, Chinese Language  
 email: ng\_yuting@moe.edu.sg
 	
-**Mrs Candice Yip**  
+<b>Mrs Candice Yip</b><br>
 Level Head, English  
 email: chua\_cheng\_cheng\_candice@moe.edu.sg
 	</li>
@@ -126,28 +121,27 @@ email: chua\_cheng\_cheng\_candice@moe.edu.sg
 				
     <input type="checkbox" id="accordion4">
     <label for="accordion4"><h5 style="color:RoyalBlue">Senior Teacher/Lead Teacher</h5></label>
-
-    <div>
-<ul>
-<li>
+	<div>
+		<ul>
+			<li>
 	
-**Ms Ameerah Sharainee Zain Bte Sha**  
+<b>Ms Ameerah Sharainee Zain Bte Sha</b><br>  
 Lead Teacher, Music  
 email: ameerah\_sharainee\_zain\_sha@moe.edu.sg	
 	
-**Ms Tang Wai San**  
+<b>Ms Tang Wai San</b><br>  
 Senior Teacher, Chinese Language  
 email: tang\_wai\_san@moe.edu.sg
 	
-**Mrs Gayathiri Anasooya**  
+<b>Mrs Gayathiri Anasooya</b><br>  
 Senior Teacher, Tamil Language  
 email: gayathiri\_anasooya\_mohanaruben@moe.edu.sg
 	
-**Mdm Sabrina Bte Sabtu**  
+<b>Mdm Sabrina Bte Sabtu</b><br>  
 Senior Teacher, Education Support  
 email: sabrina\_sabtu@moe.edu.sg
 	
-**Mrs Joanna Kong**  
+<b>Mrs Joanna Kong</b><br>  
 Senior Teacher, Student Learning Needs Lower Primary Learners  
 email: hang\_siew\_mei\_joanna@moe.edu.sg
 	</li>
@@ -156,20 +150,18 @@ email: hang\_siew\_mei\_joanna@moe.edu.sg
 				
     <input type="checkbox" id="accordion5">
     <label for="accordion5"><h5 style="color:RoyalBlue">Administration & Operations Manager</h5></label>
-
-    <div>
-<ul>
-<li>
-	
-**Mr Teo Teck Lam**  
-Operations Manager  
+	<div>
+		<ul>
+			<li>	
+				
+<b>Mr Teo Teck Lam</b><br>
+Operations Manager<br>
 email: teo\_teck\_lam@moe.edu.sg
-	
-**Mdm Aminah Saad**  
-Administration Manager  
-email: aminah\_saad@moe.edu.sg
-	</li>
+				
+<b>Mdm Aminah Saad</b><br>
+Adminstration Manager
+email: aminah\_saad@moe.edu.sg</li>
 			</ul>
 		</div>
-		
-	
+</li>
+</ul>
