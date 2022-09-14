@@ -30,9 +30,10 @@ sections:
   - infopic:
       title: Riverside Celebrates
       subtitle: photo gallery
-      button: view gallery
-      url: jjjjj
+      button: view our proud students
+      url: /f/
       image: /images/homephoto1.jpg
+      alt: riverside primary 10th
   - resources:
       title: ANNOUNCEMENTS
       button: View all news here
