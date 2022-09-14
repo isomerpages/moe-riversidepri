@@ -2,4 +2,5 @@ collections:
   about:
     output: true
     order:
+      - School Directions.md
       - Principal's Message.md
