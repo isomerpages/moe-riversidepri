@@ -2,5 +2,6 @@ collections:
   family:
     output: true
     order:
+      - Teachers.md
       - Counsellor and Allied Educators.md
       - Admin and Operations Staff.md
