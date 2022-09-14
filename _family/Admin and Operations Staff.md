@@ -13,9 +13,8 @@ If you wish to contact our Support and Administrative Staff, please email to [r
 		<label for="accordion1"><h5 style="color:RoyalBlue">Administration Staff</h5></label>
 
     <div>
-<ul>
-<li>
-	
+			<ul>
+				<li>
 **Mdm Aminah Saad**  
 Administration Manager
 
@@ -29,18 +28,17 @@ Administrative Executive
 Corporate Support Officer
 
 **Mdm Halimah Ali**  
-Corporate Support Officer
-  </li>
+Corporate Support Officer</li>
 			</ul>
-			</div>
-				
+		</div>
+</li>
+	<li>
     <input type="checkbox" id="accordion2">
     <label for="accordion2"><h5 style="color:RoyalBlue">Operations Staff</h5></label>
-
-    <div>
-<ul>
-<li>
-	
+	<div>
+		<ul>
+			<li>
+				
 **Mr Teo Teck Lam**  
 Operations Manager
 
@@ -57,17 +55,16 @@ Operations Support Officer
 Operations Support Officer
 
 **Mdm Jesslyn Choo**  
-Operations Support Officer
-  </li>
+Operations Support Officer</li>
 			</ul>
     </div>
-
+</li>
+	<li>
     <input type="checkbox" id="accordion3">
     <label for="accordion3"><h5 style="color:RoyalBlue">ICT Support Staff</h5>
-
-    <div>
-<ul>
-	<li>
+		<div>
+			<ul>
+				<li>
 		
 **Mr Hardi Mustaffa**  
 ICT Manager
@@ -79,8 +76,7 @@ ICT Associate
 Desktop Engineer 1
 
 **Ms Nurul Atika**  
-Desktop Engineer 2
-
-    </div>
+Desktop Engineer 2</li>
 			</ul>
+		</div>
   </li>
