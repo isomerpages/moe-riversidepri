@@ -2,8 +2,8 @@ collections:
   about:
     output: true
     order:
+      - Principal's Message.md
+      - School Directions.md
       - SPARKLE Values.md
       - School Crest.md
       - School Song.md
-      - School Directions.md
-      - Principal's Message.md
