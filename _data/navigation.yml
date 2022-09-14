@@ -1,19 +1,14 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: About
-    url: /about/
+  - title: About US
+    collection: about
   - title: Family
-    url: /family/
-    sublinks: []
+    collection: family
   - title: Programmes
-    url: /programmes
-    sublinks: []
+    collection: programmes
   - title: Partnerships
-    url: /partnerships
-    sublinks: []
+    collection: partnerships
   - title: Information
-    url: /information
-    sublinks: []
+    collection: information
   - title: Mk @Riverside
-    url: /permalink
-    sublinks: []
+    collection: mk-riverside
