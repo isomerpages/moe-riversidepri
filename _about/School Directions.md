@@ -5,7 +5,7 @@ description: ""
 ---
 <br>
 <img src="/images/schooldirections.png" 
-         style="width:600px"
+         style="width:700px"
 	/>
 <br>
 
