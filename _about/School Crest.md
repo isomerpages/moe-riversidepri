@@ -6,7 +6,7 @@ description: ""
 <br>
 <img src="/images/logo1.png" 
         class="centreImage"
-				style="width:400px"
+				style="width:350px"
 	/>
 <br>
 
