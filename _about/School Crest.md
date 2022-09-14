@@ -4,7 +4,7 @@ permalink: /about/school-crest/
 description: ""
 ---
 <br>
-<img src="/images/cce1.jpg" 
+<img src="/images/logo1.png" 
         class="centreImage"
 				style="width:400px"
 	/>
