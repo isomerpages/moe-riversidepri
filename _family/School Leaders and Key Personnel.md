@@ -3,15 +3,17 @@ title: School Leaders and Key Personnel
 permalink: /family/school-leaders-and-key-personnel/
 description: ""
 ---
+
 <ul class="jekyllcodex\_accordion">
   <li>
     <input type="checkbox" id="accordion1">
-		<label for="accordion1"><h5 style="color:RoyalBlue">Year Head/Assistant Year Heads</h5></label>
+		<label for="accordion1"><h5 style="color:RoyalBlue">School Leaders</h5></label>
 
     <div>
 <ul>
 <li>
 	
+
 	 </li>
 			</ul>
 			</div>
