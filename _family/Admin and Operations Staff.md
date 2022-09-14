@@ -10,7 +10,7 @@ If you wish to contact our Support and Administrative Staff, please email to [r
 <ul class="jekyllcodex\_accordion">
   <li>
     <input type="checkbox" id="accordion1">
-		<label for="accordion1"><h5 style="color:RoyalBlue">Administration Staff</h5></label>
+		<label for="accordion1"><h5 style="color:blue">Administration Staff</h5></label>
 
     <div>
 			<ul>
@@ -34,7 +34,7 @@ Corporate Support Officer</li>
 </li>
 	<li>
     <input type="checkbox" id="accordion2">
-    <label for="accordion2"><h5 style="color:RoyalBlue">Operations Staff</h5></label>
+    <label for="accordion2"><h5 style="color:blue">Operations Staff</h5></label>
 	<div>
 		<ul>
 			<li>
@@ -61,7 +61,7 @@ Operations Support Officer</li>
 </li>
 	<li>
     <input type="checkbox" id="accordion3">
-    <label for="accordion3"><h5 style="color:RoyalBlue">ICT Support Staff</h5>
+    <label for="accordion3"><h5 style="color:blue">ICT Support Staff</h5>
 		<div>
 			<ul>
 				<li>
