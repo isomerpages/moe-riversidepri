@@ -168,8 +168,8 @@ Email: aslinda\_abdullah@moe.edu.sg
 			</ul>
   </li>
 		
-<input type="checkbox" id="accordion3">
-    <label for="accordion3"><h5 style="color:RoyalBlue">Primary 3 Teachers</h5>
+<input type="checkbox" id="accordion4">
+    <label for="accordion4"><h5 style="color:RoyalBlue">Primary 3 Teachers</h5>
 
     <div>
 <ul>
@@ -241,8 +241,8 @@ Email: gowri\_v\_vairavan@moe.edu.sg
 		</ul>
     </div>
 
-    <input type="checkbox" id="accordion3">
-    <label for="accordion3"><h5 style="color:RoyalBlue">Primary 4 Teachers</h5>
+    <input type="checkbox" id="accordion5">
+    <label for="accordion5"><h5 style="color:RoyalBlue">Primary 4 Teachers</h5>
 
     <div>
 <ul>
@@ -305,8 +305,8 @@ Email: seow\_soon\_kiat@moe.edu.sg
 			</ul>
     </div>
 
-    <input type="checkbox" id="accordion3">
-    <label for="accordion3"><h5 style="color:RoyalBlue">Primary 5 Teachers</h5>
+    <input type="checkbox" id="accordion6">
+    <label for="accordion6"><h5 style="color:RoyalBlue">Primary 5 Teachers</h5>
 
     <div>
 <ul>
@@ -370,8 +370,8 @@ Email: hasnah\_misnor@moe.edu.sg
 			</ul>
     </div>
 
-    <input type="checkbox" id="accordion3">
-    <label for="accordion3"><h5 style="color:RoyalBlue">Primary 6 Teachers</h5>
+    <input type="checkbox" id="accordion7">
+    <label for="accordion7"><h5 style="color:RoyalBlue">Primary 6 Teachers</h5>
 
     <div>
 <ul>
@@ -434,8 +434,8 @@ Email: ng\_yuting@moe.edu.sg
 			</ul>
     </div>
 
-    <input type="checkbox" id="accordion3">
-    <label for="accordion3"><h5 style="color:RoyalBlue">Mother Tongue Language Teachers</h5>
+    <input type="checkbox" id="accordion8">
+    <label for="accordion8"><h5 style="color:RoyalBlue">Mother Tongue Language Teachers</h5>
 
     <div>
 <ul>
