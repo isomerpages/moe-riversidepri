@@ -125,17 +125,51 @@ email: chua\_cheng\_cheng\_candice@moe.edu.sg
 			</div>
 				
     <input type="checkbox" id="accordion4">
-    <label for="accordion4"><h5 style="color:RoyalBlue">Senior</h5></label>
-
-    <div>
-<ul>
-<li> </li>
-			</ul>
-			</div>
-				
-    <input type="checkbox" id="accordion2">
-    <label for="accordion2"><h5 style="color:RoyalBlue">Primary 1 Teachers</h5></label>
+    <label for="accordion4"><h5 style="color:RoyalBlue">Senior Teacher/Lead Teacher</h5></label>
 
     <div>
 <ul>
 <li>
+	
+**Ms Ameerah Sharainee Zain Bte Sha**  
+Lead Teacher, Music  
+email: ameerah\_sharainee\_zain\_sha@moe.edu.sg	
+	
+**Ms Tang Wai San**  
+Senior Teacher, Chinese Language  
+email: tang\_wai\_san@moe.edu.sg
+	
+**Mrs Gayathiri Anasooya**  
+Senior Teacher, Tamil Language  
+email: gayathiri\_anasooya\_mohanaruben@moe.edu.sg
+	
+**Mdm Sabrina Bte Sabtu**  
+Senior Teacher, Education Support  
+email: sabrina\_sabtu@moe.edu.sg
+	
+**Mrs Joanna Kong**  
+Senior Teacher, Student Learning Needs Lower Primary Learners  
+email: hang\_siew\_mei\_joanna@moe.edu.sg
+	</li>
+			</ul>
+			</div>
+				
+    <input type="checkbox" id="accordion5">
+    <label for="accordion5"><h5 style="color:RoyalBlue">Administration & Operations Manager</h5></label>
+
+    <div>
+<ul>
+<li>
+	
+**Mr Teo Teck Lam**  
+Operations Manager  
+email: teo\_teck\_lam@moe.edu.sg
+	
+**Mdm Aminah Saad**  
+Administration Manager  
+email: aminah\_saad@moe.edu.sg
+	</li>
+			</ul>
+		</div>
+		
+	
