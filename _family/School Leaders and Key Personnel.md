@@ -3,7 +3,6 @@ title: School Leaders and Key Personnel
 permalink: /family/school-leaders-and-key-personnel/
 description: ""
 ---
-
 <ul class="jekyllcodex\_accordion">
   <li>
     <input type="checkbox" id="accordion1">
@@ -13,7 +12,8 @@ description: ""
 <ul>
 <li>
 	
-
+**Mr Tony Tan**<br>Principal<br>email: 
+	tan\_choon\_kheng@schools.gov.sg
 	 </li>
 			</ul>
 			</div>
