@@ -119,21 +119,19 @@ In Pervasive Application, Riverside’s PlayWorks Protocol is applied across var
 </li>
 
  <input type="checkbox" id="accordion2">
-
-    <label for="accordion2">Multi-line Block</label>
-
+ <label for="accordion2"><h5 style="color:RoyalBlue">Tinkerspace</h5></label>
     <div>
+<p>
+	<img src="/images/playwork10.jpg" 
+         style="width:400px"
+	/>
+</p>
+<p>Tinkerspace is Riverside’s own makerspace which is conducted once a month during the recesses. Riverians put on their creative, critical and inventive thinking caps to explore different materials and tools to solve various scenarios through hands-on activities.<br>
 
-      <p>This is line 1</p>
-
-      <p>This is line 2<br>
-
-        This is line 3</p>
-
+<br>
+<img src="/images/playwork11.jpeg" align="left" style="width:49%;">
+<img src="/images/playwork12.jpeg" align="right" style="width:49%;">
+</p>
+<p> Students make use of the different types of materials to create an item related to the theme: A Gift for A Friend.</p>
     </div>
-
   </li>
-
-  <li>
-
-**
