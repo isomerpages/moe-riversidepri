@@ -2,4 +2,5 @@ collections:
   information:
     output: true
     order:
+      - 2022 Primary 1 Orientation.md
       - 2022 Parent's Seminar.md
