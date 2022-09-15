@@ -90,4 +90,3 @@ Please <b>CALL</b> to ensure that a dental staff is on duty, before going to the
 			</li>
 			</ul>
 		</div>
-				
