@@ -5,7 +5,7 @@ description: ""
 ---
 In step with the approach to be a safe and health-promoting school, the school works closely with its canteen stallholders to ensure the adoption of hygienic food preparation methods, the provision of healthier food options and the sale of food at reasonable and affordable prices to pupils and staff.
 
-### **Healthy Meals in School Programme(HMSP)**
+### Healthy Meals in School Programme(HMSP)
 
 Since the start of Term II in 2017, the school has implemented the Healthy Meals in School Programme (HMSP) by the Health Promotion Board (HPB). The HMSP seeks to promote healthy eating among pupils as part of the holistic development of our children. The canteen stallholders are selling set meals which include items from the four main groups, i.e. wholegrains, fruit, vegetables and meat (or others).
 
@@ -66,4 +66,3 @@ the school.
 2\. Parents and visitors are not to be in the canteen during recess and lunch break. </p>
 	</div>
 	</li>
-	
