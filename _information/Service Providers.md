@@ -19,6 +19,9 @@ Email: rsps@pacificbookstores.com
 [2022 P2 Booklist](/files/2022_P2_Booklist.pdf)<br>[2022 P3 Booklist](/files/2022_P3_Booklist.pdf)<br>[2022 P4 Booklist](/files/2022_P4_Booklist.pdf)<br>[2022 P5 Booklist](/files/2022_P5_Booklist.pdf)<br>[2022 P5 FDN Booklist](/files/2022_P5_FDN_Booklist.pdf)<br>[2022 P6 Booklist](/files/2022_P6_Booklist.pdf)<br>[2022 P6 FDN Booklist](/files/2022_P6_FDN_Booklist.pdf)</li>
 			</ul>
 		</div>
+		</li>
+	
+<li>
 				<input type="checkbox" id="accordion2">
 				<label for="accordion2"><h5 style="color:RoyalBlue">Bus Vendor</h5></label>
 	<div>
@@ -32,6 +35,8 @@ Email Add: griflim@hotmail.com
 </li>
 			</ul>
 		</div>
+		
+<li>
 				<input type="checkbox" id="accordion3">
 				<label for="accordion3"><h5 style="color:RoyalBlue">Uniform Vendor</h5></label>
 	<div>
@@ -46,6 +51,9 @@ Address: 144 Upper Bukit Timah Rd, B1-03, Singapore 588177<br>
 Uniforms are now available for sale through School Bookshop. </li>
 			</ul>
 		</div>
+	</li>
+	
+<li>
 			<input type="checkbox" id="accordion4">
 				<label for="accordion4"><h5 style="color:RoyalBlue">School-Based Student Care Centre</h5></label>
 	<div>
@@ -63,6 +71,9 @@ Contact Person: Nur Hidayah Ariffin<br>  Contact Number: 8409 7083<br>  Email: 
 [Registration Form - Student Care Centre at Riverside Pri](/files/Registration-Form-Student-Care-Centre-at-Riverside-Pri.pdf)</li>
 			</ul>
 		</div>
+	</li>
+	
+<li>
 				<input type="checkbox" id="accordion5">
 				<label for="accordion5"><h5 style="color:RoyalBlue">Dental Clinic</h5></label>
 	<div>
