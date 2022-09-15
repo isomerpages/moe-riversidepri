@@ -4,7 +4,6 @@ permalink: /information/school-safety-matters/safety-of-students/
 description: ""
 third_nav_title: School Safety Matters
 ---
-
 <ul class="jekyllcodex_accordion">
 
   <li>
