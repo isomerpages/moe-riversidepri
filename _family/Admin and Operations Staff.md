@@ -5,7 +5,6 @@ description: ""
 ---
 If you wish to contact our Support and Administrative Staff, please email to [riverside\_ps@moe.edu.sg](mailto:riverside_ps@moe.edu.sg).
 
-**  
 
 <ul class="jekyllcodex_accordion">
   <li>
@@ -17,18 +16,14 @@ If you wish to contact our Support and Administrative Staff, please email to [r
 				<li>
 					<b>Mdm Aminah Saad</b><br>
 Administration Manager
-
-<b>Ms Clara Neo</b><br>
-Administrative Executive
-
-<b>Ms Nurul Nadhilah</b>   
-Administrative Executive
-
-<b>Mdm Sharon Lim</b><br>
-Corporate Support Officer
-
-<b>Mdm Halimah Ali</b>  
-Corporate Support Officer</li>
+<br>
+<b>Ms Clara Neo</b><br>Administrative Executive
+<br>
+<b>Ms Nurul Nadhilah</b><br>Administrative Executive
+<br>
+<b>Mdm Sharon Lim</b><br>Corporate Support Officer
+<br>
+<b>Mdm Halimah Ali</b><br>Corporate Support Officer</li>
 			</ul>
 		</div>
 </li>
@@ -39,23 +34,16 @@ Corporate Support Officer</li>
 		<ul>
 			<li>
 				
-<b>Mr Teo Teck Lam</b>  
-Operations Manager
-
-<b>Mdm Tan Ai Tuan</b><br> 
-Operations Support Officer
-
-<b>Mdm Koh Chu Tee</b>  
-Operations Support Officer
-
-<b>Mdm Liow Luan Wah</b>  
-Operations Support Officer
-
-<b>Mdm Chong Lai Keun</b>  
-Operations Support Officer
-
-<b>Mdm Jesslyn Choo</b><br> 
-Operations Support Officer</li>
+<b>Mr Teo Teck Lam</b><br>Operations Manager
+<br>
+<b>Mdm Tan Ai Tuan</b><br>Operations Support Officer<br>
+<b>Mdm Koh Chu Tee</b><br>Operations Support Officer
+<br>
+<b>Mdm Liow Luan Wah</b><br>Operations Support Officer
+<br>
+<b>Mdm Chong Lai Keun</b><br>Operations Support Officer
+<br>
+<b>Mdm Jesslyn Choo</b><br>Operations Support Officer</li>
 			</ul>
     </div>
 </li>
@@ -66,17 +54,11 @@ Operations Support Officer</li>
 			<ul>
 				<li>
 		
-<b>Mr Hardi Mustaffa</b>  
-ICT Manager
-
-<b>Mr Muhammad Zaki Ahmad</b>   
-ICT Associate
-
-<b>Mr Patrick Tan</b>    
-Desktop Engineer 1
-
-<b>Ms Nurul Atika</b>    
-Desktop Engineer 2</li>
+<b>Mr Hardi Mustaffa</b><br>ICT Manager
+<br>
+<b>Mr Muhammad Zaki Ahmad</b><br>ICT Associate
+<br>
+<b>Mr Patrick Tan</b><br>Desktop Engineer 1<br>
+<b>Ms Nurul Atika</b><br>Desktop Engineer 2</li>
 			</ul>
 		</div>
-  </li>
