@@ -66,3 +66,4 @@ the school.
 2\. Parents and visitors are not to be in the canteen during recess and lunch break. </p>
 	</div>
 	</li>
+	</ul>
