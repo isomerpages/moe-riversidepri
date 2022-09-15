@@ -7,7 +7,7 @@ If you wish to contact our Support and Administrative Staff, please email to [r
 
 **  
 
-<ul class="jekyllcodex\_accordion">
+<ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
 		<label for="accordion1"><h5 style="color:blue">Administration Staff</h5></label>
