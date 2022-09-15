@@ -3,7 +3,6 @@ title: Administrative Matters
 permalink: /information/administrative-matters/
 description: ""
 ---
-
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
