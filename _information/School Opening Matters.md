@@ -29,6 +29,9 @@ description: ""
 		</li>
 			</ul>
 		</div>
+		</li>
+	
+<li>
 				<input type="checkbox" id="accordion2">
 				<label for="accordion2"><h5 style="color:RoyalBlue">2021 School Opening Matters</h5></label>
 	<div>
@@ -45,4 +48,7 @@ description: ""
 
 ### 2021 Booklist<br>
 				
-[2021 Primary 1 Booklist](/files/2021-Primary-1-Booklist.pdf)<br> [2021 Primary 2 Booklist](/files/2021-Primary-2-Booklist.pdf)<br>  [2021 Primary 3 Booklist](/files/2021-Primary-3-Booklist.pdf)<br>  [2021 Primary 4 Booklist](/files/2021-Primary-4-Booklist.pdf)<br>  [2021 Primary 5 Booklist (Foundation)](/files/2021-Primary-5-Foundation-Booklist.pdf)<br>  [2021 Primary 5 Booklist (Standard)](/files/2021-Primary-5-Standard-Booklist.pdf)<br>  [2021 Primary 6 Booklist (Foundation)](/files/2021-Primary-6-Foundation-Booklist.pdf)<br>  [2021 Primary 6 Booklist (Standard)](/files/2021-Primary-6-Standard-Booklist.pdf)
+[2021 Primary 1 Booklist](/files/2021-Primary-1-Booklist.pdf)<br> [2021 Primary 2 Booklist](/files/2021-Primary-2-Booklist.pdf)<br>  [2021 Primary 3 Booklist](/files/2021-Primary-3-Booklist.pdf)<br>  [2021 Primary 4 Booklist](/files/2021-Primary-4-Booklist.pdf)<br>  [2021 Primary 5 Booklist (Foundation)](/files/2021-Primary-5-Foundation-Booklist.pdf)<br>  [2021 Primary 5 Booklist (Standard)](/files/2021-Primary-5-Standard-Booklist.pdf)<br>  [2021 Primary 6 Booklist (Foundation)](/files/2021-Primary-6-Foundation-Booklist.pdf)<br>  [2021 Primary 6 Booklist (Standard)](/files/2021-Primary-6-Standard-Booklist.pdf)</li>
+			</ul>
+		</div>
+		</li>
