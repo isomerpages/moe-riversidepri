@@ -2,6 +2,7 @@ collections:
   information:
     output: true
     order:
+      - School Safety Matters/Safety of Students.md
       - School Safety Matters/School Safety Matters.md
       - School Safety Matters/.keep
       - Administrative Matters.md
