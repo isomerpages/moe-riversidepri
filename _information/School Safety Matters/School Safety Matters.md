@@ -24,4 +24,9 @@ The school seeks to ensure a safe, secure and health-promoting environment throu
 
 ##### PARENTS AS COLLABORATIVE AND SUPPORT PARTNERS 
 
-We seek the strong support and fullest cooperation from all parents for the following measures
+We seek the strong support and fullest cooperation from all parents for the following measures:
+
+(A) Safety of Students<br>
+(B) Health and Wellness of Students<br>
+(C) Emergency Preparedness<br>
+(D) Positive School Tone of Care, Respect and Discipline<br>
