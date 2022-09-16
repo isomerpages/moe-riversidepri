@@ -13,28 +13,25 @@ description: ""
 <li>
 	
 <b>Mr Tony Tan</b><br>Principal<br>email: 
-	tan\_choon\_kheng@schools.gov.sg
-	<br>
+	tan\_choon\_kheng@schools.gov.sg<br>
 	
-<b>Mdm Regina Khoo</b><br>Vice-Principal 1<br>  email: Regina\_KHOO@schools.gov.sg
+<b>Mdm Regina Khoo</b><br>Vice-Principal 1<br>  email: Regina\_KHOO@schools.gov.sg<br>
 	
-<br>
-<b>Mrs Ranuka Palanivelu</b><br>  
-Vice-Principal 2<br>  
-email: Ranuka\_PALANIVELU@schools.gov.sg
-<br>
+<b>Mrs Ranuka Palanivelu</b><br>  Vice-Principal 2<br>email: Ranuka\_PALANIVELU@schools.gov.sg<br>
 	
 <b>Ms Karin Neo</b><br>
 Vice-Principal (Administration)<br>email: Karin\_NEO@schools.gov.sg</li>
 			</ul>
 		</div>
 </li>	
-	<li>
+	
+<li>
     <input type="checkbox" id="accordion2">
     <label for="accordion2"><h5 style="color:RoyalBlue">Head of Department/Year Head/Assisstant Head</h5></label>
 	<div>
 		<ul>
 			<li>
+		
 <b>Ms Ng See Tee</b><br>  
 Head of Department, Mother Tongue Languages<br>  
 email: ng\_see\_tee@moe.edu.sg
