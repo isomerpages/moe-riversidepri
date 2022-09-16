@@ -6,7 +6,7 @@ third_nav_title: Distinctive Programme
 ---
 <br>
 <img src="/images/playwork1.jpg" 
-         style="width:400px"
+         style="width:300px"
 	/>
 <br>
 
@@ -17,8 +17,8 @@ PlayWorks is Riverside's original curriculum innovation and Applied Learning Pr
 The PlayWorks protocol has five inventive processes (Understand, Plan, Design, Build and Improvise) and three essential processes (Communication, Collaboration and Reflection). The "Sparkling with Character in Purposeful Play" framework spells out the behavioural expectations based on the school's SPARKLE Values. For example, Riverians are expected to demonstrate Perseverance by never giving up and Adaptability by being open-minded and flexible when engaged in PlayWorks.
 
 <br>
-<img src="/images/playwork2.jpg" align="left" style="width:45%;">
-<img src="/images/playwork3.jpg" align="right" style="width:45%;">
+<img src="/images/playwork2.jpg" align="left" style="width:50%;">
+<img src="/images/playwork3.jpg" align="right" style="width:50%;">
 <br>
 <br>
 <br>
@@ -27,17 +27,16 @@ The PlayWorks protocol has five inventive processes (Understand, Plan, Design, B
 
 Riverians engaged in active discussions and reflections with their peers and teachers during PlayWorks activities.
 
-**  
 
-<ul class="jekyllcodex\_accordion">
+<ul class="jekyllcodex_accordion">
 
   <li>
     <input type="checkbox" id="accordion1">
-    <label for="accordion1"><h5 style="color:RoyalBlue">Implementation of PlayWorks in Riverside</h5></label>
+    <label for="accordion1"><h5 style="color:navy">Implementation of PlayWorks in Riverside</h5></label>
     <div>
       <p>Our school engages Riverians in PlayWorks through two prongs: Signature Experience and Pervasive Application. In Signature Experience, there is a signature module at every grade level which uses different mediums and tools as shown in the table below.</p>
 			<p>
-    <style type="text/css">
+<style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
@@ -89,24 +88,24 @@ Riverians engaged in active discussions and reflections with their peers and tea
 </table>
 			
 <br>
-<img src="/images/playwork4.jpg" align="left" style="width:49%;">
-<img src="/images/playwork5.jpg" align="right" style="width:49%;">
+<img src="/images/playwork4.jpg" align="left" style="width:50%;">
+<img src="/images/playwork5.jpg" align="right" style="width:50%;">
 <br>
 <br>
 
 P1 and P2 Riverians working together to come out with their group solutions using Lego bricks.
 
 <br>
-<img src="/images/playwork6.jpg" align="left" style="width:49%;">
-<img src="/images/playwork7.jpg" align="right" style="width:49%;">
+<img src="/images/playwork6.jpg" align="left" style="width:50%;">
+<img src="/images/playwork7.jpg" align="right" style="width:50%;">
 <br>
 <br>
 			
 P3 and P4 Riverians made use of paper and other recycled materials to solve problem scenarios that are relatable to their daily lives.
 			
 <br>
-<img src="/images/playwork8.jpg" align="left" style="width:49%;">
-<img src="/images/playwork9.jpg" align="right" style="width:49%;">
+<img src="/images/playwork8.jpg" align="left" style="width:50%;">
+<img src="/images/playwork9.jpg" align="right" style="width:50%;">
 <br>
 <br>
 <br>
@@ -119,7 +118,7 @@ In Pervasive Application, Riverside’s PlayWorks Protocol is applied across var
 </li>
 
  <input type="checkbox" id="accordion2">
- <label for="accordion2"><h5 style="color:RoyalBlue">Tinkerspace</h5></label>
+ <label for="accordion2"><h5 style="color:navy">Tinkerspace</h5></label>
     <div>
 <p>
 	<img src="/images/playwork10.jpg" 
@@ -127,11 +126,10 @@ In Pervasive Application, Riverside’s PlayWorks Protocol is applied across var
 	/>
 </p>
 <p>Tinkerspace is Riverside’s own makerspace which is conducted once a month during the recesses. Riverians put on their creative, critical and inventive thinking caps to explore different materials and tools to solve various scenarios through hands-on activities.<br>
-
 <br>
-<img src="/images/playwork11.jpeg" align="left" style="width:49%;">
-<img src="/images/playwork12.jpeg" align="right" style="width:49%;">
+<img src="/images/playwork11.jpeg" align="left" style="width:50%;">
+<img src="/images/playwork12.jpeg" align="right" style="width:50%;">
 </p>
 <p> Students make use of the different types of materials to create an item related to the theme: A Gift for A Friend.</p>
+	</li>
     </div>
-  </li>
