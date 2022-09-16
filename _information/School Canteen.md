@@ -47,12 +47,9 @@ Monday to Friday: 1.30pm to 2.15pm</p>
     <input type="checkbox" id="accordion4">
     <label for="accordion4"><h5 style="color:RoyalBlue">School Canteen Rules</h5></label>
 	<div>
-		<p> Students are to abide by the following rules relating to the school canteen:
-
-1\. Students are to queue up when buying food in the canteen.  
-2\. Students are to consume food only in the canteen.  
-3\. Students are to return all plates and utensils to the pails provided at the canteen after eating.  
-4\. Students should not run and play in the canteen	</div>
+	 <p>Students are to abide by the following rules relating to the school canteen:</p>
+<p>1. Students are to queue up when buying food in the canteen.<br>2. Students are to consume food only in the canteen.<br>3. Students are to return all plates and utensils to the pails provided at the canteen after eating.<br>4. Students should not run and play in the canteen    </p>
+</div>
 </li>	
 		
 <li>
@@ -66,4 +63,3 @@ the school.
 2\. Parents and visitors are not to be in the canteen during recess and lunch break. </p>
 	</div>
 	</li>
-	</ul>
