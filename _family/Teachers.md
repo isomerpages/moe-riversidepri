@@ -413,27 +413,23 @@ Mdm Siti Suhaida
 Co-Form Teacher  
 Email: siti\_suhaida\_surir@moe.edu.sg
 
-**P6 Kindness**  
-Mdm Noorfaezah Sadon  
-Form Teacher  
-Email: noorfaezah\_sadon@moe.edu.sg
-
+<b>P6 Kindness</b><br> 
+Mdm Noorfaezah Sadon<br>Form Teacher<br>Email: noorfaezah\_sadon@moe.edu.sg
+<br>
+		
 Mr Eugene Yap  
 Co-Form Teacher  
 Email: eugene\_yap\_hern\_an@moe.edu.sg
 
-**P6 Sincerity**  
-Mr Ling Yih Jye  
-Form Teacher  
-Email: ling\_yih\_jye@moe.edu.sg
+<b>P6 Sincerity</b><br> 
+Mr Ling Yih Jye<br>Form Teacher<br>Email: ling_yih_jye@moe.edu.sg
 
-Mdm Ng Yuting  
-Co-Form Teacher  
-Email: ng\_yuting@moe.edu.sg
-	</li>
+Mdm Ng Yuting<br>Co-Form Teacher<br>Email: ng_yuting@moe.edu.sg</li>
 			</ul>
-    </div>
-
+		</div>
+</li>	
+	
+<li>
     <input type="checkbox" id="accordion8">
     <label for="accordion8"><h5 style="color:RoyalBlue">Mother Tongue Language Teachers</h5>
 
@@ -441,77 +437,75 @@ Email: ng\_yuting@moe.edu.sg
 <ul>
 	<li>
 		
-Ms Ng See Tee  
-Email: ng\_see\_tee@moe.edu.sg
+Ms Ng See Tee<br>Email: ng_see_tee@moe.edu.sg
+<br>
+		
+Mdm Ng Yuting<br>Email: ng_yuting@moe.edu.sg
+<br>
+		
+Ms Tang Wai San<br>Email: tang\_wai\_san@moe.edu.sg
+<br>
+		
+Ms Chang Tan Ling<br>Email: chang\_tan\_ling@moe.edu.sg
+<br>
+		
+Mr Chong Keng Kok<br>Email: chong_keng_kok@moe.edu.sg
+<br>
+		
+Mdm Ma Shaowen<br>Email: ma_shaowen@moe.edu.sg
+<br>
+		
+Ms Man Su Thing Jamie<br>Email: man_su_thing@moe.edu.sg
+<br>
+		
+Mr Seow Soon Kiat<br>Email: seow_soon_kiat@moe.edu.sg
+<br>
 
-Mdm Ng Yuting  
-Email: ng\_yuting@moe.edu.sg
-
-Ms Tang Wai San  
-Email: tang\_wai\_san@moe.edu.sg
-
-Ms Chang Tan Ling  
-Email: chang\_tan\_ling@moe.edu.sg
-
-Mr Chong Keng Kok  
-Email: chong\_keng\_kok@moe.edu.sg
-
-Mdm Ma Shaowen  
-Email: ma\_shaowen@moe.edu.sg
-
-Ms Man Su Thing Jamie  
-Email: man\_su\_thing@moe.edu.sg
-
-Mr Seow Soon Kiat  
-Email: seow\_soon\_kiat@moe.edu.sg
-
-Mdm Thang Yun Xuan  
-Email: thang\_yun\_xuan@moe.edu.sg
-
-Mdm Wang Qun  
-Email: wang\_qun@moe.edu.sg
-
-Mr Wong Wai Tatt  
-Email: wong\_wai\_tatt@moe.edu.sg
-
-Mdm Xue Bing  
-Email: xue\_bing@moe.edu.sg
-
-Ms Lim Shin Gann  
-Email: lim\_shin\_gann@moe.edu.sg
-
-Mrs Eity Norhyezah Asyurah  
-Email: eity\_norhyezah\_asyurah@moe.edu.sg
-
-Mdm Siti Suhaida Surir  
-Email: siti\_suhaida\_surir@moe.edu.sg
-
-Mdm Ardriza Isnin  
-Email: ardriza\_isnin@moe.edu.sg
-
-Mr Ariff Rizwan  
-Email: ariff\_rizwan\_sahab@moe.edu.sg
-
-Mdm Dellina Daniell Assik  
-Email: dellina\_daniell\_assik@moe.edu.sg
-
-Mdm Hasnah Misnor  
-Email: hasnah\_misnor@moe.edu.sg
-
-Mdm Noraisah Abdul Samad  
-Email: noraisah\_abdul\_samad@moe.edu.sg
-
-Mrs Gayathiri Anasooya  
-Email: gayathiri\_anasooya\_mohanaruben@moe.edu.sg
-
-Mdm Gowri d/o V Vairavan  
-Email: gowri\_v\_vairavan@moe.edu.sg
-
-Mdm Nagaraj Hema  
-Email: nagaraj\_hema@moe.edu.sg
-
-Ms Yamunah D/O Balakrishnan  
-Email: yamunah\_balakrishnan@moe.edu.sg
-	</li>
+Mdm Thang Yun Xuan<br>Email: thang_yun_xuan@moe.edu.sg
+<br>
+		
+Mdm Wang Qun<br>Email: wang_qun@moe.edu.sg
+<br>
+		
+Mr Wong Wai Tatt<br>Email: wong_wai_tatt@moe.edu.sg
+<br>
+		
+Mdm Xue Bing<br>Email: xue_bing@moe.edu.sg
+<br>
+		
+Ms Lim Shin Gann<br>Email: lim_shin_gann@moe.edu.sg
+<br>
+		
+Mrs Eity Norhyezah Asyurah<br>Email: eity_norhyezah_asyurah@moe.edu.sg
+<br>
+		
+Mdm Siti Suhaida Surir<br>Email: siti_suhaida_surir@moe.edu.sg
+<br>
+		
+Mdm Ardriza Isnin<br>Email: ardriza_isnin@moe.edu.sg
+<br>
+		
+Mr Ariff Rizwan<br>Email: ariff_rizwan_sahab@moe.edu.sg
+<br>
+		
+Mdm Dellina Daniell Assik<br>Email: dellina_daniell_assik@moe.edu.sg
+<br>
+		
+Mdm Hasnah Misnor<br>Email: hasnah_misnor@moe.edu.sg
+<br>
+		
+Mdm Noraisah Abdul Samad<br>Email: noraisah_abdul_samad@moe.edu.sg
+<br>
+		
+Mrs Gayathiri Anasooya<br>Email: gayathiri_anasooya_mohanaruben@moe.edu.sg
+<br>
+		
+Mdm Gowri d/o V Vairavan<br>Email: gowri_v_vairavan@moe.edu.sg
+<br>
+		
+Mdm Nagaraj Hema<br>Email: nagaraj_hema@moe.edu.sg
+<br>
+		
+Ms Yamunah D/O Balakrishnan<br>Email: yamunah_balakrishnan@moe.edu.sg</li>
 			</ul>
     </div>
