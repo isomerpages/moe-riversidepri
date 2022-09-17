@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Non Academic/Sexuality Education.md
       - Non Academic/.keep
       - CCAs/Uniform Group.md
       - CCAs/Sports.md
