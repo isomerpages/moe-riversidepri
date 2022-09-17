@@ -22,3 +22,32 @@ The key messages of Sexuality Education are:
 4.  Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
 
 You may click [here](https://www.moe.gov.sg/education/programmes/social-and-emotional-learning/sexuality-education) for more information on MOE Sexuality Education.
+
+<ul class="jekyllcodex_accordion">
+
+  <li>
+    <input type="checkbox" id="accordion1">
+    <label for="accordion1"><h5 style="color:navy">Implementation of PlayWorks in Riverside</h5></label>
+    <div>
+			
+			 </li>
+			</ul>
+			</div>
+				
+<input type="checkbox" id="accordion2">
+    <label for="accordion2"><h5 style="color:RoyalBlue">Primary 1 Teachers</h5></label>
+
+    <div>
+<ul>
+<li>
+	
+	 </li>
+			</ul>
+			</div>
+				
+<input type="checkbox" id="accordion2">
+    <label for="accordion2"><h5 style="color:RoyalBlue">Primary 1 Teachers</h5></label>
+
+    <div>
+<ul>
+<li>
