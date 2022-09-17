@@ -2,5 +2,6 @@ collections:
   mk-riverside:
     output: true
     order:
+      - MK Events/MK Events 2022.md
       - MK Events/MK Events 2021.md
       - MK Events/.keep
