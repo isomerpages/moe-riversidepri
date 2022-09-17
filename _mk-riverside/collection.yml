@@ -2,4 +2,4 @@ collections:
   mk-riverside:
     output: true
     order:
-      - Mk events/.keep
+      - MK Events/.keep
