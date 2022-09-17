@@ -35,5 +35,3 @@ The school collaborated with North West Community Development Council to impleme
          style="width:400px"
 	/>
 <br>
-
-
