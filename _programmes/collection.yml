@@ -2,5 +2,6 @@ collections:
   programmes:
     output: true
     order:
+      - CCAs/.keep
       - Distinctive Programme/Playworks.md
       - Distinctive Programme/.keep
