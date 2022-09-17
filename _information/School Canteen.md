@@ -56,10 +56,8 @@ Monday to Friday: 1.30pm to 2.15pm</p>
     <input type="checkbox" id="accordion5">
     <label for="accordion5"><h5 style="color:RoyalBlue">Note to Parents</h5></label>
 	<div>
-		<p>The school seeks the understanding of parents and visitors on the following two matters:
-
-1\. The food prepared by the canteen stallholders is intended to be sold to students and staff members of  
-the school.  
-2\. Parents and visitors are not to be in the canteen during recess and lunch break. </p>
+		<p>The school seeks the understanding of parents and visitors on the following two matters:</p><br>
+		
+<p>1. The food prepared by the canteen stallholders is intended to be sold to students and staff members of the school.<br>2. Parents and visitors are not to be in the canteen during recess and lunch break.</p>
 	</div>
 	</li>
