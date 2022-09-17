@@ -19,22 +19,22 @@ Yellow House - **Topaz**
 Through the House System, Riverians will interact across classes, grade levels, learning areas and school events. They will thus learn to celebrate diversity and foster the House spirit and the School spirit. The school will organise a variety of House-based activities to engage pupils. The signature House-based events are the annual HouseWarming and the annual Riverside Sports and Games Day.
 
 <br>
-<img src="/images/cce1.jpg" 
-         style="width:400px"
+<img src="/images/Sapphire-House.jpg" 
+         style="width:500px"
 	/>
 <br>
 <br>
-<img src="/images/cce1.jpg" 
-         style="width:400px"
+<img src="/images/Emerald-House.jpg" 
+         style="width:500px"
 	/>
 <br>
 <br>
-<img src="/images/cce1.jpg" 
-         style="width:400px"
+<img src="/images/Ruby-House.jpg" 
+         style="width:500px"
 	/>
 <br>
 <br>
-<img src="/images/cce1.jpg" 
-         style="width:400px"
+<img src="/images/Topaz-House.jpg" 
+         style="width:500px"
 	/>
 <br>
