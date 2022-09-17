@@ -75,4 +75,4 @@ Your child can make responsible decisions if he/she has the capacity to identify
 	 </li>
 			</ul>
 		</div>
-</li>	
+</li>
