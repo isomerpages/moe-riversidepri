@@ -45,5 +45,4 @@ third_nav_title: CCAs
 <img src="/images/play_club_2.jpg" style="width:400px" ></p></li>
 			</div>
 		</ul>
-			</li>	
-			
+			</li>
