@@ -139,4 +139,3 @@ At Riverside Primary School, the following lessons from the Growing Years Progra
 <p>Parents who wish to attend the school&#39;s Sexuality Education programme should contact the school to make the necessary arrangements.</p></li>
 			</ul>
 			</div>
-	
