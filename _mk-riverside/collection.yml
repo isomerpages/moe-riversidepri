@@ -1,4 +1,5 @@
 collections:
   mk-riverside:
     output: true
-    order: []
+    order:
+      - Mk events/.keep
