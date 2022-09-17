@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - CCAs/Visual Performing Arts.md
       - CCAs/.keep
       - Distinctive Programme/Playworks.md
       - Distinctive Programme/.keep
