@@ -120,11 +120,10 @@ email: ng_yuting@moe.edu.sg<br>
 		<ul>
 			<li>	
 				
-<b>Mr Teo Teck Lam</b><br>Operations Manager<br>email: teo_teck_lam@moe.edu.sg
-<br>
+<p><b>Mr Teo Teck Lam</b><br>Operations Manager<a href="mailto:teo_teck_lam@moe.edu.sg"><br>email: teo_teck_lam@moe.edu.sg</a></p>
 				
-<b>Mdm Aminah Saad</b><br>Adminstration Manager<br>email: aminah_saad@moe.edu.sg</li>
+<p><b>Mdm Aminah Saad</b><br>Adminstration Manager<a href="mailto:aminah_saad@moe.edu.sg"><br>email: aminah_saad@moe.edu.sg</a></p>
+</li>
 			</ul>
 		</div>
 		</li>
-	
