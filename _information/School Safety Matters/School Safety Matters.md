@@ -26,7 +26,7 @@ The school seeks to ensure a safe, secure and health-promoting environment throu
 
 We seek the strong support and fullest cooperation from all parents for the following measures:
 
-(A) Safety of Students<br>
-(B) Health and Wellness of Students<br>
-(C) Emergency Preparedness<br>
-(D) Positive School Tone of Care, Respect and Discipline<br>
+[(A) Safety of Students](/information/school-safety-matters/safety-of-students/) <br>
+[(B) Health and Wellness of Students](/information/school-safety-matters/health-wellness-of-students/) <br>
+[(C) Emergency Preparedness](/information/school-safety-matters/emergency-preparednesss/) <br>
+[(D)  Positive School Tone of Care, Respect and Discipline](/information/school-safety-matters/positive-school-tone-of-care-respect-and-discipline/)<br>
