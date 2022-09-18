@@ -97,3 +97,9 @@ Join us now!
 	<div>
 		<ul>
 			<li>
+<p>The school collaborated with Family@Science Centre to organise a Father-Child Bonding workshop at the Science Centre in August. 20 pairs of Father-Child participated in a Father-Child Bonding Workshop titled “DNA and Family Traits”.</p>
+<br>
+<img src="/images/Picture15.jpg" 
+         style="width:500px"
+	/>
+<br>
