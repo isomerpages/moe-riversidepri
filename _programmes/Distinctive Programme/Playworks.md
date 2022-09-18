@@ -132,5 +132,4 @@ In Pervasive Application, Riverside’s PlayWorks Protocol is applied across var
 <img src="/images/playwork12.jpeg" align="right" style="width:50%;">
 </p>
 <p> Students make use of the different types of materials to create an item related to the theme: A Gift for A Friend.</p>
-	</li>
-    </div>
+	</div>
