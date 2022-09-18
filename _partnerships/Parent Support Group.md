@@ -44,7 +44,7 @@ Join us now!
 <br>
 <img src="/images/Picture17.jpg" 
          style="width:500px"
-	/>	</li>
+	/></li>
 			</ul>
 		</div>
 </li>
