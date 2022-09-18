@@ -87,6 +87,22 @@ Join us now!
 	<div>
 		<ul>
 			<li>
+<p>To show appreciation to the teachers, our parents embarked in a secret mission making a heartfelt gift for all teachers during Teacher’s Day.</p>
+<br>
+<img src="/images/PSG4a.jpg" 
+         style="width:450px"
+	/>
+<img src="/images/PSG5a.jpg" 
+         style="width:450px"
+	/>
+<img src="/images/PSG6a.jpg" 
+         style="width:450px"
+	/>
+<img src="/images/PSG5b.jpg" 
+         style="width:450px"
+	/>
+<br>
+
 				</li>
 			</ul>
 		</div>
