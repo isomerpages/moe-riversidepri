@@ -21,67 +21,97 @@ Join us now!
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
-		<label for="accordion1"><h5 style="color:blue">Administration Staff</h5></label>
-
+		<label for="accordion1"><h5 style="color:blue">P1 Induction Programme</h5></label>
     <div>
 			<ul>
 				<li>
-					
-					</li>
+<p>The school conducts P1 Induction Programme for new P1 student in the first week of the new school year.  The programme includes guiding students to buy food from the canteen stalls.  Our parents helped to introduce the stalls to the students and guide them in buying food from the stalls.</p>
+<br>
+<img src="/images/PSG1.jpg" 
+         style="width:500px"
+	/></li>
 			</ul>
 		</div>
 </li>
-	<li>
+	
+<li>
     <input type="checkbox" id="accordion2">
-    <label for="accordion2"><h5 style="color:blue">Operations Staff</h5></label>
+    <label for="accordion2"><h5 style="color:blue">Likeskills Development Programme</h5></label>
 	<div>
 		<ul>
 			<li>
-				</li>
+<p>The school conducts Lifeskills Development Programme for P1-P3 students, which includes tying of shoelaces, buttoning up shirt and basic cleaning techniques.  Our parents assist the teachers in carrying out these lifeskills activities.</p>
+<br>
+<img src="/images/cce17.jpg" 
+         style="width:500px"
+	/>	</li>
 			</ul>
 		</div>
 </li>
-	<li>
-    <input type="checkbox" id="accordion2">
-    <label for="accordion2"><h5 style="color:blue">Operations Staff</h5></label>
+	
+<li>
+    <input type="checkbox" id="accordion3">
+    <label for="accordion3"><h5 style="color:blue">Learning Journeys</h5></label>
 	<div>
 		<ul>
 			<li>
-				</li>
+<p>The school organises many learning journeys for our students to enrich their learning experiences.  Our parent helped to chaperon the students during such trips to ensure their safety and well-being.</p>
+<br>
+<img src="/images/Picture18.jpg" 
+         style="width:500px"
+	/>
+<br></li>
 			</ul>
 		</div>
-</li>
-	<li>
-    <input type="checkbox" id="accordion2">
-    <label for="accordion2"><h5 style="color:blue">Operations Staff</h5></label>
+	</li>
+
+<li>
+    <input type="checkbox" id="accordion4">
+    <label for="accordion4"><h5 style="color:blue">Involvement in School Programmes and Activities</h5></label>
 	<div>
 		<ul>
 			<li>
-				</li>
+<p>Parents assist in manning the activity booths for NE Core Events, Mother Tongue Language Fortnight Activities, and Lower Primary Science Day.</p>
+<br>
+<img src="/images/PSG2.jpg" 
+         style="width:500px"
+	/>
+<br></li>
 			</ul>
 		</div>
 </li>
 	<li>
-    <input type="checkbox" id="accordion2">
-    <label for="accordion2"><h5 style="color:blue">Operations Staff</h5></label>
+    <input type="checkbox" id="accordion5">
+    <label for="accordion5"><h5 style="color:blue">Project EARTH (Every Act of Recycling Truly Helps) - Lead Recyclers</h5></label>
 	<div>
 		<ul>
 			<li>
-				</li>
+<p>Parents contribute their time and effort on a weekly Wednesday morning at the recycling bay collecting the recycling items from our students and sorting out these items before depositing them into the recycle bins.</p>
+<br>
+<img src="/images/Picture11.jpg" 
+         style="width:400px"
+	/>
+<br></li>
 			</ul>
 		</div>
 </li>
 	<li>
-    <input type="checkbox" id="accordion2">
-    <label for="accordion2"><h5 style="color:blue">Operations Staff</h5></label>
+    <input type="checkbox" id="accordion6">
+    <label for="accordion6"><h5 style="color:blue">Parent's Day CraftWork</h5></label>
 	<div>
 		<ul>
 			<li>
-				</li>
+<p>Parents initiate Parents’ Day craftwork and set up activity booths during recess time to teach our students to make the craftworks and present these craftworks to their parents during Father’s Day and Mother’s Day.</p>
+				
+<br>
+<img src="/images/Picture12.jpg" 
+         style="width:500px"
+	/></li>
 			</ul>
 		</div>
 </li>
-	<li>
+
+<li>
     <input type="checkbox" id="accordion7">
     <label for="accordion7"><h5 style="color:blue">Secret Mission for Teacher's Day</h5></label>
 	<div>
