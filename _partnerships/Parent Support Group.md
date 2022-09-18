@@ -42,7 +42,7 @@ Join us now!
 			<li>
 <p>The school conducts Lifeskills Development Programme for P1-P3 students, which includes tying of shoelaces, buttoning up shirt and basic cleaning techniques.  Our parents assist the teachers in carrying out these lifeskills activities.</p>
 <br>
-<img src="/images/cce17.jpg" 
+<img src="/images/Picture17.jpg" 
          style="width:500px"
 	/>	</li>
 			</ul>
