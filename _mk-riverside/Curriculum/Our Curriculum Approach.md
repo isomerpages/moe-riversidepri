@@ -57,9 +57,16 @@ Our curriculum comprises 2 flagship programmes, the HI-Light Programme and Starl
 
 [**STARLIGHT MOTHER TONGUE LANGUAGE PROGRAMME**](/mk-riverside/mk-curriculum/starlight-literacy-programme/)
 ----------------------------------------------------------------------------------------------------------------------------------
-
-![](https://riversidepri.moe.edu.sg/wp-content/uploads/2021/08/Starlight_Malay03.jpg)
-
-![](https://riversidepri.moe.edu.sg/wp-content/uploads/2021/08/Starlight_Tamil05.jpg)
-
-![](https://riversidepri.moe.edu.sg/wp-content/uploads/2021/08/Starlight_Chinese03.jpg)
+<br>
+<img src="/images/Starlight_Malay03.jpg" 
+         style="width:500px"
+	/>
+<br>
+<img src="/images/Starlight_Tamil05.jpg" 
+         style="width:500px"
+	/>
+<br>
+<img src="/images/Starlight_Chinese03.jpg" 
+         style="width:500px"
+	/>
+<br>
