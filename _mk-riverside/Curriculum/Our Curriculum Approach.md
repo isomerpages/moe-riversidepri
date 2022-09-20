@@ -22,7 +22,26 @@ We strive to make learning authentic and relevant for your child through activit
 
 Our curriculum comprises 2 flagship programmes, the HI-Light Programme and Starlight Literacy Programme for English and MTL. In addition, each term at MK will conclude in a Weeks of Wonder project.
 
-[**HI-LIGHT PROGRAMME**](https://riversidepri.moe.edu.sg/mkriverside/mk-curriculum/hi_light/)
----------------------------------------------------------------------------------------------
+[**HI-LIGHT PROGRAMME**](/mk-riverside/mk-curriculum/hi-light/)
+-----------------------------------
+<br>
+<img src="/images/Hi_Light10.jpg" 
+         style="width:500px"
+	/>
+<br>
 
-![](https://riversidepri.moe.edu.sg/wp-content/uploads/2021/08/Hi_Light10.jpg)
+## WoW Project
+<br>
+<img src="/images/WoW01.jpg" 
+         style="width:500px"
+	/>
+<br>
+
+[**STARLIGHT ENGLISH LITERACY PROGRAMME**](https://riversidepri.moe.edu.sg/mkriverside/mk-curriculum/starlight-english-language/)
+---------------------------------------------------------------------------------------------------------------------------------
+
+![](https://riversidepri.moe.edu.sg/wp-content/uploads/2021/08/Starlight_English01.jpg)
+
+![](https://riversidepri.moe.edu.sg/wp-content/uploads/2021/08/Starlight_English02.jpg)
+
+![](https://riversidepri.moe.edu.sg/wp-content/uploads/2021/08/Starlight_English03.jpg)
