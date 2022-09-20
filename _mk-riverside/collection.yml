@@ -2,6 +2,7 @@ collections:
   mk-riverside:
     output: true
     order:
+      - Curriculum/Hi Light.md
       - Curriculum/Starlight Literacy Programme.md
       - Curriculum/Starlight Experiential Activities.md
       - Curriculum/.keep
