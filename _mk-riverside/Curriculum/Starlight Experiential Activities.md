@@ -4,7 +4,6 @@ permalink: /mk-riverside/mk-curriculum/starlight-experiential-activities/
 description: ""
 third_nav_title: Curriculum
 ---
-
 <br>
 <img src="/images/Experiential_activities_01.jpg" 
          style="width:400px"
