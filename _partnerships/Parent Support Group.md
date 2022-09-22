@@ -43,7 +43,7 @@ Join us now!
 <p>The school conducts Lifeskills Development Programme for P1-P3 students, which includes tying of shoelaces, buttoning up shirt and basic cleaning techniques.  Our parents assist the teachers in carrying out these lifeskills activities.</p>
 <br>
 <img src="/images/Picture17.jpg" 
-         style="width:500px"
+         style="width:600px"
 	/></li>
 			</ul>
 		</div>
@@ -58,7 +58,7 @@ Join us now!
 <p>The school organises many learning journeys for our students to enrich their learning experiences.  Our parent helped to chaperon the students during such trips to ensure their safety and well-being.</p>
 <br>
 <img src="/images/Picture18.jpg" 
-         style="width:500px"
+         style="width:700px"
 	/>
 <br></li>
 			</ul>
@@ -105,7 +105,7 @@ Join us now!
 				
 <br>
 <img src="/images/Picture12.jpg" 
-         style="width:500px"
+         style="width:600px"
 	/></li>
 			</ul>
 		</div>
