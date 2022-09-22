@@ -42,9 +42,8 @@ Email Add: griflim@hotmail.com
 		<ul>
 			<li>Contact Person: Mr. Ethan Koh<br>  
 Contact Number: 9029 5135<br>  
-Email: finestfashioncentre@gmail.com
+<p>Email: <a href="mailto:finestfashioncentre@gmail.com">finestfashioncentre@gmail.com</a></p>
 <br>
-				
 Address: 144 Upper Bukit Timah Rd, B1-03, Singapore 588177<br>
 				
 Uniforms are now available for sale through School Bookshop. </li>
@@ -59,15 +58,17 @@ Uniforms are now available for sale through School Bookshop. </li>
 		<ul>
 			<li>
 <b>Raffles Student Care Centre</b>  
-Contact Person: Nur Hidayah Ariffin<br>  Contact Number: 8409 7083<br>  Email: [hidayahariffin@rafflesstudentcare.com](mailto:hidayahariffin@rafflesstudentcare.com)
+Contact Person: Nur Hidayah Ariffin<br>  Contact Number: 8409 7083<br> 
 
+<p>Email: <a href="mailto:hidayahariffin@rafflesstudentcare.com">hidayahariffin@rafflesstudentcare.com</a></p>
+<br>
 <b>Student Care Centre Registration</b>
-
-[Introductory Letter to Incoming P1 Parents  by Raffles Student Care](/files/Introductory-Letter-to-Incoming-P1-Parents-Raffles-Student-Care.pdf)
+<p><a href="/files/Introductory-Letter-to-Incoming-P1-Parents-Raffles-Student-Care.pdf">Introductory Letter to Incoming P1 Parents  by Raffles Student Care</a>
 <br>
-[Letter to P1(2018) Parents on SCC](/files/Letter-to-P12018-Parents-on-SCC.pdf)
+<a href="/files/Letter-to-P12018-Parents-on-SCC.pdf">Letter to P1(2018) Parents on SCC</a>
 <br>
-[Registration Form - Student Care Centre at Riverside Pri](/files/Registration-Form-Student-Care-Centre-at-Riverside-Pri.pdf)</li>
+<a href="/files/Registration-Form-Student-Care-Centre-at-Riverside-Pri.pdf">Registration Form - Student Care Centre at Riverside Pri</a></p>
+</li>
 			</ul>
 		</div>
 	</li>
