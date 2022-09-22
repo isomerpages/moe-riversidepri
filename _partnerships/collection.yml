@@ -2,6 +2,7 @@ collections:
   partnerships:
     output: true
     order:
+      - About Us/General Information.md
       - About Us/.keep
       - Parent Support Group.md
       - Parent Volunteer Scheme.md
