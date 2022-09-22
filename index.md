@@ -15,9 +15,6 @@ sections:
         - title: Highlight B
           description: Important highlight B is equally important
           url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
   - infobar:
       title: Get to know more about us!
       subtitle: virtual open house
@@ -37,4 +34,5 @@ sections:
   - resources:
       title: ANNOUNCEMENTS
       button: View all news here
+      subtitle: keep updated
 ---
