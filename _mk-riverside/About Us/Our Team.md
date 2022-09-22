@@ -34,6 +34,7 @@ yvonne_lee_shui_lian@moe.edu.sg
 	/>
 <br>
 
+# English Language Team
 
 MS FELINE
 ---------
@@ -187,11 +188,11 @@ MS EZZA
 -------
 
 EL Teacher  
-nur\_zatul\_ezza\_zainal@moe.edu.sg
+nur_zatul_ezza_zainal@moe.edu.sg
 
 
 <br>
-<img src="/images/Ms_Dayana.jpg" 
+<img src="/images/Ms_Dayana.jpeg" 
          style="width:400px"
 	/>
 <br>
@@ -203,28 +204,28 @@ Ms Dayana
 EL Teacher  
 nur_dayana_azhar@moe.edu.sg
 
+# Mother Tongue Language Team
+
 <br>
-<img src="/images/cce1.jpg" 
+<img src="/images/Ju_Laoshi.jpg" 
          style="width:400px"
 	/>
 <br>
 
-  
-![](https://riversidepri.moe.edu.sg/wp-content/uploads/2021/08/Ju_Laoshi.jpg)
 
 JU LAOSHI
 ---------
 
 Chinese Language Teacher  
 (CL Senior Teacher)  
-ju\_shiying@moe.edu.sg
+ju_shiying@moe.edu.sg
+
+
 <br>
-<img src="/images/cce1.jpg" 
+<img src="/images/Xiao_Laoshi.jpg" 
          style="width:400px"
 	/>
 <br>
-
-![](https://riversidepri.moe.edu.sg/wp-content/uploads/2021/08/Xiao_Laoshi.jpg)
 
 XIAO LAOSHI
 -----------
