@@ -31,12 +31,33 @@ Each MK customises learning activities, teaching resources and approaches, and c
 <p style="color:red">8am to 12noon<br>
 <p>MK Afternoon Session</p>
 <p style="color:red">1pm to 5pm</p>
-	</ul>
+<br><img src="/images/MK_Timetable_K1.jpg" 
+         style="width:600px"
+	/>
+<br>
+<img src="/images/MK_Timetable_K2.jpg" 
+         style="width:600px"
+	/>
+<br></ul>
 		</div>
 		
-		<li>
+<li>
     <input type="checkbox" id="accordion2">
-		<label for="accordion2"><h5 style="color:blue">Full_Day Kindergaten Care Service</h5></label>
+		<label for="accordion2"><h5 style="color:blue">Full-Day Kindergaten Care Service</h5></label>
 
     <div>
 			<ul>
+<p>MOE Kindergarten offers a 4-hour programme.</p>
+<p>Parents who require a full-day service for their children can opt for <strong>Kindergarten Care (KCare)</strong> which is provided by <strong>Raffles Kindergarten Care</strong> and based on MOE guidelines.</p>
+<p><strong>KCare</strong> provides the time and space for children to play, explore and discover in a specially designed environment with carefully chosen resources. Your child will have a variety of play experiences and exposure to different areas of interest.:</p>
+<p>Overview of Full Day Service Routines.</p>
+<p>K1 and K2 children who attend<br><strong>MOE Kindergarten (MK) AM session</strong></p>
+<p style="color:red">7am - 8am (KCare)</p>
+<p><strong>8am - 12pm (MK)</strong></p>
+<p style="color:red">12pm - 7pm (KCare)</p>
+<p>K1 and K2 children who attend<br><strong>MOE Kindergarten (MK) PM session</strong></p>
+<p style="color:red">7am - 1pm (KCare)</p>
+<p><strong>1pm - 5pm (MK)</strong></p>
+<p style="color:red">5pm - 7pm (KCare)</p>
+<p>Kindergarten Care operates from 7am – 7pm on Mondays to Fridays, including school holidays. The Kindergarten Care centres close for up to 6 days each year, in addition to gazetted public holidays.</p>
+<p><em>Parents/guardians are strongly advised to avoid the ‘black-out period’ (<strong><strong>between 7.45 – 8.15am and 4.45 – 5.15pm</strong></strong>) for drop-off/pick-up at KCare.</em></p>
