@@ -2,6 +2,7 @@ collections:
   mk-riverside:
     output: true
     order:
+      - About Us/General Information.md
       - About Us/.keep
       - Curriculum/Our Curriculum Approach.md
       - Curriculum/Hi Light.md
