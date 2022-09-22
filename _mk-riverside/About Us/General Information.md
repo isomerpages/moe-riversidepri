@@ -53,11 +53,13 @@ Each MK customises learning activities, teaching resources and approaches, and c
 <p>Overview of Full Day Service Routines.</p>
 <p>K1 and K2 children who attend<br><strong>MOE Kindergarten (MK) AM session</strong></p>
 <p style="color:red">7am - 8am (KCare)</p>
-<p><strong>8am - 12pm (MK)</strong></p>
+<strong style="color:red">8am - 12pm (MK)</strong>
 <p style="color:red">12pm - 7pm (KCare)</p>
 <p>K1 and K2 children who attend<br><strong>MOE Kindergarten (MK) PM session</strong></p>
 <p style="color:red">7am - 1pm (KCare)</p>
-<p><strong>1pm - 5pm (MK)</strong></p>
+<strong style="color:red">1pm - 5pm (MK)</strong>
 <p style="color:red">5pm - 7pm (KCare)</p>
-<p>Kindergarten Care operates from 7am – 7pm on Mondays to Fridays, including school holidays. The Kindergarten Care centres close for up to 6 days each year, in addition to gazetted public holidays.</p>
+<p>Kindergarten Care operates from 7am – 7pm on Mondays to Fridays, including school holidays. The Kindergarten Care centres close for up to 6 days each year, in addition to gazetted public holidays.</p><br>
+				
+			
 <p><em>Parents/guardians are strongly advised to avoid the ‘black-out period’ (<strong><strong>between 7.45 – 8.15am and 4.45 – 5.15pm</strong></strong>) for drop-off/pick-up at KCare.</em></p>
