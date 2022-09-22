@@ -12,7 +12,7 @@ description: ""
 
 The river with its life-giving characteristics and continuous flow provides the inspiration for the school logo.
 
-The flow of the river is depicted by the three blue lines. The first blue line represents the school’s _**P**_urpose in terms of its philosophy and directions, approaches, environment and culture. The second blue line represents the school’s _**P**_eople including the school leaders, teachers, school staff, parents and community partners who synergistically come together as one to provide a high quality of education for pupils. The third blue line represents the school’s _**P**_rogrammes and Pedagogies which enable pupils’ holistic development. The colour blue is chosen as it is associated with stability and depth as well as confidence and intelligence.
+The flow of the river is depicted by the three blue lines. The first blue line represents the school’s **P**urpose in terms of its philosophy and directions, approaches, environment and culture. The second blue line represents the school’s **P**eople including the school leaders, teachers, school staff, parents and community partners who synergistically come together as one to provide a high quality of education for pupils. The third blue line represents the school’s **P**rogrammes and Pedagogies which enable pupils’ holistic development. The colour blue is chosen as it is associated with stability and depth as well as confidence and intelligence.
 
 Emerging from the flow of the river water is a rising star which symbolizes our pupils soaring from the care and nourishment provided by the school, constant flow of learning and quest for knowledge and excellence to achieve their aspirations.
 
