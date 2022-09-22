@@ -12,10 +12,10 @@ description: ""
 	<li><b>Pacific Bookstores Pte Ltd</b><br>
 Contact Person: Ms. Huang Xiulan<br>  
 Contact Number: 9048 2301 (Mobile)<br>  
-Email: rsps@pacificbookstores.com
-
-[2022 P1 Booklist](/files/2022_P1_Booklist.pdf)<br>
-[2022 P2 Booklist](/files/2022_P2_Booklist.pdf)<br>[2022 P3 Booklist](/files/2022_P3_Booklist.pdf)<br>[2022 P4 Booklist](/files/2022_P4_Booklist.pdf)<br>[2022 P5 Booklist](/files/2022_P5_Booklist.pdf)<br>[2022 P5 FDN Booklist](/files/2022_P5_FDN_Booklist.pdf)<br>[2022 P6 Booklist](/files/2022_P6_Booklist.pdf)<br>[2022 P6 FDN Booklist](/files/2022_P6_FDN_Booklist.pdf)</li>
+Email: <a href="mailto:rsps@pacificbookstores.com">rsps@pacificbookstores.com</a></p><br>
+<p><a href="/files/2022_P1_Booklist.pdf">2022 P1 Booklist</a><br>
+<a href="/files/2022_P2_Booklist.pdf">2022 P2 Booklist</a><br><a href="/files/2022_P3_Booklist.pdf">2022 P3 Booklist</a><br><a href="/files/2022_P4_Booklist.pdf">2022 P4 Booklist</a><br><a href="/files/2022_P5_Booklist.pdf">2022 P5 Booklist</a><br><a href="/files/2022_P5_FDN_Booklist.pdf">2022 P5 FDN Booklist</a><br><a href="/files/2022_P6_Booklist.pdf">2022 P6 Booklist</a><br><a href="/files/2022_P6_FDN_Booklist.pdf">2022 P6 FDN Booklist</a></p>
+</li>
 			</ul>
 		</div>
 		</li>
@@ -25,13 +25,19 @@ Email: rsps@pacificbookstores.com
 				<label for="accordion2"><h5 style="color:RoyalBlue">Bus Vendor</h5></label>
 	<div>
 		<ul>
-			<li> **Chang Chen Pte Ltd**  
-Contact Person: Mr Grif Lim  
-Contact Number: 6760 4835  
-Email Add: griflim@hotmail.com
-
-[Request for school bus service form](/files/Request_for_School_Bus_Services.pdf)
-</li>
+			<li> 
+<p><strong>Chang Chen Pte Ltd</strong>
+<br>
+	
+Contact Person: Mr Grif Lim
+<br>
+	
+Contact Number: 6760 4835
+<br>
+	
+Email Add: <a href="mailto:griflim@hotmail.com">griflim@hotmail.com</a></p><br>
+							
+<p><a href="/files/Request_for_School_Bus_Services.pdf">Request for school bus service form</a></p></li>
 			</ul>
 		</div>
 		
@@ -44,7 +50,9 @@ Email Add: griflim@hotmail.com
 Contact Number: 9029 5135<br>  
 <p>Email: <a href="mailto:finestfashioncentre@gmail.com">finestfashioncentre@gmail.com</a></p>
 <br>
+				
 Address: 144 Upper Bukit Timah Rd, B1-03, Singapore 588177<br>
+				
 				
 Uniforms are now available for sale through School Bookshop. </li>
 			</ul>
