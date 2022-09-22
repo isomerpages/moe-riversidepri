@@ -231,108 +231,111 @@ XIAO LAOSHI
 -----------
 
 Chinese Language Teacher  
-xiao\_yang@moe.edu.sg
+xiao_yang@moe.edu.sg
+
+
 <br>
-<img src="/images/cce1.jpg" 
+<img src="/images/Lu_Laoshi.jpg" 
          style="width:400px"
 	/>
 <br>
 
-![](https://riversidepri.moe.edu.sg/wp-content/uploads/2021/08/Lu_Laoshi.jpg)
 
 LU LAOSHI
 ---------
 
 Chinese Language Teacher  
-lu\_xiufang@moe.edu.sg
+lu_xiufang@moe.edu.sg
+
+
 <br>
-<img src="/images/cce1.jpg" 
+<img src="/images/Zhou_Rui_Laoshi.jpg" 
          style="width:400px"
 	/>
 <br>
 
-![](https://riversidepri.moe.edu.sg/wp-content/uploads/2021/08/Zhou_Rui_Laoshi.jpg)
 
 ZHOU RUI LAOSHI
 ---------------
 
 Chinese Language Teacher  
-zhou\_rui@moe.edu.sg
+zhou_rui@moe.edu.sg
 <br>
-<img src="/images/cce1.jpg" 
+<img src="/images/Chen_Laoshi.jpg" 
          style="width:400px"
 	/>
 <br>
 
-![](https://riversidepri.moe.edu.sg/wp-content/uploads/2021/08/Chen_Laoshi.jpg)
 
 CHEN LAOSHI
 -----------
 
 Chinese Language Teacher  
-chen\_jin@moe.edu.sg
+chen_jin@moe.edu.sg
+
+
 <br>
-<img src="/images/cce1.jpg" 
+<img src="/images/Zhou_Laoshi.jpg" 
          style="width:400px"
 	/>
 <br>
 
-![](https://riversidepri.moe.edu.sg/wp-content/uploads/2021/08/Zhou_Laoshi.jpg)
 
 ZHOU LAOSHI
 -----------
 
 Chinese Language Teacher  
-zhou\_fengjie@moe.edu.sg
+zhou_fengjie@moe.edu.sg
+
+
 <br>
-<img src="/images/cce1.jpg" 
+<img src="/images/Cikgu_Izyan.jpg" 
          style="width:400px"
 	/>
 <br>
 
-![](https://riversidepri.moe.edu.sg/wp-content/uploads/2021/08/Cikgu_Izyan.jpg)
 
 CIKGU IZYAN
 -----------
 
 Malay Language Teacher  
-izyan\_farhanah\_sahar@moe.edu.sg
+izyan_farhanah_sahar@moe.edu.sg
 <br>
-<img src="/images/cce1.jpg" 
+<img src="/images/Cikgu_Diana.jpg" 
          style="width:400px"
 	/>
 <br>
-
-![](https://riversidepri.moe.edu.sg/wp-content/uploads/2021/08/Cikgu_Diana.jpg)
 
 CIKGU DIANA
 -----------
 
 Malay Language Teacher  
-nurdiana\_hamza@moe.edu.sg
+nurdiana_hamza@moe.edu.sg
+
+
 <br>
-<img src="/images/cce1.jpg" 
+<img src="/images/Cikgu_Rinah.jpg" 
          style="width:400px"
 	/>
 <br>
 
-![](https://riversidepri.moe.edu.sg/wp-content/uploads/2021/08/Cikgu_Rinah.jpg)
 
 CIKGU RINAH
 -----------
 
 Malay Language Teacher  
-nur\_rinah\_bohari@moe.edu.sg
+nur_rinah_bohari@moe.edu.sg
+
+
 <br>
-<img src="/images/cce1.jpg" 
+<img src="/images/Aasiriye_Dhana.jpg" 
          style="width:400px"
 	/>
 <br>
 
-![](https://riversidepri.moe.edu.sg/wp-content/uploads/2021/08/Aasiriye_Dhana.jpg)
 
 AASIRIYE DHANA
 --------------
 
 Tamil Language Teacher  
-subramanian\_dhanalatchmi@moe.edu.sg
+subramanian_dhanalatchmi@moe.edu.sg
