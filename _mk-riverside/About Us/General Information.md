@@ -59,6 +59,7 @@ Each MK customises learning activities, teaching resources and approaches, and c
 <p style="color:red">7am - 1pm (KCare)</p>
 <strong style="color:red">1pm - 5pm (MK)</strong>
 <p style="color:red">5pm - 7pm (KCare)</p>
+				<br>
 <p>Kindergarten Care operates from 7am – 7pm on Mondays to Fridays, including school holidays. The Kindergarten Care centres close for up to 6 days each year, in addition to gazetted public holidays.</p><br>
 				
 			
