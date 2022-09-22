@@ -27,7 +27,10 @@ Each MK customises learning activities, teaching resources and approaches, and c
 	<div>
 			<ul>
 				
-<p>
+<p>MK Morning Session</p>
+<p style="color:red">8am to 12noon<br>
+<p>MK Afternoon Session</p>
+<p style="color:red">1pm to 5pm</p>
 	</ul>
 		</div>
 		
@@ -37,5 +40,3 @@ Each MK customises learning activities, teaching resources and approaches, and c
 
     <div>
 			<ul>
-				
-
