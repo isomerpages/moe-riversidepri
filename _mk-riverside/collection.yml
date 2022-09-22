@@ -2,6 +2,7 @@ collections:
   mk-riverside:
     output: true
     order:
+      - About Us/Uniform Matters.md
       - About Us/Contact Us.md
       - About Us/Our Vision Mission And Values.md
       - About Us/General Information.md
