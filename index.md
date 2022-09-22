@@ -35,4 +35,6 @@ sections:
       title: ANNOUNCEMENTS
       button: View all news here
       subtitle: keep updated
+  - infobar:
+      title: Find us on Facebook!
 ---
