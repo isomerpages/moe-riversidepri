@@ -25,8 +25,6 @@ Each MK customises learning activities, teaching resources and approaches, and c
     <input type="checkbox" id="accordion1">
 		<label for="accordion1"><h5 style="color:blue">Timetable</h5></label>
 	<div>
-			<ul>
-				
 <p>MK Morning Session</p>
 <p style="color:red">8am to 12noon<br>
 <p>MK Afternoon Session</p>
@@ -38,15 +36,13 @@ Each MK customises learning activities, teaching resources and approaches, and c
 <img src="/images/MK_Timetable_K2.jpg" 
          style="width:600px"
 	/>
-<br></ul>
-		</div>
-		
+<br></div>
+		</li>
+
 <li>
     <input type="checkbox" id="accordion2">
 		<label for="accordion2"><h5 style="color:blue">Full-Day Kindergaten Care Service</h5></label>
-
     <div>
-			<ul>
 <p>MOE Kindergarten offers a 4-hour programme.</p>
 <p>Parents who require a full-day service for their children can opt for <strong>Kindergarten Care (KCare)</strong> which is provided by <strong>Raffles Kindergarten Care</strong> and based on MOE guidelines.</p>
 <p><strong>KCare</strong> provides the time and space for children to play, explore and discover in a specially designed environment with carefully chosen resources. Your child will have a variety of play experiences and exposure to different areas of interest.:</p>
@@ -66,4 +62,3 @@ Each MK customises learning activities, teaching resources and approaches, and c
 <p><em>Parents/guardians are strongly advised to avoid the ‘black-out period’ (<strong><strong>between 7.45 – 8.15am and 4.45 – 5.15pm</strong></strong>) for drop-off/pick-up at KCare.</em></p></ul>
 		</div>
 	</li>
-	
