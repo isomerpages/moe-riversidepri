@@ -25,6 +25,8 @@ Each MK customises learning activities, teaching resources and approaches, and c
     <input type="checkbox" id="accordion1">
 		<label for="accordion1"><h5 style="color:blue">Timetable</h5></label>
 	<div>
+		<ul>
+			<li>
 <p>MK Morning Session</p>
 <p style="color:red">8am to 12noon<br>
 <p>MK Afternoon Session</p>
@@ -36,8 +38,9 @@ Each MK customises learning activities, teaching resources and approaches, and c
 <img src="/images/MK_Timetable_K2.jpg" 
          style="width:600px"
 	/>
-<br></div>
-		</li>
+<br> </li>
+			</ul>
+	</div>
 
 <li>
     <input type="checkbox" id="accordion2">
@@ -59,6 +62,7 @@ Each MK customises learning activities, teaching resources and approaches, and c
 <p>Kindergarten Care operates from 7am – 7pm on Mondays to Fridays, including school holidays. The Kindergarten Care centres close for up to 6 days each year, in addition to gazetted public holidays.</p><br>
 				
 			
-<p><em>Parents/guardians are strongly advised to avoid the ‘black-out period’ (<strong><strong>between 7.45 – 8.15am and 4.45 – 5.15pm</strong></strong>) for drop-off/pick-up at KCare.</em></p></ul>
-		</div>
-	</li>
+<p><em>Parents/guardians are strongly advised to avoid the ‘black-out period’ (<strong><strong>between 7.45 – 8.15am and 4.45 – 5.15pm</strong></strong>) for drop-off/pick-up at KCare.</em></p> </li>
+			</ul>
+			</div>
+		</li>
