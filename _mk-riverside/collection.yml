@@ -2,14 +2,14 @@ collections:
   mk-riverside:
     output: true
     order:
+      - About Us/.keep
+      - About Us/General Information.md
+      - About Us/Our Vision Mission And Values.md
       - About Us/Our Team.md
       - About Us/Our Learning Environment.md
       - About Us/Our Fees.md
       - About Us/Uniform Matters.md
       - About Us/Contact Us.md
-      - About Us/Our Vision Mission And Values.md
-      - About Us/General Information.md
-      - About Us/.keep
       - Curriculum/Our Curriculum Approach.md
       - Curriculum/Hi Light.md
       - Curriculum/Starlight Literacy Programme.md
