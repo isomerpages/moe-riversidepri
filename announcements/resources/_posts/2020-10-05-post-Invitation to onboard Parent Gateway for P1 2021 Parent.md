@@ -5,3 +5,4 @@ date: 2020-10-05
 layout: post
 description: ""
 ---
+Please click **[here](/files/Invitation-to-onboard-Parent-Gateway.pdf)** for Parent Gateway letter.
