@@ -14,7 +14,7 @@ MS DOROTHY
 ----------
 
 Centre Head<br>
-sek_foong_san_dorothy@moe.edu.sg
+<p>< a href="mailto:sek_foong_san_dorothy@moe.edu.sg>sek_foong_san_dorothy@moe.edu.sg
 
 <br>
 <img src="/images/Ms_Yvonne.jpeg" 
