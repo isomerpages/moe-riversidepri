@@ -46,32 +46,32 @@ third_nav_title: Curriculum
 <br>
 
 <br>
-<img src="/images/group-potrait-1.jpg" align="left" style="width:50%;">
-<img src="/images/group-potrait-4.jpg" align="right" style="width:50%;">
+<img src="/images/Starlight_Tamil01.jpg" align="left" style="width:50%;">
+<img src="/images/Starlight_Tamil02.jpg" align="right" style="width:50%;">
 <br>
-<img src="/images/group-potrait-1.jpg" align="left" style="width:50%;">
-<img src="/images/group-potrait-4.jpg" align="right" style="width:50%;">
+<img src="/images/Starlight_Tamil03.jpg" align="left" style="width:50%;">
+<img src="/images/Starlight_Tamil04.jpg" align="right" style="width:50%;">
 <br>
-<img src="/images/group-potrait-1.jpg" align="left" style="width:50%;">
-<img src="/images/group-potrait-4.jpg" align="right" style="width:50%;">
+<img src="/images/Starlight_Tamil05.jpg" align="left" style="width:50%;">
+<img src="/images/Starlight_Tamil06.jpg" align="right" style="width:50%;">
 <br>
-<img src="/images/group-potrait-1.jpg" align="left" style="width:50%;">
-<img src="/images/group-potrait-4.jpg" align="right" style="width:50%;">
+
+<img src="/images/Starlight_Chinese01.jpg" align="left" style="width:50%;">
+<img src="/images/Starlight_Chinese02.jpg" align="right" style="width:50%;">
 <br>
-<img src="/images/group-potrait-1.jpg" align="left" style="width:50%;">
-<img src="/images/group-potrait-4.jpg" align="right" style="width:50%;">
+<img src="/images/Starlight_Chinese03.jpg" align="left" style="width:50%;">
+<img src="/images/Starlight_Chinese04.jpg" align="right" style="width:50%;">
 <br>
-<img src="/images/group-potrait-1.jpg" align="left" style="width:50%;">
-<img src="/images/group-potrait-4.jpg" align="right" style="width:50%;">
+<img src="/images/Starlight_Chinese05.jpg" align="left" style="width:50%;">
+<img src="/images/Starlight_Chinese06.jpg" align="right" style="width:50%;">
 <br>
-<img src="/images/group-potrait-1.jpg" align="left" style="width:50%;">
-<img src="/images/group-potrait-4.jpg" align="right" style="width:50%;">
+<img src="/images/Starlight_Chinese07.jpg" align="left" style="width:50%;">
+<img src="/images/Starlight_Malay01.jpg" align="right" style="width:50%;">
 <br>
-<img src="/images/group-potrait-1.jpg" align="left" style="width:50%;">
-<img src="/images/group-potrait-4.jpg" align="right" style="width:50%;">
+<img src="/images/Starlight_Malay02.jpg" align="left" style="width:50%;">
+<img src="/images/Starlight_Malay03.jpg" align="right" style="width:50%;">
 <br>
-<img src="/images/group-potrait-1.jpg" align="left" style="width:50%;">
-<img src="/images/group-potrait-4.jpg" align="right" style="width:50%;">
+<img src="/images/Starlight_Malay04.jpg" align="left" style="width:50%;">
+<img src="/images/Starlight_Malay05.jpg" align="right" style="width:50%;">
 <br>
-<img src="/images/group-potrait-1.jpg" align="left" style="width:50%;">
-<img src="/images/group-potrait-4.jpg" align="right" style="width:50%;">
+<img src="/images/Starlight_Malay06.jpg" align="left" style="width:220px" />
