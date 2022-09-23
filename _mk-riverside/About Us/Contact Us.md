@@ -9,11 +9,11 @@ third_nav_title: About Us
 
 **phone:** 6362 7223 (during office hours)
 
-**email:** mk\_riverside@moe.edu.sg
+**email:** <a href="mailto:mk_riverside@moe.edu.sg">mk_riverside@moe.edu.sg</a>
 
-**For** **KCare****\-Related Matters**
+**For KCare-Related Matters**
 --------------------------------------
 
 **phone:** 87748156
 
-**email:** KCRS@rafflesstudentcare.com
+**email:** <a href="mailto:KCRS@rafflesstudentcare.com">KCRS@rafflesstudentcare.com</a>
