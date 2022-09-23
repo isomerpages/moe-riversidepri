@@ -14,7 +14,7 @@ MS DOROTHY
 ----------
 
 Centre Head<br>
-<p>< a href="mailto:sek_foong_san_dorothy@moe.edu.sg>sek_foong_san_dorothy@moe.edu.sg
+<p><a href="mailto:sek_foong_san_dorothy@moe.edu.sg">sek_foong_san_dorothy@moe.edu.sg</a></p>
 
 <br>
 <img src="/images/Ms_Yvonne.jpeg" 
@@ -25,8 +25,8 @@ Centre Head<br>
 MS YVONNE
 ---------
 
-Deputy Centre Head  
-yvonne_lee_shui_lian@moe.edu.sg
+Deputy Centre Head<br>
+<a href="mailto:yvonne_lee_shui_lian@moe.edu.sg">yvonne_lee_shui_lian@moe.edu.sg</a></p>
 
 <br>
 <img src="/images/Ms_Feline.jpg" 
@@ -39,8 +39,8 @@ yvonne_lee_shui_lian@moe.edu.sg
 MS FELINE
 ---------
 
-EL Teacher  
-yeo_hui_zhen@moe.edu.sg
+EL Teacher<br>
+<a href="mailto:yeo_hui_zhen@moe.edu.sg">yeo_hui_zhen@moe.edu.sg</a></p>
 
 
 <br>
@@ -53,8 +53,8 @@ yeo_hui_zhen@moe.edu.sg
 MS HANAH
 --------
 
-EL Teacher  
-farhanah_sayuti@moe.edu.sg
+EL Teacher<br>
+<a href="mailto:farhanah_sayuti@moe.edu.sg">farhanah_sayuti@moe.edu.sg</a></p>
 
 <br>
 <img src="/images/Ms_Eulindra.jpeg" 
@@ -66,8 +66,8 @@ farhanah_sayuti@moe.edu.sg
 MS EULINDRA
 -----------
 
-EL Teacher  
-soo_thoo_kai_jia@moe.edu.sg
+EL Teacher<br>
+<a href="mailto:soo_thoo_kai_jia@moe.edu.sg">soo_thoo_kai_jia@moe.edu.sg</a></p>
 
 <br>
 <img src="/images/Ms_Syafiqah.jpg" 
@@ -79,8 +79,8 @@ soo_thoo_kai_jia@moe.edu.sg
 MS SYAFIQAH
 -----------
 
-EL Teacher  
-nurul_syafiqah_mohd_isham@moe.edu.sg
+EL Teacher<br>
+<a href="mailto:nurul_syafiqah_mohd_isham@moe.edu.sg">nurul_syafiqah_mohd_isham@moe.edu.sg</a></p>
 
 <br>
 <img src="/images/Ms_Divya.jpg" 
@@ -92,8 +92,8 @@ nurul_syafiqah_mohd_isham@moe.edu.sg
 MS DIVYA
 --------
 
-EL Teacher  
-k_divyasree@moe.edu.sg
+EL Teacher<br>
+<a href="mailto:k_divyasree@moe.edu.sg">k_divyasree@moe.edu.sg</a></p>
 
 <br>
 <img src="/images/Ms_Shan_Shan.jpg" 
@@ -105,8 +105,8 @@ k_divyasree@moe.edu.sg
 MS SHAN SHAN
 ------------
 
-EL Teacher  
-lee_shan_shan_a@moe.edu.sg
+EL Teacher<br>
+<a href="mailto:lee_shan_shan_a@moe.edu.sg">lee_shan_shan_a@moe.edu.sg</a></p>
 
 <br>
 <img src="/images/Ms_Suria.jpg" 
@@ -118,8 +118,8 @@ lee_shan_shan_a@moe.edu.sg
 MS SURIA
 --------
 
-EL Teacher  
-suria_athierah_shahroom_noor@moe.edu.sg
+EL Teacher<br>
+<a href="mailto:suria_athierah_shahroom_noor@moe.edu.sg">suria_athierah_shahroom_noor@moe.edu.sg</a></p>
 
 <br>
 <img src="/images/Ms_Syafinas.jpg" 
@@ -131,8 +131,8 @@ suria_athierah_shahroom_noor@moe.edu.sg
 MS SHAFINAS
 -----------
 
-EL Teacher _(EL Senior Teacher)_  
-nurshafinas_bte_abdul_rasid@moe.edu.sg
+EL Teacher _(EL Senior Teacher)_<br>
+<a href="mailto:nurshafinas_bte_abdul_rasid@moe.edu.sg">nurshafinas_bte_abdul_rasid@moe.edu.sg</a></p>
 
 
 <br>
@@ -145,8 +145,8 @@ nurshafinas_bte_abdul_rasid@moe.edu.sg
 MS ANA
 ------
 
-EL Teacher  
-farhana_mohd_ali@moe.edu.sg
+EL Teacher<br>
+<a href="mailto:farhana_mohd_ali@moe.edu.sg">farhana_mohd_ali@moe.edu.sg</a></p>
 
 
 <br>
@@ -159,8 +159,8 @@ farhana_mohd_ali@moe.edu.sg
 MS RIYAH
 --------
 
-EL Teacher  
-nur_khairiyah@moe.edu.sg
+EL Teacher<br>
+<a href="mailto:nur_khairiyah@moe.edu.sg">nur_khairiyah@moe.edu.sg</a></p>
 
 
 <br>
@@ -173,8 +173,8 @@ nur_khairiyah@moe.edu.sg
 MS YASMIN
 ---------
 
-EL Teacher  
-nurul_yasmin_yazid@moe.edu.sg
+EL Teacher<br>
+<a href="mailto:nurul_yasmin_yazid@moe.edu.sg">nurul_yasmin_yazid@moe.edu.sg</a></p>
 
 
 <br>
@@ -187,8 +187,8 @@ nurul_yasmin_yazid@moe.edu.sg
 MS EZZA
 -------
 
-EL Teacher  
-nur_zatul_ezza_zainal@moe.edu.sg
+EL Teacher<br>
+<a href="mailto:nur_zatul_ezza_zainal@moe.edu.sg">nur_zatul_ezza_zainal@moe.edu.sg</a></p>
 
 
 <br>
@@ -201,8 +201,9 @@ nur_zatul_ezza_zainal@moe.edu.sg
 Ms Dayana
 ---------
 
-EL Teacher  
-nur_dayana_azhar@moe.edu.sg
+EL Teacher<br>
+<a href="mailto:nur_dayana_azhar@moe.edu.sg">nur_dayana_azhar@moe.edu.sg</a>
+
 
 # Mother Tongue Language Team
 
@@ -217,8 +218,8 @@ JU LAOSHI
 ---------
 
 Chinese Language Teacher  
-(CL Senior Teacher)  
-ju_shiying@moe.edu.sg
+(CL Senior Teacher)<br>
+<a href="mailto:ju_shiying@moe.edu.sg">ju_shiying@moe.edu.sg</a>
 
 
 <br>
@@ -230,8 +231,9 @@ ju_shiying@moe.edu.sg
 XIAO LAOSHI
 -----------
 
-Chinese Language Teacher  
-xiao_yang@moe.edu.sg
+Chinese Language Teacher<br>
+<a href="mailto:xiao_yang@moe.edu.sg">xiao_yang@moe.edu.sg</a>
+
 
 
 <br>
@@ -244,8 +246,8 @@ xiao_yang@moe.edu.sg
 LU LAOSHI
 ---------
 
-Chinese Language Teacher  
-lu_xiufang@moe.edu.sg
+Chinese Language Teacher<br>
+<a href="mailto:lu_xiufang@moe.edu.sg">lu_xiufang@moe.edu.sg</a>
 
 
 <br>
@@ -258,8 +260,9 @@ lu_xiufang@moe.edu.sg
 ZHOU RUI LAOSHI
 ---------------
 
-Chinese Language Teacher  
-zhou_rui@moe.edu.sg
+Chinese Language Teacher<br>
+<a href="mailto:zhou_rui@moe.edu.sg">zhou_rui@moe.edu.sg</a>
+	 
 <br>
 <img src="/images/Chen_Laoshi.jpg" 
          style="width:400px"
@@ -270,8 +273,8 @@ zhou_rui@moe.edu.sg
 CHEN LAOSHI
 -----------
 
-Chinese Language Teacher  
-chen_jin@moe.edu.sg
+Chinese Language Teacher<br>
+<a href="mailto:chen_jin@moe.edu.sg">chen_jin@moe.edu.sg</a>
 
 
 <br>
@@ -284,8 +287,8 @@ chen_jin@moe.edu.sg
 ZHOU LAOSHI
 -----------
 
-Chinese Language Teacher  
-zhou_fengjie@moe.edu.sg
+Chinese Language Teacher<br>
+<a href="mailto:zhou_fengjie@moe.edu.sg">zhou_fengjie@moe.edu.sg</a>
 
 
 <br>
@@ -298,8 +301,9 @@ zhou_fengjie@moe.edu.sg
 CIKGU IZYAN
 -----------
 
-Malay Language Teacher  
-izyan_farhanah_sahar@moe.edu.sg
+Malay Language Teacher<br>
+<a href="mailto:izyan_farhanah_sahar@moe.edu.sg">izyan_farhanah_sahar@moe.edu.sg</a>
+
 <br>
 <img src="/images/Cikgu_Diana.jpg" 
          style="width:400px"
@@ -309,8 +313,8 @@ izyan_farhanah_sahar@moe.edu.sg
 CIKGU DIANA
 -----------
 
-Malay Language Teacher  
-nurdiana_hamza@moe.edu.sg
+Malay Language Teacher<br>
+<a href="mailto:nurdiana_hamza@moe.edu.sg">nurdiana_hamza@moe.edu.sg</a>
 
 
 <br>
@@ -323,8 +327,8 @@ nurdiana_hamza@moe.edu.sg
 CIKGU RINAH
 -----------
 
-Malay Language Teacher  
-nur_rinah_bohari@moe.edu.sg
+Malay Language Teacher<br>
+<a href="mailto:nur_rinah_bohari@moe.edu.sg">nur_rinah_bohari@moe.edu.sg</a>
 
 
 <br>
@@ -337,5 +341,5 @@ nur_rinah_bohari@moe.edu.sg
 AASIRIYE DHANA
 --------------
 
-Tamil Language Teacher  
-subramanian_dhanalatchmi@moe.edu.sg
+Tamil Language Teacher<br>
+<a href="mailto:subramanian_dhanalatchmi@moe.edu.sg">subramanian_dhanalatchmi@moe.edu.sg</a>
