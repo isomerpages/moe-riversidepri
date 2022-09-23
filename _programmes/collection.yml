@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Academic/.keep
       - Non Academic/Values Education.md
       - Non Academic/The House System.md
       - Non Academic/Values in Action.md
