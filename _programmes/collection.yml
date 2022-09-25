@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Academic/Social Studies.md
       - Academic/National Education.md
       - Academic/.keep
       - Non Academic/Values Education.md
