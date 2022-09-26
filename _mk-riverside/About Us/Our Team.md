@@ -26,7 +26,7 @@ MS YVONNE
 ---------
 
 Deputy Centre Head<br>
-<a href="mailto:yvonne_lee_shui_lian@moe.edu.sg">yvonne_lee_shui_lian@moe.edu.sg</a></p>
+<a href="mailto:yvonne_lee_shui_lian@moe.edu.sg">yvonne_lee_shui_lian@moe.edu.sg</a>
 
 <br>
 <img src="/images/Ms_Feline.jpg" 
@@ -40,7 +40,7 @@ MS FELINE
 ---------
 
 EL Teacher<br>
-<a href="mailto:yeo_hui_zhen@moe.edu.sg">yeo_hui_zhen@moe.edu.sg</a></p>
+<a href="mailto:yeo_hui_zhen@moe.edu.sg">yeo_hui_zhen@moe.edu.sg</a>
 
 
 <br>
@@ -54,7 +54,7 @@ MS HANAH
 --------
 
 EL Teacher<br>
-<a href="mailto:farhanah_sayuti@moe.edu.sg">farhanah_sayuti@moe.edu.sg</a></p>
+<a href="mailto:farhanah_sayuti@moe.edu.sg">farhanah_sayuti@moe.edu.sg</a>
 
 <br>
 <img src="/images/Ms_Eulindra.jpeg" 
@@ -67,7 +67,7 @@ MS EULINDRA
 -----------
 
 EL Teacher<br>
-<a href="mailto:soo_thoo_kai_jia@moe.edu.sg">soo_thoo_kai_jia@moe.edu.sg</a></p>
+<a href="mailto:soo_thoo_kai_jia@moe.edu.sg">soo_thoo_kai_jia@moe.edu.sg</a>
 
 <br>
 <img src="/images/Ms_Syafiqah.jpg" 
@@ -80,7 +80,7 @@ MS SYAFIQAH
 -----------
 
 EL Teacher<br>
-<a href="mailto:nurul_syafiqah_mohd_isham@moe.edu.sg">nurul_syafiqah_mohd_isham@moe.edu.sg</a></p>
+<a href="mailto:nurul_syafiqah_mohd_isham@moe.edu.sg">nurul_syafiqah_mohd_isham@moe.edu.sg</a>
 
 <br>
 <img src="/images/Ms_Divya.jpg" 
@@ -93,7 +93,7 @@ MS DIVYA
 --------
 
 EL Teacher<br>
-<a href="mailto:k_divyasree@moe.edu.sg">k_divyasree@moe.edu.sg</a></p>
+<a href="mailto:k_divyasree@moe.edu.sg">k_divyasree@moe.edu.sg</a>
 
 <br>
 <img src="/images/Ms_Shan_Shan.jpg" 
@@ -106,7 +106,7 @@ MS SHAN SHAN
 ------------
 
 EL Teacher<br>
-<a href="mailto:lee_shan_shan_a@moe.edu.sg">lee_shan_shan_a@moe.edu.sg</a></p>
+<a href="mailto:lee_shan_shan_a@moe.edu.sg">lee_shan_shan_a@moe.edu.sg</a>
 
 <br>
 <img src="/images/Ms_Suria.jpg" 
@@ -119,7 +119,7 @@ MS SURIA
 --------
 
 EL Teacher<br>
-<a href="mailto:suria_athierah_shahroom_noor@moe.edu.sg">suria_athierah_shahroom_noor@moe.edu.sg</a></p>
+<a href="mailto:suria_athierah_shahroom_noor@moe.edu.sg">suria_athierah_shahroom_noor@moe.edu.sg</a>
 
 <br>
 <img src="/images/Ms_Syafinas.jpg" 
@@ -132,7 +132,7 @@ MS SHAFINAS
 -----------
 
 EL Teacher _(EL Senior Teacher)_<br>
-<a href="mailto:nurshafinas_bte_abdul_rasid@moe.edu.sg">nurshafinas_bte_abdul_rasid@moe.edu.sg</a></p>
+<a href="mailto:nurshafinas_bte_abdul_rasid@moe.edu.sg">nurshafinas_bte_abdul_rasid@moe.edu.sg</a>
 
 
 <br>
@@ -146,7 +146,7 @@ MS ANA
 ------
 
 EL Teacher<br>
-<a href="mailto:farhana_mohd_ali@moe.edu.sg">farhana_mohd_ali@moe.edu.sg</a></p>
+<a href="mailto:farhana_mohd_ali@moe.edu.sg">farhana_mohd_ali@moe.edu.sg</a>
 
 
 <br>
@@ -160,7 +160,7 @@ MS RIYAH
 --------
 
 EL Teacher<br>
-<a href="mailto:nur_khairiyah@moe.edu.sg">nur_khairiyah@moe.edu.sg</a></p>
+<a href="mailto:nur_khairiyah@moe.edu.sg">nur_khairiyah@moe.edu.sg</a>
 
 
 <br>
@@ -174,7 +174,7 @@ MS YASMIN
 ---------
 
 EL Teacher<br>
-<a href="mailto:nurul_yasmin_yazid@moe.edu.sg">nurul_yasmin_yazid@moe.edu.sg</a></p>
+<a href="mailto:nurul_yasmin_yazid@moe.edu.sg">nurul_yasmin_yazid@moe.edu.sg</a>
 
 
 <br>
@@ -188,7 +188,7 @@ MS EZZA
 -------
 
 EL Teacher<br>
-<a href="mailto:nur_zatul_ezza_zainal@moe.edu.sg">nur_zatul_ezza_zainal@moe.edu.sg</a></p>
+<a href="mailto:nur_zatul_ezza_zainal@moe.edu.sg">nur_zatul_ezza_zainal@moe.edu.sg</a>
 
 
 <br>
