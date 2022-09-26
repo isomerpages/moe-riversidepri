@@ -59,7 +59,7 @@ Administration Manager
 	
 <li>
     <input type="checkbox" id="accordion3">
-    <label for="accordion3"><h5 style="color:blue">ICT Support Staff</h5>
+	<label for="accordion3"><h5 style="color:blue">ICT Support Staff</h5></label>
 		<div>
 			<ul>
 				<li>
@@ -72,4 +72,3 @@ Administration Manager
 </li>
 			</ul>
 		</div>
-</ul>
