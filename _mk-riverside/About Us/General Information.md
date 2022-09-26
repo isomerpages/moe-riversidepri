@@ -73,4 +73,3 @@ third_nav_title: About Us
 <p><em>Parents/guardians are strongly advised to avoid the ‘black-out period’ (<strong><strong>between 7.45 – 8.15am and 4.45 – 5.15pm</strong></strong>) for drop-off/pick-up at KCare.</em></p>
 	</div>
 	</li>
-	</ul>
