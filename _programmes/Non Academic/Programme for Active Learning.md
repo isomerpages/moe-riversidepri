@@ -9,7 +9,7 @@ The Programme for Active Learning (PAL) emphasizes whole-child development, prov
 The PAL modules provide opportunities for pupils to develop character and citizenship, anchored by the SPARKLE Values, Social-Emotional Competencies and 21st Century Competencies (Civic Literacy, Global Awareness and Cross-Cultural Skills; Information and Communication Skills; and Critical and Inventive Thinking).
 
 [PlayWorks: P1 LegoWorks](https://www.facebook.com/media/set/?set=a.571339216341463.1073741882.134705790004810&type=3)
-<img src="/images/PAL_Legoworks02.jpeg" 
+<img src="/images/PAL_legoworks02.jpeg" 
          style="width:400px"
 	/>
 <br>
@@ -19,7 +19,7 @@ The PAL modules provide opportunities for pupils to develop character and citize
 <br>
 
 P2 Culture Works
-<img src="/images/PAL_Culutral02.jpeg" 
+<img src="/images/PAL_Cultural02.jpeg" 
          style="width:400px"
 	/>
 <br>
