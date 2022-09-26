@@ -57,8 +57,7 @@ Through the knowledge and skills learnt in Health Education, pupils are empowere
 	/>
 					<p>Swimsafer Programme for Primary 3 pupils (before Circuit Breaker)</p>
 				</div>
-			 </ul>
-	</li>
+
 			
 <li>
     <input type="checkbox" id="accordion2">
@@ -76,8 +75,7 @@ Through the knowledge and skills learnt in Health Education, pupils are empowere
          style="width:300px"
 	/>
 					<p>Health Education lesson in session</p>
-						</div>
-			 </ul>
+			
 	</li>
 			
 <li>
@@ -137,5 +135,3 @@ Through the knowledge and skills learnt in Health Education, pupils are empowere
 	/></ul>
 	</div>
 	</li>
-	</ul>
-			
