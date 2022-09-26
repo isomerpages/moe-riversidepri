@@ -12,7 +12,9 @@ To inspire learning for Science through a culture of inquiry, exploration and in
 
 ### **Science Curriculum Framework**
 
-![](/images/Science1.png)
+<img src="/images/Science1.png" 
+         style="width:400px"/>
+
 
 Surrounding the core of the framework are the three “IN”s, inspire, inquire and innovate, which represent the vision of science education. It encapsulates the desired overall experience of our students in science education:
 
@@ -21,8 +23,8 @@ Surrounding the core of the framework are the three “IN”s, inspire, inquire 
 *   **INnovate** using Science. Students apply and experience the potential of Science to generate creative solutions to solve real-world problems, ranging from those affecting everyday lives to complex problems affecting humanity. A strong pipeline of students can contribute towards STEM research, innovation and enterprise.
 
 The outer ring represents the domains that make up the strong science fundamentals: Core Ideas, Practices, and the Values, Ethics and Attitudes.
-
-![](/images/Science3.png)
+<img src="/images/Science3.png" 
+         style="width:400px"/>
 
 *   Core Ideas (CI) of Science. To make Science learning coherent and meaningful, the Science curriculum is organised around Core Ideas (Figure 2), which are the distilled ideas central to Science. The Core Ideas help students see the coherence and conceptual links within and across the different sub-disciplines of Science
 
@@ -35,7 +37,7 @@ The design of our Science curriculum enables our pupils to view the pursuit of S
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
-		<label for="accordion1"><h5 style="color:RoyalBlue">School Leaders</h5></label>
+		<label for="accordion1"><h5 style="color:RoyalBlue">Hands on</h5></label>
 
     <div>
 <ul>
