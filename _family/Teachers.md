@@ -164,16 +164,14 @@ Mdm Aslinda Abdullah
 Co-Form Teacher  
 Email: aslinda\_abdullah@moe.edu.sg
 
-    </div>
-			</ul>
-  </li>
-		
-<input type="checkbox" id="accordion4">
-    <label for="accordion4"><h5 style="color:RoyalBlue">Primary 3 Teachers</h5>
-
-    <div>
-<ul>
-	<li>
+   </li>	
+		</div>
+	</li>
+	
+<li>
+    <input type="checkbox" id="accordion4">
+    <label for="accordion4"><h5 style="color:blue">P3 Teachers</h5></label>
+	<div>
 		
 **P3 Strength**  
 Mr Hairil Asraf  
@@ -236,18 +234,14 @@ Email: ngo\_sook\_peng@moe.edu.sg
 Mdm Gowri D/O V Vairavan  
 Co-Form Teacher  
 Email: gowri\_v\_vairavan@moe.edu.sg
-		
-</li>
-		</ul>
-    </div>
-
+</li>	
+		</div>
+	</li>
+	
+<li>
     <input type="checkbox" id="accordion5">
-    <label for="accordion5"><h5 style="color:RoyalBlue">Primary 4 Teachers</h5>
-
-    <div>
-<ul>
-	<li>
-
+    <label for="accordion5"><h5 style="color:blue">P4 Teachers</h5></label>
+	<div>
 **P4 Strength**  
 Mrs Sharon Choong  
 Form Teacher  
@@ -301,16 +295,14 @@ Email: lalithaa\_kanesan@moe.edu.sg
 Mr Seow Soon Kiat  
 Co-Form Teacher  
 Email: seow\_soon\_kiat@moe.edu.sg
+</li>	
+		</div>
 	</li>
-			</ul>
-    </div>
-
+	
+<li>
     <input type="checkbox" id="accordion6">
-    <label for="accordion6"><h5 style="color:RoyalBlue">Primary 5 Teachers</h5>
-
-    <div>
-<ul>
-	<li>
+    <label for="accordion6"><h5 style="color:blue">P5 Teachers</h5></label>
+	<div>
 		
 **P5 Strength**  
 Mrs Candice Yip  
@@ -356,26 +348,24 @@ Email: angela\_gan\_peck\_loo@moe.edu.sg
 
 Ms Chuah Yen Ming  
 Co-Form Teacher  
-Email: chuah\_yen\_ming@moe.edu.sg
+Email: chuah_yen_ming@moe.edu.sg
 
 **P5 Sincerity**  
 Mr Kanakarajh Raman  
 Form Teacher  
-Email: kanakarajh\_raman@moe.edu.sg
+Email: kanakarajh_raman@moe.edu.sg
 
 Mdm Hasnah Misnor  
 Co-Form Teacher  
 Email: hasnah\_misnor@moe.edu.sg
+</li>	
+		</div>
 	</li>
-			</ul>
-    </div>
-
+	
+<li>
     <input type="checkbox" id="accordion7">
-    <label for="accordion7"><h5 style="color:RoyalBlue">Primary 6 Teachers</h5>
-
-    <div>
-<ul>
-	<li>
+    <label for="accordion7"><h5 style="color:blue">Primary 6 Teachers</h5></label>
+	<div>
 		
 **P6 Strength**  
 Mdm Rachel Yue  
@@ -424,19 +414,14 @@ Email: eugene\_yap\_hern\_an@moe.edu.sg
 <b>P6 Sincerity</b><br> 
 Mr Ling Yih Jye<br>Form Teacher<br>Email: ling_yih_jye@moe.edu.sg
 
-Mdm Ng Yuting<br>Co-Form Teacher<br>Email: ng_yuting@moe.edu.sg</li>
-			</ul>
+Mdm Ng Yuting<br>Co-Form Teacher<br>Email: ng_yuting@moe.edu.sg</li>	
 		</div>
-</li>	
+	</li>
 	
 <li>
     <input type="checkbox" id="accordion8">
-    <label for="accordion8"><h5 style="color:RoyalBlue">Mother Tongue Language Teachers</h5>
-
-    <div>
-<ul>
-	<li>
-		
+    <label for="accordion8"><h5 style="color:blue">Mother Tongue Language Teachers</h5></label>
+	<div>
 Ms Ng See Tee<br>Email: ng_see_tee@moe.edu.sg
 <br>
 		
