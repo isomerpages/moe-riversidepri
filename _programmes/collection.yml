@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Academic/Mathematics.md
       - Academic/Science.md
       - Academic/Mother Tongue Languages.md
       - Academic/Art Class.md
