@@ -18,9 +18,6 @@ third_nav_title: About Us
 <p>All MKs offer the same curriculum and programmes.</p>
 <p>Each MK customises learning activities, teaching resources and approaches, and classroom spaces based on their children’s needs.</p>
 
-<br>
-<br>
-
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
@@ -39,8 +36,9 @@ third_nav_title: About Us
          style="width:600px"
 	/>
 	<br></div>
-</ul>  
-
+</ul>
+</li>
+	
 <li>
     <input type="checkbox" id="accordion2">
     <label for="accordion2"><h5 style="color:RoyalBlue">Full-Day Kindergaten Care Service</h5></label>
@@ -75,6 +73,7 @@ third_nav_title: About Us
 
 <p>Kindergarten Care operates from 7am – 7pm on Mondays to Fridays, including school holidays. The Kindergarten Care centres close for up to 6 days each year, in addition to gazetted public holidays.</p><br>
 
-<p><em>Parents/guardians are strongly advised to avoid the ‘black-out period’ (<strong><strong>between 7.45 – 8.15am and 4.45 – 5.15pm</strong></strong>) for drop-off/pick-up at KCare.</em></p></div>
+<p><em>Parents/guardians are strongly advised to avoid the ‘black-out period’ (<strong><strong>between 7.45 – 8.15am and 4.45 – 5.15pm</strong></strong>) for drop-off/pick-up at KCare.</em></p>
+		</div>
 		</li>
 	</ul>
