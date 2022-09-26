@@ -9,21 +9,51 @@ The Programme for Active Learning (PAL) emphasizes whole-child development, prov
 The PAL modules provide opportunities for pupils to develop character and citizenship, anchored by the SPARKLE Values, Social-Emotional Competencies and 21st Century Competencies (Civic Literacy, Global Awareness and Cross-Cultural Skills; Information and Communication Skills; and Critical and Inventive Thinking).
 
 [PlayWorks: P1 LegoWorks](https://www.facebook.com/media/set/?set=a.571339216341463.1073741882.134705790004810&type=3)
-
-![](https://riversidepri.moe.edu.sg/wp-content/uploads/2021/06/PAL_legoworks02.jpeg)  ![](https://riversidepri.moe.edu.sg/wp-content/uploads/2021/06/PAL_Legoworks01.jpeg)
+<img src="/images/PAL_Legoworks02.jpeg" 
+         style="width:400px"
+	/>
+<br>
+<img src="/images/PAL_Legoworks01.jpeg" 
+         style="width:400px"
+	/>
+<br>
 
 P2 Culture Works
-
-![](https://riversidepri.moe.edu.sg/wp-content/uploads/2021/06/PAL_Cultural02.jpeg)  ![](https://riversidepri.moe.edu.sg/wp-content/uploads/2021/06/PAL_Culutral01.jpeg)
+<img src="/images/PAL_Culutral02.jpeg" 
+         style="width:400px"
+	/>
+<br>
+<img src="/images/PAL_Culutral01.jpeg" 
+         style="width:400px"
+	/>
+<br>
 
 _P2 PAL Creative Drama_
-
-![](https://riversidepri.moe.edu.sg/wp-content/uploads/2021/06/PAL_Creative02.jpeg)  ![](https://riversidepri.moe.edu.sg/wp-content/uploads/2021/06/PAL_Creative01.jpeg)
+<img src="/images/PAL_Creative02.jpeg" 
+         style="width:400px"
+	/>
+<br>
+<img src="/images/PAL_Creative01.jpeg" 
+         style="width:400px"
+	/>
+<br>
 
 P1 Diversity Garden
-
-![](https://riversidepri.moe.edu.sg/wp-content/uploads/2021/06/PAL_garden02.jpeg)  ![](https://riversidepri.moe.edu.sg/wp-content/uploads/2021/06/PAL_garden01.jpeg)
+<img src="/images/PAL_garden02.jpeg" 
+         style="width:400px"
+	/>
+<br>
+<img src="/images/PAL_garden01.jpeg" 
+         style="width:400px"
+	/>
+<br>
 
 P2 Nature Explorer
-
-![](https://riversidepri.moe.edu.sg/wp-content/uploads/2021/06/PAL_OE02.jpg) ![](https://riversidepri.moe.edu.sg/wp-content/uploads/2021/06/PAL_OE01.jpeg)
+<img src="/images/PAL_OE02.jpg" 
+         style="width:400px"
+	/>
+<br>
+<img src="/images/PAL_OE01.jpeg" 
+         style="width:400px"
+	/>
+<br>
