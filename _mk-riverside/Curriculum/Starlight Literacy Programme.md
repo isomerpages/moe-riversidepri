@@ -74,4 +74,4 @@ third_nav_title: Curriculum
 <img src="/images/Starlight_Malay04.jpg" align="left" style="width:50%;">
 <img src="/images/Starlight_Malay05.jpg" align="right" style="width:50%;">
 <br>
-<img src="/images/Starlight_Malay06.jpg" align="left" style="width:220px" />
+<img src="/images/Starlight_Malay06.jpg" align="left" style="width:350px" />
