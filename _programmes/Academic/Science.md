@@ -59,8 +59,7 @@ The design of our Science curriculum enables our pupils to view the pursuit of S
 	
 <li>
 				<input type="checkbox" id="accordion3">
-				<label for="accordion3"><h5 style="color:RoyalBlue">Subject Head/Level Head</h5></label>
+				<label for="accordion3"><h5 style="color:RoyalBlue">Science Activities</h5></label>
 	<div>
 		<ul>
-			<li> 
-	
+			<li>
