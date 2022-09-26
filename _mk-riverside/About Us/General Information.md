@@ -6,29 +6,27 @@ third_nav_title: About Us
 ---
 ![](/images/banner%20mk.png)
 <br>
-We offer 4-hour K1 and K2 programmes for children. You can choose from the following options:
+<p>We offer 4-hour K1 and K2 programmes for children. You can choose from the following options:</p>
 
-*   Morning session (8am to 12pm)
-    
-*   Afternoon session (1pm to 5pm)
-    
+<ul>
+<li><p>Morning session (8am to 12pm)</p>
+</li>
+<li><p>Afternoon session (1pm to 5pm)</p>
+</li>
+</ul>
+<p>MOE Kindergarten follows <em><strong>MOE&#39;s calendar of school terms</strong></em> and <em><strong>school holidays</strong></em>.</p>
+<p>All MKs offer the same curriculum and programmes.</p>
+<p>Each MK customises learning activities, teaching resources and approaches, and classroom spaces based on their children’s needs.</p>
 
-MOE Kindergarten follows _**MOE's calendar of school terms**_ and _**school holidays**_.
-
-All MKs offer the same curriculum and programmes.
-
-Each MK customises learning activities, teaching resources and approaches, and classroom spaces based on their children’s needs.
 <br>
 <br>
-
 
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
-		<label for="accordion1"><h5 style="color:RoyalBlue">Timetable</h5></label>
-    <div>
-			
-<li>
+		<label for="accordion1"><h5 style="color:RoyalBlue">Timetable</h5></label><div>
+		<ul>
+			<li>
 <p>MK Morning Session</p>
 <p style="color:red">8am to 12noon<br>
 <p>MK Afternoon Session</p>
@@ -41,13 +39,13 @@ Each MK customises learning activities, teaching resources and approaches, and c
          style="width:600px"
 	/>
 	<br></div>
-</li>  
+</ul>  
 
-  <li>
+<li>
     <input type="checkbox" id="accordion2">
     <label for="accordion2"><h5 style="color:RoyalBlue">Full-Day Kindergaten Care Service</h5></label>
     <div>
-
+			<ul>
 <li>
 <p>MOE Kindergarten offers a 4-hour programme.</p>
 
