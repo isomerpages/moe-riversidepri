@@ -26,27 +26,40 @@ It focuses on providing information on the learning progress of the child. Throu
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
-		<label for="accordion1"><h5 style="color:blue">Payment of Schools and Miscellaneous Fees</h5></label>
+		<label for="accordion1"><h5 style="color:blue">Concrete-Pictorial-Abstract (C-P-A) Approach</h5></label>
     <div>
-			
-			</li>	
+<p>Learning experiences in the Mathematics classroom are designed based on the C-P-A approach. Concrete components include physical manipulatives which pupils use during lessons. Pictorial representations include drawings, diagrams, charts or graphs that can be drawn by pupils or are provided for the pupils to read and interpret. Abstract refers to symbolic representations such as numbers or letters that the pupils writes or interprets to demonstrate understanding of a task. This approach enables pupils to encounter mathematics in a meaningful way and translate mathematical skills from the concrete to the abstract. It will better support pupils in their understanding of mathematics concepts and promote pupils’ active participation in learning mathematics.</p>
+			<p><img src="/images/CPA-1-300x169.jpg" alt=""></p></li>	
 		</div>
 	</li>
 	
 <li>
     <input type="checkbox" id="accordion2">
-    <label for="accordion2"><h5 style="color:blue">MOE Financial Assistant Scheme</h5></label>
+    <label for="accordion2"><h5 style="color:blue">Learning Support Programme for Mathematics for Primary 1 and 2 Pupils</h5></label>
 	<div>
-		
-		</li>	
+
+<ul>
+<li>The programme provides early intervention so that pupils will have a good foundation in Mathematics.</li>
+<li>It aims to build pupils’ confidence and positive beliefs about their ability to do Mathematics.</li>
+<li>The focus is on equipping pupils with basic mathematical skills and concepts in a small group teaching so pupils receive more attention.</li>
+</ul>
 		</div>
 	</li>
 	
 <li>
-    <input type="checkbox" id="accordion2">
-    <label for="accordion2"><h5 style="color:blue">MOE Financial Assistant Scheme</h5></label>
+    <input type="checkbox" id="accordion3">
+    <label for="accordion3"><h5 style="color:blue">Mathematics Activities</h5></label>
 	<div>
-		
+	
+<p>Students experience the relevance of mathematics in their daily lives and learn in a fun way.</p>
+<p><img src="/images/Math-Enrichment-Programme-1-300x169.jpg" alt=""></p>
+<p><img src="/images/Math-Communication-300x169.jpg" alt=""></p>
+<p><em>Students engaging in the mathematics communication with their peers.</em></p>
+<p><img src="/images/Math-ICT-iPad-300x169.jpg" alt=""></p>
+<p><em>Enthusing students with the use of iPad device in mathematics learning.</em></p>
+<p><img src="/images/Mini-Whiteboarding-300x169.jpg" alt=""></p>
+<p><em>Whiteboarding in session. Accessing students&#39; acquisition of mathematics skills learned.</em></p>
+
 		</li>	
 		</div>
 	</li>
