@@ -85,7 +85,6 @@ In the event of wet weather, please take note of the following arrangement:<br>
 3.  Parents who drive are to park your car at nearby carparks and proceed to Gate 1 or Gate 4 to pick up your child.  Please do not park along the road as this will cause obstructions to other road users.</p>
 </li>	
 		</div>
-	</li>
 	
 <li>
     <input type="checkbox" id="accordion3">
@@ -109,7 +108,6 @@ In the event of wet weather, please take note of the following arrangement:<br>
 </ul>
 </li>	
 		</div>
-	</li>
 	
 <li>
     <input type="checkbox" id="accordion5">
@@ -124,10 +122,7 @@ In the event of wet weather, please take note of the following arrangement:<br>
 <li><p><a href="https://riversidepri.moe.edu.sg/information/school-safety-matters/safety-advice-for-students-taking-school-bus/">Safety Advice for Students taking School Bus</a></p>
 </li>
 </ul>
-</p>
-</li>	
 		</div>
-	</li>
 	
 <li>
     <input type="checkbox" id="accordion6">
