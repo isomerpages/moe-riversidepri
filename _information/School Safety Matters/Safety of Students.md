@@ -123,6 +123,7 @@ In the event of wet weather, please take note of the following arrangement:<br>
 </li>
 </ul>
 		</div>
+	</li>
 	
 <li>
     <input type="checkbox" id="accordion6">
