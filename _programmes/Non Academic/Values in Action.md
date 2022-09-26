@@ -23,7 +23,7 @@ third_nav_title: Non Academic
 <ul>
 <li>
 	
-	<p>Caring for plants, trees and the environment nurtures in our pupils <b>A</b>wareness of community and environment concerns, fosters an<b>A</b>ffiliation with the community and natural environment and calls them to <b>A</b>ction to shape a green and healthy environment for all. Our pupils are actively involved in caring for the plants that are allocated to their classes. They are tasked to monitor the growth of the plants as well as nurture them by watering and caring for them daily. Through the gardening process, pupils fully appreciate the 3Ps for a Sustainable Future... 
+<p>Caring for plants, trees and the environment nurtures in our pupils <b>A</b>wareness of community and environment concerns, fosters an<b>A</b>ffiliation with the community and natural environment and calls them to <b>A</b>ction to shape a green and healthy environment for all. Our pupils are actively involved in caring for the plants that are allocated to their classes. They are tasked to monitor the growth of the plants as well as nurture them by watering and caring for them daily. Through the gardening process, pupils fully appreciate the 3Ps for a Sustainable Future... 
 	<b>Perspiration, Patience and Perseverance</b></p><br>
 <br>
 <img src="/images/VIA_gardening01.jpg" 
