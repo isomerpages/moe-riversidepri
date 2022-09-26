@@ -63,15 +63,13 @@ Administration Manager
 		<div>
 			<ul>
 				<li>
-		
-<b>Mr Hardi Mustaffa</b><br>ICT Manager
-<br>
-					
-<b>Mr Muhammad Zaki Ahmad</b><br>ICT Associate
-<br>
-
-<b>Mr Patrick Tan</b><br>Desktop Engineer 1<br>
-
-<b>Ms Nurul Atika</b><br>Desktop Engineer 2</li>
+	<p><b>Mr Hardi Mustaffa</b><br>ICT Manager
+<br></p>
+<p><b>Mr Muhammad Zaki Ahmad</b><br>ICT Associate
+<br></p>
+<p><b>Mr Patrick Tan</b><br>Desktop Engineer 1<br></p>
+<p><b>Ms Nurul Atika</b><br>Desktop Engineer 2</p>
+</li>
 			</ul>
 		</div>
+			</ul>
