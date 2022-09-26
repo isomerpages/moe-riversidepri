@@ -29,7 +29,7 @@ It focuses on providing information on the learning progress of the child. Throu
 		<label for="accordion1"><h5 style="color:blue">Concrete-Pictorial-Abstract (C-P-A) Approach</h5></label>
     <div>
 <p>Learning experiences in the Mathematics classroom are designed based on the C-P-A approach. Concrete components include physical manipulatives which pupils use during lessons. Pictorial representations include drawings, diagrams, charts or graphs that can be drawn by pupils or are provided for the pupils to read and interpret. Abstract refers to symbolic representations such as numbers or letters that the pupils writes or interprets to demonstrate understanding of a task. This approach enables pupils to encounter mathematics in a meaningful way and translate mathematical skills from the concrete to the abstract. It will better support pupils in their understanding of mathematics concepts and promote pupils’ active participation in learning mathematics.</p>
-			<p><img src="/images/CPA-1-300x169.jpg" alt=""></p></li>	
+			<p><img src="/images/CPA-1-300x169.jpg" alt=""></p>	
 		</div>
 	</li>
 	
