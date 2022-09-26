@@ -12,7 +12,7 @@ description: ""
 	<li><b>Pacific Bookstores Pte Ltd</b><br>
 Contact Person: Ms. Huang Xiulan<br>  
 Contact Number: 9048 2301 (Mobile)<br>  
-Email: <a href="mailto:rsps@pacificbookstores.com">rsps@pacificbookstores.com</a></p><br>
+		Email: <a href="mailto:rsps@pacificbookstores.com">rsps@pacificbookstores.com</a><br>
 <p><a href="/files/2022_P1_Booklist.pdf">2022 P1 Booklist</a><br>
 <a href="/files/2022_P2_Booklist.pdf">2022 P2 Booklist</a><br><a href="/files/2022_P3_Booklist.pdf">2022 P3 Booklist</a><br><a href="/files/2022_P4_Booklist.pdf">2022 P4 Booklist</a><br><a href="/files/2022_P5_Booklist.pdf">2022 P5 Booklist</a><br><a href="/files/2022_P5_FDN_Booklist.pdf">2022 P5 FDN Booklist</a><br><a href="/files/2022_P6_Booklist.pdf">2022 P6 Booklist</a><br><a href="/files/2022_P6_FDN_Booklist.pdf">2022 P6 FDN Booklist</a></p>
 </li>
@@ -88,15 +88,21 @@ Contact Person: Nur Hidayah Ariffin<br>  Contact Number: 8409 7083<br>
 		<ul>
 			<li> 
 				<p><b>Dental Clinic @ Riverside Primary School</b>  
-(Dental Therapist from HPB) Ms Lin Liang Chen  
-(Contact Number) 87641760
+(Dental Therapist from HPB) Ms Lin Liang Chen<br>
+					
+(Contact Number) 87641760<br>
+					
+<b>OPENING DAYS:</b><br>
+					
+<b>MON to THURS:</b> 8 AM – 5:30 PM<br>
+					
+<b>FRI:</b> 8 AM – 5 PM <br>
+					
+<b>LUNCH TIME:</b> 1 PM – 2 PM (Please do not disturb)<br>
+					
 
-<b>OPENING DAYS:</b>  
-<b>MON to THURS:</b> 8 AM – 5:30 PM  
-<b>FRI:</b> 8 AM – 5 PM  
-<b>LUNCH TIME:</b> 1 PM – 2 PM (Please do not disturb)
-
-<b>Buddy Clinic</b> (when clinic is closed)
+<b>Buddy Clinic</b> (when clinic is closed)<br>
+					
 
 In the event that the dental clinic is closed, students who require <b>EMERGENCY</b> dental treatment can call any of the buddy clinics (see table) for an appointment.
 
