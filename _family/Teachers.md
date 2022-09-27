@@ -50,45 +50,35 @@ description: ""
 
     <div>
 		
-**P2 Strength**  
-Ms Jasmine Chia  
-Form Teacher  
-Email: chia\_li\_shan\_jasmine@moe.edu.sg
-
-Ms Yong Lok Ping  
-Co-Form Teacher  
-Email: yong\_lok\_ping@moe.edu.sg
-
-**P2 Perseverance**  
-Ms Matilda Lin  
-Form Teacher  
-Email: lin\_huizi\_matilda@moe.edu.sg
-
-Ms Chin Shu Hui  
-Form Teacher  
-Email: chin\_shu\_hui@moe.edu.sg
-
-Mdm Ardriza Isnin  
-Co-Form Teacher  
-Email: ardriza\_isnin@moe.edu.sg
-
-**P2 Adaptability**  
-Mrs Joanna Kong  
-Form Teacher  
-Email: hang\_siew\_mei\_joanna@moe.edu.sg
-
-Mdm Nagaraj Hema  
-Co-Form Teacher  
-Email: nagaraj\_hema@moe.edu.sg
+<p><strong>P2 Strength</strong><br>Ms Jasmine Chia<br>Form Teacher  chia_li_shan_jasmine@moe.edu.sg</p>
+<p>Ms Yong Lok Ping<br>Co-Form Teacher  yong_lok_ping@moe.edu.sg
+</p>
+<p><strong>P2 Perseverance</strong><br>Ms Matilda Lin<br>Form Teacher lin_huizi_matilda@moe.edu.sg </p>
+<p>Ms Chin Shu Hui<br>Form Teacher chin_shu_hui@moe.edu.sg </p>
+<p>Mdm Ardriza Isnin<br>Co-Form Teacher  ardriza_isnin@moe.edu.sg</p>
+<p><strong>P2 Adaptability</strong><br>Mrs Joanna Kong<br>Form Teacher  hang_siew_mei_joanna@moe.edu.sg
+</p>
+<p>Mdm Nagaraj Hema<br>Co-Form Teacher  nagaraj_hema@moe.edu.sg
+</p>
+<p><strong>P2 Responsibility</strong><br>Mdm Celine Lau<br>Form Teacher  lau_li_khoon@moe.edu.sg
+</p>
+<p>Ms Maisurah Bte Saini<br>Co-Form Teacher maisurah_saini@moe.edu.sg</p>
+<p><strong>P2 Kindness</strong><br>Mrs Jasmine Lee<br>Form Teacher  </p>
+<p>Mr Chong Keng Kok<br>Co-Form Teacher  </p>
+<p><strong>P2 Leadership</strong><br>Mdm Azura Mohamed Zaid<br>Form Teacher  </p>
+<p>Mis Ameerah Sharainee Zain Sha<br>Co-Form Teacher  </p>
+<p><strong>P2 Enthusiasm</strong><br>Mrs Sheryl Goh<br>Form Teacher  </p>
+<p>Mdm Aslinda Abdullah<br>Co-Form Teacher  </p>
+			
 
 **P2 Responsibility**  
 Mdm Celine Lau  
 Form Teacher  
-Email: lau\_li\_khoon@moe.edu.sg
+Email: lau_li_khoon@moe.edu.sg
 
 Ms Maisurah Bte Saini  
 Co-Form Teacher  
-Email: maisurah\_saini@moe.edu.sg
+Email: maisurah_saini@moe.edu.sg
 
 **P2 Kindness**  
 Mrs Jasmine Lee  
