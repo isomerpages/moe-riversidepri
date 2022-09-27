@@ -22,8 +22,8 @@ To develop enthusiastic readers and effective communicators
 <p>English is taught in our schools through the STELLAR (STrategies for English Language Learning and Reading) programme. With the aim to develop 21st century competencies to enable our students to communicate effectively and confidently in the globalised world.</p>
 <p>For students who are weak in the language, the school supports them through the different Learning Support Programmes, such as the Reading Remediation Programme (RRP) and School-based Dyslexia Remediation Programme (SDR), which provide early interventions to help these students access learning beyond  the regular classroom.</p>
 <p>STELLAR aims to strengthen students’ language and reading skills as well as promote a positive attitude towards learning in the foundational years. The programme uses research-based teaching strategies and age-appropriate materials to engage pupils in the learning of English.</p>
-<p><img src="images/image001-300x300.jpg" alt="">    <img src="/images/image003-300x300.jpg" alt=""></p>
-<p><img src="/images/image005-300x300.jpg" alt="">    <img src="/images/image007-300x300.jpg" alt=""><br><em>Language Learning through Dramatisation, Games and Learning Journeys</em></p>
+<p><img src="images/image001.jpg" style="width:200px">    <img src="/images/image003.jpg" style="width:200px"></p>
+<p><img src="/images/image005.jpg" style="width:200px">    <img src="/images/image007.jpg" style="width:200px"><br><em>Language Learning through Dramatisation, Games and Learning Journeys</em></p>
 <h3 id="lower-primary-strategies">Lower Primary Strategies</h3>
 <ul>
 <li><strong>Shared Book Approach (SBA):</strong> First, the teacher introduces and shares a Big Book with the pupils. In the second part, the teacher teaches language items, structures and skills explicitly, including concepts of print, phonics and grammar. There is a range of follow-up activities such as drama and art and craft for teachers to select according to their pupils’ learning needs.</li>
@@ -31,10 +31,10 @@ To develop enthusiastic readers and effective communicators
 <li><strong>Learning Centres (LC):</strong> The language skills learnt in both SBA and MLEA are reinforced in the Learning Centres (LC). In LC, activities are planned and differentiated for the pupils in three main learning centres – the Reading Centre, the Word Study Centre and the Listening Centre. Pupils have the opportunity to re-learn, revisit or extend what they have learnt at their own pace and in differentiated ability groups.</li>
 </ul>
 <h3 id="upper-primary-strategies">Upper Primary Strategies</h3>
-<p><img src="/images/STELLARUpper2.png" alt=""></p>
+<p><img src="/images/STELLARUpper2.png" style="width:300px"></p>
 <p>More information on STELLAR can be viewed at <a href="http://www.stellarliteracy.sg/">http://www.stellarliteracy.sg/</a>.</p>
-<p><img src="/images/image009-300x300.jpg" alt="">    <img src="/images/image011-300x300.jpg" alt=""></p>
-<p><img src="/images/image013-300x300.jpg" alt="">    <img src="/images/image015-300x300.jpg" alt=""><br><em>Modified Language Experience Approach (MLEA)</em></p>
+<p><img src="/images/image009-300x300.jpg" style="width:200px">    <img src="/images/image011-300x300.jpg" style="width:200px"></p>
+<p><img src="/images/image013-300x300.jpg" style="width:200px">    <img src="/images/image015-300x300.jpg" style="width:200px"><br><em>Modified Language Experience Approach (MLEA)</em></p>
 		</div>
 	</li>
 	
@@ -43,7 +43,7 @@ To develop enthusiastic readers and effective communicators
     <label for="accordion2"><h5 style="color:blue">Buddy Reading Programme</h5></label>
 	<div>
 		<p>Twice a week, Reading Champions and their Reading Buddies get together in the morning for reading. This Buddy Reading Programme harnesses peer support in improving reading proficiency among pupils.</p>
-<p><img src="/images/image017-300x300.jpg" alt=""> <img src="/images/image019-300x300.jpg" alt=""></p>
+<p><img src="/images/image017-300x300.jpg" style="width:200px"> <img src="/images/image019-300x300.jpg" style="width:200px"></p>
 </div>
 	</li>
 	
@@ -52,7 +52,7 @@ To develop enthusiastic readers and effective communicators
     <label for="accordion3"><h5 style="color:blue">“Be Enthusiastic About Reading (BEAR)” Scheme</h5></label>
 	<div>
 <p>Twice a week, Reading Champions and their Reading Buddies get together in the morning for reading. This Buddy Reading Programme harnesses peer support in improving reading proficiency among pupils.</p>
-<p><img src="https://riversidepri.moe.edu.sg/wp-content/uploads/2018/12/tn.image021.jpg.mid-300x225.jpg" alt="">   <img src="https://riversidepri.moe.edu.sg/wp-content/uploads/2018/12/tn.image023.jpg.mid-300x253.jpg" alt=""></p>
+<p><img src="https://riversidepri.moe.edu.sg/wp-content/uploads/2018/12/tn.image021.jpg.mid-300x225.jpg" style="width:200px">   <img src="https://riversidepri.moe.edu.sg/wp-content/uploads/2018/12/tn.image023.jpg.mid-300x253.jpg" style="width:200px"></p>
 <p>The BEAR Scheme aims to inculcate good reading habits in pupils in the foundational years. Pupils are each given a Reading Log to record their book loans.</p>
 
 
@@ -61,8 +61,7 @@ To develop enthusiastic readers and effective communicators
 <p>R.Cove is the school’s signature facility for fostering a culture of Reading, Research and Reflection. R.Cove provides a print-rich environment to ignite the love of reading in pupils. R.Cove runs monthly themes (e.g. International Friendship Month and Herge’s Birthday) and organises recess activities for pupils. Storytelling sessions are also conducted during recess to excite pupils about books and reading.</p>
 
 <table border="1" class="table table-bordered" style="box-sizing: border-box; border: 1px solid rgb(221, 221, 221); font-size: 18px; font-style: normal; font-weight: 400; margin: 0px 0px 20px; outline: 0px; padding: 0px; vertical-align: baseline; border-collapse: collapse; border-spacing: 0px; width: 973px; background-color: rgb(224, 247, 254); max-width: 100%; color: rgb(51, 51, 51); font-family: Lato; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: justify; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><tbody style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"><tr style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"><td style="box-sizing: border-box; border: 1px solid rgb(221, 221, 221); font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; text-align: left; line-height: 1.42857;">Opening Hours</td><td style="box-sizing: border-box; border: 1px solid rgb(221, 221, 221); font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; text-align: left; line-height: 1.42857;">7.00 a.m. to 12.00 p.m.<br style="box-sizing: border-box;">1.00 p.m. to 3.30 p.m.</td></tr><tr style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"><td style="box-sizing: border-box; border: 1px solid rgb(221, 221, 221); font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; text-align: left; line-height: 1.42857;">Borrowing Privileges</td><td style="box-sizing: border-box; border: 1px solid rgb(221, 221, 221); font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; text-align: left; line-height: 1.42857;">Up to 4 books at any one time<br style="box-sizing: border-box;">(English Language or Mother Tongue)</td></tr></tbody></table>
-<p><img src="https://riversidepri.moe.edu.sg/wp-content/uploads/2018/12/image025-300x300.jpg" alt="">    <img src="https://riversidepri.moe.edu.sg/wp-content/uploads/2018/12/image027-300x300.jpg" alt=""></p>
-<p><img src="https://riversidepri.moe.edu.sg/wp-content/uploads/2018/12/image029-300x300.jpg" alt="">    <img src="https://riversidepri.moe.edu.sg/wp-content/uploads/2018/12/image031-300x300.jpg" alt=""></p>
+<p><img src="https://riversidepri.moe.edu.sg/wp-content/uploads/2018/12/image025-300x300.jpg" style="width:200px">    <img src="https://riversidepri.moe.edu.sg/wp-content/uploads/2018/12/image027-300x300.jpg" style="width:200px"></p>
+<p><img src="https://riversidepri.moe.edu.sg/wp-content/uploads/2018/12/image029-300x300.jpg" style="width:200px">    <img src="https://riversidepri.moe.edu.sg/wp-content/uploads/2018/12/image031-300x300.jpg" style="width:200px"></p>
 <p> <em>R.Cove Bustle</em></p>
 	</div>
-	</ul>
