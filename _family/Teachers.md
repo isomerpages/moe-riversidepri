@@ -7,95 +7,48 @@ description: ""
   <li>
     <input type="checkbox" id="accordion1">
 		<label for="accordion1"><h5 style="color:RoyalBlue">Year Head/Assistant Year Heads</h5></label>
-
     <div>
-<ul>
-<li>
 	
 <table class="table table-bordered" style="box-sizing: border-box; border: 1px none rgb(221, 221, 221); font-size: 18px; font-style: normal; font-weight: 400; margin: 0px 0px 20px; outline: 0px; padding: 0px; vertical-align: baseline; border-collapse: collapse; border-spacing: 0px; width: 988px; background-color: rgb(224, 247, 254); max-width: 100%; table-layout: fixed !important; color: rgb(51, 51, 51); font-family: Lato; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: justify; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><tbody style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"><tr style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"><td style="box-sizing: border-box; border: 1px none rgb(221, 221, 221); font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px 8px 20px; vertical-align: top; text-align: left; line-height: 1.42857; width: 494px;"><strong style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: 700; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;">Ms Lim Shin Gann</strong><br style="box-sizing: border-box;">Year Head, Lower Primary<br style="box-sizing: border-box;">email: lim_shin_gann@moe.edu.sg</td><td style="box-sizing: border-box; border: 1px none rgb(221, 221, 221); font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px 8px 20px; vertical-align: top; text-align: left; line-height: 1.42857; width: 494px;"><strong style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: 700; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;">Mrs Sharon Sakthi</strong><br style="box-sizing: border-box;">Year Head, Middle Primary<br style="box-sizing: border-box;">email: pang_shu_fang_sharon@moe.edu.sg</td></tr><tr style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"><td style="box-sizing: border-box; border: 1px none rgb(221, 221, 221); font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; text-align: left; line-height: 1.42857; width: 494px;"><strong style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: 700; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;">Mr Jeff Huang</strong><br style="box-sizing: border-box;">Year Head, Upper Primary<br style="box-sizing: border-box;">email: huang_yaosheng@moe.edu.sg</td><td style="box-sizing: border-box; border: 1px none rgb(221, 221, 221); font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; text-align: left; line-height: 1.42857; width: 494px;"><b style="box-sizing: border-box; font-weight: 700;">Mr Abdul Rahman B Amid Marican</b><span style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: 400; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"><br style="box-sizing: border-box;"></span><span style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: 400; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;">Asst Year Head, Primary 5</span><span style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: 400; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"><br style="box-sizing: border-box;"></span><span style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: 400; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;">email: rahman_marican@moe.edu.sg</span></td></tr></tbody></table>
-  </li>
-			</ul>
 			</div>
 				
+<li>
     <input type="checkbox" id="accordion2">
     <label for="accordion2"><h5 style="color:RoyalBlue">Primary 1 Teachers</h5></label>
 
     <div>
-<ul>
-<li>
+<p><strong>P1 Strength</strong><br>Mrs Normala Alex<br>Form Teacher<br>Email: <a href="mailto:normala_sarman@moe.edu.sg">normala_sarman@moe.edu.sg</a></p>
+
+<p>Mdm Sabrina Bte Sabtu<br>Co-Form Teacher<br>Email: <a href="mailto:sabrina_sabtu@moe.edu.sg">sabrina_sabtu@moe.edu.sg</a></p>
+
+<p><strong>P1 Perseverance</strong><br>Ms Amaluna Mastura Binte Azman<br>Form Teacher<br>Email: <a href="mailto:amaluna_mastura_azman@moe.edu.sg">amaluna_mastura_azman@moe.edu.sg</a></p>
+
+<p>Mdm Nor&#39;Aisah<br>Co-Form Teacher<br>Email: <a href="mailto:noraisah_abdul_samad@moe.edu.sg">noraisah_abdul_samad@moe.edu.sg</a></p>
+
+<p><strong>P1 Adaptability</strong><br>Mdm Nor Farhana<br>Form Teacher<br>Email: <a href="mailto:nor_farhana_hatwadi@moe.edu.sg">nor_farhana_hatwadi@moe.edu.sg</a></p>
+
+<p>Ms Man Su Thing<br>Co-Form Teacher<br>Email: <a href="mailto:man_su_thing@moe.edu.sg">man_su_thing@moe.edu.sg</a></p>
+
+<p><strong>P1 Responsibility</strong><br>Mdm Norazah Binte Ibrahim<br>Form Teacher <br>Email: <a href="mailto:norazah_ibrahim@moe.edu.sg">norazah_ibrahim@moe.edu.sg</a></p>
+<p>Mrs Choo-Ng Sook Fern<br>Co-Form Teacher<br>ng_sook_fern@moe.edu.sg</p>
+			
+<p><strong>P1 Kindness</strong><br>Mrs Rathiga D/O Atamanadan<br>Form Teacher<br>Email: <a href="mailto:athiga_atamanadan@moe.edu.sg">athiga_atamanadan@moe.edu.sg</a></p>
 	
-**P1 Strength**  
-Mrs Normala Alex  
-Form Teacher  
-Email: normala\_sarman@moe.edu.sg
-
-Mdm Sabrina Bte Sabtu  
-Co-Form Teacher  
-Email: sabrina\_sabtu@moe.edu.sg
-
-**P1 Perseverance**  
-Ms Amaluna Mastura Binte Azman  
-Form Teacher  
-Email: amaluna\_mastura\_azman@moe.edu.sg
-
-Mdm Nor'Aisah  
-Co-Form Teacher  
-Email: noraisah\_abdul\_samad@moe.edu.sg
-
-**P1 Adaptability**  
-Mdm Nor Farhana  
-Form Teacher  
-Email: nor\_farhana\_hatwadi@moe.edu.sg
-
-Ms Man Su Thing  
-Co-Form Teacher  
-Email: man\_su\_thing@moe.edu.sg
-
-**P1 Responsibility**  
-Mdm Norazah Binte Ibrahim  
-Form Teacher  
-Email: norazah\_ibrahim@moe.edu.sg
-
-Mrs Choo-Ng Sook Fern  
-Co-Form Teacher  
-Email: ng\_sook\_fern@moe.edu.sg
-
-**P1 Kindness**  
-Mrs Rathiga D/O Atamanadan  
-Form Teacher  
-Email: rathiga\_atamanadan@moe.edu.sg
-
-Mdm Thang Yun Xuan  
-Co-Form Teacher  
-Email: thang\_yun\_xuan@moe.edu.sg
-
-**P1 Leadership**  
-Ms Hailey Tan  
-Form Teacher  
-Email: tan\_yan\_yi@moe.edu.sg
-
-Mdm Dellina Daniell Assik  
-Co-Form Teacher  
-Email: dellina\_daniell\_assik@moe.edu.sg
-
-**P1 Enthusiasm**  
-Mdm Raudah Begum  
-Form Teacher  
-Email: raudah\_begum\_amir\_khan@moe.edu.sg
-
-Ms Yamunah D/O Balakrishnan  
-Co-Form Teacher  
-Email: yamunah\_balakrishnan@moe.edu.sg
-  </li>
-			</ul>
+<p>Mdm Thang Yun Xuan<br>Co-Form Teacher<br>Email: <a href="mailto:thang_yun_xuan@moe.edu.sg">thang_yun_xuan@moe.edu.sg</a></p>
+			
+<p><strong>P1 Leadership</strong><br>Ms Hailey Tan<br>Form Teacher<br>Email: <a href="mailto:tan_yan_yi@moe.edu.sg">tan_yan_yi@moe.edu.sg</a></p>
+			
+<p>Mdm Dellina Daniell Assik<br>Co-Form Teacher<br>Email: <a href="mailto:dellina_daniell_assik@moe.edu.sg">dellina_daniell_assik@moe.edu.sg</a></p>
+			
+<p><strong>P1 Enthusiasm</strong><br>Mdm Raudah Begum<br>Form Teacher<br>Email: <a href="mailto:raudah_begum_amir_khan@moe.edu.sg">raudah_begum_amir_khan@moe.edu.sg</a></p>
+<p>Ms Yamunah D/O Balakrishnan<br>Co-Form Teacher<br>Email: <a href="mailto:yamunah_balakrishnan@moe.edu.sg">yamunah_balakrishnan@moe.edu.sg</a></p>
     </div>
 
+<li>
     <input type="checkbox" id="accordion3">
     <label for="accordion3"><h5 style="color:RoyalBlue">Primary 2 Teachers</h5>
 
     <div>
-<ul>
-	<li>
 		
 **P2 Strength**  
 Ms Jasmine Chia  
