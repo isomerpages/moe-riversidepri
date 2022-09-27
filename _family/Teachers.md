@@ -63,49 +63,17 @@ description: ""
 <p><strong>P2 Responsibility</strong><br>Mdm Celine Lau<br>Form Teacher  lau_li_khoon@moe.edu.sg
 </p>
 <p>Ms Maisurah Bte Saini<br>Co-Form Teacher maisurah_saini@moe.edu.sg</p>
-<p><strong>P2 Kindness</strong><br>Mrs Jasmine Lee<br>Form Teacher  </p>
-<p>Mr Chong Keng Kok<br>Co-Form Teacher  </p>
-<p><strong>P2 Leadership</strong><br>Mdm Azura Mohamed Zaid<br>Form Teacher  </p>
-<p>Mis Ameerah Sharainee Zain Sha<br>Co-Form Teacher  </p>
-<p><strong>P2 Enthusiasm</strong><br>Mrs Sheryl Goh<br>Form Teacher  </p>
-<p>Mdm Aslinda Abdullah<br>Co-Form Teacher  </p>
+<p><strong>P2 Kindness</strong><br>Mrs Jasmine Lee<br>Form Teacher  jasmine_koh_chwee_lian@moe.edu.sg </p>
+<p>Mr Chong Keng Kok<br>Co-Form Teacher chong_keng_kok@moe.edu.sg
+ </p>
+<p><strong>P2 Leadership</strong><br>Mdm Azura Mohamed Zaid<br>Form Teacher  nur_azura_mohamed_zaid@moe.edu.sg</p>
+<p>Mis Ameerah Sharainee Zain Sha<br>Co-Form Teacher  ameerah_sharainee_zain_sha@moe.edu.sg
+</p>
+<p><strong>P2 Enthusiasm</strong><br>Mrs Sheryl Goh<br>Form Teacher  sheryl_tan@moe.edu.sg
+</p>
+<p>Mdm Aslinda Abdullah<br>Co-Form Teacher aslinda_abdullah@moe.edu.sg
+ </p>
 			
-
-**P2 Responsibility**  
-Mdm Celine Lau  
-Form Teacher  
-Email: lau_li_khoon@moe.edu.sg
-
-Ms Maisurah Bte Saini  
-Co-Form Teacher  
-Email: maisurah_saini@moe.edu.sg
-
-**P2 Kindness**  
-Mrs Jasmine Lee  
-Form Teacher  
-Email: jasmine\_koh\_chwee\_lian@moe.edu.sg
-
-Mr Chong Keng Kok  
-Co-Form Teacher  
-Email: chong\_keng\_kok@moe.edu.sg
-
-**P2 Leadership**  
-Mdm Azura Mohamed Zaid  
-Form Teacher  
-nur\_azura\_mohamed\_zaid@moe.edu.sg
-
-Mis Ameerah Sharainee Zain Sha  
-Co-Form Teacher  
-Email: ameerah\_sharainee\_zain\_sha@moe.edu.sg
-
-**P2 Enthusiasm**  
-Mrs Sheryl Goh  
-Form Teacher  
-Email: sheryl\_tan@moe.edu.sg
-
-Mdm Aslinda Abdullah  
-Co-Form Teacher  
-Email: aslinda\_abdullah@moe.edu.sg
 
    </li>	
 		</div>
