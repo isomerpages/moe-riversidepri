@@ -160,4 +160,4 @@ third_nav_title: Academic
 
 &nbsp;&nbsp;&nbsp;&nbsp;</div>
 
-&nbsp;&nbsp;</li></ul>
+&nbsp;&nbsp;</ul>
