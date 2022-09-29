@@ -46,7 +46,7 @@ description: ""
 
 <li>
     <input type="checkbox" id="accordion3">
-    <label for="accordion3"><h5 style="color:RoyalBlue">Primary 2 Teachers</h5>
+    <label for="accordion3"><h5 style="color:RoyalBlue">Primary 2 Teachers</h5></label>
 
     <div>
 		
@@ -73,74 +73,35 @@ description: ""
 			
 <p><strong>P2 Enthusiasm</strong><br>Mrs Sheryl Goh<br>Form Teacher<br>Email: <a href="mailto:sheryl_tan@moe.edu.sg">sheryl_tan@moe.edu.sg</a></p>
 <p>Mdm Aslinda Abdullah<br>Co-Form Teacher<br>Email: <a href="mailto:aslinda_abdullah@moe.edu.sg">aslinda_abdullah@moe.edu.sg</a></p>
-		</div>
-
+			</div>
+	
 <li>
     <input type="checkbox" id="accordion4">
     <label for="accordion4"><h5 style="color:blue">Primary 3 Teachers</h5></label>
 	<div>
 		
-**P3 Strength**  
-Mr Hairil Asraf  
-Form Teacher  
-Email: muhammad_hairil_asraf@moe.edu.sg
-
-Mdm Ho Yan Yan  
-Co-Form Teacher  
-Email: ho_yan_yan@moe.edu.sg
-
-**P3 Perseverance**  
-Mdm Noorhayati Bte Seleman  
-Form Teacher  
-Email: noorhayati_seleman@moe.edu.sg
-
-Ms Ng See Tee  
-Co-Form Teacher  
-Email: ng_see_tee@moe.edu.sg
-
-**P3 Adaptability**
-
-Mdm Sinha Shilpa  
-Form Teacher  
-email: sinha_shilpa@moe.edu.sg
-
-Mrs Yip Wenjun  
-Head of Department, Aesthetics  
-Co-Form Teacher  
-email: huang_wenjun@moe.edu.sg
-
-**P3 Responsibility**  
-Mdm Jasmine Poi  
-Form Teacher  
-Email: poi_mei_ling_jasmine@moe.edu.sg
-
-Mr Eric Lim  
-Co-Form Teacher  
-Email: eric_lim_kee_ben@moe.edu.sg
-
-Ms Xue Bing  
-Co-Form Teacher  
-Email: xue_bing@moe.edu.sg
-
-**P3 Kindness**  
-Ms Clarice Teo  
-Form Teacher  
-Email: clarice_teo_tze_yee@moe.edu.sg
-
-Mr Bobby Chan   
-Head of Department, Physical Education and  
-Co-Curricular Activities  
-Co-Form Teacher  
-email: chan_teck_hock_bobby@moe.edu.sg
-
-**P3 Sincerity**  
-Mdm Ngo Sook Peng  
-Form Teacher  
-Email: ngo_sook_peng@moe.edu.sg
-
-Mdm Gowri D/O V Vairavan  
-Co-Form Teacher  
-Email: gowri_v_vairavan@moe.edu.sg
+<p><strong>P3 Strength</strong><br>Mr Hairil Asraf<br>Form Teacher<br>Email: <a href="mailto:muhammad_hairil_asraf@moe.edu.sg">muhammad_hairil_asraf@moe.edu.sg</a></p>
+<p>Mdm Ho Yan Yan<br>Co-Form Teacher<br>Email: <a href="mailto:ho_yan_yan@moe.edu.sg">ho_yan_yan@moe.edu.sg</a></p>
+<p><strong>P3 Perseverance</strong><br>Mdm Noorhayati Bte Seleman<br>Form Teacher<br>Email: <a href="mailto:noorhayati_seleman@moe.edu.sg">noorhayati_seleman@moe.edu.sg </a></p>
+		<p>Ms Ng See Tee<br>Co-Form Teacher<br>Email: <a href="mailto:ng_see_tee@moe.edu.sg">ng_see_tee@moe.edu.sg</a></p>
+		
+<p><strong>P3 Adaptability</strong></p>
+		<p>Mdm Sinha Shilpa<br>Form Teacher<br>Email: <a href="mailtosinha_shilpa@moe.edu.sg:">sinha_shilpa@moe.edu.sg</a></p>
+<p>Mrs Yip Wenjun<br>Head of Department, Aesthetics<br>Co-Form Teacher<br>email: huang_wenjun@moe.edu.sg
+ </a></p>
+		
+<p><strong>P3 Responsibility</strong><br>Mdm Jasmine Poi<br>Form Teacher<br>Email: poi_mei_ling_jasmine@moe.edu.sg  </p>
+<p>Mr Eric Lim<br>Co-Form Teacher<br>Email: eric_lim_kee_ben@moe.edu.sg  </p>
+<p>Ms Xue Bing<br>Co-Form Teacher<br>Email: xue_bing@moe.edu.sg  </p>
+		
+<p><strong>P3 Kindness</strong><br>Ms Clarice Teo<br>Form Teacher<br>Email: clarice_teo_tze_yee@moe.edu.sg  </p>
+<p>Mr Bobby Chan<br>Head of Department, Physical Education and<br>Co-Curricular Activities<br>Co-Form Teacher<br>Email: chan_teck_hock_bobby@moe.edu.sg
+  </p>
+		
+<p><strong>P3 Sincerity</strong><br>Mdm Ngo Sook Peng<br>Form Teacher<br>Email: ngo_sook_peng@moe.edu.sg
+  </p>
+<p>Mdm Gowri D/O V Vairavan<br>Co-Form Teacher<br>
+	Email: gowri_v_vairavan@moe.edu.sg</p>
 		</div>
 	
 <li>
