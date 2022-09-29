@@ -48,7 +48,6 @@ Payment modes available are:
 <p>You can pay by cash, cheque or cashier’s order at the school. Cheque payment or cashier&#39;s order should be made payable to ‘Ministry of Education’.</p>
 <p>Please indicate the student’s name, UIN and school name on the reverse side of the cheque. If your cheque is for more than one student, please state the amount for each student.</p>
 <p><strong>Note:</strong> As a Singapore Citizen student, you may choose to pay the second-tier miscellaneous fees from your Edusave account. Complete the <a href="https://va.ecitizen.gov.sg/css/hybrid/themes/moe/uploads/edusave_application_form_revisedsep19.pdf">Edusave Standing Order form</a> and submit it our school’s General Office.</p>
-</li>	
 		</div>
 	</li>
 	
@@ -61,8 +60,7 @@ Payment modes available are:
 <br></p>
 <p>You can click <a href="https://www.moe.gov.sg/financial-matters/financial-assistance">here</a> to find out if you are eligible for the MOE Financial Assistance Scheme.
 <br></p>
-<p>Transport Voucher Redemption Process (Only for successful applicants)<br><br>For successful applicants, please click <a href="/files/TransitLink_Evoucher_Redemption_Process.pdf">here</a> for the Transport Voucher Redemption instructions.</p></p>
-</p>
+<p>Transport Voucher Redemption Process (Only for successful applicants)<br><br>For successful applicants, please click <a href="/files/TransitLink_Evoucher_Redemption_Process.pdf">here</a> for the Transport Voucher Redemption instructions.</p>
 		</div>
 	</li>
 	
