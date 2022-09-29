@@ -99,7 +99,7 @@ Through the knowledge and skills learnt in Health Education, pupils are empowere
          style="width:400px"
 	/>
 <br>
-<img src="/images/HAH_Me_1.jpg" 
+<img src="/images/HAH_ME_1.jpg" 
          style="width:400px"
 	/></ul>
 	</div>
