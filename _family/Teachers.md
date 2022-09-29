@@ -95,10 +95,10 @@ description: ""
 <p>Ms Xue Bing<br>Co-Form Teacher<br>Email: <a href="mailto:xue_bing@moe.edu.sg">xue_bing@moe.edu.sg</a></p>
 		
 <p><strong>P3 Kindness</strong><br>Ms Clarice Teo<br>Form Teacher<br>Email: <a href="mailto:clarice_teo_tze_yee@moe.edu.sg">clarice_teo_tze_yee@moe.edu.sg</a></p>
-<p>Mr Bobby Chan<br>Head of Department, Physical Education and<br>Co-Curricular Activities<br>Co-Form Teacher<br>Email: <a></a></p><a>
+<p>Mr Bobby Chan<br>Head of Department, Physical Education and<br>Co-Curricular Activities<br>Co-Form Teacher<br>Email: <a href="mailto:chan_teck_hock_bobby@moe.edu.sg">chan_teck_hock_bobby@moe.edu.sg</a></p><a>
 		
 </a><p><a><strong>P3 Sincerity</strong><br>Mdm Ngo Sook Peng<br>Form Teacher<br>Email: </a><a href="mailto:ngo_sook_peng@moe.edu.sg">ngo_sook_peng@moe.edu.sg</a></p>
-<p>Mdm Gowri D/O V Vairavan<br>Co-Form Teacher<br>Email: <a href="gowri_v_vairavan@moe.edu.sg">gowri_v_vairavan@moe.edu.sg</a></p>
+<p>Mdm Gowri D/O V Vairavan<br>Co-Form Teacher<br>Email: <a href="mailto:gowri_v_vairavan@moe.edu.sg">gowri_v_vairavan@moe.edu.sg</a></p>
 		</div>
 	
 </li><li>
@@ -263,5 +263,6 @@ Mdm Gowri d/o V Vairavan<br>Email: <a href="mailto:gowri_v_vairavan@moe.edu.sg">
 <br>	
 Mdm Nagaraj Hema<br>Email: <a href="mailto:nagaraj_hema@moe.edu.sg">nagaraj_hema@moe.edu.sg</a></p>
 <br>
-Ms Yamunah D/O Balakrishnan<br>Email: <a href="mailto:yamunah_balakrishnan@moe.edu.sg">yamunah_balakrishnan@moe.edu.sg</a></p></div>
+Ms Yamunah D/O Balakrishnan<br>Email: <a href="mailto:yamunah_balakrishnan@moe.edu.sg">yamunah_balakrishnan@moe.edu.sg</a></p>
+</div>
 			</ul>
