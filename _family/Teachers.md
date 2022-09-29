@@ -180,60 +180,42 @@ Mdm Hasnah Misnor<br>Co-Form Teacher<br>Email: <a href="mailto:hasnah_misnor@moe
 <label for="accordion7"><h5 style="color:blue">Primary 6 Teachers</h5></label>
 	<div>
 		
-<p><strong>P6 Strength**  
-Mdm Rachel Yue  
-Form Teacher  
-Email: tang-yue\_lih\_jiuen@moe.edu.sg
+<p><strong>P6 Strength</strong><br>  
+Mdm Rachel Yue<br>Form Teacher <br>Email: <a href="mailto:tang-yue_lih_jiuen@moe.edu.sg">
+tang-yue_lih_jiuen@moe.edu.sg</a></p>
 
-Mdm Suraiya Abdul Latib  
-Co-Form Teacher  
-Email: suraiya\_abdul\_latib@moe.edu.sg
+Mdm Suraiya Abdul Latib<br>Co-Form Teacher<br>Email: <a href="mailto:suraiya_abdul_latib@moe.edu.sg">suraiya_abdul_latib@moe.edu.sg</a></p>
 
-<p><strong>P6 Perseverance**  
-Mr Mohammad Shaifullizan  
-Form Teacher  
-Email: mohammad\_shaifullizan\_sapi@moe.edu.sg
+<p><strong>P6 Perseverance</strong><br>   
+Mr Mohammad Shaifullizan<br>Form Teacher<br>Email: <a href="mailto:mohammad_shaifullizan_sapi@moe.edu.sg">
+mohammad_shaifullizan_sapi@moe.edu.sg</a></p>
 
-Mdm Ma Shaowen  
-Co-Form Teacher  
-Email: ma\_shaowen@moe.edu.sg
+Mdm Ma Shaowen <br>Co-Form Teacher<br>Email: <a href="mailto:ma_shaowen@moe.edu.sg">ma_shaowen@moe.edu.sg</a></p>
 
-<p><strong>P6 Adaptability**  
-Ms Darrell Koh  
-Form Teacher  
-Email: lim\_yong\_en\_darrell@moe.edu.sg
+<p><strong>P6 Adaptability</strong><br>   
+Ms Darrell Koh<br>Form Teacher<br>Email: <a href="mailto:lim_yong_en_darrell@moe.edu.sg">lim_yong_en_darrell@moe.edu.sg</a></p>
 
-Mr Fahmei Bin Hassan  
-Co-Form Teacher  
-Email: muhammad\_fahmei\_hassan@moe.edu.sg
+Mr Fahmei Bin Hassan <br>Co-Form Teacher<br>Email: <a href="mailto:muhammad_fahmei_hassan@moe.edu.sg">muhammad_fahmei_hassan@moe.edu.sg</a></p>
 
-<p><strong>P6 Responsibility**  
-Mdm Joyce Bong  
-Form Teacher  
-Email: bong\_suan\_choo\_joyce@moe.edu.sg
+<p><strong>P6 Responsibility</strong><br>   
+Mdm Joyce Bong<br>Form Teacher<br>Email: <a href="mailto:bong_suan_choo_joyce@moe.edu.sg">bong_suan_choo_joyce@moe.edu.sg</a></p>
 
-Mdm Siti Suhaida  
-Co-Form Teacher  
-Email: siti\_suhaida\_surir@moe.edu.sg
+Mdm Siti Suhaida<br>Co-Form Teacher <br>Email: <a href="mailto:siti_suhaida_surir@moe.edu.sg">siti_suhaida_surir@moe.edu.sg</a></p>
 
-<b>P6 Kindness</b><br> 
-Mdm Noorfaezah Sadon<br>Form Teacher<br>Email: noorfaezah\_sadon@moe.edu.sg
+<p><strong>P6 Kindness</strong><br>  
+Mdm Noorfaezah Sadon<br>Form Teacher<br>Email: <a href="mailto:noorfaezah_sadon@moe.edu.sg">noorfaezah_sadon@moe.edu.sg</a></p>
 <br>
 		
-Mr Eugene Yap  
-Co-Form Teacher  
-Email: eugene\_yap\_hern\_an@moe.edu.sg
+Mr Eugene Yap<br>Co-Form Teacher<br>Email: <a href="mailto:eugene_yap_hern_an@moe.edu.sg">eugene_yap_hern_an@moe.edu.sg</a></p>
 
-<b>P6 Sincerity</b><br> 
-Mr Ling Yih Jye<br>Form Teacher<br>Email: ling_yih_jye@moe.edu.sg
+<p><strong>P6 Sincerity</strong><br>  
+Mr Ling Yih Jye<br>Form Teacher<br>Email: <a href="mailto:ling_yih_jye@moe.edu.sg">ling_yih_jye@moe.edu.sg</a></p>
 
-Mdm Ng Yuting<br>Co-Form Teacher<br>Email: ng_yuting@moe.edu.sg</div></li>	
-		
-	
+Mdm Ng Yuting<br>Co-Form Teacher<br>Email: <a href="mailto:ng_yuting@moe.edu.sg">ng_yuting@moe.edu.sg</a></p></div></li>	
 	
 <li>
-&nbsp;&nbsp;&nbsp;&nbsp;<input id="accordion8" type="checkbox">
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion8"><h5 style="color:blue">Mother Tongue Language Teachers</h5></label>
+<input id="accordion8" type="checkbox">
+<label for="accordion8"><h5 style="color:blue">Mother Tongue Language Teachers</h5></label>
 	<div>
 Ms Ng See Tee<br>Email: <a href="mailto:ng_see_tee@moe.edu.sg"> ng_see_tee@moe.edu.sg</a></p>
 <br>
