@@ -9,12 +9,12 @@ sections:
   - hero:
       background: /images/gifhomebanner.gif
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
+        - title: MOE Kindergaten @ Riverside
+          description: Enroll now!
+          url: /mk-riverside/about-us/general-information/
+        - title: Parent Suppport Group
+          description: Join us!
+          url: /partnerships/parents-support-group/
   - infobar:
       title: Get to know more about us!
       subtitle: virtual open house
