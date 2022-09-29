@@ -13,14 +13,14 @@ description: ""
 <li>
 	
 <b>Mr Tony Tan</b><br>Principal<br>email: 
-	tan\_choon\_kheng@schools.gov.sg<br>
+	tan_choon_kheng@schools.gov.sg<br>
 	
-<b>Mdm Regina Khoo</b><br>Vice-Principal 1<br>  email: Regina\_KHOO@schools.gov.sg<br>
+<b>Mdm Regina Khoo</b><br>Vice-Principal 1<br>  email: Regina_KHOO@schools.gov.sg<br>
 	
-<b>Mrs Ranuka Palanivelu</b><br>  Vice-Principal 2<br>email: Ranuka\_PALANIVELU@schools.gov.sg<br>
+<b>Mrs Ranuka Palanivelu</b><br>  Vice-Principal 2<br>email: Ranuka_PALANIVELU@schools.gov.sg<br>
 	
 <b>Ms Karin Neo</b><br>
-Vice-Principal (Administration)<br>email: Karin\_NEO@schools.gov.sg</li>
+Vice-Principal (Administration)<br>email: Karin_NEO@schools.gov.sg</li>
 			</ul>
 		</div>
 </li>	
@@ -53,16 +53,16 @@ Head of Department, CCE<br>email: kho_ee_ling_jacqueline@moe.edu.sg<br>
 Head of Department, Aesthetics<br> 
 email: huang_wenjun@moe.edu.sg<br>
 
-<b>Ms Lim Shin Gann</b><br> Year Head, Lower Primary<br>  email: lim\_shin\_gann@moe.edu.sg
+<b>Ms Lim Shin Gann</b><br> Year Head, Lower Primary<br>  email: lim_shin_gann@moe.edu.sg
 <br>
 				
-<b>Mrs Sharon Sakthi</b><br>Year Head, Middle Primary<br>email: pang\_shu\_fang\_sharon@moe.edu.sg
+<b>Mrs Sharon Sakthi</b><br>Year Head, Middle Primary<br>email: pang_shu_fang_sharon@moe.edu.sg
 <br>
 
-<b>Mr Jeff Huang</b><br>Year Head, Upper Primary<br>email: huang\_yaosheng@moe.edu.sg
+<b>Mr Jeff Huang</b><br>Year Head, Upper Primary<br>email: huang_yaosheng@moe.edu.sg
 <br>
 				
-<b>Mr Abdul Rahman B Amid Marican</b><br>Asst Year Head, Primary 5<br>email: rahman\_marican@moe.edu.sg</li>
+<b>Mr Abdul Rahman B Amid Marican</b><br>Asst Year Head, Primary 5<br>email: rahman_marican@moe.edu.sg</li>
 			</ul>
 		</div>
 		</li>
