@@ -12,14 +12,12 @@ third_nav_title: School Safety Matters
     <div>
 Parents wishing to enter the school must register themselves at the security post. Each parent will be issued with a visitor pass which must be worn at all times when in the school. Parents are to approach the General Office for assistance and are not to move into the pupil activity areas(e.g. classrooms and library) in any way.<br>
 			
-Parents who wish to see the teachers are to do so before or after lesson hours.  Parents are strongly encouraged to make an appointment with the teachers before the actual visit.</p>
-    </div>
-</li>  
-	
-  <li>
-    <input type="checkbox" id="accordion2">
+Parents who wish to see the teachers are to do so before or after lesson hours.  Parents are strongly encouraged to make an appointment with the teachers before the actual visit.</div>
+</li>
+<li>
+<input type="checkbox" id="accordion2">
 <label for="accordion2"><h5 style="color:blue">Arrival and Dismissal of Students</h5></label>
-    <div>
+<div>
 			
 <h5>A) Arrival of Students in the Morning</h5>
 
@@ -83,7 +81,7 @@ In the event of wet weather, please take note of the following arrangement:<br>
 2.  Parents picking up your child at Gate 1 and Gate 4 are to wait at the respective gates for your child.<br>
 3.  Parents who drive are to park your car at nearby carparks and proceed to Gate 1 or Gate 4 to pick up your child.  Please do not park along the road as this will cause obstructions to other road users.</p>
 </li>	
-		</div>
+</div>
 	
 <li>
     <input type="checkbox" id="accordion3">
