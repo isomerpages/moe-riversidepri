@@ -10,7 +10,6 @@ third_nav_title: School Safety Matters
     <input type="checkbox" id="accordion1">
 		<label for="accordion1"><h5 style="color:blue">Visitors to the School</h5></label>
     <div>
-    <p>
 Parents wishing to enter the school must register themselves at the security post. Each parent will be issued with a visitor pass which must be worn at all times when in the school. Parents are to approach the General Office for assistance and are not to move into the pupil activity areas(e.g. classrooms and library) in any way.<br>
 			
 Parents who wish to see the teachers are to do so before or after lesson hours.  Parents are strongly encouraged to make an appointment with the teachers before the actual visit.</p>
