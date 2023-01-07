@@ -81,8 +81,56 @@ description: ""
 </li><li>
 <input id="accordion3" type="checkbox">
 <label for="accordion3"><h4 style="color:Blue">Primary 2 Teachers</h4></label>
-
 <div>
+<h5 style="color:Blue">P2 Strength</h5>
+<strong>Mrs Jasmine Loh</strong>
+<br>Email: poi_mei_ling_jasmine@moe.edu.sg
+
+<p><strong>Mdm Sabrina Bte Sabtu</strong>
+<br>Email: sabrina_sabtu@moe.edu.sg</p>
+
+<h5 style="color:Blue">P2 Perseverance</h5>
+<strong>Ms Amaluna Mastura Binte Azman</strong>
+<br>Email: amaluna_mastura_azman@moe.edu.sg
+
+<p><strong>Mdm Ngo Sook Peng</strong>
+<br>Email: ngo_sook_peng@moe.edu.sg</p>
+
+<h5 style="color:Blue">P2 Adaptability</h5>
+<strong>Mdm Nor Farhana</strong>
+<br>Email: nor_farhana_hatwadi@moe.edu.sg
+
+<p><strong>Mdm Jacqueline Kho</strong>
+<br>Email: kho_ee_ling_jacqueline@moe.edu.sg</p>
+
+<h5 style="color:Blue">P2 Responsibility</h5>
+<strong>Mrs Choo-Ng Sook Fern</strong>
+<br>Email: ng_sook_fern@moe.edu.sg
+
+<p><strong>Ms Maisurah Bte Saini</strong>
+<br>Email: maisurah_saini@moe.edu.sg</p>
+
+<h5 style="color:Blue">P2 Kindness</h5>
+<strong>Mr Fahmei Bin Hassan</strong>
+<br>Email: muhammad_fahmei_hassan@moe.edu.sg
+
+<p><strong>Ms Chang Tan Ling</strong>
+<br>Email: chang_tan_ling@moe.edu.sg</p>
+
+<h5 style="color:Blue">P2 Leadership</h5>
+<strong>Mdm Dellina Daniell Assik</strong>
+<br>Email: dellina_daniell_assik@moe.edu.sg
+
+<p><strong>Ms Hailey Tan</strong>
+<br>Email: tan_yan_yi@moe.edu.sg</p>
+
+<h5 style="color:Blue">P2 Enthusiasm</h5>
+<strong>Mdm Raudah Begum</strong>
+<br>Email: raudah_begum_amir_khan@moe.edu.sg
+
+<p><strong>Ms Yamunah D/O Balakrishnan</strong>
+<br>Email: yamunah_balakrishnan@moe.edu.sg</p>
+
 </div>
 	
 </li>
