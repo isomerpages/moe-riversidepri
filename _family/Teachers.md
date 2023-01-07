@@ -20,8 +20,8 @@ description: ""
 <input id="accordion2" type="checkbox">
 <label for="accordion2"><h5 style="color:RoyalBlue">Primary 1 Teachers</h5></label>
 <div>
-	<p><strong>P1 Strength</strong><br>
-Mrs Joanna Kong
+<p><strong>P1 Strength</strong><br>
+# Mrs Joanna Kong
 <br>Email: hang_siew_mei_joanna@moe.edu.sg</p>
 
 <p>Ms Ameerah Sharainee Zain Sha
