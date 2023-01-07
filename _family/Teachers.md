@@ -184,15 +184,97 @@ description: ""
 </li><li>
 <input id="accordion5" type="checkbox">
 <label for="accordion5"><h4 style="color:blue">Primary 4 Teachers</h4></label>
-	<div>
+<div>
+<h5 style="color:Blue">P4 Strength</h5>
+<strong>Mr Hairil Asraf</strong>
+<br>Email: muhammad_hairil_asraf@moe.edu.sg
+
+<p><strong>Mr Rahman Marican</strong>
+<br>Email: rahman_marican@moe.edu.sg</p>
+
+<h5 style="color:Blue">P4 Perseverance</h5>
+<strong>Ms Ng See Tee</strong>
+<br>Email: ng_see_tee@moe.edu.sg
+
+<p><strong>Mdm Noorhayati Bte Seleman</strong>
+<br>Email: noorhayati_seleman@moe.edu.sg</p>
+
+<h5 style="color:Blue">P4 Adaptability</h5>
+<strong>Mdm Goh Qi Qing</strong>
+<br>Email: goh_qi_qing@moe.edu.sg
+
+<p><strong>Ms Chan Yu Min Wendy</strong>
+<br>email: chan_yu_min_wendy@moe.edu.sg</p>
+
+<h5 style="color:Blue">P4 Responsibility</h5>
+<strong>Ms Tay Wee Lee</strong>
+<br>Email: tay_wee_lee_a@moe.edu.sg
+
+<p><strong>Mr Chong Keng Kok</strong>
+<br>Email: chong_keng_kok@moe.edu.sg</p>
+
+<h5 style="color:Blue">P4 Kindness</h5>
+<strong>Mr Bobby Chan</strong>
+<br>email: chan_teck_hock_bobby@moe.edu.sg
+
+<p><strong>Ms Clarice Teo</strong>
+<br>Email: clarice_teo_tze_yee@moe.edu.sg</p>
+
+<h5 style="color:Blue">P4 Sincerity</h5>
+<strong>Mdm Gowri D/O V Vairavan</strong>
+<br>Email: gowri_v_vairavan@moe.edu.sg
+
+<p><strong>Mdm Suraiya Abdul Latib</strong>
+<br>Email: suraiya_abdul_latib@moe.edu.sg</p>
+
 </div></li>	
 		
 
 <li>
 <input id="accordion6" type="checkbox">
 <label for="accordion6"><h4 style="color:blue">Primary 5 Teachers</h4></label>
-	<div>
+<div>
+<h5 style="color:Blue">P5 Strength</h5>
+<strong>Mdm Joyce Bong</strong>
+<br>Email: bong_suan_choo_joyce@moe.edu.sg
 
+<p><strong>Mdm Aslinda Abdullah</strong>
+<br>Email: aslinda_abdullah@moe.edu.sg</p>
+
+<h5 style="color:Blue">P5 Perseverance</h5>
+<strong>Mr Sun Chin Keong</strong>
+<br>Email: sun_chin_keong@moe.edu.sg
+
+<p><strong>Mdm Ng Yuting</strong>
+<br>Email: ng_yuting@moe.edu.sg</p>
+
+<h5 style="color:Blue">P5 Adaptability</h5>
+<strong>Ms Darrell Koh</strong>
+<br>Email: lim_yong_en_darrell@moe.edu.sg
+
+<p><strong>Ms Quraisya Mirza</strong>
+<br>Email: quraisya_mirza_zainal@moe.edu.sg</p>
+
+<h5 style="color:Blue">P5 Responsibility</h5>
+<strong>Mr Fauzy</strong>
+<br>Email: 
+
+<p><strong>Mdm Ma Shaowen</strong>
+<br>Email: ma_shaowen@moe.edu.sg</p>
+
+<h5 style="color:Blue">P5 Kindness</h5>
+<strong>Ms Andrea Prashanti</strong>
+<br>Email: prashanti_andrea_prabhakaran@moe.edu.sg
+
+<p><strong>Ms Yong Lok Ping</strong>
+<br>Email: yong_lok_ping@moe.edu.sg</p>
+
+<h5 style="color:Blue">P5 Sincerity</h5>
+<strong>Mdm Rabi'ah Binte Abd Rahim Shah</strong>
+<br>Email: rabiah_abd_rahim_shah@moe.edu.sg
+
+<p><strong>Mr Ariff Rizwan</strong>
+<br>Email: ariff_rizwan_sahab@moe.edu.sg</p>
 </div>
 	</li>	
 		
@@ -200,7 +282,49 @@ description: ""
 <li>
 <input id="accordion7" type="checkbox">
 <label for="accordion7"><h4 style="color:blue">Primary 6 Teachers</h4></label>
-	<div>
+<div>
+<h5 style="color:Blue">P6 Strength</h5>
+<strong>Mrs Candice Yip</strong>
+<br>Email: chua_cheng_cheng_candice@moe.edu.sg
+
+<p><strong>Mrs Eity Norhyezah Asyurah</strong>
+<br>Email: eity_norhyezah_asyurah@moe.edu.sg</p>
+
+<h5 style="color:Blue">P6 Perseverance</h5>
+<strong>Ms Jasmine Chia</strong>
+<br>Email: chia_li_shan_jasmine@moe.edu.sg
+
+<p><strong>Mdm Sharifah Munirah</strong>
+<br>Email: sharifah_munirah_syed_ahmad@moe.edu.sg</p>
+
+<h5 style="color:Blue">P6 Adaptability</h5>
+<strong>Mdm Rachel Yue</strong>
+<br>Email: tang-yue_lih_jiuen@moe.edu.sg
+
+<p><strong>Mr Seow Soon Kiat</strong>
+<br>Email: seow_soon_kiat@moe.edu.sg</p>
+
+<h5 style="color:Blue">P6 Responsibility</h5>
+<strong>Mr Mohammad Shaifullizan</strong>
+<br>Email: mohammad_shaifullizan_sapi@moe.edu.sg
+
+<p><strong>Ms Tang Wai San</strong>
+<br>Email: tang_wai_san@moe.edu.sg</p>
+
+<h5 style="color:Blue">P6 Kindness</h5>
+<strong>Ms Angela Gan</strong>
+<br>Email: angela_gan_peck_loo@moe.edu.sg
+
+<p><strong>Mr Eugene Yap</strong>
+<br>Email: eugene_yap_hern_an@moe.edu.sg</p>
+
+<h5 style="color:Blue">P6 Sincerity</h5>
+<strong>Mr Kanakarajh Raman</strong>
+<br>Email: kanakarajh_raman@moe.edu.sg
+
+<p><strong>Mr Wong Wai Tatt</strong>
+<br>Email: wong_wai_tatt@moe.edu.sg</p>
+
 </div>
 	</li>	
 	
