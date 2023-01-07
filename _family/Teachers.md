@@ -18,20 +18,20 @@ description: ""
 	</div>
 </li><li>
 <input id="accordion2" type="checkbox">
-<label for="accordion2"><h5 style="color:RoyalBlue">Primary 1 Teachers</h5></label>
+<label for="accordion2"><h4 style="color:RoyalBlue">Primary 1 Teachers</h4></label>
 <div>
-<p><strong>P1 Strength</strong><br>
-# Mrs Joanna Kong
-<br>Email: hang_siew_mei_joanna@moe.edu.sg</p>
+<h5 style="color:Blue">P1 Strength</h5>
+<strong>Mrs Joanna Kong</strong>
+<br>Email: hang_siew_mei_joanna@moe.edu.sg
 
-<p>Ms Ameerah Sharainee Zain Sha
+<p><strong>Ms Ameerah Sharainee Zain Sha</strong>
 <br>Email: ameerah_sharainee_zain_sha@moe.edu.sg</p>
 
-<p><strong>P1 Perseverance</strong><br>
-Mrs Rathiga D/O Atamanadan
-<br>Email: rathiga_atamanadan@moe.edu.sg</p>
+<h5 style="color:Blue">P1 Perseverance</h5>
+<strong>Mrs Rathiga D/O Atamanadan</strong>
+<br>Email: rathiga_atamanadan@moe.edu.sg
 
-<p>Ms Man Su Thing
+<p><strong>Ms Man Su Thing</strong>
 <br>Email: man_su_thing@moe.edu.sg</p>
 </div>
 
@@ -256,4 +256,4 @@ Mdm Gowri d/o V Vairavan<br>Email: <a href="mailto:gowri_v_vairavan@moe.edu.sg">
 Mdm Nagaraj Hema<br>Email: <a href="mailto:nagaraj_hema@moe.edu.sg">nagaraj_hema@moe.edu.sg</a></p>
 <br>
 Ms Yamunah D/O Balakrishnan<br>Email: <a href="mailto:yamunah_balakrishnan@moe.edu.sg">yamunah_balakrishnan@moe.edu.sg</a></p>
-</div></li>	
+</div></li>
