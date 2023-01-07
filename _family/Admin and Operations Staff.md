@@ -7,14 +7,11 @@ If you wish to contact our Support and Administrative Staff, please email to [r
 
 
 <ul class="jekyllcodex_accordion">
-  <li>
-    <input type="checkbox" id="accordion1">
+ <li>
+<input type="checkbox" id="accordion1">
 		<label for="accordion1"><h5 style="color:blue">Administration Staff</h5></label>
-
-    <div>
-			<ul>
-				<li>
-					<b>Mdm Aminah Saad</b><br>
+<div>
+<b>Mdm Aminah Saad</b><br>
 Administration Manager
 <br>
 					
@@ -28,15 +25,14 @@ Administration Manager
 <br>
 					
 <b>Mdm Halimah Ali</b><br>Corporate Support Officer</li>
-			</ul>
 		</div>
 </li>
+
 	<li>
     <input type="checkbox" id="accordion2">
     <label for="accordion2"><h5 style="color:blue">Operations Staff</h5></label>
 	<div>
-		<ul>
-			<li>
+
 				
 <b>Mr Teo Teck Lam</b><br>Operations Manager
 <br>
