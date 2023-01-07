@@ -24,8 +24,8 @@ description: ""
 <strong>Mrs Joanna Kong</strong>
 <br>Email: hang_siew_mei_joanna@moe.edu.sg
 
-<p><strong>Ms Ameerah Sharainee Zain Sha</strong>
-<br>Email: ameerah_sharainee_zain_sha@moe.edu.sg</p>
+<br><strong>Ms Ameerah Sharainee Zain Sha</strong>
+<br>Email: ameerah_sharainee_zain_sha@moe.edu.sg<br>
 
 <h5 style="color:Blue">P1 Perseverance</h5>
 <strong>Mrs Rathiga D/O Atamanadan</strong>
