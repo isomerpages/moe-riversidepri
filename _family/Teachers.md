@@ -41,6 +41,41 @@ description: ""
 
 <p><strong>Ms Man Su Thing</strong>
 <br>Email: man_su_thing@moe.edu.sg</p>
+
+<h5 style="color:Blue">P1 Adaptability</h5>
+<strong>Mrs Sheryl Goh</strong>
+<br>Email: sheryl_tan@moe.edu.sg
+
+<p><strong>Mrs Jasmine Lee</strong>
+<br>Email: jasmine_koh_chwee_lian@moe.edu.sg</p>
+
+<h5 style="color:Blue">P1 Responsibility</h5>
+<strong>Mrs Normala Alex</strong>
+<br>Email: normala_sarman@moe.edu.sg
+
+<p><strong>Mdm Siti Suhaida</strong>
+<br>Email: siti_suhaida_surir@moe.edu.sg</p>
+
+<h5 style="color:Blue">P1 Kindness</h5>
+<strong>Ms Matilda Lin</strong>
+<br>Email: lin_huizi_matilda@moe.edu.sg
+
+<p><strong>Mdm Hasnah Misnor</strong>
+<br>Email: hasnah_misnor@moe.edu.sg</p>
+
+<h5 style="color:Blue">P1 Leadership</h5>
+<strong>Mdm Lalithaa Kanesan</strong>
+<br>Email: lalithaa_kanesan@moe.edu.sg
+
+<p><strong>Mdm Thang Yun Xuan</strong>
+<br>Email: thang_yun_xuan@moe.edu.sg</p>
+
+<h5 style="color:Blue">P1 Enthusiasm</h5>
+<strong>Ms Chin Shu Hui</strong>
+<br>Email: chin_shu_hui@moe.edu.sg
+
+<p><strong>Mdm Chuah Yen Ming</strong>
+<br>Email: chuah_yen_ming@moe.edu.sg</p>
 </div>
 
 </li><li>
