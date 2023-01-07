@@ -138,6 +138,47 @@ description: ""
 <input id="accordion4" type="checkbox">
 <label for="accordion4"><h4 style="color:blue">Primary 3 Teachers</h4></label>
 	<div>
+<h5 style="color:Blue">P3 Strength</h5>
+<strong>Mdm Hazel Tay</strong>
+<br>Email: tay_pei_pei@moe.edu.sg
+
+<p><strong>Ms Xue Bing</strong>
+<br>Email: xue_bing@moe.edu.sg</p>
+
+<h5 style="color:Blue">P3 Perseverance</h5>
+<strong>Mr Mohamed Shahnaz</strong>
+<br>Email: mohamed_shahnaz_mohamed_hu@moe.edu.sg
+
+<p><strong>Mdm Noorfaezah Sadon</strong>
+<br>Email: noorfaezah_sadon@moe.edu.sg</p>
+
+<h5 style="color:Blue">P3 Adaptability</h5>
+<strong>Mrs Gayathiri Anasooya</strong>
+<br>Email: gayathiri_anasooya_mohanaruben@moe.edu.sg
+
+<p><strong>Mrs Azura</strong>
+<br>Email: nur_azura_mohamed_zaid@moe.edu.sg</p>
+
+<h5 style="color:Blue">P3 Responsibility</h5>
+<strong>Mdm Lena Chua</strong>
+<br>Email: chua_mui_ling_lena@moe.edu.sg
+
+<p><strong>Mdm Ardriza</strong>
+<br>Email: ardriza_isnin@moe.edu.sg</p>
+
+<h5 style="color:Blue">P3 Kindness</h5>
+<strong>Mdm Lois Lim</strong>
+<br>Email: lim_yun_wen_lois@moe.edu.sg
+
+<p><strong>Mdm Nagaraj Hema</strong>
+<br>Email: nagaraj_hema@moe.edu.sg</p>
+
+<h5 style="color:Blue">P3 Sincerity</h5>
+<strong>Mrs Sharon Choong</strong>
+<br>Email: leong_seok_han_sharon@moe.edu.sg
+
+<p><strong>Mr Eric Lim</strong>
+<br>Email: eric_lim_kee_ben@moe.edu.sg</p>
 	</div>
 	
 </li><li>
