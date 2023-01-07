@@ -8,13 +8,21 @@ description: ""
 <input id="accordion1" type="checkbox">
 		<label for="accordion1"><h5 style="color:RoyalBlue">Year Head/Assistant Year Heads</h5></label>
 <div>
-<p><strong>Ms Lim Shin Gann</strong><br>Year Head, Lower Primary<br>email: lim_shin_gann@moe.edu.sg</p>	
+<p><strong>Ms Lim Shin Gann</strong>
+	<br>Year Head, Lower Primary
+	<br>email: lim_shin_gann@moe.edu.sg</p>	
 
-<p><strong>Mrs Sharon Sakthi</strong><br>Year Head, Middle Primary<br>email: pang_shu_fang_sharon@moe.edu.sg</p>	
+<p><strong>Mrs Sharon Sakthi</strong>
+	<br>Year Head, Middle Primary
+	<br>email: pang_shu_fang_sharon@moe.edu.sg</p>	
 
-<p><strong>Mr Jeff Huang</strong><br>Year Head, Upper Primary<br>email:  huang_yaosheng@moe.edu.sg</p>	
+<p><strong>Mr Jeff Huang</strong>
+	<br>Year Head, Upper Primary
+	<br>email:  huang_yaosheng@moe.edu.sg</p>	
 
-<p><strong>Mr Abdul Rahman B Amid Marican</strong><br>Asst Year Head, Primary 5<br>email: rahman_marican@moe.edu.sg</p>	
+<p><strong>Mr Abdul Rahman B Amid Marican</strong>
+	<br>Asst Year Head, Primary 5
+	<br>email: rahman_marican@moe.edu.sg</p>	
 	</div>
 </li><li>
 <input id="accordion2" type="checkbox">
@@ -24,15 +32,15 @@ description: ""
 <strong>Mrs Joanna Kong</strong>
 <br>Email: hang_siew_mei_joanna@moe.edu.sg
 
-<br><strong>Ms Ameerah Sharainee Zain Sha</strong>
-<br>Email: ameerah_sharainee_zain_sha@moe.edu.sg<br>
+<p><strong>Ms Ameerah Sharainee Zain Sha</strong>
+<br>Email: ameerah_sharainee_zain_sha@moe.edu.sg</p>
 
 <h5 style="color:Blue">P1 Perseverance</h5>
 <strong>Mrs Rathiga D/O Atamanadan</strong>
 <br>Email: rathiga_atamanadan@moe.edu.sg
 
-<br><strong>Ms Man Su Thing</strong>
-<br>Email: man_su_thing@moe.edu.sg<br>
+<p><strong>Ms Man Su Thing</strong>
+<br>Email: man_su_thing@moe.edu.sg</p>
 </div>
 
 </li><li>
