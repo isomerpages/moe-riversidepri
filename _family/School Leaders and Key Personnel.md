@@ -38,7 +38,7 @@ Vice-Principal (Administration)<br>email: Karin_NEO@schools.gov.sg</li>
 Co-Curricular Activities <br>email: chan_teck_hock_bobby@moe.edu.sg
 <br>
 
-<b>Mdm Ho Yan Yan</b><br>Head of Department, Mathematics<br> email: ho_yan_yan@moe.edu.sg<br>
+<b>Mr Sun Chin Keong</b><br>Head of Department, ICT<br> email: sun\_chin\_keong@moe.edu.sg<br>
 				
 <b>Ms Chan Yu Min Wendy</b><br>   Head of Department, English Language<br>email: chan_yu_min_wendy@moe.edu.sg<br>
 				
