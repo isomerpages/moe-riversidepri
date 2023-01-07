@@ -8,7 +8,6 @@ description: ""
     <input type="checkbox" id="accordion1">
 		<label for="accordion1"><h5 style="color:RoyalBlue">School Leaders</h5></label>
     <div>
-<ul>
 <li>
 	<b>Mr Tony Tan</b><br>Principal<br>email: 
 	tan_choon_kheng@schools.gov.sg<br>
@@ -19,7 +18,6 @@ description: ""
 	
 <b>Ms Karin Neo</b><br>
 Vice-Principal (Administration)<br>email: Karin_NEO@schools.gov.sg</li>
-			</ul>
 		</div>
 </li>	
 	
@@ -27,7 +25,6 @@ Vice-Principal (Administration)<br>email: Karin_NEO@schools.gov.sg</li>
     <input type="checkbox" id="accordion2">
     <label for="accordion2"><h5 style="color:RoyalBlue">Head of Department/Year Head/Assisstant Head</h5></label>
 	<div>
-		<ul>
 			<li>
 		
 <b>Ms Ng See Tee</b><br>Head of Department, Mother Tongue Languages<br>email: ng_see_tee@moe.edu.sg<br>
@@ -61,7 +58,6 @@ email: huang_wenjun@moe.edu.sg<br>
 <br>
 				
 <b>Mr Abdul Rahman B Amid Marican</b><br>Asst Year Head, Primary 5<br>email: rahman_marican@moe.edu.sg</li>
-			</ul>
 		</div>
 		</li>
 	
@@ -69,7 +65,6 @@ email: huang_wenjun@moe.edu.sg<br>
     <input type="checkbox" id="accordion3">
     <label for="accordion3"><h5 style="color:RoyalBlue">Subject Head/Level Head</h5></label>
 	<div>
-		<ul>
 			<li> 
 <b>Mrs Christina Muru</b><br> 
 Subject Head, Pupil Management<br> email: christina_s_zaccheus@moe.edu.sg
@@ -87,7 +82,6 @@ Subject Head, Pupil Management<br> email: christina_s_zaccheus@moe.edu.sg
 email: ng_yuting@moe.edu.sg<br>
 				
 <b>Mrs Candice Yip</b><br>Level Head, English<br>email: chua_cheng_cheng_candice@moe.edu.sg</li>
-			</ul>
 		</div>
 		</li>
 	
@@ -95,7 +89,6 @@ email: ng_yuting@moe.edu.sg<br>
     <input type="checkbox" id="accordion4">
     <label for="accordion4"><h5 style="color:RoyalBlue">Senior Teacher/Lead Teacher</h5></label>
 	<div>
-		<ul>
 			<li>
 	
 <b>Ms Ameerah Sharainee Zain Bte Sha</b><br>Lead Teacher, Music<br>email: ameerah_sharainee_zain_sha@moe.edu.sg<br>
@@ -107,7 +100,6 @@ email: ng_yuting@moe.edu.sg<br>
 <b>Mdm Sabrina Bte Sabtu</b><br>Senior Teacher, Education Support<br>email: sabrina_sabtu@moe.edu.sg<br>
 				
 <b>Mrs Joanna Kong</b><br>Senior Teacher, Student Learning Needs Lower Primary Learners<br>email: hang_siew_mei_joanna@moe.edu.sg</li>
-			</ul>
 		</div>
 		</li>
 	
@@ -115,13 +107,11 @@ email: ng_yuting@moe.edu.sg<br>
     <input type="checkbox" id="accordion5">
     <label for="accordion5"><h5 style="color:RoyalBlue">Administration & Operations Manager</h5></label>
 	<div>
-		<ul>
 			<li>	
 				
 <p><b>Mr Teo Teck Lam</b><br>Operations Manager<a href="mailto:teo_teck_lam@moe.edu.sg"><br>email: teo_teck_lam@moe.edu.sg</a></p>
 				
 <p><b>Mdm Aminah Saad</b><br>Adminstration Manager<a href="mailto:aminah_saad@moe.edu.sg"><br>email: aminah_saad@moe.edu.sg</a></p>
 </li>
-			</ul>
 		</div>
 		</li>
