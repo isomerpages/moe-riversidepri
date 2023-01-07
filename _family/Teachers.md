@@ -6,7 +6,7 @@ description: ""
 <ul class="jekyllcodex_accordion">
 <li>
 <input id="accordion1" type="checkbox">
-		<label for="accordion1"><h5 style="color:RoyalBlue">Year Head/Assistant Year Heads</h5></label>
+		<label for="accordion1"><h4 style="color:RoyalBlue">Year Head/Assistant Year Heads</h4></label>
 <div>
 <p><strong>Ms Lim Shin Gann</strong>
 	<br>Year Head, Lower Primary
