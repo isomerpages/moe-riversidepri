@@ -9,20 +9,15 @@ If you wish to contact our Support and Administrative Staff, please email to [r
 <ul class="jekyllcodex_accordion">
  <li>
 <input type="checkbox" id="accordion1">
-		<label for="accordion1"><h5 style="color:blue">Administration Staff</h5></label>
+	 <label for="accordion1"><h5 style="color:blue">Administration Staff</h5></label>
 <div>
-<b>Mdm Aminah Saad</b><br>
-Administration Manager
-<br>
+<b>Mdm Aminah Saad</b><br>Administration Manager<br>
 					
-<b>Ms Clara Neo</b><br>Administrative Executive
-<br>
+<b>Ms Clara Neo</b><br>Administrative Executive<br>
 					
-<b>Ms Nurul Nadhilah</b><br>Administrative Executive
-<br>
+<b>Ms Nurul Nadhilah</b><br>Administrative Executive<br>
 					
-<b>Mdm Sharon Lim</b><br>Corporate Support Officer
-<br>
+<b>Mdm Sharon Lim</b><br>Corporate Support Officer<br>
 					
 <b>Mdm Halimah Ali</b><br>Corporate Support Officer</li>
 </div>
@@ -47,7 +42,7 @@ Administration Manager
 	
 <li><input type="checkbox" id="accordion3">
 <label for="accordion3"><h5 style="color:blue">ICT Support Staff</h5></label>
-		<div>
+<div>
 <b>Mr Hardi Mustaffa</b><br>ICT Manager<br>
 
 <b>Mr Muhammad Zaki Ahmad</b><br>ICT Associate<br>
@@ -55,4 +50,4 @@ Administration Manager
 <b>Mr Patrick Tan</b><br>Desktop Engineer 1<br>
 
 <b>Ms Nurul Atika</b><br>Desktop Engineer 2
-		</div>
+</div></li>
