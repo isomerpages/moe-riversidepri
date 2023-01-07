@@ -79,6 +79,33 @@ description: ""
 <input id="accordion3" type="checkbox">
 <label for="accordion3"><h4 style="color:Blue">Subject Head/Level Head</h4></label>
 <div>
+<p><strong>Mrs Christina Muru</strong>
+<br>Subject Head, Pupil Management
+<br>email: christina_s_zaccheus@moe.edu.sg</p>
+
+<p><strong>Ms Goh Qi Qing</strong>
+<br>Subject Head, ICT
+<br>email: goh_qi_qing@moe.edu.sg</p>
+
+<p><strong>Ms Aslinda Bte Abdullah</strong>
+<br>Subject Head, PE
+<br>email: aslinda_abdullah@moe.edu.sg</p>
+
+<p><strong>Mr Mohammad Shaifullizan Bin Sapieah</strong>
+<br>Subject Head, CCE & SS
+<br>email: mohammad_shaifullizan_sapi@moe.edu.sg</p>
+
+<p><strong>Ms Jasmine Poi</strong>
+<br>Level Head, Mathematics
+<br>email: poi_mei_ling_jasmine@moe.edu.sg</p>
+
+<p><strong>Ms Ng Yuting</strong>
+<br>Level Head, Chinese Language
+<br>email: ng_yuting@moe.edu.sg</p>
+
+<p><strong>Mrs Candice Yip</strong>
+<br>Level Head, English
+<br>email: chua_cheng_cheng_candice@moe.edu.sg</p>
 
 </div>
 </li><li>
@@ -86,6 +113,24 @@ description: ""
 <input id="accordion4" type="checkbox">
 <label for="accordion4"><h4 style="color:Blue">Senior Teacher/Lead Teacher</h4></label>
 <div>
+<p><strong>Ms Ameerah Sharainee Zain Bte Sha</strong>
+<br>Lead Teacher, Music
+<br>email: ameerah_sharainee_zain_sha@moe.edu.sg</p>
 
+<p><strong>Ms Tang Wai San</strong>
+<br>Senior Teacher, Chinese Language
+<br>email: tang_wai_san@moe.edu.sg</p>
+
+<p><strong>Mrs Gayathiri Anasooya</strong>
+<br>Senior Teacher, Tamil Language
+<br>email: gayathiri_anasooya_mohanaruben@moe.edu.sg</p>
+
+<p><strong>Mdm Sabrina Bte Sabtu</strong>
+<br>Senior Teacher, Education Support
+<br>email: sabrina_sabtu@moe.edu.sg</p>
+
+<p><strong>Mrs Joanna Kong</strong>
+<br>Senior Teacher, Student Learning Needs Lower Primary Learners
+<br>email: hang_siew_mei_joanna@moe.edu.sg</p>
 </div>
 </li><li>
