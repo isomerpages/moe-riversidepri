@@ -7,12 +7,10 @@ description: ""
   <li>
     <input type="checkbox" id="accordion1">
 		<label for="accordion1"><h5 style="color:RoyalBlue">School Leaders</h5></label>
-
     <div>
 <ul>
 <li>
-	
-<b>Mr Tony Tan</b><br>Principal<br>email: 
+	<b>Mr Tony Tan</b><br>Principal<br>email: 
 	tan_choon_kheng@schools.gov.sg<br>
 	
 <b>Mdm Regina Khoo</b><br>Vice-Principal 1<br>  email: Regina_KHOO@schools.gov.sg<br>
@@ -68,8 +66,8 @@ email: huang_wenjun@moe.edu.sg<br>
 		</li>
 	
 <li>
-				<input type="checkbox" id="accordion3">
-				<label for="accordion3"><h5 style="color:RoyalBlue">Subject Head/Level Head</h5></label>
+    <input type="checkbox" id="accordion3">
+    <label for="accordion2"><h5 style="color:RoyalBlue">Subject Head/Level Head</h5></label>
 	<div>
 		<ul>
 			<li> 
