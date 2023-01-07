@@ -31,8 +31,8 @@ description: ""
 <strong>Mrs Rathiga D/O Atamanadan</strong>
 <br>Email: rathiga_atamanadan@moe.edu.sg
 
-<p><strong>Ms Man Su Thing</strong>
-<br>Email: man_su_thing@moe.edu.sg</p>
+<br><strong>Ms Man Su Thing</strong>
+<br>Email: man_su_thing@moe.edu.sg<br>
 </div>
 
 </li><li>
