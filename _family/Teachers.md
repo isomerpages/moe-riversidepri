@@ -4,17 +4,17 @@ permalink: /family/teachers/
 description: ""
 ---
 <ul class="jekyllcodex_accordion">
-&nbsp;&nbsp;<li>
+<li>
 &nbsp;&nbsp;&nbsp;&nbsp;<input id="accordion1" type="checkbox">
 		<label for="accordion1"><h5 style="color:RoyalBlue">Year Head/Assistant Year Heads</h5></label>
 <div>
-<p><strong>Ms Lim Shin Gann</strong><br>Year Head, Lower Primary<br>email: lim_shin_gann@moe.edu.sg</a></p>	
+<p><strong>Ms Lim Shin Gann</strong><br>Year Head, Lower Primary<br>email: lim_shin_gann@moe.edu.sg</p>	
 
-<p><strong>Mrs Sharon Sakthi</strong><br>Year Head, Middle Primary<br>email: pang_shu_fang_sharon@moe.edu.sg</a></p>	
+<p><strong>Mrs Sharon Sakthi</strong><br>Year Head, Middle Primary<br>email: pang_shu_fang_sharon@moe.edu.sg</p>	
 
-<p><strong>Mr Jeff Huang</strong><br>Year Head, Upper Primary<br>email:  huang_yaosheng@moe.edu.sg</a></p>	
+<p><strong>Mr Jeff Huang</strong><br>Year Head, Upper Primary<br>email:  huang_yaosheng@moe.edu.sg</p>	
 
-<p><strong>Mr Abdul Rahman B Amid Marican</strong><br>Asst Year Head, Primary 5<br>email: rahman_marican@moe.edu.sg</a></p>	
+<p><strong>Mr Abdul Rahman B Amid Marican</strong><br>Asst Year Head, Primary 5<br>email: rahman_marican@moe.edu.sg</p>	
 
 				
 </li><li>
