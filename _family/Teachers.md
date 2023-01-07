@@ -5,7 +5,7 @@ description: ""
 ---
 <ul class="jekyllcodex_accordion">
 <li>
-&nbsp;&nbsp;&nbsp;&nbsp;<input id="accordion1" type="checkbox">
+<input id="accordion1" type="checkbox">
 		<label for="accordion1"><h5 style="color:RoyalBlue">Year Head/Assistant Year Heads</h5></label>
 <div>
 <p><strong>Ms Lim Shin Gann</strong><br>Year Head, Lower Primary<br>email: lim_shin_gann@moe.edu.sg</p>	
@@ -17,8 +17,8 @@ description: ""
 <p><strong>Mr Abdul Rahman B Amid Marican</strong><br>Asst Year Head, Primary 5<br>email: rahman_marican@moe.edu.sg</p>	
 	</div>
 </li><li>
-&nbsp;&nbsp;&nbsp;&nbsp;<input id="accordion2" type="checkbox">
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion2"><h5 style="color:RoyalBlue">Primary 1 Teachers</h5></label>
+<input id="accordion2" type="checkbox">
+<label for="accordion2"><h5 style="color:RoyalBlue">Primary 1 Teachers</h5></label>
 <div>
 	<p><strong>P1 Strength</strong><br>
 Mrs Joanna Kong
@@ -36,7 +36,7 @@ Mrs Rathiga D/O Atamanadan
 </div>
 
 </li><li>
-&nbsp;&nbsp;&nbsp;&nbsp;<input id="accordion3" type="checkbox">
+<input id="accordion3" type="checkbox">
 <label for="accordion3"><h5 style="color:RoyalBlue">Primary 2 Teachers</h5></label>
 
 <div>
@@ -68,7 +68,7 @@ Mrs Rathiga D/O Atamanadan
 	
 </li>
 	<li>
-&nbsp;&nbsp;&nbsp;&nbsp;<input id="accordion4" type="checkbox">
+<input id="accordion4" type="checkbox">
 <label for="accordion4"><h5 style="color:blue">Primary 3 Teachers</h5></label>
 	<div>
 		
@@ -94,8 +94,8 @@ Mrs Rathiga D/O Atamanadan
 		</div>
 	
 </li><li>
-&nbsp;&nbsp;&nbsp;&nbsp;<input id="accordion5" type="checkbox">
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion5"><h5 style="color:blue">P4 Teachers</h5></label>
+<input id="accordion5" type="checkbox">
+<label for="accordion5"><h5 style="color:blue">P4 Teachers</h5></label>
 	<div>
 <p><strong>P4 Strength</strong><br>Mrs Sharon Choong<br>Form Teacher<br>Email:<a href="mailto:leong_seok_han_sharon@moe.edu.sg">
  leong_seok_han_sharon@moe.edu.sg</a></p>
@@ -132,8 +132,8 @@ Mr Seow Soon Kiat<br>Co-Form Teacher <br>Email: <a href="mailto:seow_soon_kiat@m
 		
 
 <li>
-&nbsp;&nbsp;&nbsp;&nbsp;<input id="accordion6" type="checkbox">
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion6"><h5 style="color:blue">Primary 5 Teachers</h5></label>
+<input id="accordion6" type="checkbox">
+<label for="accordion6"><h5 style="color:blue">Primary 5 Teachers</h5></label>
 	<div>
 		
 <p><strong>P5 Strength</strong><br>  
