@@ -38,9 +38,9 @@ Mrs Rathiga D/O Atamanadan
 
 </li><li>
 &nbsp;&nbsp;&nbsp;&nbsp;<input id="accordion3" type="checkbox">
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion3"><h5 style="color:RoyalBlue">Primary 2 Teachers</h5></label>
+<label for="accordion3"><h5 style="color:RoyalBlue">Primary 2 Teachers</h5></label>
 
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
+<div>
 		
 <p><strong>P2 Strength</strong><br>Ms Jasmine Chia<br>Form Teacher<br>Email: <a href="mailto:chia_li_shan_jasmine@moe.edu.sg">chia_li_shan_jasmine@moe.edu.sg</a></p>
 			
@@ -67,9 +67,10 @@ Mrs Rathiga D/O Atamanadan
 <p>Mdm Aslinda Abdullah<br>Co-Form Teacher<br>Email: <a href="mailto:aslinda_abdullah@moe.edu.sg">aslinda_abdullah@moe.edu.sg</a></p>
 			</div>
 	
-</li><li>
+</li>
+	<li>
 &nbsp;&nbsp;&nbsp;&nbsp;<input id="accordion4" type="checkbox">
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion4"><h5 style="color:blue">Primary 3 Teachers</h5></label>
+<label for="accordion4"><h5 style="color:blue">Primary 3 Teachers</h5></label>
 	<div>
 		
 <p><strong>P3 Strength</strong><br>Mr Hairil Asraf<br>Form Teacher<br>Email: <a href="mailto:muhammad_hairil_asraf@moe.edu.sg">muhammad_hairil_asraf@moe.edu.sg</a></p>
