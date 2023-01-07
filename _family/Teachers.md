@@ -45,7 +45,7 @@ description: ""
 
 </li><li>
 <input id="accordion3" type="checkbox">
-<label for="accordion3"><h4 style="color:RoyalBlue">Primary 2 Teachers</h4></label>
+<label for="accordion3"><h4 style="color:Blue">Primary 2 Teachers</h4></label>
 
 <div>
 </div>
