@@ -15,8 +15,6 @@ description: ""
 <p><strong>Mr Jeff Huang</strong><br>Year Head, Upper Primary<br>email:  huang_yaosheng@moe.edu.sg</p>	
 
 <p><strong>Mr Abdul Rahman B Amid Marican</strong><br>Asst Year Head, Primary 5<br>email: rahman_marican@moe.edu.sg</p>	
-
-				
 </li><li>
 &nbsp;&nbsp;&nbsp;&nbsp;<input id="accordion2" type="checkbox">
 &nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion2"><h5 style="color:RoyalBlue">Primary 1 Teachers</h5></label>
