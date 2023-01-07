@@ -67,7 +67,7 @@ email: huang_wenjun@moe.edu.sg<br>
 	
 <li>
     <input type="checkbox" id="accordion3">
-    <label for="accordion2"><h5 style="color:RoyalBlue">Subject Head/Level Head</h5></label>
+    <label for="accordion3"><h5 style="color:RoyalBlue">Subject Head/Level Head</h5></label>
 	<div>
 		<ul>
 			<li> 
