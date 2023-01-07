@@ -21,32 +21,20 @@ description: ""
 &nbsp;&nbsp;&nbsp;&nbsp;<input id="accordion2" type="checkbox">
 &nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion2"><h5 style="color:RoyalBlue">Primary 1 Teachers</h5></label>
 <div>
-<p><strong>P1 Strength</strong><br>Mrs Normala Alex<br>Form Teacher<br>Email: <a href="mailto:normala_sarman@moe.edu.sg">normala_sarman@moe.edu.sg</a></p>
+	<p><strong>P1 Strength</strong><br>
+Mrs Joanna Kong
+<br>Email: hang_siew_mei_joanna@moe.edu.sg</p>
 
-<p>Mdm Sabrina Bte Sabtu<br>Co-Form Teacher<br>Email: <a href="mailto:sabrina_sabtu@moe.edu.sg">sabrina_sabtu@moe.edu.sg</a></p>
+<p>Ms Ameerah Sharainee Zain Sha
+<br>Email: ameerah_sharainee_zain_sha@moe.edu.sg</p>
 
-<p><strong>P1 Perseverance</strong><br>Ms Amaluna Mastura Binte Azman<br>Form Teacher<br>Email: <a href="mailto:amaluna_mastura_azman@moe.edu.sg">amaluna_mastura_azman@moe.edu.sg</a></p>
+<p><strong>P1 Perseverance</strong><br>
+Mrs Rathiga D/O Atamanadan
+<br>Email: rathiga_atamanadan@moe.edu.sg</p>
 
-<p>Mdm Nor'Aisah<br>Co-Form Teacher<br>Email: <a href="mailto:noraisah_abdul_samad@moe.edu.sg">noraisah_abdul_samad@moe.edu.sg</a></p>
-
-<p><strong>P1 Adaptability</strong><br>Mdm Nor Farhana<br>Form Teacher<br>Email: <a href="mailto:nor_farhana_hatwadi@moe.edu.sg">nor_farhana_hatwadi@moe.edu.sg</a></p>
-
-<p>Ms Man Su Thing<br>Co-Form Teacher<br>Email: <a href="mailto:man_su_thing@moe.edu.sg">man_su_thing@moe.edu.sg</a></p>
-
-<p><strong>P1 Responsibility</strong><br>Mdm Norazah Binte Ibrahim<br>Form Teacher <br>Email: <a href="mailto:norazah_ibrahim@moe.edu.sg">norazah_ibrahim@moe.edu.sg</a></p>
-<p>Mrs Choo-Ng Sook Fern<br>Co-Form Teacher<br>ng_sook_fern@moe.edu.sg</p>
-			
-<p><strong>P1 Kindness</strong><br>Mrs Rathiga D/O Atamanadan<br>Form Teacher<br>Email: <a href="mailto:athiga_atamanadan@moe.edu.sg">athiga_atamanadan@moe.edu.sg</a></p>
-	
-<p>Mdm Thang Yun Xuan<br>Co-Form Teacher<br>Email: <a href="mailto:thang_yun_xuan@moe.edu.sg">thang_yun_xuan@moe.edu.sg</a></p>
-			
-<p><strong>P1 Leadership</strong><br>Ms Hailey Tan<br>Form Teacher<br>Email: <a href="mailto:tan_yan_yi@moe.edu.sg">tan_yan_yi@moe.edu.sg</a></p>
-			
-<p>Mdm Dellina Daniell Assik<br>Co-Form Teacher<br>Email: <a href="mailto:dellina_daniell_assik@moe.edu.sg">dellina_daniell_assik@moe.edu.sg</a></p>
-			
-<p><strong>P1 Enthusiasm</strong><br>Mdm Raudah Begum<br>Form Teacher<br>Email: <a href="mailto:raudah_begum_amir_khan@moe.edu.sg">raudah_begum_amir_khan@moe.edu.sg</a></p>
-<p>Ms Yamunah D/O Balakrishnan<br>Co-Form Teacher<br>Email: <a href="mailto:yamunah_balakrishnan@moe.edu.sg">yamunah_balakrishnan@moe.edu.sg</a></p>
-&nbsp;&nbsp;&nbsp;&nbsp;</div>
+<p>Ms Man Su Thing
+<br>Email: man_su_thing@moe.edu.sg</p>
+</div>
 
 </li><li>
 &nbsp;&nbsp;&nbsp;&nbsp;<input id="accordion3" type="checkbox">
