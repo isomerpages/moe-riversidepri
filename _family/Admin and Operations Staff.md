@@ -21,7 +21,7 @@ If you wish to contact our Support and Administrative Staff, please email to [r
 					
 <b>Mdm Sharon Lim</b><br>Corporate Support Officer<br><br>
 					
-<b>Mdm Halimah Ali</b><br>Corporate Support Officer</li>
+<b>Mdm Halimah Ali</b><br>Corporate Support Officer
 </div>
 
 </li>
@@ -41,7 +41,7 @@ If you wish to contact our Support and Administrative Staff, please email to [r
 	
 <b>Mdm Chong Lai Keun</b><br>Operations Support Officer<br><br>
 				
-<b>Mdm Jesslyn Choo</b><br>Operations Support Officer</li>
+<b>Mdm Jesslyn Choo</b><br>Operations Support Officer
 </div></li>
 	
 <li><input type="checkbox" id="accordion3">
