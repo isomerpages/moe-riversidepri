@@ -22,7 +22,7 @@ To develop enthusiastic readers and effective communicators
 <p>English is taught in our schools through the STELLAR (STrategies for English Language Learning and Reading) programme. With the aim to develop 21st century competencies to enable our students to communicate effectively and confidently in the globalised world.</p>
 <p>For students who are weak in the language, the school supports them through the different Learning Support Programmes, such as the Reading Remediation Programme (RRP) and School-based Dyslexia Remediation Programme (SDR), which provide early interventions to help these students access learning beyond  the regular classroom.</p>
 <p>STELLAR aims to strengthen students’ language and reading skills as well as promote a positive attitude towards learning in the foundational years. The programme uses research-based teaching strategies and age-appropriate materials to engage pupils in the learning of English.</p>
-<p><img src="images/image001.jpg" style="width:300px"></p>
+<p><img src="/images/image001.jpg" style="width:300px"></p>
 <p><img src="/images/image003.jpg" style="width:300px"></p>
 <p><img src="/images/image005.jpg" style="width:300px"></p>
 <p><img src="/images/image007.jpg" style="width:300px"><br>
