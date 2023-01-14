@@ -11,6 +11,10 @@ description: ""
 <p><strong>Ms Lim Shin Gann</strong>
 <br>Year Head, Lower Primary
 <br>email: lim_shin_gann@moe.edu.sg</p>
+	
+<p><strong>Ms Raudah Begum Amir Khan</strong>
+<br>Assistant Year Head, Primary 2
+<br>email: raudah_begum_amir_khan@moe.edu.sg</p>
 
 <p><strong>Mrs Sharon Sakthi</strong>
 <br>Year Head, Middle Primary
@@ -21,7 +25,7 @@ description: ""
 <br>email: huang_yaosheng@moe.edu.sg</p>
 
 <p><strong>Mr Abdul Rahman B Amid Marican</strong>
-<br>Asst Year Head, Primary 5
+<br>Assistant Year Head, Primary 4
 <br>email: rahman_marican@moe.edu.sg</p>
 </div>
 </li><li>
