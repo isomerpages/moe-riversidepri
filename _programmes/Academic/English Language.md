@@ -45,20 +45,21 @@ To develop enthusiastic readers and effective communicators
 	</li>
 	
 <li>
-    <input type="checkbox" id="accordion2">
-    <label for="accordion2"><h5 style="color:blue">Buddy Reading Programme</h5></label>
-	<div>
-		<p>Twice a week, Reading Champions and their Reading Buddies get together in the morning for reading. This Buddy Reading Programme harnesses peer support in improving reading proficiency among pupils.</p>
-<p><img src="/images/image017-300x300.jpg" style="width:200px"> <img src="/images/image019-300x300.jpg" style="width:200px"></p>
+<input type="checkbox" id="accordion2">
+<label for="accordion2"><h5 style="color:blue">Buddy Reading Programme</h5></label>
+<div>
+<p>Twice a week, Reading Champions and their Reading Buddies get together in the morning for reading. This Buddy Reading Programme harnesses peer support in improving reading proficiency among pupils.</p>
+<p><img src="/images/image017-300x300.jpg" style="width:200px"></p>
+<p><img src="/images/image019-300x300.jpg" style="width:200px"></p>
 </div>
-	</li>
+</li>
 	
 <li>
     <input type="checkbox" id="accordion3">
     <label for="accordion3"><h5 style="color:blue">“Be Enthusiastic About Reading (BEAR)” Scheme</h5></label>
 	<div>
 <p>Twice a week, Reading Champions and their Reading Buddies get together in the morning for reading. This Buddy Reading Programme harnesses peer support in improving reading proficiency among pupils.</p>
-<p><img src="/images/image021.jpg" style="width:200px">   <img src="/images/image023.jpg" style="width:200px"></p>
+<p><img src="/images/image021.jpg" style="width:300px">   <img src="/images/image023.jpg" style="width:300px"></p>
 <p>The BEAR Scheme aims to inculcate good reading habits in pupils in the foundational years. Pupils are each given a Reading Log to record their book loans.</p>
 
 
