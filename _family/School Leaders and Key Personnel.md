@@ -129,12 +129,20 @@ description: ""
 <br>Senior Teacher, Tamil Language
 <br>email: gayathiri_anasooya_mohanaruben@moe.edu.sg</p>
 
-<p><strong>Mdm Sabrina Bte Sabtu</strong>
-<br>Senior Teacher, Education Support
-<br>email: sabrina_sabtu@moe.edu.sg</p>
-
 <p><strong>Mrs Joanna Kong</strong>
-<br>Senior Teacher, Student Learning Needs Lower Primary Learners
+<br>Senior Teacher, Lower Primary Learners
 <br>email: hang_siew_mei_joanna@moe.edu.sg</p>
+	
+<p><strong>Mdm Ma Shaowen</strong>
+<br>Senior Teacher, Chinese Language
+<br>email: ma_shaowen@moe.edu.sg</p>
+	
+<p><strong>Mrs Candice Chua</strong>
+<br>Senior Teacher, English Language
+<br>email: @moe.edu.sg</p>
+	
+<p><strong>Mdm Ma Shaowen</strong>
+<br>Senior Teacher, Chinese Language
+<br>email: ma_shaowen@moe.edu.sg</p>
 </div>
-</li><li>
+</li>
