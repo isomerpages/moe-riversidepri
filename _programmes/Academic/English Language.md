@@ -34,11 +34,14 @@ To develop enthusiastic readers and effective communicators
 <li><strong>Learning Centres (LC):</strong> The language skills learnt in both SBA and MLEA are reinforced in the Learning Centres (LC). In LC, activities are planned and differentiated for the pupils in three main learning centres – the Reading Centre, the Word Study Centre and the Listening Centre. Pupils have the opportunity to re-learn, revisit or extend what they have learnt at their own pace and in differentiated ability groups.</li>
 </ul>
 <h3 id="upper-primary-strategies">Upper Primary Strategies</h3>
-<p><img src="/images/STELLARUpper2.png" style="width:300px"></p>
+<p><img src="/images/STELLARUpper2.png" style="width 1000px"></p>
 <p>More information on STELLAR can be viewed at <a href="http://www.stellarliteracy.sg/">http://www.stellarliteracy.sg/</a>.</p>
-<p><img src="/images/image009.jpg" style="width:200px">    <img src="/images/image011.jpg" style="width:200px"></p>
-<p><img src="/images/image013.jpg" style="width:200px">    <img src="/images/image015.jpg" style="width:200px"><br><em>Modified Language Experience Approach (MLEA)</em></p>
-		</div>
+<p><img src="/images/image009.jpg" style="width:300px"></p>
+<p><img src="/images/image011.jpg" style="width:300px"></p>
+<p><img src="/images/image013.jpg" style="width:300px"></p>
+<p><img src="/images/image015.jpg" style="width:300px"><br>
+<em>Modified Language Experience Approach (MLEA)</em></p>
+</div>
 	</li>
 	
 <li>
