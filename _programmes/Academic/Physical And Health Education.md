@@ -86,41 +86,21 @@ Through the knowledge and skills learnt in Health Education, pupils are empowere
 		<label for="accordion4"><h5 style="color:royalblue">Happy Active Healthy me</h5></label>
 	 <div>
 					
-<img src="/images/HAH_Me_4.jpg" 
-         style="width:400px"
-			 />
-					 <br>
-<img src="/images/HAH_Me_3.jpg" 
-         style="width:400px"
-	/>
-<br>
-<img src="/images/HAH_Me_2.jpg" 
-         style="width:400px"
-	/>
-<br>
-<img src="/images/HAH_ME_1.jpg" 
-         style="width:400px"
-	/></ul>
+<img src="/images/HAH_Me_4.jpg" style="width:400px"/><br>
+<img src="/images/HAH_Me_3.jpg" style="width:400px"/><br>
+<img src="/images/HAH_Me_2.jpg" style="width:400px"/><br>
+<img src="/images/HAH_ME_1.jpg" style="width:400px"/>
 	</div>
+	</li>
 			
 <li>
     <input type="checkbox" id="accordion5">
 		<label for="accordion5"><h5 style="color:royalblue">P4 Team-building Day</h5></label>
 	 <div>
 			<ul>
-<img src="/images/P4_TB_1.jpg" 
-         style="width:400px"
-			 />
-					 <br>
-<img src="/images/P4_TB_2.jpg" 
-         style="width:400px"
-	/>
-<br>
-<img src="/images/P4_TB_3.jpg" 
-         style="width:400px"
-	/>
-<br>
-<img src="/images/P4_TB_4.jpg" 
-         style="width:400px"
-	/>
-				</div>
+<img src="/images/P4_TB_1.jpg" style="width:400px"/><br>
+<img src="/images/P4_TB_2.jpg" style="width:400px"/><br>
+<img src="/images/P4_TB_3.jpg" style="width:400px"/><br>
+<img src="/images/P4_TB_4.jpg" style="width:400px"/>
+</div>
+</li>
