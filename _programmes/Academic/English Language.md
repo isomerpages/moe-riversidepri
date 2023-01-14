@@ -14,10 +14,10 @@ To develop enthusiastic readers and effective communicators
 *   **Speaking** and **Writing** are productive skills that enable the creation and communication of meaning.
 
 <ul class="jekyllcodex_accordion">
-  <li>
-    <input type="checkbox" id="accordion1">
-		<label for="accordion1"><h5 style="color:royalblue">STELLAR (STrategies for English Language Learning And Reading)</h5></label>
-    <div>
+<li>
+<input type="checkbox" id="accordion1">
+<label for="accordion1"><h5 style="color:royalblue">STELLAR (STrategies for English Language Learning And Reading)</h5></label>
+<div>
 <p>A STELLAR Way to Learn English!</p>
 <p>English is taught in our schools through the STELLAR (STrategies for English Language Learning and Reading) programme. With the aim to develop 21st century competencies to enable our students to communicate effectively and confidently in the globalised world.</p>
 <p>For students who are weak in the language, the school supports them through the different Learning Support Programmes, such as the Reading Remediation Programme (RRP) and School-based Dyslexia Remediation Programme (SDR), which provide early interventions to help these students access learning beyond  the regular classroom.</p>
@@ -55,9 +55,9 @@ To develop enthusiastic readers and effective communicators
 </li>
 	
 <li>
-    <input type="checkbox" id="accordion3">
-    <label for="accordion3"><h5 style="color:blue">“Be Enthusiastic About Reading (BEAR)” Scheme</h5></label>
-	<div>
+<input type="checkbox" id="accordion3">
+<label for="accordion3"><h5 style="color:blue">“Be Enthusiastic About Reading (BEAR)” Scheme</h5></label>
+<div>
 <p>Twice a week, Reading Champions and their Reading Buddies get together in the morning for reading. This Buddy Reading Programme harnesses peer support in improving reading proficiency among pupils.</p>
 <p><img src="/images/image021.jpg" style="width:300px">   <img src="/images/image023.jpg" style="width:300px"></p>
 <p>The BEAR Scheme aims to inculcate good reading habits in pupils in the foundational years. Pupils are each given a Reading Log to record their book loans.</p>
