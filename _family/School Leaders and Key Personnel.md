@@ -57,9 +57,17 @@ description: ""
 <br>Head of Department, Aesthetics
 <br>email: huang_wenjun@moe.edu.sg</p>
 
+<p><strong>Ms Ameerah Sharainee Zain Bte Sha</strong>
+<br>School Staff Developer
+<br>email: ameerah_sharainee_zain_sha@moe.edu.sg</p>
+	
 <p><strong>Ms Lim Shin Gann</strong>
 <br>Year Head, Lower Primary
 <br>email: lim_shin_gann@moe.edu.sg</p>
+	
+<p><strong>Ms Raudah Begum Amir Khan</strong>
+<br>Assistant Year Head, Primary 2
+<br>email: raudah_begum_amir_khan@moe.edu.sg</p>
 
 <p><strong>Mrs Sharon Sakthi</strong>
 <br>Year Head, Middle Primary
@@ -70,7 +78,7 @@ description: ""
 <br>email: huang_yaosheng@moe.edu.sg</p>
 
 <p><strong>Mr Abdul Rahman B Amid Marican</strong>
-<br>Asst Year Head, Primary 5
+<br>Assistant Year Head, Primary 4
 <br>email: rahman_marican@moe.edu.sg</p>
 
 </div>
@@ -103,9 +111,9 @@ description: ""
 <br>Level Head, Chinese Language
 <br>email: ng_yuting@moe.edu.sg</p>
 
-<p><strong>Mrs Candice Yip</strong>
-<br>Level Head, English
-<br>email: chua_cheng_cheng_candice@moe.edu.sg</p>
+<p><strong>Mdm Eity Norhyezah Asyurah</strong>
+<br>Subject Head, Malay Language
+<br>email: eity_norhyezah_asyurah@moe.edu.sg</p>
 
 </div>
 </li><li>
@@ -113,10 +121,6 @@ description: ""
 <input id="accordion4" type="checkbox">
 <label for="accordion4"><h4 style="color:Blue">Senior Teacher/Lead Teacher</h4></label>
 <div>
-<p><strong>Ms Ameerah Sharainee Zain Bte Sha</strong>
-<br>Lead Teacher, Music
-<br>email: ameerah_sharainee_zain_sha@moe.edu.sg</p>
-
 <p><strong>Ms Tang Wai San</strong>
 <br>Senior Teacher, Chinese Language
 <br>email: tang_wai_san@moe.edu.sg</p>
