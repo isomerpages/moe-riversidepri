@@ -77,9 +77,8 @@ Through the knowledge and skills learnt in Health Education, pupils are empowere
     <input type="checkbox" id="accordion3">
 		<label for="accordion3"><h5 style="color:royalblue">Unstructured play during Recess</h5></label>
 <div>
-		<img src="/images/P2_UPlay.jpg" 
-         style="width:400px"
-	/>
+		<img src="/images/P2_UPlay.jpg" style="width:400px"/>
+</div>
 	</li>
 			
 <li>
