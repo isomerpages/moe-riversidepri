@@ -49,8 +49,8 @@ To develop enthusiastic readers and effective communicators
 <label for="accordion2"><h5 style="color:blue">Buddy Reading Programme</h5></label>
 <div>
 <p>Twice a week, Reading Champions and their Reading Buddies get together in the morning for reading. This Buddy Reading Programme harnesses peer support in improving reading proficiency among pupils.</p>
-<p><img src="/images/image017-300x300.jpg" style="width:200px"></p>
-<p><img src="/images/image019-300x300.jpg" style="width:200px"></p>
+<p><img src="/images/image017-300x300.jpg" style="width:300px"></p>
+<p><img src="/images/image019-300x300.jpg" style="width:300px"></p>
 </div>
 </li>
 	
@@ -68,7 +68,9 @@ To develop enthusiastic readers and effective communicators
 <p>R.Cove is the school’s signature facility for fostering a culture of Reading, Research and Reflection. R.Cove provides a print-rich environment to ignite the love of reading in pupils. R.Cove runs monthly themes (e.g. International Friendship Month and Herge’s Birthday) and organises recess activities for pupils. Storytelling sessions are also conducted during recess to excite pupils about books and reading.</p>
 
 <table border="1" class="table table-bordered" style="box-sizing: border-box; border: 1px solid rgb(221, 221, 221); font-size: 18px; font-style: normal; font-weight: 400; margin: 0px 0px 20px; outline: 0px; padding: 0px; vertical-align: baseline; border-collapse: collapse; border-spacing: 0px; width: 973px; background-color: rgb(224, 247, 254); max-width: 100%; color: rgb(51, 51, 51); font-family: Lato; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: justify; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><tbody style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"><tr style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"><td style="box-sizing: border-box; border: 1px solid rgb(221, 221, 221); font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; text-align: left; line-height: 1.42857;">Opening Hours</td><td style="box-sizing: border-box; border: 1px solid rgb(221, 221, 221); font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; text-align: left; line-height: 1.42857;">7.00 a.m. to 12.00 p.m.<br style="box-sizing: border-box;">1.00 p.m. to 3.30 p.m.</td></tr><tr style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"><td style="box-sizing: border-box; border: 1px solid rgb(221, 221, 221); font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; text-align: left; line-height: 1.42857;">Borrowing Privileges</td><td style="box-sizing: border-box; border: 1px solid rgb(221, 221, 221); font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; text-align: left; line-height: 1.42857;">Up to 4 books at any one time<br style="box-sizing: border-box;">(English Language or Mother Tongue)</td></tr></tbody></table>
-<p><img src="/images/image025.jpg" style="width:200px">    <img src="/images/image027.jpg" style="width:200px"></p>
-<p><img src="/images/image029.jpg" style="width:200px">    <img src="/images/image031.jpg" style="width:200px"></p>
+<p><img src="/images/image025.jpg" style="width:300px"></p>
+<p><img src="/images/image027.jpg" style="width:300px"></p>
+<p><img src="/images/image029.jpg" style="width:300px"></p>
+<p><img src="/images/image031.jpg" style="width:300px"></p>
 <p> <em>R.Cove Bustle</em></p>
-	</div>
+</div>
