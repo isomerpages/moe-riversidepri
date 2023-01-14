@@ -97,7 +97,6 @@ Through the knowledge and skills learnt in Health Education, pupils are empowere
     <input type="checkbox" id="accordion5">
 		<label for="accordion5"><h5 style="color:royalblue">P4 Team-building Day</h5></label>
 	 <div>
-			<ul>
 <img src="/images/P4_TB_1.jpg" style="width:400px"/><br>
 <img src="/images/P4_TB_2.jpg" style="width:400px"/><br>
 <img src="/images/P4_TB_3.jpg" style="width:400px"/><br>
