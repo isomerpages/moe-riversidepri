@@ -28,13 +28,9 @@ third_nav_title: About Us
 <p style="color:red">8am to 12noon<br>
 <p>MK Afternoon Session</p>
 <p style="color:red">1pm to 5pm</p>
-<br><img src="/images/MK_Timetable_K1.jpg" 
-         style="width:600px"
-	/>
+<br><img src="/images/MK_Timetable_K1.jpg" style="width:900px"/>
 <br>
-<img src="/images/MK_Timetable_K2.jpg" 
-         style="width:600px"/>
-	</li>	
+<img src="/images/MK_Timetable_K2.jpg" style="width:900px"/></li>	
 		</div>
 	</li>
 	
