@@ -137,9 +137,9 @@ In the event of wet weather, please take note of the following arrangement:<br>
 <label for="accordion7"><h5 style="color:blue">Safety of Students in Special Rooms</h5></label>
 	<div>
 	<ul>
-<li><p><a href="https://riversidepri.moe.edu.sg/information/school-safety-matters/safety-in-art-room/">Safety in Art Room</a></p>
+<li><p><a href="/safety-in-art-room/" target="blank">Safety in Art Room</a></p>
 </li>
-<li><p><a href="https://riversidepri.moe.edu.sg/information/school-safety-matters/safety-in-science-laboratory/">Safety in Science Laboratory</a></p>
+<li><p><a href="/safety-in-science-laboratory/" target="blank">Safety in Science Laboratory</a></p>
 </li>
 </ul>
 	</div>
