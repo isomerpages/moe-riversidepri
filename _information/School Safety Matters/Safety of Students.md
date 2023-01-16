@@ -6,19 +6,19 @@ third_nav_title: School Safety Matters
 ---
 <ul class="jekyllcodex_accordion">
 
-  <li>
-    <input type="checkbox" id="accordion1">
-		<label for="accordion1"><h5 style="color:blue">Visitors to the School</h5></label>
-    <div>
+ <li>
+<input type="checkbox" id="accordion1">
+<label for="accordion1"><h5 style="color:blue">Visitors to the School</h5></label>
+<div>
 Parents wishing to enter the school must register themselves at the security post. Each parent will be issued with a visitor pass which must be worn at all times when in the school. Parents are to approach the General Office for assistance and are not to move into the pupil activity areas(e.g. classrooms and library) in any way.<br>
 			
 Parents who wish to see the teachers are to do so before or after lesson hours.  Parents are strongly encouraged to make an appointment with the teachers before the actual visit.</div>
 </li>
+
 <li>
 <input type="checkbox" id="accordion2">
 <label for="accordion2"><h5 style="color:blue">Arrival and Dismissal of Students</h5></label>
 <div>
-			
 <h5>A) Arrival of Students in the Morning</h5>
 
 To ensure safety of the students when they arrive at the school, the following road safety measures have been put in place. We seek parents’ fullest cooperation and kind support in the implementation.
@@ -33,7 +33,6 @@ From 2019 Term III onwards, the school has 3 pedestrian gates and 2 vehicular ga
 As Gate 2 and Gate 3 will be closed at 7.40am. Please drop off your child at Gate 1 (pedestrian gate near the security guard post) and allow him/her to walk safely into the school.<br>
 
 <h5>Opening of MK Gate for Arrival and Dismissal</h5>
-
 To cater to our primary school students who live in the blocks nearer to MOE Kindergarten, the school is opening the MK Gate as the third pedestrian arrival and dismissal gate. However, the following rules must be adhered to by students and parents to ensure safety, security and discipline.<br>
 <ul>
 <li>Only students are allowed to enter/exit the primary school through the MK Gate. Parents who wish to enter the school must register at the security post at Gate 1.</li>
@@ -45,11 +44,9 @@ To cater to our primary school students who live in the blocks nearer to MOE Kin
 </ul>
 
 <h5>Students Walking to School</h5>
-
 Parents walking their children to school are strongly advised to drop off their children at Gate 1, Gate 4 or MK Gate. Students are to walk safely into school to their classrooms.<br>
 
 <h5>Students Driven to School (Morning Arrival only)</h5>
-
 To ensure the safety of the school community and all road users, we would like to remind parents who drive to the school of the following:<br>
 <ul>
 <li>Drive carefully and within the speed limit of <b>15km/h</b> within the school compound.</li>
