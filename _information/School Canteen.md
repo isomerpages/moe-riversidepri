@@ -29,36 +29,36 @@ As part of promoting healthy living and the habit of drinking plain water among 
     <td>1</td>
     <td>Chinese Noodle</td>
     <td>Mdm Wong Sie Chooi</td>
-		<td>Please Click Here</td>
+		<td>Please Click <a href="/files/STALL-1-MENU.pdf" target="blank"> Here</a></td>
   </tr>
   <tr>
     <td>2</td>
     <td>Chinese Rice</td>
     <td>Mdm Cheong Pui Feng</td>
-		<td>Please Click Here</td>
+		<td>Please Click <a href="/files/STALL-2-MENU.pdf" target="blank"> Here</a></td>
   </tr>
   <tr>
     <td>3</td>
     <td>Western Food</td>
     <td>Mdm Rozita</td>
-		<td>Please Click Here</td>
+		<td>Please Click <a href="/files/STALL-3-MENU.pdf" target="blank"> Here</a></td>
   </tr>
   <tr>
     <td>4</td>
     <td>Malay Noodles</td>
     <td>Mdm Sofia Suzan</td>
-		<td>Please Click Here</td>
+		<td>Please Click <a href="/files/STALL-4-MENU.pdf" target="blank"> Here</a></td>
   </tr>	
   <tr>
     <td>5</td>
     <td>Dim Sum</td>
     <td>Mdm Tang Ching Shih</td>
-		<td>Please Click Here</td>
+		<td>Please Click <a href="/files/STALL-5-MENU.pdf" target="blank"> Here</a></td>
 		  <tr>
     <td>6</td>
     <td>Malay Ricee</td>
     <td>Zulia Binte Dolah</td>
-		<td>Please Click Here</td>
+		<td>Please Click <a href="/files/STALL-6-MENU.pdf" target="blank"> Here</a></td>
   </tr>
   </tr>	
 </table>
