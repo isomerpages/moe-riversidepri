@@ -72,15 +72,21 @@ As part of promoting healthy living and the habit of drinking plain water among 
     <label for="accordion2"><h5 style="color:blue">Recess</h5></label>
 	<div>
 		<p>Staggered Recess to avoid overcrowding and intermingling</p>
-
-
-| Column 1 | Column 2 |
-| -------- | -------- |
-| P1 & P4     | 9.00am - 9.30am     |
-| P2 & P5     | 9.30am - 10.00am     |
-| P3 & P6     | 10.00am - 10.30am     |
+<table>
+  <tr>
+    <th>Company</th>
+    <th>Contact</th>
+    <th>Country</th>
+  </tr>
+  <tr>
+    <td>Alfreds Futterkiste</td>
+    <td>Maria Anders</td>
+    <td>Germany</td>
+  </tr>
+</table>
 </div>
-</li>	
+</li>
+
 	<li>
     <input type="checkbox" id="accordion3">
     <label for="accordion3"><h5 style="color:RoyalBlue">Lunch Break</h5></label>
