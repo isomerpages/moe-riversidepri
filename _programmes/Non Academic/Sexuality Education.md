@@ -133,7 +133,6 @@ At Riverside Primary School, the following lessons from the Growing Years Progra
 	
 <p>Parents may opt their children out of the Growing Years programme.</p>
 <p>Parents who wish to opt their children out of the Growing Years (GY) programme will need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable here. A hardcopy of the form, duly completed and signed, is to be submitted to the school office by Friday, 18 February 2023.</p>
-<p>Riverside Primary – P5 and P6 Growing Years 2023 – Parent Opt-Out Form.pdf</p>
 <p>Parents can contact Mrs Christina Muru (Subject Head, Student Management) at (tel) 63654490 or (email) <a href="mailto:riverside_ps@moe.edu.sg">riverside_ps@moe.edu.sg</a> for discussion or to seek clarification about the school’s Sexuality Education programme.</p>
 <p>Parents who wish to attend the school&#39;s Sexuality Education programme should contact the school to make the necessary arrangements.</p></li>
 			</ul>
