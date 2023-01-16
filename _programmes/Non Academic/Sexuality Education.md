@@ -49,7 +49,7 @@ The upper primary years mark the onset of puberty. With better nutrition and imp
 
 The Primary 5 and 6 Growing Years (GY) package, “Curious Minds (2nd Edition)”, aims to meet students’ developmental needs, give emphasis to the teaching of skills and values, and focus on helping students navigate changes, build healthy relationships, especially online relationships, and exercise safety.
 
-At Riverside Primary School, the following lessons from the Growing Years Programme will be taught in 2022:</p>
+At Riverside Primary School, the following lessons from the Growing Years Programme will be taught in 2023:</p>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -132,8 +132,8 @@ At Riverside Primary School, the following lessons from the Growing Years Progra
 <li>
 	
 <p>Parents may opt their children out of the Growing Years programme.</p>
-<p>Parents who wish to opt their children out of the Growing Years (GY) programme will need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable here. A hardcopy of the form, duly completed and signed, is to be submitted to the school office by Friday, 18 February 2022.</p>
-<p>Riverside Primary – P5 and P6 Growing Years 2022 – Parent Opt-Out Form.pdf</p>
+<p>Parents who wish to opt their children out of the Growing Years (GY) programme will need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable here. A hardcopy of the form, duly completed and signed, is to be submitted to the school office by Friday, 18 February 2023.</p>
+<p>Riverside Primary – P5 and P6 Growing Years 2023 – Parent Opt-Out Form.pdf</p>
 <p>Parents can contact Mrs Christina Muru (Subject Head, Student Management) at (tel) 63654490 or (email) <a href="mailto:riverside_ps@moe.edu.sg">riverside_ps@moe.edu.sg</a> for discussion or to seek clarification about the school’s Sexuality Education programme.</p>
 <p>Parents who wish to attend the school&#39;s Sexuality Education programme should contact the school to make the necessary arrangements.</p></li>
 			</ul>
