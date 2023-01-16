@@ -27,7 +27,7 @@ You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexu
 
   <li>
     <input type="checkbox" id="accordion1">
-    <label for="accordion1"><h5 style="color:navy">Overview of Riverside Primary School's Sexuality Education Programme for 2022</h5></label>
+    <label for="accordion1"><h5 style="color:navy">Overview of Riverside Primary School's Sexuality Education Programme for 2023</h5></label>
     <div>
 <p>Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law.</p>
 			
