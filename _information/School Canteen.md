@@ -18,19 +18,52 @@ As part of promoting healthy living and the habit of drinking plain water among 
 		<label for="accordion1"><h5 style="color:blue">Canteen Stalls</h5></label>
     <div>
 			<p> There are 5 food stalls in the school canteen.</p>
+<table>
+  <tr>
+    <th>Stall</th>
+    <th>Type of Food</th>
+    <th>Name of Stall Owner</th>
+		<th>Menu & Price List</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Chinese Noodle</td>
+    <td>Mdm Wong Sie Chooi</td>
+		<td>Please Click Here</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Chinese Rice</td>
+    <td>Mdm Cheong Pui Feng</td>
+		<td>Please Click Here</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Western Food</td>
+    <td>Mdm Rozita</td>
+		<td>Please Click Here</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Malay Noodles</td>
+    <td>Mdm Sofia Suzan</td>
+		<td>Please Click Here</td>
+  </tr>	
+  <tr>
+    <td>5</td>
+    <td>Dim Sum</td>
+    <td>Mdm Tang Ching Shih</td>
+		<td>Please Click Here</td>
+		  <tr>
+    <td>6</td>
+    <td>Malay Ricee</td>
+    <td>Zulia Binte Dolah</td>
+		<td>Please Click Here</td>
+  </tr>
+  </tr>	
+</table>
 
 
-| Stall Number | Food Type | Name of  Stall owner | Menu  & Price List |
-| -------- | -------- | -------- | -------- |
-| 1     | Chinese Noodle     | Mdm Wong Sie Chooi     | Please click Here     |
-| 2     | Chinese Rice     | Mdm Cheong Pui Feng     | Please click Here     |
-| 3     | Western Food     | Mdm Rozita     | Please click Here     |
-| 4     | Malay Noodles     | Mdm Sofia Suzan     | Please click Here     |
-| 5     | Dim Sum     | Mdm Tang Ching Shih     | Please click Here     |
-| 6     | Malay Rice     | Zulia Binte Dolah     | Please click Here     |			
-
-
-</p>
 </div>
 </li>
 	
