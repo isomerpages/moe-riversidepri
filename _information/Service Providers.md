@@ -33,19 +33,13 @@ Contact Number: 9048 2301 (Mobile)<br>
 		<ul>
 			<li> 
 <p><strong>Chang Chen Pte Ltd</strong>
-<br>
-	
-Contact Person: Mr Grif Lim
-<br>
-	
-Contact Number: 6760 4835
-<br>
-	
-Email Add: <a href="mailto:griflim@hotmail.com">griflim@hotmail.com</a></p><br>
-							
+<br>Contact Person: Mr Grif Lim
+<br>Contact Number: 6760 4835
+<br>Email Add: <a href="mailto:griflim@hotmail.com">griflim@hotmail.com</a></p>
 <p><a href="/files/Request_for_School_Bus_Services.pdf">Request for school bus service form</a></p></li>
 			</ul>
 		</div>
+	</li>
 		
 <li>
 				<input type="checkbox" id="accordion3">
@@ -55,11 +49,7 @@ Email Add: <a href="mailto:griflim@hotmail.com">griflim@hotmail.com</a></p><br>
 			<li>Contact Person: Mr. Ethan Koh<br>  
 Contact Number: 9029 5135<br>  
 <p>Email: <a href="mailto:finestfashioncentre@gmail.com">finestfashioncentre@gmail.com</a></p>
-<br>
-				
 Address: 144 Upper Bukit Timah Rd, B1-03, Singapore 588177<br>
-				
-				
 Uniforms are now available for sale through School Bookshop. </li>
 			</ul>
 		</div>
@@ -95,20 +85,13 @@ Contact Person: Nur Hidayah Ariffin<br>  Contact Number: 8409 7083<br>
 			<li> 
 				<p><b>Dental Clinic @ Riverside Primary School</b>  
 (Dental Therapist from HPB) Ms Lin Liang Chen<br>
-					
 (Contact Number) 87641760<br>
-					
-<b>OPENING DAYS:</b><br>
-					
+<b>OPENING DAYS:</b><br>	
 <b>MON to THURS:</b> 8 AM – 5:30 PM<br>
-					
 <b>FRI:</b> 8 AM – 5 PM <br>
 					
 <b>LUNCH TIME:</b> 1 PM – 2 PM (Please do not disturb)<br>
-					
-
 <b>Buddy Clinic</b> (when clinic is closed)<br>
-					
 
 In the event that the dental clinic is closed, students who require <b>EMERGENCY</b> dental treatment can call any of the buddy clinics (see table) for an appointment.
 
