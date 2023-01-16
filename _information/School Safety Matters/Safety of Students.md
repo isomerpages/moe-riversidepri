@@ -121,14 +121,14 @@ In the event of wet weather, please take note of the following arrangement:<br>
 <li>
 <input type="checkbox" id="accordion6">
 <label for="accordion6"><h5 style="color:blue">Safety during P.E. Lessons</h5></label>
-	<div>
-<br>1.  Students are to wear the PE attire for all PE lessons.</br>
-<br>2.  Students are to have their filled water bottles with them for all PE lessons.</br>
-<br>3.  Students are to listen to and follow the teacher’s instructions.</br>
-<br>4.  Students are to maintain good discipline at all times.</br>
-<br>5.  Students with an asthmatic condition are to have their reliever medicine with them at all times.</br>
-<br>6.  Students who are not able to participate in the PE lesson for the day are to submit to the Form Teacher or PE Teacher a Medical Certificate issued by a doctor or a letter of excuse from the parent.</br>
-<br>7.  Students are to inform the PE Teacher immediately if they are unwell.</br>
+<div>
+1.  Students are to wear the PE attire for all PE lessons.
+<br>2.  Students are to have their filled water bottles with them for all PE lessons.
+<br>3.  Students are to listen to and follow the teacher’s instructions.
+<br>4.  Students are to maintain good discipline at all times.
+<br>5.  Students with an asthmatic condition are to have their reliever medicine with them at all times.
+<br>6.  Students who are not able to participate in the PE lesson for the day are to submit to the Form Teacher or PE Teacher a Medical Certificate issued by a doctor or a letter of excuse from the parent.
+<br>7.  Students are to inform the PE Teacher immediately if they are unwell.
 </div>
 </li>
 	
