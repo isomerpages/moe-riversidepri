@@ -94,9 +94,11 @@ In the event of wet weather, please take note of the following arrangement:<br>
 			<b>Teaching Your Child to Be Independent and Responsible</b><br></p>
 
 <p>We urge parents to develop your child to be independent and responsible from a young age and take ownership of his/her personal items and meals.<br></p>
+<ul>		
 <li>Students should not have food packs (e.g. lunch box) sent to school for recess and lunch. Students are expected to buy food independently from the school canteen during recess and lunch break.</li>
 <li>Students should bring all required items for lessons and CCA to school in the morning. Parents should not take over the child’s responsibility to bring items to school.</li>
 <li>Students should not pass their school bags to their parents or an adult-helper at lunch break.</li>
+		</ul>	
 </div>
 </li>
 
