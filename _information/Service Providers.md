@@ -13,8 +13,14 @@ description: ""
 Contact Person: Ms. Huang Xiulan<br>  
 Contact Number: 9048 2301 (Mobile)<br>  
 		Email: <a href="mailto:rsps@pacificbookstores.com">rsps@pacificbookstores.com</a><br>
-<p><a href="/files/2022_P1_Booklist.pdf">2022 P1 Booklist</a><br>
-<a href="/files/2022_P2_Booklist.pdf">2022 P2 Booklist</a><br><a href="/files/2022_P3_Booklist.pdf">2022 P3 Booklist</a><br><a href="/files/2022_P4_Booklist.pdf">2022 P4 Booklist</a><br><a href="/files/2022_P5_Booklist.pdf">2022 P5 Booklist</a><br><a href="/files/2022_P5_FDN_Booklist.pdf">2022 P5 FDN Booklist</a><br><a href="/files/2022_P6_Booklist.pdf">2022 P6 Booklist</a><br><a href="/files/2022_P6_FDN_Booklist.pdf">2022 P6 FDN Booklist</a></p>
+<p>
+<a href="/files/2023-p1-booklist" target="blank">2023 P1 Booklist</a><br>
+<a href="/files/2023-p2-booklist" target="blank">2023 P2 Booklist</a><br>
+<a href="/files/2023-p3-booklist" target="blank">2023 P3 Booklist</a><br>
+<a href="/files/2023-p4-booklist" target="blank">2023 P4 Booklist</a><br>
+<a href="/files/2023-p5-booklist" target="blank">2023 P5 Booklist</a><br>
+<a href="/files/2023-p5fdn-booklist" target="blank">2023 P5 FDN Booklist</a><br><a href="/files/2023-p6-booklist" target="blank">2023 P6 Booklist</a><br>
+<a href="/files/2023-p6fdn-booklist" target="blank">2023 P6 FDN Booklist</a></p>
 </li>
 			</ul>
 		</div>
