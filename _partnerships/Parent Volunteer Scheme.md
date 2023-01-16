@@ -22,4 +22,4 @@ Registration for Phase 2B Parent Volunteer Scheme for children born between 2 Ja
 
 \*Estimation based on current practice. Subject to changes.
 
-Please fill in the registration form [here](https://form.gov.sg/61db8feef46e870012a6391c).
+Please fill in the registration form<a href="https://form.gov.sg/63ac6747b6f5e50012a3e50c" target="blank">here</a>.
