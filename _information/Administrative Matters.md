@@ -8,7 +8,7 @@ description: ""
     <input type="checkbox" id="accordion1">
 		<label for="accordion1"><h5 style="color:blue">Payment of Schools and Miscellaneous Fees</h5></label>
     <div>
-		<p>Your child&#39;s monthly school fees will differ based on their nationality and the <a href="https://beta.moe.gov.sg/secondary/schools/types/">type of school</a> they attend.<br> 
+		<p>Your child&#39;s monthly school fees will differ based on their nationality and the type of school they attend.<br> 
             <b>Note</b>:</p>
 <ul>
 <li>The Association of Southeast Asian Nations (ASEAN) countries include Brunei Darussalam, Cambodia, Indonesia, Lao PDR, Malaysia, Myanmar, the Philippines, Singapore, Thailand, and Vietnam.</li>
