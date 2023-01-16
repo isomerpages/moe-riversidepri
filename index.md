@@ -23,13 +23,6 @@ sections:
         player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
         encrypted-media; gyroscope; picture-in-picture"
         allowfullscreen></iframe>
-  - infopic:
-      title: Riverside Celebrates
-      subtitle: photo gallery
-      button: view our proud students
-      url: /f/
-      image: /images/homephoto1.jpg
-      alt: riverside primary 10th
   - resources:
       title: ANNOUNCEMENTS
       button: View all news here
