@@ -57,7 +57,6 @@ To ensure the safety of the school community and all road users, we would like t
 </ul>
 
 <h5>(B) Dismissal of Student</h5>
-
 In view of the COVID-19 situation, students are dismissed at staggered timing to avoid intermingling across levels. The staggered timings are as follows:
 
 <table class="table table-bordered" style="box-sizing: border-box; border: 1px solid rgb(221, 221, 221); font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px 0px 20px; outline: 0px; padding: 0px; vertical-align: baseline; border-collapse: collapse; border-spacing: 0px; width: 988.021px; background-color: transparent; max-width: 100%;"><tbody style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"><tr style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"><td style="box-sizing: border-box; border: 1px solid rgb(221, 221, 221); font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; text-align: left; line-height: 1.42857; width: 493.516px;"><span style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: 400; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;">Level</span></td><td style="box-sizing: border-box; border: 1px solid rgb(221, 221, 221); font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; text-align: left; line-height: 1.42857; width: 493.516px;"><span style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: 400; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;">Dismissal</span></td></tr><tr style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"><td style="box-sizing: border-box; border: 1px solid rgb(221, 221, 221); font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; text-align: left; line-height: 1.42857; width: 493.516px;">P1</td><td style="box-sizing: border-box; border: 1px solid rgb(221, 221, 221); font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; text-align: left; line-height: 1.42857; width: 493.516px;">1.20pm</td></tr><tr style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"><td style="box-sizing: border-box; border: 1px solid rgb(221, 221, 221); font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; text-align: left; line-height: 1.42857; width: 493.516px;">P2</td><td style="box-sizing: border-box; border: 1px solid rgb(221, 221, 221); font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; text-align: left; line-height: 1.42857; width: 493.516px;">1.25pm</td></tr><tr style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"><td style="box-sizing: border-box; border: 1px solid rgb(221, 221, 221); font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; text-align: left; line-height: 1.42857; width: 493.516px;">P3</td><td style="box-sizing: border-box; border: 1px solid rgb(221, 221, 221); font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; text-align: left; line-height: 1.42857; width: 493.516px;">1.30pm</td></tr><tr style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"><td style="box-sizing: border-box; border: 1px solid rgb(221, 221, 221); font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; text-align: left; line-height: 1.42857; width: 493.516px;">P4</td><td style="box-sizing: border-box; border: 1px solid rgb(221, 221, 221); font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; text-align: left; line-height: 1.42857; width: 493.516px;">1.30pm</td></tr><tr style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"><td style="box-sizing: border-box; border: 1px solid rgb(221, 221, 221); font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; text-align: left; line-height: 1.42857; width: 493.516px;">P5</td><td style="box-sizing: border-box; border: 1px solid rgb(221, 221, 221); font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; text-align: left; line-height: 1.42857; width: 493.516px;">1.35pm</td></tr><tr style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"><td style="box-sizing: border-box; border: 1px solid rgb(221, 221, 221); font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; text-align: left; line-height: 1.42857; width: 493.516px;">P6</td><td style="box-sizing: border-box; border: 1px solid rgb(221, 221, 221); font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; text-align: left; line-height: 1.42857; width: 493.516px;">1.35pm</td></tr></tbody></table>
@@ -71,41 +70,39 @@ For parents who drive, please do not park your car along the road as this will c
 Parents or any authorised adults waiting to pick up your child should observe social distancing at all times. Please do not gather in groups and proceed home once you have picked up your child.<br>
 
 <h5>Wet Weather Dismissal Arrangement</h5>
-
 In the event of wet weather, please take note of the following arrangement:<br>
 			
 <p>1.  MK Gate will be closed due to safety reasons.  Parents picking up your child at MK gate are to proceed to Gate 4 to pick up your child.<br>
 2.  Parents picking up your child at Gate 1 and Gate 4 are to wait at the respective gates for your child.<br>
 3.  Parents who drive are to park your car at nearby carparks and proceed to Gate 1 or Gate 4 to pick up your child.  Please do not park along the road as this will cause obstructions to other road users.</p>
-</li>	
 </div>
+</li>	
 	
 <li>
-    <input type="checkbox" id="accordion3">
-    <label for="accordion3"><h5 style="color:blue">No-Entry for Parents and Authorised Adults during school hours</h5></label>
+<input type="checkbox" id="accordion3">
+<label for="accordion3"><h5 style="color:blue">No-Entry for Parents and Authorised Adults during school hours</h5></label>
 	<div>
-		<p>To ensure a safe space for our students’ learning, there will be no entry of parents and authorised adults into the school.</p></li>	
-		</div>
+		<p>To ensure a safe space for our students’ learning, there will be no entry of parents and authorised adults into the school.</p>
+</div>
+</li>	
 	
 <li>
-    <input type="checkbox" id="accordion4">
-    <label for="accordion4"><h5 style="color:blue">No Sending of Items and Food Packs</h5></label>
+<input type="checkbox" id="accordion4">
+<label for="accordion4"><h5 style="color:blue">No Sending of Items and Food Packs</h5></label>
 	<div>
 		<p>
 			<b>Teaching Your Child to Be Independent and Responsible</b><br></p>
 
 <p>We urge parents to develop your child to be independent and responsible from a young age and take ownership of his/her personal items and meals.<br></p>
-<ul>
 <li>Students should not have food packs (e.g. lunch box) sent to school for recess and lunch. Students are expected to buy food independently from the school canteen during recess and lunch break.</li>
 <li>Students should bring all required items for lessons and CCA to school in the morning. Parents should not take over the child’s responsibility to bring items to school.</li>
 <li>Students should not pass their school bags to their parents or an adult-helper at lunch break.</li>
-</ul>
-</li>	
-		</div>
-	
+</div>
+</li>
+
 <li>
-    <input type="checkbox" id="accordion5">
-    <label for="accordion5"><h5 style="color:blue">Road Safety for Students</h5></label>
+<input type="checkbox" id="accordion5">
+<label for="accordion5"><h5 style="color:blue">Road Safety for Students</h5></label>
 	<div>
 		<p> We would like to seek parents’ cooperation to work with the school in ensuring the safety of pupils coming to and leaving school. This is especially important as young children may not have the skills required to use roads properly and do not always fully appreciate the dangers presented. Their small physique also makes them less visible to motorists.</p>
 <ul>
@@ -120,8 +117,8 @@ In the event of wet weather, please take note of the following arrangement:<br>
 	</li>
 	
 <li>
-    <input type="checkbox" id="accordion6">
-    <label for="accordion6"><h5 style="color:blue">Safety during P.E. Lessons</h5></label>
+<input type="checkbox" id="accordion6">
+<label for="accordion6"><h5 style="color:blue">Safety during P.E. Lessons</h5></label>
 	<div>
 <p>1.  Students are to wear the PE attire for all PE lessons.</p>
 <p>2.  Students are to have their filled water bottles with them for all PE lessons.</p>
@@ -130,12 +127,12 @@ In the event of wet weather, please take note of the following arrangement:<br>
 <p>5.  Students with an asthmatic condition are to have their reliever medicine with them at all times.</p>
 <p>6.  Students who are not able to participate in the PE lesson for the day are to submit to the Form Teacher or PE Teacher a Medical Certificate issued by a doctor or a letter of excuse from the parent.</p>
 <p>7.  Students are to inform the PE Teacher immediately if they are unwell.</p>
+</div>
 </li>
-		</div>
 	
 <li>
-    <input type="checkbox" id="accordion7">
-    <label for="accordion7"><h5 style="color:blue">Safety of Students in Special Rooms</h5></label>
+<input type="checkbox" id="accordion7">
+<label for="accordion7"><h5 style="color:blue">Safety of Students in Special Rooms</h5></label>
 	<div>
 	<ul>
 <li><p><a href="https://riversidepri.moe.edu.sg/information/school-safety-matters/safety-in-art-room/">Safety in Art Room</a></p>
