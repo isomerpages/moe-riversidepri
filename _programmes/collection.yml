@@ -1,0 +1,27 @@
+collections:
+  programmes:
+    output: true
+    order:
+      - Academic/English Language.md
+      - Academic/Mathematics.md
+      - Academic/Science.md
+      - Academic/Mother Tongue Languages.md
+      - Academic/Art Class.md
+      - Academic/Music.md
+      - Academic/Physical And Health Education.md
+      - Academic/Social Studies.md
+      - Academic/National Education.md
+      - Academic/.keep
+      - Non Academic/Values Education.md
+      - Non Academic/The House System.md
+      - Non Academic/Values in Action.md
+      - Non Academic/Programme for Active Learning.md
+      - Non Academic/Sexuality Education.md
+      - Non Academic/.keep
+      - CCAs/Uniform Group.md
+      - CCAs/Sports.md
+      - CCAs/Clubs and Societies.md
+      - CCAs/Visual Performing Arts.md
+      - CCAs/.keep
+      - Distinctive Programme/Playworks.md
+      - Distinctive Programme/.keep

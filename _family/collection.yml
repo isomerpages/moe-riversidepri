@@ -1,0 +1,8 @@
+collections:
+  family:
+    output: true
+    order:
+      - School Leaders and Key Personnel.md
+      - Teachers.md
+      - Counsellor and Allied Educators.md
+      - Admin and Operations Staff.md

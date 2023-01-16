@@ -1,15 +1,14 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/logo2.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: About US
+    collection: about
+  - title: Family
+    collection: family
+  - title: Programmes
+    collection: programmes
+  - title: Partnerships
+    collection: partnerships
+  - title: Information
+    collection: information
+  - title: Mk @Riverside
+    collection: mk-riverside

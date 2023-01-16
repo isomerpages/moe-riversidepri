@@ -2,8 +2,20 @@
 title: Privacy Statement
 permalink: /privacy/
 ---
+Privacy Statement
+=================
 
-### **Government Agency Privacy Statement**
+1.  This is Riverside Primary School’s website. Thank you for examining our privacy statement.
+    
+2.  If you are only browsing this website, we do not capture data that allows us to identify you individually.
+    
+3.  If you choose to make an application or send us an e-mail for which you provide us with personally identifiable data, we may share necessary data with other Government agencies, so as to serve you in a most efficient and effective way, unless such sharing is prohibited by legislation. We will NOT share your personal data with non-Government entities, except where such entities have been authorised to carry out specific Government services.
+    
+4.  For your convenience, we may also display to you data you had previously supplied us or other Government agencies. This will save you the trouble of repeating previous submissions. Should the data be out-of-date, please supply us the latest data. We will retain your personal data only as necessary for the effective delivery of public services to you.
+    
+5.  To safeguard your personal data, all electronic storage and transmission of personal data are secured with appropriate security technologies.
+    
+6.  This site may contain links to non-Government sites whose data protection and privacy practices may differ from ours. We are not responsible for the content and privacy practices of these other websites and encourage you to consult the privacy notices of those sites.### **Government Agency Privacy Statement**
 
 1. Interdum et malesuada fames ac ante ipsum primis in faucibus. In sagittis ut nisl eget suscipit. Morbi lorem ligula, tincidunt et viverra et, gravida sit amet velit. Duis posuere mi lectus, molestie viverra metus consectetur quis. Fusce dignissim arcu enim, id faucibus felis dignissim ut. Suspendisse potenti. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus blandit sem sit amet neque fringilla cursus. Ut semper imperdiet dolor ac vulputate. Phasellus in accumsan urna. Suspendisse potenti. Curabitur porttitor risus a dolor pellentesque, sed dignissim ligula laoreet. Nullam lacus ligula, malesuada ac vestibulum vitae, condimentum nec sem.
 
