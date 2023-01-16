@@ -108,11 +108,11 @@ In the event of wet weather, please take note of the following arrangement:<br>
 	<div>
 		<p> We would like to seek parents’ cooperation to work with the school in ensuring the safety of pupils coming to and leaving school. This is especially important as young children may not have the skills required to use roads properly and do not always fully appreciate the dangers presented. Their small physique also makes them less visible to motorists.</p>
 <ul>
-<li><p> <a href="https://riversidepri.moe.edu.sg/information/school-safety-matters/general-road-safety-advice-for-students/">General Road Safety Advice for Students</a></p>
+<li><p> <a href="/general-road-safety-advice-for-students/" target="blank">General Road Safety Advice for Students</a></p>
 </li>
-<li><p><a href="https://riversidepri.moe.edu.sg/information/school-safety-matters/safety-advice-for-students-who-cycle-to-school/">Safety Advice for Students who Cycle to School</a></p>
+<li><p><a href="/safety-advice-for-students-who-cycle-to-school/" target="blank">Safety Advice for Students who Cycle to School</a></p>
 </li>
-<li><p><a href="https://riversidepri.moe.edu.sg/information/school-safety-matters/safety-advice-for-students-taking-school-bus/">Safety Advice for Students taking School Bus</a></p>
+<li><p><a href="/safety-advice-for-students-taking-school-bus/" target="blank">Safety Advice for Students taking School Bus</a></p>
 </li>
 </ul>
 		</div>
