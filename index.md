@@ -4,9 +4,7 @@ title: Riverside Primary School
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: MOE Kindergarten @ Riverside 2023 Happening on 18 February 2023.
-  For more info, please click here <a
-  href="/mk-riverside/About-Us/Open-House-2023"> here </a>
+notification: MOE Kindergarten @ Riverside 2023, happening on 18 February 2023.
 sections:
   - hero:
       background: /images/gifhomebanner.gif
