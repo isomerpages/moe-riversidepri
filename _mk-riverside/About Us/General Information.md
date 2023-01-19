@@ -30,9 +30,9 @@ third_nav_title: About Us
 <p style="color:red">1pm to 5pm</p>
 <br><img src="/images/Timetable-K1-2023.jpg" style="width:900px"/>
 <br>
-<img src="/images/Timetable-K2-2023.jpg" style="width:900px"/></li>	
-		</div>
-	</li>
+<img src="/images/Timetable-K2-2023.jpg" style="width:900px"/>	
+</div>
+</li>
 	
 <li>
     <input type="checkbox" id="accordion2">
