@@ -24,7 +24,7 @@ third_nav_title: About Us
 		<label for="accordion1"><h5 style="color:blue">Timetable</h5></label>
     <div>
 <p>MK Morning Session</p>
-<p style="color:red">8am to 12noon<br>
+<p style="color:red">8am to 12noon</p>
 <p>MK Afternoon Session</p>
 <p style="color:red">1pm to 5pm</p>
 <img src="/images/Timetable-K1-2023.jpg" style="width:900px">
