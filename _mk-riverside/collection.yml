@@ -2,10 +2,10 @@ collections:
   mk-riverside:
     output: true
     order:
-      - About Us/Our Instagram.md
-      - About Us/Open House 2023.md
       - About Us/.keep
+      - About Us/Open House 2023.md
       - About Us/General Information.md
+      - About Us/Our Instagram.md
       - About Us/Our Vision Mission And Values.md
       - About Us/Our Learning Environment.md
       - About Us/Our Fees.md
