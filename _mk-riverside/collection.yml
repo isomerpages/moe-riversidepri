@@ -2,6 +2,7 @@ collections:
   mk-riverside:
     output: true
     order:
+      - About Us/Open House 2023.md
       - About Us/.keep
       - About Us/General Information.md
       - About Us/Our Vision Mission And Values.md
