@@ -47,19 +47,13 @@ As part of promoting healthy living and the habit of drinking plain water among 
     <td>4</td>
     <td>Malay Noodles</td>
     <td>Mdm Sofia Suzan</td>
-		<td>Please Click <a href="/files/STALL-4-MENU.pdf" target="blank"> Here</a></td>
+		<td>Please Click <a href="/files/stall4_menu.pdf" target="blank"> Here</a></td>
   </tr>	
   <tr>
     <td>5</td>
     <td>Dim Sum</td>
     <td>Mdm Tang Ching Shih</td>
-		<td>Please Click <a href="/files/STALL-5-MENU.pdf" target="blank"> Here</a></td>
-		  <tr>
-    <td>6</td>
-    <td>Malay Ricee</td>
-    <td>Zulia Binte Dolah</td>
-		<td>Please Click <a href="/files/STALL-6-MENU.pdf" target="blank"> Here</a></td>
-  </tr>
+		<td>Please Click <a href="/files/stall5_menu.pdf" target="blank"> Here</a></td>
   </tr>	
 </table>
 
