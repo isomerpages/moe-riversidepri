@@ -259,7 +259,7 @@ description: ""
 
 <h5 style="color:Blue">P5 Responsibility</h5>
 <strong>Mr Fauzy</strong>
-<br>Email: 
+<br>Email: mohamed_fauzy_juffrey@moe.edu.sg
 
 <p><strong>Mdm Ma Shaowen</strong>
 <br>Email: ma_shaowen@moe.edu.sg</p>
