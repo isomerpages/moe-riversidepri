@@ -29,19 +29,19 @@ As part of promoting healthy living and the habit of drinking plain water among 
     <td>1</td>
     <td>Chinese Noodle</td>
     <td>Mdm Wong Sie Chooi</td>
-		<td>Please Click <a href="/files/STALL-1-MENU.pdf" target="blank"> Here</a></td>
+		<td>Please Click <a href="/files/stall1_menu.pdf" target="blank"> Here</a></td>
   </tr>
   <tr>
     <td>2</td>
     <td>Chinese Rice</td>
     <td>Mdm Cheong Pui Feng</td>
-		<td>Please Click <a href="/files/STALL-2-MENU.pdf" target="blank"> Here</a></td>
+		<td>Please Click <a href="/files/stall2_menu.pdf" target="blank"> Here</a></td>
   </tr>
   <tr>
     <td>3</td>
     <td>Western Food</td>
     <td>Mdm Rozita</td>
-		<td>Please Click <a href="/files/STALL-3-MENU.pdf" target="blank"> Here</a></td>
+		<td>Please Click <a href="/files/stall3_menu.pdf" target="blank"> Here</a></td>
   </tr>
   <tr>
     <td>4</td>
