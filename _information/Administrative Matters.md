@@ -36,6 +36,38 @@ Account holders from the following banks can sign up for the GIRO scheme with MO
 <br>•	United Overseas Bank (UOB)
 <br><Br>Other bank account holders will need to complete a <a href="https://www.moe.gov.sg/-/media/files/financial-matters/fees/egiro/giro_application_form_nov2022.ashx?la=en&hash=3D960AF72CE5628676A1654992A5EE12C50C317A" target="blank">GIRO application form </a> and submit the original signed form to your child’s school. 
 
+Other Methods of payment are as follows:
+<br>•	SGQR
+	<br>1.	Launch your preferred payment app from those shown in the bill.
+<br>2.	Scan the SGQR.
+<br>3.	Check that you are paying to 'Ministry of Education'.
+<br>4.	Follow the on-screen instructions.
+The SGQR code is unique to each bill. Always use the SGQR code on the latest bill so that your payment will be updated promptly.
+<br><br>•	SingPost Mobile App
+	<br>1.	Download the SingPost Mobile App from App Store or Google Play. Create an account using your mobile number.
+<br>2.	Select 'Pay with SAM' icon. 
+<br>3.	Log in with your 6-digit account PIN. 
+<br>4.	Select ‘Education’, followed by 'Ministry of Education'.
+<br>5.	Select 'MOE - Student Bill'. 
+<br>6.	Follow the on-screen instructions.
+<br><br>•	SingPost SAM web
+	<br>1.	Visit https://www.mysam.sg.
+<br>2.	Create and log in to your SAM account.
+<br>3.	Select 'Payments'.
+<br>4.	Select 'Ministry of Education' under Education.
+<br>5.	Select 'Student Bill'.
+<br>6.	Follow the on-screen instructions.
+<br><br>•	SingPost SAM kiosk
+<br>1.	Locate your nearest SAM kiosk at https://www.singpost.com/locate-us.
+<br>2.	At the kiosk, Select 'Payments'.
+<br>3.	Select 'Ministry of Education' under Education.
+<br>4.	Select 'Student Bill'.
+<br>5.	Follow the on-screen instructions.
+<br><br>•	Cash, Cheque or Cashier’s Order
+<br>You can pay by cash, cheque or cashier’s order at the school. Cheque payment or cashier's order should be made payable to ‘Ministry of Education’.
+Please indicate the student’s name, UIN and school name on the reverse side of the cheque. If your cheque is for more than one student, please state the amount for each student.
+
+
 </div>
 </li>
 
