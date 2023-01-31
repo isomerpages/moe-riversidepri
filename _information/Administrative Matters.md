@@ -25,31 +25,20 @@ description: ""
 <p>3.  <b>Second-tier miscellaneous fees</b> are set by the schools within a range determined by MOE, which is up to 100% of the standard miscellaneous fees. The fees go towards individual schools’ budgets and operating expenses. The same rate applies to all students, regardless of nationality.
 <br></p>
 <p>Singapore Citizens in primary schools may be eligible for financial assistance under the MOE Financial Assistance Scheme. Some students may also be eligible for merit-based awards and scholarships.</p>
-<ul>
-<li><b>How to pay?</b></li>
-</ul>
-<p>You can pay the fees in the following ways:</p>
-<p>1.  <b>GIRO</b></p>
-<p>For DBS and OCBC account holders, you can join the GIRO scheme through your respective online banking portals.</p>
-<p>1.  Select ‘MOE&#39; as the billing organisation.<br></p>
-<p>2.  Use your child&#39;s student ID as the direct debit authorisation reference number.<br></p>
-<p>3.  Do not set any deduction limit.</p>
-<p>For DBS/POSB account holders, you can join the GIRO scheme through <a href="https://www.form.gov.sg/#!/5d95490c7f5cfb0013133875">online form</a>. You will need to log in using your SingPass.
-<br></p>
-<p>For other bank account holders, you can complete a <a href="https://va.ecitizen.gov.sg/css/hybrid/themes/moe/uploads/giro_application_form_revisedsep19.pdf">GIRO application form</a>, and submit the original signed form to our school’s General Office. </p>
-<p>2.  <b>Singpost (SAM)</b></p>
-<p>With effect from 1 May 2021, SingPost will be replacing AXS as the self-service payment provider for MOE and School Bills, MOE Kindergarten Bills and Other Payments to schools. Public can still use AXS payment services until 30 April 2021 (8pm).<br></p>
 
-Payment modes available are:
-<br>
-			
-<table class="table table-bordered" style="box-sizing: border-box; border: 1px solid rgb(221, 221, 221); font-size: 18px; font-style: normal; font-weight: 400; margin: 0px 0px 20px; outline: 0px; padding: 0px; vertical-align: baseline; border-collapse: collapse; border-spacing: 0px; width: 973.021px; background-color: rgb(224, 247, 254); max-width: 100%; color: rgb(51, 51, 51); font-family: Lato; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: justify; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><tbody style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"><tr style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"><td style="box-sizing: border-box; border: 1px solid rgb(221, 221, 221); font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; text-align: left; line-height: 1.42857; width: 486.016px;"><span style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: 400; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;">eSAM</span></td><td style="box-sizing: border-box; border: 1px solid rgb(221, 221, 221); font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; text-align: left; line-height: 1.42857; width: 486.016px;"><span style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: 400; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;">NETS (ATM), NETS FlashPay, AMEX, Mastercard, VISA</span></td></tr><tr style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"><td style="box-sizing: border-box; border: 1px solid rgb(221, 221, 221); font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; text-align: left; line-height: 1.42857; width: 486.016px;"><span style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: 400; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;">wSAM</span></td><td style="box-sizing: border-box; border: 1px solid rgb(221, 221, 221); font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; text-align: left; line-height: 1.42857; width: 486.016px;"><span style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: 400; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;">eNETS Debit, AMEX, Mastercard, VISA</span></td></tr><tr style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"><td style="box-sizing: border-box; border: 1px solid rgb(221, 221, 221); font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; text-align: left; line-height: 1.42857; width: 486.016px;"><span style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: 400; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;">mSAM</span></td><td style="box-sizing: border-box; border: 1px solid rgb(221, 221, 221); font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; text-align: left; line-height: 1.42857; width: 486.016px;"><span style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: 400; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;">eNETS Debit, AMEX, Mastercard, VISA</span></td></tr></tbody></table>
-<p>3.  <b>Cash, cheque or cashier&#39;s order</b></p>
-<p>You can pay by cash, cheque or cashier’s order at the school. Cheque payment or cashier&#39;s order should be made payable to ‘Ministry of Education’.</p>
-<p>Please indicate the student’s name, UIN and school name on the reverse side of the cheque. If your cheque is for more than one student, please state the amount for each student.</p>
-<p><strong>Note:</strong> As a Singapore Citizen student, you may choose to pay the second-tier miscellaneous fees from your Edusave account. Complete the <a href="https://va.ecitizen.gov.sg/css/hybrid/themes/moe/uploads/edusave_application_form_revisedsep19.pdf">Edusave Standing Order form</a> and submit it our school’s General Office.</p>
-		</div>
-	</li>
+Account holders from the following banks can sign up for the GIRO scheme with MOE through <a href= "https://www.moe.gov.sg/financial-matters/fees/egiro" target="blank">eGIRO: </a>
+<br>•	Bank of China (BOC)
+<br>•	DBS Bank or POSB
+<br>•	Maybank
+<br>•	Oversea-Chinese Banking Corporation Limited (OCBC)
+<br>•	Standard Chartered Bank (SCB)
+<br>•	Hongkong and Shanghai Banking Corporation Limited(HSBC)
+<br>•	United Overseas Bank (UOB)
+<br><Br>Other bank account holders will need to complete a GIRO application form and submit the original signed form to your child’s school.
+
+</div>
+</li>
+
 	
 <li>
     <input type="checkbox" id="accordion2">
@@ -61,8 +50,6 @@ Payment modes available are:
 <p>You can click <a href="https://www.moe.gov.sg/financial-matters/financial-assistance">here</a> to find out if you are eligible for the MOE Financial Assistance Scheme.
 <br></p>
 <p>Transport Voucher Redemption Process (Only for successful applicants)<br><br>For successful applicants, please click <a href="/files/TransitLink_Evoucher_Redemption_Process.pdf">here</a> for the Transport Voucher Redemption instructions.</p>
-		</div>
-	</li>
 	
 <li>
     <input type="checkbox" id="accordion3">
