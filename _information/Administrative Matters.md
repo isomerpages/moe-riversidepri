@@ -181,5 +181,4 @@ Please indicate the student’s name, UIN and school name on the reverse side of
 <p>^A refund is only given for the remaining card value and/or the unused period of your Monthly Concession Pass. The $5 card cost and $3.10 personalisation fee are both non-refundable.<br></p>
 <p>Any person helping you apply for a replacement card must present his/her own original NRIC/passport in addition to the above-mentioned items</p>
 		</div>
-	</li>
-	</ul>
+	</li></ul>
