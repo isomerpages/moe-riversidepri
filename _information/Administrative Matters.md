@@ -151,7 +151,7 @@ Please indicate the student’s name, UIN and school name on the reverse side of
 <li><b>You can apply for a concession card replacement via the following channels to enjoy a lower admin fee:</b>
 </li>
 </ul>
-<p>•	TransitLink website
+<p>•	<a href="https://www.transitlink.com.sg/lost-card-replacement" target="blank">TransitLink website</a>
 <br>•	TL SimplyGo app
 <br>•	TransitLink Kiosk
 <br>For immediate card replacement or for those with damaged / defective concession card, please bring the following items to any Concession Card Replacement Office:
