@@ -148,36 +148,15 @@ Please indicate the student’s name, UIN and school name on the reverse side of
 <p>The Temporary Card is encoded with $5.00 in travel value to help you make your way to the TransitLink Concession Card Replacement Office for an immediate replacement. Do take note that the Temporary Card is valid for only 10 days. You may also top-up the card for use and adult fare will be deducted. When making your new concession card, the Temporary Card must be returned.
 <br></p>
 <ul>
-<li><b>What should I do if I need to replace my child’s School Smart Card (SCC)?</b></li>
-</ul>
-<p>There are 3 ways to get your card replaced.</p>
-<p>1.  You may apply for an online replacement&nbsp;<a href="https://www.transitlink.com.sg/eservice/econcession/app_form1.php?app_type=2">here</a>.<br>
-2.  You may apply for an immediate replacement at any&nbsp;<a href="https://www.transitlink.com.sg/PSdetail.aspx?ty=art&amp;Id=111">Concession Card Replacement Office</a>.<br>
-3.  Or simply download TL SimplyGo mobile app for the full suite of e-Services.<br>    Download links:&nbsp;<a href="https://itunes.apple.com/sg/app/transitlink-mobile-services/id667933103?mt=8">Apple Appstore</a>&nbsp;|&nbsp;<a href="https://play.google.com/store/apps/details?id=sg.com.transitlink&amp;hl=en">Google Play</a><br></p>
-<p>You may also get an immediate lost card replacement at the&nbsp;<a href="https://www.transitlink.com.sg/PSdetail.aspx?ty=cat&amp;Id=25">TransitLink Kiosk</a>.<br></p>
-<p>If you are heading down to the Concession Card Replacement Office to apply for a replacement, kindly bring along:</p>
-<p>1.  1 x colour, passport-sized photograph*<br>
-2.  Existing concession card (if not lost and refund^&nbsp;is required)<br>
-3.  Either&nbsp;of the following proof of identity:<br></p>
-<ul>
-<li><p>Original NRIC/passport (Singapore citizens); or<br></p>
-</li>
-<li><p>Original Certificate of Singapore Citizenship (new Singapore citizens); or</p>
-<ul>
-<li>Original NRIC/Re-Entry Permit (Singapore Permanent Residents); or</li>
-<li>Original Student Pass (FIN, for foreign students); or</li>
-<li>Original Singapore Armed Forces/Singapore Civil Defence Force/Singapore Police Force Identity Card (National Servicemen)</li>
-</ul>
+<li><b>You can apply for a concession card replacement via the following channels to enjoy a lower admin fee:</b>
 </li>
 </ul>
-<p><i>*The photograph must:</i> &nbsp;</p>
-<ul>
-<li><i>Be taken within the last three months</i></li>
-<li><i>Have a white background</i></li>
-<li><i>Show the full face from the top of the head to the chin</i></li>
-<li><i>Have neatly combed or tied up hair</i></li>
-</ul>
-<p>^A refund is only given for the remaining card value and/or the unused period of your Monthly Concession Pass. The $5 card cost and $3.10 personalisation fee are both non-refundable.<br></p>
-<p>Any person helping you apply for a replacement card must present his/her own original NRIC/passport in addition to the above-mentioned items</p>
+<p>•	TransitLink website
+<br>•	TL SimplyGo app
+<br>•	TransitLink Kiosk
+<br>For immediate card replacement or for those with damaged / defective concession card, please bring the following items to any Concession Card Replacement Office:
+<br><br>•	Singapore Citizens: Original NRIC/Passport/Birth Certificate (for students without NRIC)
+Singapore Permanent Residents: Original NRIC/Re-entry Permit; and
+<br>•	a colour passport-sized photograph taken within the last three months against a white background. The photo must show your full face from chin to crown of the head with hair neatly combed or tied up.</p>
 		</div>
-	</li></ul>
+	</li>
