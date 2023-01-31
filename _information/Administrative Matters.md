@@ -34,7 +34,7 @@ Account holders from the following banks can sign up for the GIRO scheme with MO
 <br>•	Standard Chartered Bank (SCB)
 <br>•	Hongkong and Shanghai Banking Corporation Limited(HSBC)
 <br>•	United Overseas Bank (UOB)
-<br><Br>Other bank account holders will need to complete a GIRO application form and submit the original signed form to your child’s school.
+<br><Br>Other bank account holders will need to complete a <a href="https://www.moe.gov.sg/-/media/files/financial-matters/fees/egiro/giro_application_form_nov2022.ashx?la=en&hash=3D960AF72CE5628676A1654992A5EE12C50C317A" target="blank">GIRO application form </a> and submit the original signed form to your child’s school. 
 
 </div>
 </li>
