@@ -89,7 +89,7 @@ Please indicate the student’s name, UIN and school name on the reverse side of
 <p>Every student in Riverside Primary School is covered under the&nbsp;NTUC Income Insurance Co-operative Limited&nbsp;Group Personal Accident Insurance Plan. This plan provides accident coverage for all school activities conducted both in and out of school for the period 1 January 2018 to 31 December 2020. The plan has been extended for another three years for the period 1 January 2021 to 31 December 2023.
 <br></p>
 <p>Premiums for the policy are borne fully by the Ministry of Education.<br></p>
-<p><a href="/files/Product-Fact-Sheet-Year-2022.pdf">Group Personal Accident Insurance for Students Fact Sheet.</a>
+<p><a href="/files/Product_Fact_Sheet_Year_2023.pdf">Group Personal Accident Insurance for Students Fact Sheet.</a>
 <br>
 <a href="/files/StudentGPA-User-Guide-for-Parent.pdf">eSubmission User Guide</a><br></p>
 <p>For claim-related enquires, you can&nbsp;contact or approach the General Office.</p>    
