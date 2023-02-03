@@ -9,7 +9,7 @@ third_nav_title: Non Academic
 <ul class="jekyllcodex_accordion">
 <li>
 <input type="checkbox" id="accordion1">
-<label for="accordion1"><h5 style="color:blue">The Goals of Sexuality Education are:</h5></label>
+<label for="accordion1"><h5 style="color:blue">2. The Goals of Sexuality Education are:</h5></label>
 <div>
 	<table>
 		<tr>
@@ -28,7 +28,7 @@ third_nav_title: Non Academic
 	</div>
 <li>
 <input type="checkbox" id="accordion2">
-<label for="accordion2"><h5 style="color:blue">The Key Messages of Sexuality Education are:</h5></label>
+<label for="accordion2"><h5 style="color:blue">3. The Key Messages of Sexuality Education are:</h5></label>
 <div>
 	<table><tr>
 		<td>a.</td>
