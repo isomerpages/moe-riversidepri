@@ -32,16 +32,16 @@ third_nav_title: Non Academic
 <div>
 	<table><tr>
 		<td>a.</td>
-		<td></td>
+		<td>Love and respect yourself as you love and respect others;</td>
 		</tr><tr>
 		<td>b.</td>
-		<td></td>
+		<td>Build positive relationships based on love and respect (which are the foundation for strong families);</td>
 		</tr><tr>
 		<td>c.</td>
-		<td></td>
+		<td>Make responsible decisions for yourself, your family and society; and</td>
 		</tr><tr>
 		<td>d.</td>
-		<td></td>
+		<td>Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.</td>
 		</tr>
 	</table>
 	</div>
