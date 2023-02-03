@@ -40,11 +40,10 @@ You may click<a href=" https://go.gov.sg/moe-sexuality-education" target="blank"
 			
 <li>
 <input type="checkbox" id="accordion2">
-    <label for="accordion2"><h5 style="color:RoyalBlue">Growing Years (GY) Programme</h5></label>
+    <label for="accordion2"><h5 style="color:RoyalBlue">Sexuality Education Lessons:</h5></label>
 
     <div>
 <ul>
 <li>
 
 <p>“Curious Minds (2nd Edition)” (Primary 5 & 6) Teaching and Learning Resource Package
-
