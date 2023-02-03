@@ -136,7 +136,7 @@ Lesson 2<br>(60 min)</td>
 		<td>Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers.</td>
 		</tr><tr>
 		<td>9</td>
-		<td>Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form is also downloadable here. The completed opt-out form is to be submitted by 24 February 2023.</td>
+		<td>Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form is also downloadable <a href="/files/Annex_A_Parent_Opt_Out_Form_2023.pdf" target="blank">here</a>. The completed opt-out form is to be submitted by 24 February 2023.</td>
 		</tr><tr>
 		<td>10</td>
 		<td>Parents can contact Mrs Christina Muru (Subject Head, Student Management) at (tel) 63654490 or (email) riverside_ps@moe.edu.sg for discussion or to seek clarification about the school’s Sexuality Education programme.</td>
