@@ -53,6 +53,12 @@ You may click<a href=" https://go.gov.sg/moe-sexuality-education" target="blank"
 	</table>
 At Riverside Primary School, the following Sexuality Education lessons will be taught in <b>2023:</b>
 <table>
+	<tr>
+		<th>CCE (FTGP) THEME</th>
+		<th>LESSON TITLE / DURATION</th>
+		<th>LESSON OVERVIEW</th>
+		<th>TIME PERIOD</th>
+	</tr>
  <tr>
   <td rowspan="2">Growing Years</td>
   <td>The Changes in Me<br>(60 min)
@@ -66,5 +72,6 @@ This lesson is conducted separately for boys and girls in different classrooms, 
   <td> Did You Know? <br>(60 min)</td>
   <td>This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy ‘Stop-Think-Do’. 
 This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</td>
+<td>Term 4</td>	
  </tr>
 	</table>
