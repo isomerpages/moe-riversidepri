@@ -5,135 +5,142 @@ description: ""
 third_nav_title: Non Academic
 ---
 ### Sexuality Education
-
-Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.
-
-The goals of Sexuality Education are:
-
-1.  To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate knowledge on human sexuality and the consequences of sexual activity;
-2.  To help students know themselves and build healthy and rewarding relationships through the acquisition of social and emotional skills of self-awareness, management of their thoughts, feelings and behaviours, development of empathy for others, possession of effective communication, problem-solving and decision-making skills; and
-3.  To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of positive mainstream values and attitudes about sexuality.
-
-The key messages of Sexuality Education are:
-
-1.  Love and respect yourself as you love and respect others;
-2.  Build positive relationships based on love and respect (which are the foundation for strong families);
-3.  Make responsible decisions for yourself, your family and society; and
-4.  Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
-
-You may click <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education" target="blank">here</a> for more information on MOE Sexuality Education.
-
+1. Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.
 <ul class="jekyllcodex_accordion">
-
-  <li>
-    <input type="checkbox" id="accordion1">
-    <label for="accordion1"><h5 style="color:navy">Overview of Riverside Primary School's Sexuality Education Programme for 2023</h5></label>
-    <div>
-<p>Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law.</p>
-			
-<p>You may click <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education/scope-and-teaching-approach" target="blank">here</a> for more information on the scope of Sexuality Education in the school curriculum.</p>
-<p>The subjects that incorporate topics on sexuality include:<br>1.  Science<br>2.  Form Teacher Guidance Period (FTGP)<br>3.  Character and Citizenship Education (CCE)</p>
-			</div>
-			
+<li>
+<input type="checkbox" id="accordion1">
+<label for="accordion1"><h5 style="color:blue">Goals of Sexuality Education</h5></label>
+<div>
+	2. The Goals of Sexuality Education are:
+	<table>
+		<tr>
+			<td>a.</td>
+			<td>To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate knowledge on human sexuality and the consequences of sexual activity;</td>
+		</tr>
+		<tr>
+			<td>b.</td>
+			<td>To help students know themselves and build healthy and rewarding relationships through the acquisition of social and emotional skills of self-awareness, management of their thoughts, feelings and behaviours, development of empathy for others, possession of effective communication, problem-solving and decision-making skills; and</td>
+		</tr>
+		<tr>
+			<td>c.</td>
+			<td>To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of positive mainstream values and attitudes about sexuality. </td>
+		</tr>	
+	</table>
+	</div>
 <li>
 <input type="checkbox" id="accordion2">
-    <label for="accordion2"><h5 style="color:RoyalBlue">Growing Years (GY) Programme</h5></label>
-
-    <div>
-<ul>
-<li>
-
-<p>“Curious Minds (2nd Edition)” (Primary 5 & 6) Teaching and Learning Resource Package
-
-The upper primary years mark the onset of puberty. With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. “Curious Minds” is a response to these challenges.
-
-The Primary 5 and 6 Growing Years (GY) package, “Curious Minds (2nd Edition)”, aims to meet students’ developmental needs, give emphasis to the teaching of skills and values, and focus on helping students navigate changes, build healthy relationships, especially online relationships, and exercise safety.
-
-At Riverside Primary School, the following lessons from the Growing Years Programme will be taught in 2023:</p>
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-x189{background-color:#E0F7FE;color:#333;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-h9yw{background-color:#E0F7FE;color:#333;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-x189" colspan="4"><span style="font-weight:700;font-style:inherit">PRIMARY 5</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-x189"><span style="font-weight:700;font-style:inherit">UNIT</span></td>
-    <td class="tg-x189"><span style="font-weight:700;font-style:inherit">LESSON/DURATION</span></td>
-    <td class="tg-x189"><span style="font-weight:700;font-style:inherit">LESSON OBJECTIVES</span><br><br><span style="font-weight:700;font-style:inherit">At the end of each lesson, students will be able to:</span></td>
-    <td class="tg-x189"><span style="font-weight:700;font-style:inherit">TIME PERIOD</span></td>
-  </tr>
-  <tr>
-    <td class="tg-h9yw" rowspan="4"><span style="font-weight:inherit;font-style:inherit">Gosh! I Am Changing</span></td>
-    <td class="tg-h9yw"><span style="font-weight:inherit;font-style:inherit">What Is Happening To Me?</span><br><br><span style="font-weight:inherit;font-style:inherit">(30 min)</span></td>
-    <td class="tg-h9yw"><span style="font-weight:inherit;font-style:inherit">Know what puberty is</span><br><span style="font-weight:inherit;font-style:inherit">Identify the physical changes during puberty</span></td>
-    <td class="tg-h9yw" rowspan="2"><span style="font-weight:inherit;font-style:inherit">Term II</span><br><br><span style="font-weight:inherit;font-style:inherit">Week 9</span></td>
-  </tr>
-  <tr>
-    <td class="tg-h9yw"><span style="font-weight:inherit;font-style:inherit">What Can I Do?</span><br><br><span style="font-weight:inherit;font-style:inherit">(Part 1)</span><br><span style="font-weight:inherit;font-style:inherit">(30 min)</span></td>
-    <td class="tg-h9yw"><span style="font-weight:inherit;font-style:inherit">Identify the stresses caused by physical changes during  puberty</span><br><span style="font-weight:inherit;font-style:inherit">Describe ways to manage the stresses caused by physical  changes during puberty</span></td>
-  </tr>
-  <tr>
-    <td class="tg-h9yw"><span style="font-weight:inherit;font-style:inherit">What Can I Do?</span><br><br><span style="font-weight:inherit;font-style:inherit">(Part 2)</span><br><span style="font-weight:inherit;font-style:inherit">(30 min)</span></td>
-    <td class="tg-h9yw"><span style="font-weight:inherit;font-style:inherit">Identify the stresses caused by physical and emotional  changes during puberty</span><br><span style="font-weight:inherit;font-style:inherit">Describe ways to manage the stresses caused by these  changes during puberty</span></td>
-    <td class="tg-h9yw" rowspan="2"><span style="font-weight:inherit;font-style:inherit">Term II</span><br><br><span style="font-weight:inherit;font-style:inherit">Week 9</span></td>
-  </tr>
-  <tr>
-    <td class="tg-h9yw"><span style="font-weight:inherit;font-style:inherit">Main Task</span><br><br><span style="font-weight:inherit;font-style:inherit">(30 min)</span></td>
-    <td class="tg-h9yw"><span style="font-weight:inherit;font-style:inherit">Play the role of an Uncle/Aunt Agony to help a  peer address his/her experiences during puberty</span><br><span style="font-weight:inherit;font-style:inherit">Share ways to help him/her cope with the changes  he/she is going through</span></td>
-  </tr>
-  <tr>
-    <td class="tg-h9yw" rowspan="2"><span style="font-weight:inherit;font-style:inherit">Where I</span><br><br><span style="font-weight:inherit;font-style:inherit">Belong</span></td>
-    <td class="tg-h9yw"><span style="font-weight:inherit;font-style:inherit">What Are Families?</span><br><br><span style="font-weight:inherit;font-style:inherit">(30 min)</span></td>
-    <td class="tg-h9yw"><span style="font-weight:inherit;font-style:inherit">Know that there are different types of family  structures</span><br><span style="font-weight:inherit;font-style:inherit">Know that every family is unique</span><br><span style="font-weight:inherit;font-style:inherit">State that the three basic functions of families are to  provide love, protection and guidance</span><br><span style="font-weight:inherit;font-style:inherit">Identify the right sources of help to turn to when in  need</span></td>
-    <td class="tg-h9yw" rowspan="2"><span style="font-weight:inherit;font-style:inherit">Term IV</span><br><br><span style="font-weight:inherit;font-style:inherit">Week 9</span></td>
-  </tr>
-  <tr>
-    <td class="tg-h9yw"><span style="font-weight:inherit;font-style:inherit">What is My Role?</span><br><br><span style="font-weight:inherit;font-style:inherit">(30 min)</span></td>
-    <td class="tg-h9yw"><span style="font-weight:inherit;font-style:inherit">Know that gender is about being male or female</span><br><span style="font-weight:inherit;font-style:inherit">Choose not to stereotype by gender</span></td>
-  </tr>
-  <tr>
-    <td class="tg-h9yw" rowspan="2"><span style="font-weight:inherit;font-style:inherit">How Do I Keep Myself Safe?</span></td>
-    <td class="tg-h9yw"><span style="font-weight:inherit;font-style:inherit">What is Safety?</span><br><br><span style="font-weight:inherit;font-style:inherit">(30 min)</span></td>
-    <td class="tg-h9yw"><span style="font-weight:inherit;font-style:inherit">Know what sexual abuse is</span><br><span style="font-weight:inherit;font-style:inherit">Know that there are laws in Singapore that can protect  them from sexual abuse</span><br><span style="font-weight:inherit;font-style:inherit">Know their rights in keeping themselves safe from  sexual abuse</span></td>
-    <td class="tg-h9yw" rowspan="2"><span style="font-weight:inherit;font-style:inherit">Term IV</span><br><br><span style="font-weight:inherit;font-style:inherit">Week 9</span></td>
-  </tr>
-  <tr>
-    <td class="tg-h9yw"><span style="font-weight:inherit;font-style:inherit">Stop It! Run! Tell!</span><br><br><span style="font-weight:inherit;font-style:inherit">(30 min)</span></td>
-    <td class="tg-h9yw"><span style="font-weight:inherit;font-style:inherit">Protect themselves by resisting and removing themselves  from harm and seeking help from a trusted adult</span><br><span style="font-weight:inherit;font-style:inherit">Know their responsibilities in minimising the risk of  sexual harm</span></td>
-  </tr>
-</tbody>
-</table>
-	<br>
-	
-	  
-
-<table class="table table-bordered" style="box-sizing: border-box; border: 1px solid rgb(221, 221, 221); font-size: 18px; font-style: normal; font-weight: 400; margin: 0px 0px 20px; outline: 0px; padding: 0px; vertical-align: baseline; border-collapse: collapse; border-spacing: 0px; width: 723.958px; background-color: rgb(224, 247, 254); max-width: 100%; color: rgb(51, 51, 51); font-family: Lato; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: justify; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><tbody style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"><tr style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"><td colspan="4" width="601" style="box-sizing: border-box; border: 1px solid rgb(221, 221, 221); font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; text-align: left; line-height: 1.42857; width: 722.969px;"><strong style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: 700; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;">PRIMARY 6</strong></td></tr><tr style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"><td width="90" style="box-sizing: border-box; border: 1px solid rgb(221, 221, 221); font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; text-align: left; line-height: 1.42857; width: 104.297px;"><strong style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: 700; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;">UNIT</strong></td><td width="132" style="box-sizing: border-box; border: 1px solid rgb(221, 221, 221); font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; text-align: left; line-height: 1.42857; width: 187.539px;"><strong style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: 700; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;">LESSON/DURATION</strong></td><td width="312" style="box-sizing: border-box; border: 1px solid rgb(221, 221, 221); font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; text-align: left; line-height: 1.42857; width: 332.188px;"><strong style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: 700; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;">LESSON OBJECTIVES</strong><p style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px 0px 1.6em; outline: 0px; padding: 0px; vertical-align: baseline;"></p><p style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px 0px 1.6em; outline: 0px; padding: 0px; vertical-align: baseline;"><strong style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: 700; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;">At the end of each lesson, students will be able to:</strong></p></td><td width="67" style="box-sizing: border-box; border: 1px solid rgb(221, 221, 221); font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; text-align: left; line-height: 1.42857; width: 98.9453px;"><strong style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: 700; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;">TIME PERIOD</strong></td></tr><tr style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"><td rowspan="5" width="90" style="box-sizing: border-box; border: 1px solid rgb(221, 221, 221); font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; text-align: left; line-height: 1.42857; width: 104.297px;">Are We More Than Friends?</td><td width="132" style="box-sizing: border-box; border: 1px solid rgb(221, 221, 221); font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; text-align: left; line-height: 1.42857; width: 187.539px;">Who Are My Friends?<p style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px 0px 1.6em; outline: 0px; padding: 0px; vertical-align: baseline;"></p><p style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px 0px 1.6em; outline: 0px; padding: 0px; vertical-align: baseline;">(30 min)</p></td><td width="312" style="box-sizing: border-box; border: 1px solid rgb(221, 221, 221); font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; text-align: left; line-height: 1.42857; width: 332.188px;"><ul style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px 0px 10px 3em; outline: 0px; padding: 0px; vertical-align: baseline; list-style: disc;"><li style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;">Identify the qualities of a healthy friendship</li><li style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;">Recognise the importance of making wise choices in friendship</li></ul></td><td rowspan="5" width="67" style="box-sizing: border-box; border: 1px solid rgb(221, 221, 221); font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; text-align: left; line-height: 1.42857; width: 98.9453px;">Term II<p style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px 0px 1.6em; outline: 0px; padding: 0px; vertical-align: baseline;"></p><p style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px 0px 1.6em; outline: 0px; padding: 0px; vertical-align: baseline;">Week 10</p></td></tr><tr style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"><td width="132" style="box-sizing: border-box; border: 1px solid rgb(221, 221, 221); font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; text-align: left; line-height: 1.42857; width: 187.539px;">Am I A Good Friend?<p style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px 0px 1.6em; outline: 0px; padding: 0px; vertical-align: baseline;"></p><p style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px 0px 1.6em; outline: 0px; padding: 0px; vertical-align: baseline;">(30 min)</p></td><td width="312" style="box-sizing: border-box; border: 1px solid rgb(221, 221, 221); font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; text-align: left; line-height: 1.42857; width: 332.188px;"><ul style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px 0px 10px 3em; outline: 0px; padding: 0px; vertical-align: baseline; list-style: disc;"><li style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;">Identify the qualities that they have as a friend</li><li style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;">Recognise the importance of developing in oneself the qualities of a good friend</li></ul></td></tr><tr style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"><td width="132" style="box-sizing: border-box; border: 1px solid rgb(221, 221, 221); font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; text-align: left; line-height: 1.42857; width: 187.539px;">What is Love?<p style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px 0px 1.6em; outline: 0px; padding: 0px; vertical-align: baseline;"></p><p style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px 0px 1.6em; outline: 0px; padding: 0px; vertical-align: baseline;">(30 min)</p></td><td width="312" style="box-sizing: border-box; border: 1px solid rgb(221, 221, 221); font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; text-align: left; line-height: 1.42857; width: 332.188px;"><ul style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px 0px 10px 3em; outline: 0px; padding: 0px; vertical-align: baseline; list-style: disc;"><li style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;">Identify the characteristics of love and infatuation ·</li><li style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;">Distinguish between the characteristics of love versus infatuation</li><li style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;">Identify strong feelings arising from infatuation</li></ul></td></tr><tr style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"><td width="132" style="box-sizing: border-box; border: 1px solid rgb(221, 221, 221); font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; text-align: left; line-height: 1.42857; width: 187.539px;">Am I Falling In Love?<p style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px 0px 1.6em; outline: 0px; padding: 0px; vertical-align: baseline;"></p><p style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px 0px 1.6em; outline: 0px; padding: 0px; vertical-align: baseline;">(30 min)</p></td><td width="312" style="box-sizing: border-box; border: 1px solid rgb(221, 221, 221); font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; text-align: left; line-height: 1.42857; width: 332.188px;"><ul style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px 0px 10px 3em; outline: 0px; padding: 0px; vertical-align: baseline; list-style: disc;"><li style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;">Manage strong feelings arising from infatuation</li><li style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;">Identify ways to manage and cope with teasing from peers</li></ul></td></tr><tr style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"><td width="132" style="box-sizing: border-box; border: 1px solid rgb(221, 221, 221); font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; text-align: left; line-height: 1.42857; width: 187.539px;">Main Task<p style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px 0px 1.6em; outline: 0px; padding: 0px; vertical-align: baseline;"></p><p style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px 0px 1.6em; outline: 0px; padding: 0px; vertical-align: baseline;">Role-Play</p><p style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px 0px 1.6em; outline: 0px; padding: 0px; vertical-align: baseline;">Big idea of Relationships</p><p style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px 0px 1.6em; outline: 0px; padding: 0px; vertical-align: baseline;">(30 min)</p></td><td width="312" style="box-sizing: border-box; border: 1px solid rgb(221, 221, 221); font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; text-align: left; line-height: 1.42857; width: 332.188px;"><ul style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px 0px 10px 3em; outline: 0px; padding: 0px; vertical-align: baseline; list-style: disc;"><li style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;">Description of the Main Task:</li><li style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;">Students are to play the role of a game designer who wants to create a board game to help pupils of their age learn more about the Big Idea of Relationships, specifically on family, friendships, love and infatuation. They will consider the issues that their peers would face and craft questions and answers that they believe their peers would benefit most from knowing.</li></ul></td></tr><tr style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"><td rowspan="3" width="90" style="box-sizing: border-box; border: 1px solid rgb(221, 221, 221); font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; text-align: left; line-height: 1.42857; width: 104.297px;">Friends or Foes?</td><td width="132" style="box-sizing: border-box; border: 1px solid rgb(221, 221, 221); font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; text-align: left; line-height: 1.42857; width: 187.539px;">Are You Really<p style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px 0px 1.6em; outline: 0px; padding: 0px; vertical-align: baseline;"></p><p style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px 0px 1.6em; outline: 0px; padding: 0px; vertical-align: baseline;">My Friend?</p><p style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px 0px 1.6em; outline: 0px; padding: 0px; vertical-align: baseline;">(30 min)</p></td><td width="312" style="box-sizing: border-box; border: 1px solid rgb(221, 221, 221); font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; text-align: left; line-height: 1.42857; width: 332.188px;"><ul style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px 0px 10px 3em; outline: 0px; padding: 0px; vertical-align: baseline; list-style: disc;"><li style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;">Identify the pros and cons of forming relationships through social networking websites</li><li style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;">Know ways to keep themselves safe when using social networking websites</li></ul></td><td rowspan="3" width="67" style="box-sizing: border-box; border: 1px solid rgb(221, 221, 221); font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; text-align: left; line-height: 1.42857; width: 98.9453px;">Term IV<p style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px 0px 1.6em; outline: 0px; padding: 0px; vertical-align: baseline;"></p><p style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px 0px 1.6em; outline: 0px; padding: 0px; vertical-align: baseline;">Week 9</p></td></tr><tr style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"><td width="132" style="box-sizing: border-box; border: 1px solid rgb(221, 221, 221); font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; text-align: left; line-height: 1.42857; width: 187.539px;">Is It All Safe?<p style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px 0px 1.6em; outline: 0px; padding: 0px; vertical-align: baseline;"></p><p style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px 0px 1.6em; outline: 0px; padding: 0px; vertical-align: baseline;">(30 min)</p></td><td width="312" style="box-sizing: border-box; border: 1px solid rgb(221, 221, 221); font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; text-align: left; line-height: 1.42857; width: 332.188px;"><ul style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px 0px 10px 3em; outline: 0px; padding: 0px; vertical-align: baseline; list-style: disc;"><li style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;">Know that some information (like pornography) received through the Internet may be harmful</li><li style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;">Know ways to keep themselves safe when using social networking website or the Internet</li></ul></td></tr><tr style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"><td width="132" style="box-sizing: border-box; border: 1px solid rgb(221, 221, 221); font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; text-align: left; line-height: 1.42857; width: 187.539px;">Main Task<p style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px 0px 1.6em; outline: 0px; padding: 0px; vertical-align: baseline;"></p><p style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px 0px 1.6em; outline: 0px; padding: 0px; vertical-align: baseline;">Case Study</p><p style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px 0px 1.6em; outline: 0px; padding: 0px; vertical-align: baseline;">(30 min)</p></td><td width="312" style="box-sizing: border-box; border: 1px solid rgb(221, 221, 221); font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; text-align: left; line-height: 1.42857; width: 332.188px;"><ul style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px 0px 10px 3em; outline: 0px; padding: 0px; vertical-align: baseline; list-style: disc;"><li style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;">Apply their understanding of safety in a variety of scenarios where the main character could be in a precarious situation.</li><li style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;">Discuss what they think and feel about the situation and what they will do or say to ensure their safety.</li><li style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;">Demonstrate their understanding of safety and that safety is a right and a responsibility.</li></ul></td></tr></tbody></table>
-	</li>
-			</ul>
-			</div>
-	
-<li>
+<label for="accordion2"><h5 style="color:blue">Key Messages of Sexuality Education</h5></label>
+<div>3. The Key Messages of Sexuality Education are:
+	<table><tr>
+		<td>a.</td>
+		<td>Love and respect yourself as you love and respect others;</td>
+		</tr><tr>
+		<td>b.</td>
+		<td>Build positive relationships based on love and respect (which are the foundation for strong families);</td>
+		</tr><tr>
+		<td>c.</td>
+		<td>Make responsible decisions for yourself, your family and society; and</td>
+		</tr><tr>
+		<td>d.</td>
+		<td>Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.</td>
+		</tr>
+	</table>
+	</div>
+	<li>
 <input type="checkbox" id="accordion3">
-    <label for="accordion3"><h5 style="color:RoyalBlue">Note for Parents</h5></label>
-
-    <div>
-<ul>
+<label for="accordion3"><h5 style="color:blue">Overview of Riverside Primary School's Sexuality Education Programme for 2023</h5></label>
+<div>
+<table>
+<tr>
+<td>4.</td>
+<td>Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click<a href="https://go.gov.sg/moe-sexuality-education-scope" target="blank"> here</a> for more information on the scope of Sexuality Education in the school curriculum.</td>
+	</tr><tr>
+	<td>5.</td>
+	<td>The subjects that incorporate topics on sexuality include:
+	<br>a. Science
+	<br>b. Character and Citizenship Education (CCE)</td>
+	</tr>
+</table>
+</div>
 <li>
-	
-<p>Parents may opt their children out of the Growing Years programme.</p>
-<p>Parents who wish to opt their children out of the Growing Years (GY) programme will need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable here. A hardcopy of the form, duly completed and signed, is to be submitted to the school office by Friday, 18 February 2023.</p>
-<p>Parents can contact Mrs Christina Muru (Subject Head, Student Management) at (tel) 63654490 or (email) <a href="mailto:riverside_ps@moe.edu.sg">riverside_ps@moe.edu.sg</a> for discussion or to seek clarification about the school’s Sexuality Education programme.</p>
-<p>Parents who wish to attend the school&#39;s Sexuality Education programme should contact the school to make the necessary arrangements.</p></li>
-			</ul>
-			</div>
+<input type="checkbox" id="accordion4"><label for="accordion4"><h5 style="color:Blue">Sexuality Education Lessons:</h5></label>
+<div>
+<table><tr>
+	<td>6.</td>
+	<td>The upper primary years mark the onset of puberty. With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. Furthermore, our young are also exposed to a wide range of influences that could endanger health and undermine the integrity of the family. Our students require guidance so that they can respond with discernment to the sexual messages in the media and other sources.</td>
+	</tr>
+<tr>
+	<td>7.</td>
+	<td>Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. In SEd, students learn to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters</td>
+	</tr>
+	</table>
+At Riverside Primary School, the following Sexuality Education lessons will be taught in <b>2023:<br><br>Primary 5</b><br>
+<table border="1">
+	<tr>
+		<th>CCE (FTGP) THEME</th>
+		<th>LESSON TITLE / DURATION</th>
+		<th>LESSON OVERVIEW</th>
+		<th>TIME PERIOD</th>
+	</tr>
+ <tr>
+  <td rowspan="3">Growing Years</td>
+  <td>The Changes in Me<br>(60 min)
+</td>  
+  <td>This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty. 
+This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.
+</td>
+<td>Term 4</td>
+ </tr>
+<tr>
+  <td> Did You Know? <br>(60 min)</td>
+  <td>This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy ‘Stop-Think-Do’. 
+This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</td>
+<td>Term 4</td>	
+ </tr>
+	<tr>
+		<td>Keeping Myself Safe<br>(60 min)</td>
+		<td>In this lesson, students will learn about sexual abuse, how it can happen during online and offline interactions and the impact of such abuse on victims. They also learn how to take precautionary measures to be safe and how to seek help for themselves and their friends.
+This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</td>
+		<td>Term 4</td>
+	</tr>
+	</table>
+	<b>Primary 6</b>
+	<table border="1">
+	<tr>
+		<th>CCE (FTGP) THEME</th>
+		<th>LESSON TITLE / DURATION</th>
+		<th>LESSON OVERVIEW</th>
+		<th>TIME PERIOD</th>
+	</tr>
+ <tr>
+  <td rowspan="3">Growing Years</td>
+  <td>Are We More than Friends?
+Lesson 1<br>(60 min)</td>
+	 <td>In this lesson, students will learn to distinguish between the characteristics of love and infatuation, and identify the strong emotions that may arise from experiencing the feelings of infatuation. They will recognise that experiencing feelings of infatuation is part of growing up and becoming infatuated with someone does not mean that they should be involved in a romantic relationship. Instead, they should focus on building strong and healthy friendships with their circles of friends</td>
+	 <td>Term 4</td>
+		</tr><tr>
+		<td>Are We More than Friends?
+Lesson 2<br>(60 min)</td>
+		<td>In this lesson, students will learn healthy ways to manage the emotions arising from infatuation and recognise the importance of respecting the boundaries of any relationship. They will also recognise the negative impact of teasing their peers who may be experiencing the feelings of infatuation and learn to behave maturely towards each other</td>
+		<td>Term 4</td>
+		</tr><tr>
+		<td>Did you know?<br>(60 min)</td>
+		<td>This lesson focuses on helping students to know what pornography is and how it can affect themselves and others. Students will learn the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy ‘Stop-Think-Do’.<br><br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</td>
+		<td>Term 4</td>
+		</tr></table>
+	</div>
+	<li>
+<input type="checkbox" id="accordion5"><label for="accordion5"><h5 style="color:Blue">INFORMATION FOR PARENTS</h5></label>
+<div>
+	<table><tr>
+		<td>8</td>
+		<td>Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers.</td>
+		</tr><tr>
+		<td>9</td>
+		<td>Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form is also downloadable <a href="/files/Annex_A_Parent_Opt_Out_Form_2023.pdf" target="blank">here</a>. The completed opt-out form is to be submitted by 24 February 2023.</td>
+		</tr><tr>
+		<td>10</td>
+		<td>Parents can contact Mrs Christina Muru (Subject Head, Student Management) at (tel) 63654490 or (email) riverside_ps@moe.edu.sg for discussion or to seek clarification about the school’s Sexuality Education programme.</td>
+		</tr></table>
+	Parents who wish to attend the school's Sexuality Education programme should contact the school to make the necessary arrangements.
+		</div>
