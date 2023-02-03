@@ -30,6 +30,8 @@ third_nav_title: Non Academic
 <input type="checkbox" id="accordion2">
 <label for="accordion1"><h5 style="color:blue">3. The Key Messages of Sexuality Education are:</h5></label>
 <div>
+	</div>
+	<li>
 <input type="checkbox" id="accordion3">
 <label for="accordion1"><h5 style="color:blue">Overview of Riverside Primary School's Sexuality Education Programme for 2023</h5></label>
 <div>
