@@ -28,7 +28,7 @@ third_nav_title: Non Academic
 	</div>
 <li>
 <input type="checkbox" id="accordion2">
-<label for="accordion1"><h5 style="color:blue">The Key Messages of Sexuality Education are:</h5></label>
+<label for="accordion2"><h5 style="color:blue">The Key Messages of Sexuality Education are:</h5></label>
 <div>
 	<table><tr>
 		<td>a.</td>
@@ -47,7 +47,7 @@ third_nav_title: Non Academic
 	</div>
 	<li>
 <input type="checkbox" id="accordion3">
-<label for="accordion1"><h5 style="color:blue">Overview of Riverside Primary School's Sexuality Education Programme for 2023</h5></label>
+<label for="accordion3"><h5 style="color:blue">Overview of Riverside Primary School's Sexuality Education Programme for 2023</h5></label>
 <div>
 <table>
 <tr>
@@ -62,7 +62,7 @@ third_nav_title: Non Academic
 </table>
 </div>
 <li>
-<input type="checkbox" id="accordion4"><label for="accordion2"><h5 style="color:Blue">Sexuality Education Lessons:</h5></label>
+<input type="checkbox" id="accordion4"><label for="accordion4"><h5 style="color:Blue">Sexuality Education Lessons:</h5></label>
 <div>
 <table><tr>
 	<td>6.</td>
