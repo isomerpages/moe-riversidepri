@@ -73,8 +73,8 @@ third_nav_title: Non Academic
 	<td>Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. In SEd, students learn to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters</td>
 	</tr>
 	</table>
-At Riverside Primary School, the following Sexuality Education lessons will be taught in <b>2023:</b>
-<table>
+At Riverside Primary School, the following Sexuality Education lessons will be taught in <b>2023:<br><br>Primary 5</b><br>
+<table border="1">
 	<tr>
 		<th>CCE (FTGP) THEME</th>
 		<th>LESSON TITLE / DURATION</th>
