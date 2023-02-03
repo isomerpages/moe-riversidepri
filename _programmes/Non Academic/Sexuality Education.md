@@ -29,8 +29,8 @@ third_nav_title: Non Academic
 	</div>
 <li>
 <input type="checkbox" id="accordion2">
-<label for="accordion2"><h5 style="color:blue">3. The Key Messages of Sexuality Education are:</h5></label>
-<div>
+<label for="accordion2"><h5 style="color:blue">Key Messages of Sexuality Education</h5></label>
+<div>3. The Key Messages of Sexuality Education are:
 	<table><tr>
 		<td>a.</td>
 		<td>Love and respect yourself as you love and respect others;</td>
