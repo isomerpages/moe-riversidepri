@@ -62,8 +62,7 @@ third_nav_title: Non Academic
 </table>
 </div>
 <li>
-<input type="checkbox" id="accordion4">
-    <label for="accordion2"><h5 style="color:Blue">Sexuality Education Lessons:</h5></label>
+<input type="checkbox" id="accordion4"><label for="accordion2"><h5 style="color:Blue">Sexuality Education Lessons:</h5></label>
 <div>
 <table><tr>
 	<td>6.</td>
