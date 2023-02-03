@@ -34,16 +34,9 @@ You may click<a href=" https://go.gov.sg/moe-sexuality-education" target="blank"
 	<td>The subjects that incorporate topics on sexuality include:
 	<br>a. Science
 	<br>b. Character and Citizenship Education (CCE)</td>
-	</tr><tr>
-	<td></td>
-	<td> </td>
-	<td></td>	
 	</tr>
 </table>
-			
-<p>You may click <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education/scope-and-teaching-approach" target="blank">here</a> for more information on the scope of Sexuality Education in the school curriculum.</p>
-<p>The subjects that incorporate topics on sexuality include:<br>1.  Science<br>2.  Form Teacher Guidance Period (FTGP)<br>3.  Character and Citizenship Education (CCE)</p>
-			</div>
+</div>
 			
 <li>
 <input type="checkbox" id="accordion2">
