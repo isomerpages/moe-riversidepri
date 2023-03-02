@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Blank Canvas/.keep
       - Academic/English Language.md
       - Academic/Mathematics.md
       - Academic/Science.md
