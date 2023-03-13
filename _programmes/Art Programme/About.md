@@ -29,6 +29,7 @@ The objectives of our six-year art curriculum are as follows:
 	<li>Explore the various uses of different art media and techniques through art-making.</li>
  <li>Apply appropriate processes, techniques and materials into their artworks.</li>
  <li>Discuss intentions of their artworks and interpret other artworks.</li>
+	</ul>
 
  In Riverside, teachers engage students in positive and safe learning experiences where they develop sensory awareness, imagination and visual inquiry skills to discover and explore their surroundings. Students are also engaged in art discussions, using See, Think, Wonder at lower primary and Feldman Approach at upper primary, which allows them to describe and interpret artworks with appropriate art terms.
 
