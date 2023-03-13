@@ -29,10 +29,7 @@ The objectives of our six-year art curriculum are as follows:
 <br>- Discuss intentions of their artworks and interpret other artworks.<br>
 
 <br>In Riverside, teachers engage students in positive and safe learning experiences where they develop sensory awareness, imagination and visual inquiry skills to discover and explore their surroundings. Students are also engaged in art discussions, using See, Think, Wonder at lower primary and Feldman Approach at upper primary, which allows them to describe and interpret artworks with appropriate art terms.<br>
-<br>The school’s curriculum provides students with insights on Elements of Art, Principles of Design, Art Forms, Art Techniques and Art Values. Students are also introduced to different types of materials, as well as iPad applications, where they get to explore and experiment with a variety of mediums to create artworks.</td><td background= "/images/canvas_about1.jpg"></td>
-		</tr></table>
-
-<table style="width:100%">
+<br>The school’s curriculum provides students with insights on Elements of Art, Principles of Design, Art Forms, Art Techniques and Art Values. Students are also introduced to different types of materials, as well as iPad applications, where they get to explore and experiment with a variety of mediums to create artworks.</td><td background= "/images/canvas_about1.jpg"></td></tr>
 <tr><td style="width:50%" background= "/images/canvas_about2.jpg">
 	</td><td>Art helps us to see in new ways<br>
 <br>Art represents experiences and ideas using materials, tools and visual elements such as shapes, colours, and forms. As a predominantly visual language that communicates and represents the world through images, art provides alternative ways to understand the world and our experiences in it. In art, students learn how to experiment with and use different media, tools and visual qualities, with reference to how artists use these in their work. This equips students to communicate in innovative visual ways so as to bring attention to their ideas or change how people see things.</td></tr>
