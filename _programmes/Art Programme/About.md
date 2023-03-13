@@ -15,8 +15,8 @@ u {
 <body>
 
 <div>
-	<table><tr>
-		<td> 
+	<table style="width:100%"><tr>
+		<td style="width:50%"> 
 			<h5>Riverside Primary Curriculum</h5><br>
 			<u><b>Our Beliefs</b></u><br>
 We believe that Art allows students to stay connected with their surroundings by providing them opportunities to communicate their ideas, thoughts and feelings and express themselves through creating and making. 
