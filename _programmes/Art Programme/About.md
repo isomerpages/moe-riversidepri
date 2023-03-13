@@ -20,8 +20,7 @@ u {
 			<h5>Riverside Primary Curriculum</h5><br>
 			<u><b>Our Beliefs</b></u><br>
 We believe that Art allows students to stay connected with their surroundings by providing them opportunities to communicate their ideas, thoughts and feelings and express themselves through creating and making. <br>
-
-<u><b>Objectives of Art Curriculum</b></u><br>
+<br><u><b>Objectives of Art Curriculum</b></u><br>
 The objectives of our six-year art curriculum are as follows:
 <br>- Enjoy and appreciate art of local and global cultures.
 <br>- Discuss artworks using basic art vocabulary.
