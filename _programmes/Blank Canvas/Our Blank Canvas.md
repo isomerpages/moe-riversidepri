@@ -9,8 +9,8 @@ Every child is an artist
 
 
 <div>
-	<table background="riverian_sparkle.jpg">
-		<tr>
+<table>
+		<tr border="1" background="/images/riverian_sparkle.jpg">
 			<td>a.</td>
 			<td>To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate knowledge on human sexuality and the consequences of sexual activity;</td>
 		</tr>
