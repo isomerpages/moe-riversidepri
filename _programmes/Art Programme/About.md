@@ -4,7 +4,6 @@ permalink: /programmes/Art-Programme/About/
 description: ""
 third_nav_title: Art Programme
 ---
-![](/images/canvas_about1.jpg)
 <div>
 	<table><tr>
 		<td background= "/images/canvas_about1.jpg"> 
