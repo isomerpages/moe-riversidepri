@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Art Programme/.keep
       - Academic/.keep
       - Academic/English Language.md
       - Academic/Mathematics.md
