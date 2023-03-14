@@ -12,4 +12,4 @@ third_nav_title: Art Programme
 	<td style="width:25%"><img src="/images/canvas_video2.jpg"></td>
 	<td style="width:25%"><img src="/images/canvas_video3.jpg"></td>
 	<td style="width:25%"> <img src="/images/canvas_video4.jpg"></td>
-	<td style="width:25%"> <img src="/images/canvas_video5.jpg"></td>	
+	<td style="width:25%"> <img src="/images/canvas_video5.jpg"></td>
