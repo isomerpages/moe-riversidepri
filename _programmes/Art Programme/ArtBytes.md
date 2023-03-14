@@ -7,6 +7,9 @@ third_nav_title: Art Programme
 <html>
 <body>
 <div>
-	<img src="/images/canvas_video1.jpg"><br>
-	<img src="/images/canvas_video2.jpg" width="183px"> <img src="/images/canvas_video3.jpg" width="183"> 
-	
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/4_POKpHrAP4" title="P3 Art HBL Term 3 Week 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br>
+<table style="width:100%"><tbody><tr>
+	<td style="width:25%"><img src="/images/canvas_video2.jpg"></td>
+	<td style="width:25%"><img src="/images/canvas_video3.jpg"></td>
+	<td style="width:25%"> <img src="/images/canvas_video4.jpg"></td>
+	<td style="width:25%"> <img src="/images/canvas_video5.jpg"></td>	
