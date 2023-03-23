@@ -27,8 +27,8 @@ description: ""
 </div>
 
 <li>
-<input type="checkbox" id="accordion1">
-		<label for="accordion1"><h5 style="color:RoyalBlue">2023 School Opening Matters</h5></label>
+<input type="checkbox" id="accordion2">
+		<label for="accordion2"><h5 style="color:RoyalBlue">2023 School Opening Matters</h5></label>
     <div>
 <ul>
 	<li>
