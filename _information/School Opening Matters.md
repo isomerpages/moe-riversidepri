@@ -35,11 +35,11 @@ description: ""
 		
 <h4>Items to bring on School Opening Days</h4>
 <p><a href="/files/2023-P1-Items-to-Bring-List-on-School-Opening-Days.pdf" target="blank">2023-P1-Items-to-Bring-on-School-Opening-Days</a><br>
-<a href="/files/2023-P2-Items-to-Bring-on-School-Opening-Days.pdf" target="blank">2023-P2-Items-to-Bring-on-School-Opening-Days</a><br>
-<a href="/files/2023-P3-Items-to-Bring-on-School-Opening-Days.pdf" target="blank">2023-P3-Items-to-Bring-on-School-Opening-Days</a><br>
-<a href="/files/2023-P4-Items-to-Bring-on-School-Opening-Days.pdf" target="blank">2023-P4-Items-to-Bring-on-School-Opening-Days</a><br>
-<a href="/files/2023-P5-Items-to-Bring-on-School-Opening-Days.pdf" target="blank">2023-P5-Items-to-Bring-on-School-Opening-Days</a><br>
-<a href="/files/2023-P6-Items-to-Bring-on-School-Opening-Days.pdf" target="blank">2023-P6-Items-to-Bring-on-School-Opening-Days</a><br></p>
+<a href="/files/2023-P2-Items-to-Bring-List-on-School-Opening-Days.pdf" target="blank">2023-P2-Items-to-Bring-on-School-Opening-Days</a><br>
+<a href="/files/2023-P3-Items-to-Bring-List-on-School-Opening-Days.pdf" target="blank">2023-P3-Items-to-Bring-on-School-Opening-Days</a><br>
+<a href="/files/2023-P4-Items-to-Bring-List-on-School-Opening-Days.pdf" target="blank">2023-P4-Items-to-Bring-on-School-Opening-Days</a><br>
+<a href="/files/2023-P5-Items-to-Bring-List-on-School-Opening-Days.pdf" target="blank">2023-P5-Items-to-Bring-on-School-Opening-Days</a><br>
+<a href="/files/2023-P6-Items-to-Bring-List-on-School-Opening-Days.pdf" target="blank">2023-P6-Items-to-Bring-on-School-Opening-Days</a><br></p>
 
 		
 		
