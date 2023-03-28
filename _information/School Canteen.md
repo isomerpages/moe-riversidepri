@@ -47,7 +47,7 @@ As part of promoting healthy living and the habit of drinking plain water among 
     <td>4</td>
     <td>Malay Noodles</td>
     <td>Mdm Sofia Suzan</td>
-		<td>Please Click <a href="/files/STALL-4-MENU.pdf" target="blank"> Here</a></td>
+		<td>Please Click <a href="/files/STALL4MENU.pdf" target="blank"> Here</a></td>
   </tr>	
   <tr>
     <td>5</td>
