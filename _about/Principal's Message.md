@@ -4,24 +4,26 @@ permalink: /about/principals-message/
 description: ""
 ---
 <br>
-<img src="/images/Mr_Tony_Tan.jpg" 
-         style="width:400px"
-	/>
+<img src="/images/Mr_Tony_Tan.jpg" style="width:400px">
 <br>
 
-To accomplish great things, we must not only act, but also dream; not only plan, but also believe (by Anatole France).
+**_To accomplish great things, we must not only act, but also dream; not only plan, but also believe (by Anatole France)._**
 
-Riverside Primary School was incepted in January 2013 when it opened its doors to 8 classes of P1 students. The school has since grown to a student enrolment of about 1370 across 6 levels from P1 to P6.
+Riverside Primary School was established in January 2013, welcoming 8 classes of P1 students. Since then, the school has experienced significant growth, with a current student enrollment of nearly 1300 students spanning 6 levels from P1 to P6.
 
-In 2016, MOE Kindergarten @ Riverside (MK@Riverside) was set up. It serves to provide quality education that is affordable to Singaporeans; pilot teaching and learning resources for sharing with the pre-school sector and; distil good practices for sharing with the pre-school sector. To date, MK@Riverside has a healthy enrolment of about 250 children and a staff strength of 22.
+In 2016, MOE Kindergarten @ Riverside (MK@Riverside) was established. This initiative aims to provide affordable, high-quality education to Singaporeans while also serving as a platform for piloting teaching and learning resources to be shared with the pre-school sector. To date, MK@Riverside has achieved a healthy enrollment of approximately 290 children, supported by a staff of 24 dedicated professionals.
 
-In Riverside Primary, we believe in the potential of the child in that every child is unique, every child can learn and succeed. Our work as educator is to provide the best possible conditions for every child to learn and grow to the best of his/her potential. Here in Riverside Primary, we do not see school as just a centre for the production of learning, it is a place in which educators work collaboratively to plan and teach with creativity, to deliver a total curriculum with an intent to help our children uncover their strengths and talents, cultivate their passion and interest, and most importantly, learn about themselves and believe that they all can succeed in their own way. We want our Riverians to discover their own unique identity; make sense of the environment around them; acquire the necessary skills, values, and dispositions to pursue their dreams and be the best they can be.
+At Riverside Primary, we firmly believe in the unique potential of every child and their ability to learn and succeed. We recognize the transformative power of education, and our team of passionate educators is committed to inspiring a love for learning in each student. We strive to foster an environment that nurtures curiosity, critical thinking, and a thirst for knowledge. By igniting a passion for learning, our goal is to equip our students with the necessary skills and tools to thrive in an ever-evolving world.
 
-In Riverside Primary, we believe in forging a Home-School Partnership with parents that is purposeful and sustainable. In the coming years, I look forward to strengthening our partnership with parents through school events and various communication channels. It is my belief that with close partnership, parents will have a better understanding of their child’s schooling experience in Riverside Primary. In this way, parents will be able to provide the necessary family care, support, and reinforcement at homes for their children, motivate them to want to learn and enjoy the process of learning.
+To achieve this, we believe that learning should be a joyful and purposeful experience. Our dedicated teachers work tirelessly to create engaging and interactive lessons that spark joy and curiosity in our students. We encourage them to explore their passions, pursue their interests, and cultivate a lifelong love for learning. Our ultimate aim is to empower our students to become self-motivated learners who find purpose and meaning in their educational journey.
 
-As in our school motto, **_Learning Together, Growing Together, Sparkling Together_**, we want to create an inviting school that will excite our Riverians in learning, reinforce their belief in themselves, and strive to be a lifelong learner so that they will be future ready and strive to be connected citizens of good character. This is our belief and our mission in Riverside Primary.
+We firmly hold the belief that education encompasses more than just academic achievements; it is about shaping well-rounded individuals of character. We are committed to nurturing moral and ethical values that will guide our students throughout their lives. Our comprehensive character and citizenship education (CCE) programmes instill qualities that align with our school's SPAKLE Values. We are dedicated to helping our students develop into responsible citizens who contribute positively to society and their communities.
 
-**_To all our Riverians, The Best from Each, A Better Future for All._**
+Riverside Primary School is more than just a place of learning; it is a vibrant community built on collaboration and support. We place great emphasis on building strong relationships among students, parents, and staff. By fostering a sense of belonging and inclusivity, we create a safe and nurturing environment where everyone feels valued and appreciated. Together, we cultivate a community that celebrates diversity and promotes a culture of empathy and understanding.
+
+Our school motto, "Learning Together, Growing Together, Sparkling Together," encapsulates our vision of creating an inviting school environment that excites our Riverians about learning, reinforces their self-belief, and instills a lifelong passion for knowledge. Our ultimate aim is to prepare them for the future and empower them to become connected citizens of good character. This is our unwavering belief and our mission at Riverside Primary.
+
+Finally, to all our Riverians, we believe in bringing out the best in each of you, forging a better future for all.
 
 Tony Tan  
 Principal
