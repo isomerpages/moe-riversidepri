@@ -3,7 +3,6 @@ title: School Leaders and Key Personnel
 permalink: /family/school-leaders-and-key-personnel/
 description: ""
 ---
-
 <style>
 h1 {text-align: center;}
 p {text-align: center;}
@@ -15,21 +14,21 @@ div {text-align: center;}
 <input id="accordion1" type="checkbox">
 <label for="accordion1"><h4 style="color:Blue">School Leaders</h4></label>
 <div align="centre">
-<p><img style="width:200px;height:285px;" src="/images/mr_tony_tan1.jpg"><strong>Mr Tony Tan</strong>
+<p><img style="width:210px;height:247px;" src="/images/tony_tan.jpg"><strong>Mr Tony Tan</strong>
 <br>Principal
 <br>email: tan_choon_kheng@schools.gov.sg</p>
 
-<p><img style="width:200px;height:285px;" src="/images/mdm_regina_khoo.jpg">
+<p><img style="width:210px;height:247px;" src="/images/regina_khoo.jpg">
 <strong>Mdm Regina Khoo</strong>
 <br>Vice-Principal 1
 <br>email: Regina_KHOO@schools.gov.sg</p>
 
-<p><img style="width:200px;height:285px;" src="/images/mrs_ranuka_palanivelu.jpg">
+<p><img style="width:210px;height:247px;" src="/images/ranuka_palanivelu.jpg">
 <strong>Mrs Ranuka Palanivelu</strong>
 <br>Vice-Principal 2
 <br>email: Ranuka_PALANIVELU@schools.gov.sg</p>
 
-<p><img style="width:200px;height:285px;" src="/images/ms_karin_neo.jpg">
+<p><img style="width:210px;height:247px;" src="/images/karin_neo.jpg">
 <strong>Ms Karin Neo</strong>
 <br>Vice-Principal (Administration)
 <br>email: Karin_NEO@schools.gov.sg</p>
