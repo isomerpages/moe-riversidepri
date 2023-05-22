@@ -4,7 +4,7 @@ permalink: /about/principals-message/
 description: ""
 ---
 <br>
-<img src="/images/Mr_Tony_Tan.jpg" style="width:400px">
+<img src="/images/tony_tan.jpg" style="width:210px">
 <br>
 
 **_To accomplish great things, we must not only act, but also dream; not only plan, but also believe (by Anatole France)._**
