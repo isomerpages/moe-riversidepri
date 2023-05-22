@@ -8,7 +8,7 @@ description: ""
 <input id="accordion1" type="checkbox">
 <label for="accordion1"><h4 style="color:Blue">School Leaders</h4></label>
 <div>
-<p><strong>Mr Tony Tan</strong>
+<p><img height="285" width="200" src="/images/mr_tony_tan1.jpg"><strong>Mr Tony Tan</strong>
 <br>Principal
 <br>email: tan_choon_kheng@schools.gov.sg</p>
 
@@ -100,7 +100,7 @@ description: ""
 <br>email: aslinda_abdullah@moe.edu.sg</p>
 
 <p><strong>Mr Mohammad Shaifullizan Bin Sapieah</strong>
-<br>Subject Head, CCE & SS
+<br>Subject Head, CCE &amp; SS
 <br>email: mohammad_shaifullizan_sapi@moe.edu.sg</p>
 
 <p><strong>Ms Jasmine Poi</strong>
@@ -145,4 +145,4 @@ description: ""
 <br>Senior Teacher, Physical Education
 <br>email: eugene_yap_hern_an@moe.edu.sg</p>
 </div>
-</li>
+</li></ul>
