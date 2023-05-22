@@ -8,7 +8,7 @@ description: ""
 <input id="accordion1" type="checkbox">
 <label for="accordion1"><h4 style="color:Blue">School Leaders</h4></label>
 <div>
-<p><img height="285" width="200" src="/images/mr_tony_tan1.jpg"><strong>Mr Tony Tan</strong>
+<p><img style="width:200px;height:285px;" src="/images/mr_tony_tan1.jpg"><strong>Mr Tony Tan</strong>
 <br>Principal
 <br>email: tan_choon_kheng@schools.gov.sg</p>
 
