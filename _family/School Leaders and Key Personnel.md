@@ -3,6 +3,13 @@ title: School Leaders and Key Personnel
 permalink: /family/school-leaders-and-key-personnel/
 description: ""
 ---
+
+<style>
+h1 {text-align: center;}
+p {text-align: center;}
+div {text-align: center;}
+</style>
+
 <ul class="jekyllcodex_accordion">
 <li>
 <input id="accordion1" type="checkbox">
