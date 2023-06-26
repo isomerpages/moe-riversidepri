@@ -257,15 +257,13 @@ description: ""
 <strong>Ms Darrell Koh</strong>
 <br>Email: lim_yong_en_darrell@moe.edu.sg
 
-<p><strong>Ms Quraisya Mirza</strong>
-<br>Email: quraisya_mirza_zainal@moe.edu.sg</p>
+<p><strong>Mrs Yip Wenjun</strong>
+<br>Email: huang_wenjun@moe.edu.sg</p>
 
 <h5 style="color:Blue">P5 Responsibility</h5>
 <strong>Mr Fauzy</strong>
 <br>Email: mohamed_fauzy_juffrey@moe.edu.sg
 
-<p><strong>Mdm Ma Shaowen</strong>
-<br>Email: ma_shaowen@moe.edu.sg</p>
 
 <h5 style="color:Blue">P5 Kindness</h5>
 <strong>Ms Andrea Prashanti</strong>
