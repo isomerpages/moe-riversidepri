@@ -116,19 +116,35 @@ Contact Person: Nur Hidayah Ariffin<br>  Contact Number: 8409 7083<br>
 
   <tr>
     <td>9</td>
-    <td>10</td>
-    <td>11</td>
-    <td>12</td>
-    <td>13</td>
-    <td>14</td>
+    <td>10<br>Closed</td>
+    <td>11<br>Open</td>
+    <td>12<br>Open</td>
+    <td>13<br>Open</td>
+    <td>14<br>Open</td>
     <td>15</td>
   </tr>
   <tr>
-    <td></td>
+    <td>16</td>    
+		<td>17<br>Closed</td>
+    <td>18<br>Closed</td>
+    <td>19<br>Closed</td>
+    <td>20<br>Closed</td>
+    <td>21<br>Closed</td>
+    <td>22</td>		
   </tr>
   <tr>
-    <td></td>
+    <td>23</td>
+    <td>24<br>Open</td>
+    <td>25<br>Open</td>
+    <td>26<br>Open</td>
+    <td>27<br>Open</td>
+    <td>28<br>Open</td>
+    <td>29</td>
   </tr>
+  <tr>
+    <td>30</td>
+    <td>31<br>Closed</td>	
+  </tr>		
 </tbody></table>
 <b>Buddy Clinic</b>&nbsp;(when clinic is closed)<br>
 
