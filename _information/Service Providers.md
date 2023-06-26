@@ -92,7 +92,7 @@ Contact Person: Nur Hidayah Ariffin<br>  Contact Number: 8409 7083<br>
 <b>FRI:</b>&nbsp;8 AM – 5 PM <br>
 					
 <b>LUNCH TIME:</b>&nbsp;1 PM – 2 PM (Please do not disturb)<br>
-<table border="1" cellspacing="0">
+<table border="1">
   <tbody><tr>
     <th>Sunday</th>
     <th>Monday</th>
@@ -103,23 +103,15 @@ Contact Person: Nur Hidayah Ariffin<br>  Contact Number: 8409 7083<br>
     <th>Saturday</th>
   </tr>
   <tr>
-    <td>2</td>
-    <td>3</td>
-    <td>4</td>
-    <td>5</td>
-    <td>6</td>
-    <td>7</td>
+    <td>2<br>Youth Day</td>
+    <td>3<br>Closed  - School Holiday</td>
+    <td>4<br>Closed</td>
+    <td>5<br>Closed</td>
+    <td>6<br>Closed</td>
+    <td>7<br>Closed</td>
     <td>8</td>
   </tr>
-  <tr>
-    <td>Youth Day</td>
-    <td>Closed - School Holiday</td>
-    <td>Closed</td>
-    <td>Closed</td>
-    <td>Closed</td>
-    <td>Closed</td>
-    <td></td>
-  </tr>
+
   <tr>
     <td>9</td>
     <td>10</td>
