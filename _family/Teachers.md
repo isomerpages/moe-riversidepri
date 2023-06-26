@@ -106,8 +106,8 @@ description: ""
 <strong>Mdm Nor Farhana</strong>
 <br>Email: nor_farhana_hatwadi@moe.edu.sg
 
-<p><strong>Mdm Jacqueline Kho</strong>
-<br>Email: kho_ee_ling_jacqueline@moe.edu.sg</p>
+<p><strong>Ms Chang Tan Ling</strong>
+<br>Email: chang_tan_ling@moe.edu.sg</p>
 
 <h5 style="color:Blue">P2 Responsibility</h5>
 <strong>Mrs Choo-Ng Sook Fern</strong>
@@ -120,8 +120,8 @@ description: ""
 <strong>Mr Fahmei Bin Hassan</strong>
 <br>Email: muhammad_fahmei_hassan@moe.edu.sg
 
-<p><strong>Ms Chang Tan Ling</strong>
-<br>Email: chang_tan_ling@moe.edu.sg</p>
+<p><strong>Mdm Jacqueline Kho</strong>
+<br>Email: kho_ee_ling_jacqueline@moe.edu.sg</p>
 
 <h5 style="color:Blue">P2 Leadership</h5>
 <strong>Mdm Dellina Daniell Assik</strong>
@@ -148,6 +148,9 @@ description: ""
 
 <p><strong>Ms Xue Bing</strong>
 <br>Email: xue_bing@moe.edu.sg</p>
+	
+<p><strong>Mrs Fio Ng</strong>
+<br>Email: ang_hwee_tit@moe.edu.sg</p>	
 
 <h5 style="color:Blue">P3 Perseverance</h5>
 <strong>Mr Mohamed Shahnaz</strong>
@@ -204,8 +207,8 @@ description: ""
 <br>Email: noorhayati_seleman@moe.edu.sg</p>
 
 <h5 style="color:Blue">P4 Adaptability</h5>
-<strong>Mdm Goh Qi Qing</strong>
-<br>Email: goh_qi_qing@moe.edu.sg
+<strong>Mr Kenny Toh</strong>
+<br>Email: toh_ghim_yeow@moe.edu.sg
 
 <p><strong>Ms Chan Yu Min Wendy</strong>
 <br>email: chan_yu_min_wendy@moe.edu.sg</p>
@@ -254,15 +257,13 @@ description: ""
 <strong>Ms Darrell Koh</strong>
 <br>Email: lim_yong_en_darrell@moe.edu.sg
 
-<p><strong>Ms Quraisya Mirza</strong>
-<br>Email: quraisya_mirza_zainal@moe.edu.sg</p>
+<p><strong>Mrs Yip Wenjun</strong>
+<br>Email: huang_wenjun@moe.edu.sg</p>
 
 <h5 style="color:Blue">P5 Responsibility</h5>
 <strong>Mr Fauzy</strong>
 <br>Email: mohamed_fauzy_juffrey@moe.edu.sg
 
-<p><strong>Mdm Ma Shaowen</strong>
-<br>Email: ma_shaowen@moe.edu.sg</p>
 
 <h5 style="color:Blue">P5 Kindness</h5>
 <strong>Ms Andrea Prashanti</strong>
@@ -396,4 +397,4 @@ description: ""
 <p><strong>Ms Yamunah D/O Balakrishnan</strong>
 <br>Email: yamunah_balakrishnan@moe.edu.sg</p>
 </div>
-</li><li>
+</li><li></li></ul>
