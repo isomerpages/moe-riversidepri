@@ -95,7 +95,7 @@ Contact Person: Nur Hidayah Ariffin<br>  Contact Number: 8409 7083<br>
 <table>
   <tbody><tr>
 			<th style="text-align:center" colspan="7">July 2023</th></tr>
-		<tr>
+		<tr border="1'">
     <th border="1'">Sunday</th>
     <th>Monday</th>
     <th>Tuesday</th>
