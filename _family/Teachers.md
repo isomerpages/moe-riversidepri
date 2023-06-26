@@ -106,8 +106,8 @@ description: ""
 <strong>Mdm Nor Farhana</strong>
 <br>Email: nor_farhana_hatwadi@moe.edu.sg
 
-<p><strong>Mdm Jacqueline Kho</strong>
-<br>Email: kho_ee_ling_jacqueline@moe.edu.sg</p>
+<p><strong>Ms Chang Tan Ling</strong>
+<br>Email: chang_tan_ling@moe.edu.sg</p>
 
 <h5 style="color:Blue">P2 Responsibility</h5>
 <strong>Mrs Choo-Ng Sook Fern</strong>
@@ -120,8 +120,8 @@ description: ""
 <strong>Mr Fahmei Bin Hassan</strong>
 <br>Email: muhammad_fahmei_hassan@moe.edu.sg
 
-<p><strong>Ms Chang Tan Ling</strong>
-<br>Email: chang_tan_ling@moe.edu.sg</p>
+<p><strong>Mdm Jacqueline Kho</strong>
+<br>Email: kho_ee_ling_jacqueline@moe.edu.sg</p>
 
 <h5 style="color:Blue">P2 Leadership</h5>
 <strong>Mdm Dellina Daniell Assik</strong>
@@ -396,4 +396,4 @@ description: ""
 <p><strong>Ms Yamunah D/O Balakrishnan</strong>
 <br>Email: yamunah_balakrishnan@moe.edu.sg</p>
 </div>
-</li><li>
+</li><li></li></ul>
