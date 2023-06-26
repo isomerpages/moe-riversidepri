@@ -148,6 +148,9 @@ description: ""
 
 <p><strong>Ms Xue Bing</strong>
 <br>Email: xue_bing@moe.edu.sg</p>
+	
+<p><strong>Mrs Fio Ng</strong>
+<br>Email: ang_hwee_tit@moe.edu.sg</p>	
 
 <h5 style="color:Blue">P3 Perseverance</h5>
 <strong>Mr Mohamed Shahnaz</strong>
@@ -204,8 +207,8 @@ description: ""
 <br>Email: noorhayati_seleman@moe.edu.sg</p>
 
 <h5 style="color:Blue">P4 Adaptability</h5>
-<strong>Mdm Goh Qi Qing</strong>
-<br>Email: goh_qi_qing@moe.edu.sg
+<strong>Mr Kenny Toh</strong>
+<br>Email: toh_ghim_yeow@moe.edu.sg
 
 <p><strong>Ms Chan Yu Min Wendy</strong>
 <br>email: chan_yu_min_wendy@moe.edu.sg</p>
