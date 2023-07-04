@@ -18,6 +18,7 @@ sections:
   - infobar:
       title: 2023 Virtual Open House
       url: files/2023 Virtual Open House Part 1.pdf
+      button: Click Here
   - infobar:
       subtitle: PART 1
       description: <p>Getting to Know Riverside Primary School<br> P1 Registration<br>
