@@ -15,11 +15,11 @@ sections:
         - title: Parent Suppport Group
           description: Join us!
           url: /partnerships/parents-support-group/
-  - infobar:
-      title: Get to know more about us!
-      subtitle: 2023 Virtual Open House
+  -  infobar:
+      title: Part 2
+      subtitle: Video by P1 Riverians
       description: <iframe width="560" height="315"
-        src="https://www.youtube.com/embed/fDYOppKSRd4" title="YouTube video
+        src="https://www.youtube.com/embed/PQ8o3Sa4PXs" title="YouTube video
         player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
         encrypted-media; gyroscope; picture-in-picture"
         allowfullscreen></iframe>
