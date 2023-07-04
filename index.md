@@ -17,14 +17,12 @@ sections:
           url: /partnerships/parents-support-group/
   - infobar:
       title: 2023 Virtual Open House
-      url: files/2023 Virtual Open House Part 1.pdf
-      button: Click Here
   - infobar:
       subtitle: PART 1
       description: <p>Getting to Know Riverside Primary School<br> P1 Registration<br>
         Preparing Your Child for Primary One</p>
       button: Click here
-      url: 2023 Virtual Open House Part 1
+      url: files/2023 Virtual Open House Part 1.pdf
   - infobar:
       subtitle: Part 2
       description: <p>Video By P1 Riverians<br><iframe width="560" height="315"
