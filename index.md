@@ -15,14 +15,14 @@ sections:
         - title: Parent Suppport Group
           description: Join us!
           url: /partnerships/parents-support-group/
-  -  infobar:
-      title: Part 2
-      subtitle: Video by P1 Riverians
+  - infobar:
+      title: Video by P1 Riverians
+      subtitle: Part 2
       description: <iframe width="560" height="315"
         src="https://www.youtube.com/embed/PQ8o3Sa4PXs" title="YouTube video
         player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
         encrypted-media; gyroscope; picture-in-picture"
-        allowfullscreen></iframe>
+        allowfullscreen=""></iframe>
   - resources:
       title: ANNOUNCEMENTS
       button: View all news here
