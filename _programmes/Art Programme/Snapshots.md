@@ -10,13 +10,13 @@ third_nav_title: Art Programme
 <input type="checkbox" id="accordion1">
 <label for="accordion1"><h5 style="color:RoyalBlue">Primary 1</h5></label>
 <div>
-Some text
+The students created an art piece with the theme "My Favourite Animal". The students were introduces to lines and shapes. Teacher will then demonstrate to draw an animal. After some practice, students will then draw their favourite animal.
 <div style="border:1px solid black;;height:300px;overflow-y:hidden;overflow-x:scroll;">
 <p style="width:550%;">
  
 </p>
 </div>
-
+The students created an art piece with the theme "Vase of flowers". The students learn how to draw different type of flowers. The students also learn about colouring techniques using oil pastels. One technique that they learnt is blending. 
 </div>
 </li>
 
