@@ -13,10 +13,10 @@ third_nav_title: Art Programme
 <ul class="jekyllcodex_accordion">
 
 <li>
-<input href="#1" data-parent="#Primary1" data-toggle="collapse" type="checkbox" id="accordion1">
+<input type="checkbox" id="accordion1">
 <label for="accordion1"><h5 style="color:RoyalBlue">Primary 1</h5></label>
-<div id="1" class="accordion-body collapse">
-
+<div>
+Some text
 </div>
 </li>
 
@@ -24,4 +24,5 @@ third_nav_title: Art Programme
 <input type="checkbox" id="accordion2">
 <label for="accordion2"><h5 style="color:RoyalBlue">Primary 2</h5></label>
 <div>
+Some Text 2
 </div></li></ul>
