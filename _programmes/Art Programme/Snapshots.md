@@ -32,7 +32,7 @@ test<img src="/images/p1t1_01.jpeg" style="height:300px;width:541px">test<img sr
 <label for="accordion2"><h5 style="color:RoyalBlue">Primary 2</h5></label>
 <div>
 Some Text 2<br>
-<img src="/images/p1t1_01.jpeg" style="height:300px;width:541px"><img src="/images/p1t1_02.jpeg" style="height:300px;width:541px">
+<div class="column"><img src="/images/p1t1_01.jpeg" style="height:300px;width:141px"></div><div class="column"><img src="/images/p1t1_02.jpeg" style="height:300px;width:141px"></div>
 </div></li>
 <li>
 <input type="checkbox" id="accordion3">
