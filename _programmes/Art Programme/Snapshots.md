@@ -13,6 +13,7 @@ third_nav_title: Art Programme
 <b>Term 1</b><br>The students created an art piece with the theme "My Favourite Animal". The students were introduces to lines and shapes. Teacher will then demonstrate to draw an animal. After some practice, students will then draw their favourite animal.
 <div style="border:0px solid black;;height:300px;overflow-y:hidden;overflow-x:scroll;">
 <p style="width:550%;">
+
  
 </p>
 </div>
