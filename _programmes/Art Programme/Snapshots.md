@@ -39,8 +39,7 @@ third_nav_title: Art Programme
 <input type="checkbox" id="accordion2">
 <label for="accordion2"><h5 style="color:RoyalBlue">Primary 2</h5></label>
 <div>
-Some Text 2<br>
-<div class="column"><img src="/images/p1t1_01.jpeg" style="height:300px;width:141px"></div><div class="column"><img src="/images/p1t1_02.jpeg" style="height:300px;width:141px"></div>
+Some Text 2
 </div></li>
 <li>
 <input type="checkbox" id="accordion3">
