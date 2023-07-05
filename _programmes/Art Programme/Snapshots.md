@@ -11,9 +11,17 @@ third_nav_title: Art Programme
 <label for="accordion1"><h5 style="color:RoyalBlue">Primary 1</h5></label>
 <div>
 <b>Term 1</b><br>The students created an art piece with the theme "My Favourite Animal". The students were introduces to lines and shapes. Teacher will then demonstrate to draw an animal. After some practice, students will then draw their favourite animal.
-	<div style="border:0px solid black;height:400px;overflow-y:hidden;overflow-x:scroll;">
-<p style="width:550%;">
-test<img src="/images/p1t1_01.jpeg" style="height:300px;width:541px">test<img src="/images/p1t1_02.jpeg" style="height:300px;width:541px">
+	<div style="border:0px solid black;height:340px;overflow-y:hidden;overflow-x:scroll;">
+<p style="width:270%;">
+<table style="width:1800px">
+<tbody><tr>
+<td><img src="/images/p1t1_01.jpeg" style="height:300px;width:541px"></td>
+<td><img src="/images/p1t1_02.jpeg" style="height:300px;width:532px"></td>
+<td><img src="/images/p1t1_03.jpeg" style="height:300px;width:204px"></td>
+<td><img src="/images/p1t1_04.jpeg" style="height:300px;width:448px"></td>
+<td><img src="/images/p1t1_05.jpeg" style="height:300px;width:400px"></td>
+</tr>
+</tbody></table>
  
 </p>
 </div>
