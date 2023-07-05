@@ -9,3 +9,20 @@ third_nav_title: Art Programme
  
 </p>
 </div>
+
+<ul class="jekyllcodex_accordion">
+
+<li>
+<input type="checkbox" id="accordion1">
+<label for="accordion1"><h5 style="color:RoyalBlue">Primary 1</h5></label>
+
+<div>
+<ul>
+<li>
+
+</li>
+</ul>
+</div>
+</li>
+
+</ul>
