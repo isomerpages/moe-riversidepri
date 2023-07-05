@@ -15,8 +15,7 @@ third_nav_title: Art Programme
 <li>
 <input href="#1" data-parent="#Primary1" data-toggle="collapse" type="checkbox" id="accordion1">
 <label for="accordion1"><h5 style="color:RoyalBlue">Primary 1</h5></label>
-
-<div>
+<div id="1" class="accordion-body collapse">
 
 </div>
 </li>
