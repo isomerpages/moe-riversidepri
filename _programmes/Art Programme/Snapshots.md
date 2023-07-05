@@ -25,4 +25,11 @@ third_nav_title: Art Programme
 </div>
 </li>
 
-</ul>
+<li>
+<input type="checkbox" id="accordion2">
+<label for="accordion2"><h5 style="color:RoyalBlue">Form Teacher Guidance Period(FTGP)</h5></label>
+<div>
+<ul>
+<li>
+
+</li></ul></div></li></ul>
