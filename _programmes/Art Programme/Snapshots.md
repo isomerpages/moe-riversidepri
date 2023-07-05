@@ -15,11 +15,11 @@ third_nav_title: Art Programme
 <p style="width:100%;">
 <table style="width:1800px">
 <tbody><tr>
-<td><img src="/images/p1t1_01.jpeg" style="height:300px;width:541px"></td>
-<td><img src="/images/p1t1_02.jpeg" style="height:300px;width:532px"></td>
-<td><img src="/images/p1t1_03.jpeg" style="height:300px;width:204px"></td>
-<td><img src="/images/p1t1_04.jpeg" style="height:300px;width:448px"></td>
-<td><img src="/images/p1t1_05.jpeg" style="height:300px;width:400px"></td>
+<td><img src="/images/Art%20Program/p1t1_01.jpeg" style="height:300px"></td>
+<td><img src="/images/Art%20Program/p1t1_02.jpeg" style="height:300px"></td>
+<td><img src="/images/Art%20Program/p1t1_03.jpeg" style="height:300px"></td>
+<td><img src="/images/Art%20Program/p1t1_04.jpeg" style="height:300px"></td>
+<td><img src="/images/Art%20Program/p1t1_05.jpeg" style="height:300px"></td>
 </tr>
 </tbody></table>
  
@@ -30,11 +30,11 @@ third_nav_title: Art Programme
 <p style="width:100%;">
 <table style="width:1800px">
 <tbody><tr>
-<td><img src="/images/p1t1_01.jpeg" style="height:300px;width:541px"></td>
-<td><img src="/images/p1t1_02.jpeg" style="height:300px;width:532px"></td>
-<td><img src="/images/p1t1_03.jpeg" style="height:300px;width:204px"></td>
-<td><img src="/images/p1t1_04.jpeg" style="height:300px;width:448px"></td>
-<td><img src="/images/p1t1_05.jpeg" style="height:300px;width:400px"></td>
+<td><img src="/images/Art%20Program/p1t2_01.jpg" style="height:300px"></td>
+<td><img src="/images/Art%20Program/p1t2_02.jpg" style="height:300px"></td>
+<td><img src="/images/Art%20Program/p1t2_03.jpg" style="height:300px"></td>
+<td><img src="/images/Art%20Program/p1t204.jpg" style="height:300px"></td>
+<td><img src="/images/Art%20Program/p1t205.jpg" style="height:300px"></td>
 </tr>
 </tbody></table>
  
@@ -48,7 +48,7 @@ third_nav_title: Art Programme
 <input type="checkbox" id="accordion2">
 <label for="accordion2"><h5 style="color:RoyalBlue">Primary 2</h5></label>
 <div>
-Some Text 2
+Some Text 2![](/images/Art%20Program/p1t1_01.jpeg)
 </div></li>
 <li>
 <input type="checkbox" id="accordion3">
