@@ -17,11 +17,7 @@ third_nav_title: Art Programme
 <label for="accordion1"><h5 style="color:RoyalBlue">Primary 1</h5></label>
 
 <div>
-<ul>
-<li>
 
-</li>
-</ul>
 </div>
 </li>
 
@@ -29,7 +25,4 @@ third_nav_title: Art Programme
 <input type="checkbox" id="accordion2">
 <label for="accordion2"><h5 style="color:RoyalBlue">Primary 2</h5></label>
 <div>
-<ul>
-<li>
-
-</li></ul></div></li></ul>
+</div></li></ul>
