@@ -28,7 +28,7 @@ third_nav_title: Art Programme
 <b>Term 2</b><br>The students created an art piece with the theme "Vase of flowers". The students learn how to draw different type of flowers. The students also learn about colouring techniques using oil pastels. One technique that they learnt is blending. 
 <div style="border:0px solid black;height:370px;overflow-y:hidden;overflow-x:hidden;">
 <p style="width:100%;">
-<table style="width:1200px">
+<table style="width:1150px">
 <tbody><tr>
 <td><img src="/images/Art%20Program/p1t2_01.jpg" style="height:300px"></td>
 <td><img src="/images/Art%20Program/p1t2_02.jpg" style="height:300px"></td>
