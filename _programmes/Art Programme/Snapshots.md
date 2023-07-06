@@ -48,7 +48,37 @@ third_nav_title: Art Programme
 <input type="checkbox" id="accordion2">
 <label for="accordion2"><h5 style="color:RoyalBlue">Primary 2</h5></label>
 <div>
-Some Text 2![](/images/Art%20Program/p1t1_01.jpeg)
+<b>Term 1</b><br>Prior to the art-making processes, students were introduced to artworks by Anthony Poon (Black and White (1970s)) and Wassily Kandisky (Composition VII (1913)). Besides using shapes and lines, students created patterns on the building and scenery in their artwork to demonstrate their understanding of repeating elements in recurring patterns.
+<div style="border:0px solid black;height:370px;overflow-y:hidden;overflow-x:hidden;">
+<p style="width:100%;">
+<table style="width:2511px">
+<tbody><tr>
+<td><img src="/images/Art%20Program/p2t1_01.jpeg" style="height:300px"></td>
+<td><img src="/images/Art%20Program/p2t1_02.jpeg" style="height:300px"></td>
+<td><img src="/images/Art%20Program/p2t1_03.jpeg" style="height:300px"></td>
+<td><img src="/images/Art%20Program/p2t1_04.jpeg" style="height:300px"></td>
+<td><img src="/images/Art%20Program/p2t1_05.jpeg" style="height:300px"></td>
+<td><img src="/images/Art%20Program/p2t1_06.jpeg" style="height:300px"></td>
+</tr>
+</tbody></table>
+</p>
+</div>
+<b>Term 2</b><br>Tapping on their skills on cutting, pasting and the concept of space, students created sea aquarium using a variety of materials including paper plates and recycled materials.
+<div style="border:0px solid black;height:370px;overflow-y:hidden;overflow-x:hidden;">
+<p style="width:100%;">
+<table style="width:2765px">
+<tbody><tr>
+<td><img src="/images/Art%20Program/p2t2_01.jpeg" style="height:300px"></td>
+<td><img src="/images/Art%20Program/p2t2_02.jpeg" style="height:300px"></td>
+<td><img src="/images/Art%20Program/p2t2_03.jpeg" style="height:300px"></td>
+<td><img src="/images/Art%20Program/p2t2_04.jpeg" style="height:300px"></td>
+<td><img src="/images/Art%20Program/p2t2_05.jpeg" style="height:300px"></td>
+</tr>
+</tbody></table>
+ 
+</p>
+</div>
+
 </div></li>
 <li>
 <input type="checkbox" id="accordion3">
