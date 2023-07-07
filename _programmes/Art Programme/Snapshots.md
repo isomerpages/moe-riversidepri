@@ -100,7 +100,22 @@ third_nav_title: Art Programme
  
 </p>
 </div>
-	
+<b>Term 2</b><br>Students created an art piece with the theme "Flora and Fauna". Students learnt Batik painting techniques. Based on the students' needs, we focused using wax resist for this Batik Art module. Wax Resist is a technique that uses colored wax crayons or white wax candles to create the intended design. This is based on the fact that wax repels water. Clear wax is used to create the strokes, which are then overpainted with watercolour. The wash/colour will only stick to the paper if there is no wax on it. Similar to wax resist technique, batik art is a technique that involves the application of wax and dye to a piece of fabric, such as cotton, silk, linen, or rayon, to produce intricate and magnificent designs.
+<div style="border:0px solid black;height:370px;overflow-y:hidden;overflow-x:hidden;">
+<p style="width:100%;">
+<table style="width:1820px">
+<tbody><tr>
+<td><img src="/images/Art%20Program/p3t2_01.jpeg" style="height:300px"></td>
+<td><img src="/images/Art%20Program/p3t2_02.jpeg" style="height:300px"></td>
+<td><img src="/images/Art%20Program/p3t2_03.jpeg" style="height:300px"></td>
+<td><img src="/images/Art%20Program/p3t2_04.jpeg" style="height:300px"></td>
+<td><img src="/images/Art%20Program/p3t2_05.jpeg" style="height:300px"></td>
+<td><img src="/images/Art%20Program/p3t2_06.jpeg" style="height:300px"></td>
+</tr>
+</tbody></table>
+ 
+</p>
+</div>
 </div></li>
 
 <li>
