@@ -125,7 +125,7 @@ third_nav_title: Art Programme
 <b>Term 1</b><br>Students learnt more about the Chinese culture through Brush painting. It is a traditional Art form that originated in China. It is characterized by the use of a brush dipped in black ink or colored pigments to create various subjects, including landscapes, flowers, fishes and panda.
 <div style="border:0px solid black;height:370px;overflow-y:hidden;overflow-x:hidden;">
 <p style="width:100%;">
-<table style="width:1800px">
+<table style="width:2160px">
 <tbody><tr>
 <td><img src="/images/Art%20Program/p4t1_01.jpeg" style="height:300px"></td>
 <td><img src="/images/Art%20Program/p4t1_02.jpeg" style="height:300px"></td>
@@ -147,7 +147,7 @@ third_nav_title: Art Programme
 <b>Term 1</b><br>Students learnt about Mobile Photography this term. They learnt to be more observant about their surroundings as they applied different photography techniques using an iPad. The students also learnt photo manipulation and photo-editing using app like "PicsArt".
 <div style="border:0px solid black;height:370px;overflow-y:hidden;overflow-x:hidden;">
 <p style="width:100%;">
-<table style="width:1800px">
+<table style="width:2010px">
 <tbody><tr>
 <td><img src="/images/Art%20Program/p5t1_01.jpg" style="height:300px"></td>
 <td><img src="/images/Art%20Program/p5t1_02.jpg" style="height:300px"></td>
