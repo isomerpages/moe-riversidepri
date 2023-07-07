@@ -166,7 +166,22 @@ third_nav_title: Art Programme
 <input type="checkbox" id="accordion6">
 <label for="accordion6"><h5 style="color:RoyalBlue">Primary 6</h5></label>
 <div>
-Some Text 6
+<b>Term 1</b><br>This term, students learnt to create their own 3D wire sculpture. They were taught the different age-appropriate techniques used in wire sculptures like looping, bending, coiling, joining, twisting, wrapping. In their final artwork, they created a human figure with action.
+<div style="border:0px solid black;height:370px;overflow-y:hidden;overflow-x:hidden;">
+<p style="width:100%;">
+<table style="width:2500px">
+<tbody><tr>
+<td><img src="/images/Art%20Program/p6t1_01.jpg" style="height:300px"></td>
+<td><img src="/images/Art%20Program/p6t1_02.jpg" style="height:300px"></td>
+<td><img src="/images/Art%20Program/p6t1_03.jpg" style="height:300px"></td>
+<td><img src="/images/Art%20Program/p6t1_04.jpg" style="height:300px"></td>
+<td><img src="/images/Art%20Program/p6t1_05.jpg" style="height:300px"></td>
+<td><img src="/images/Art%20Program/p6t1_06.jpg" style="height:300px"></td>
+</tr>
+</tbody></table>
+ 
+</p>
+</div>
 </div></li>
 
 </ul>
