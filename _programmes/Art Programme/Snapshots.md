@@ -122,7 +122,21 @@ third_nav_title: Art Programme
 <input type="checkbox" id="accordion4">
 <label for="accordion4"><h5 style="color:RoyalBlue">Primary 4</h5></label>
 <div>
-Some Text 4
+	<b>Term 1</b><br>Students learnt more about the Chinese culture through Brush painting. It is a traditional Art form that originated in China. It is characterized by the use of a brush dipped in black ink or colored pigments to create various subjects, including landscapes, flowers, fishes and panda.
+<div style="border:0px solid black;height:370px;overflow-y:hidden;overflow-x:hidden;">
+<p style="width:100%;">
+<table style="width:1800px">
+<tbody><tr>
+<td><img src="/images/Art%20Program/p1t1_01.jpeg" style="height:300px"></td>
+<td><img src="/images/Art%20Program/p1t1_02.jpeg" style="height:300px"></td>
+<td><img src="/images/Art%20Program/p1t1_03.jpeg" style="height:300px"></td>
+<td><img src="/images/Art%20Program/p1t1_04.jpeg" style="height:300px"></td>
+<td><img src="/images/Art%20Program/p1t1_05.jpeg" style="height:300px"></td>
+</tr>
+</tbody></table>
+ 
+</p>
+</div>
 </div></li>
 	
 <li>
