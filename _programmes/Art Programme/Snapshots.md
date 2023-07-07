@@ -84,7 +84,23 @@ third_nav_title: Art Programme
 <input type="checkbox" id="accordion3">
 <label for="accordion3"><h5 style="color:RoyalBlue">Primary 3</h5></label>
 <div>
-Some Text 3
+<b>Term 1</b><br>Students created an art piece with the theme "Fruit Painting." Vertumnus is a popular oil painting produced by Giuseppe Arcimboldo that consists of multiple fruits, vegetables and flowers that come together to create a portrait. After having class discussions on the artwork, students learnt to draw their own fruits using shapes and explored the different painting techniques that they have learnt during the process.
+<div style="border:0px solid black;height:370px;overflow-y:hidden;overflow-x:hidden;">
+<p style="width:100%;">
+<table style="width:2737px">
+<tbody><tr>
+<td><img src="/images/Art%20Program/p3t1_01.jpeg" style="height:300px"></td>
+<td><img src="/images/Art%20Program/p3t1_02.jpeg" style="height:300px"></td>
+<td><img src="/images/Art%20Program/p3t1_03.jpeg" style="height:300px"></td>
+<td><img src="/images/Art%20Program/p3t1_04.jpeg" style="height:300px"></td>
+<td><img src="/images/Art%20Program/p3t1_05.jpeg" style="height:300px"></td>
+<td><img src="/images/Art%20Program/p3t1_06.jpeg" style="height:300px"></td>
+</tr>
+</tbody></table>
+ 
+</p>
+</div>
+	
 </div></li>
 
 <li>
