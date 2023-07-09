@@ -71,13 +71,6 @@ There is no entry to cars to pick up your child for dismissal.<br>
 For parents who drive, please do not park your car along the road as this will cause obstructions to other road users.&nbsp; Please park at nearby carparks and walk to the school gates to pick up your child.<br>
 			
 Parents or any authorised adults waiting to pick up your child should observe social distancing at all times. Please do not gather in groups and proceed home once you have picked up your child.<br>
-
-<h5>Wet Weather Dismissal Arrangement</h5>
-In the event of wet weather,&nbsp;please take note of the following arrangement:<br>
-			
-<p>1.  MK Gate will be closed due to safety reasons.&nbsp; Parents picking up your child at MK gate are to proceed to Gate 4 to pick up your child.<br>
-2.  Parents picking up your child at Gate 1 and Gate 4 are to wait at the respective gates for your child.<br>
-3.  Parents who drive are to park your car at nearby carparks and proceed to Gate 1 or Gate 4 to pick up your child.&nbsp; Please do not park along the road as this will cause obstructions to other road users.</p>
 </div>
 </li>	
 	
