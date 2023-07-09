@@ -13,20 +13,24 @@ description: ""
 <br>email: lim_shin_gann@moe.edu.sg</p>
 	
 <p><strong>Ms Raudah Begum Amir Khan</strong>
-<br>Assistant Year Head, Primary 2
+<br>Assistant Year Head, Middle Primary
 <br>email: raudah_begum_amir_khan@moe.edu.sg</p>
 
 <p><strong>Mrs Sharon Sakthi</strong>
 <br>Year Head, Middle Primary
 <br>email: pang_shu_fang_sharon@moe.edu.sg</p>
+	
+<p><strong>Mr Abdul Rahman B Amid Marican</strong>
+<br>Assistant Year Head, Middle Primary
+<br>email: rahman_marican@moe.edu.sg</p>
 
 <p><strong>Mr Jeff Huang</strong>
 <br>Year Head, Upper Primary
 <br>email: huang_yaosheng@moe.edu.sg</p>
 
-<p><strong>Mr Abdul Rahman B Amid Marican</strong>
-<br>Assistant Year Head, Primary 4
-<br>email: rahman_marican@moe.edu.sg</p>
+<p><strong>Ms Darrell Koh</strong>
+<br>Assistant Year Head, Upper Primary
+<br>email: lim_yong_en_darrell@moe.edu.sg</p>
 </div>
 </li><li>
 	
