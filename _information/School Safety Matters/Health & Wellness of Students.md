@@ -38,7 +38,7 @@ third_nav_title: School Safety Matters
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
 <p>The Health Promotion Board (HPB) has been working closely with schools to promote healthy eating among pupils as part of the holistic development of our children. Since the start of Term II, our school has implemented the HMSP. The food stallholders are selling set meals which include food in the&nbsp;four main groups, i.e.&nbsp;wholegrains, fruit, vegetables and meat (or others). We would like to seek parents’ assistance to encourage your children to eat the vegetables and fruits that come with the set meal. The circular&nbsp;from HPB provides more information.</p>
 			
-<p><a href="https://hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme">HPB Circular on HMSP for Parents</a></p>
+<p><a target="blank" href="https://hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme">HPB Circular on HMSP for Parents</a></p>
 		</div>
 </li>&nbsp;&nbsp;
 	
