@@ -54,9 +54,7 @@ The following table indicates items that are acceptable and those that are not a
 <p>
 The midday snack break will take place in the classroom for 10 minutes.&nbsp;Students&nbsp;will continue with their learning activities in the classroom while snacking.<br>
 	
-The 10min snack break for P4/5/6 is from 8.15am to 8.30am.<br>
-	
-The 10min snack break for P1/2/3 is from 12.45pm to 1.00pm.<br>
+The 10min snack break for all levels is from 12pm to 12.15pm.<br>
 
 During the snack break, students are&nbsp;**not allowed**&nbsp;to go to the canteen to purchase food.<br>
 
