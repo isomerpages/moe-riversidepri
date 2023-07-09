@@ -104,14 +104,6 @@ div {text-align: center;}
 <br>Subject Head, Pupil Management
 <br>email: christina_s_zaccheus@moe.edu.sg</p>
 
-<p><strong>Ms Goh Qi Qing</strong>
-<br>Subject Head, ICT
-<br>email: goh_qi_qing@moe.edu.sg</p>
-
-<p><strong>Ms Aslinda Bte Abdullah</strong>
-<br>Subject Head, PE
-<br>email: aslinda_abdullah@moe.edu.sg</p>
-
 <p><strong>Mr Mohammad Shaifullizan Bin Sapieah</strong>
 <br>Subject Head, CCE &amp; SS
 <br>email: mohammad_shaifullizan_sapi@moe.edu.sg</p>
@@ -123,6 +115,10 @@ div {text-align: center;}
 <p><strong>Ms Ng Yuting</strong>
 <br>Level Head, Chinese Language
 <br>email: ng_yuting@moe.edu.sg</p>
+	
+<p><strong>Mr Kenny Toh</strong>
+<br>Level Head, Science
+<br>email: toh_ghim_yeow@moe.edu.sg</p>
 
 <p><strong>Mdm Eity Norhyezah Asyurah</strong>
 <br>Subject Head, Malay Language
