@@ -63,7 +63,6 @@ In view of the COVID-19 situation, students are dismissed at staggered timing to
 <tr><td style="border: 1px solid">P1 &amp; P2</td><td style="border: 1px solid">1.25pm</td></tr>
 <tr><td style="border: 1px solid">P3 to P6</td><td>1.30pm</td></tr>
 </tbody></table>
-<br>
 Parents picking up your child at the pedestrian gates are to wait at the respective gates for your child.&nbsp;<br>
 
 There is no entry to cars to pick up your child for dismissal.<br>
