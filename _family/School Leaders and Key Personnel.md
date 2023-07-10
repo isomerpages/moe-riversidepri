@@ -75,20 +75,24 @@ div {text-align: center;}
 <br>email: lim_shin_gann@moe.edu.sg</p>
 	
 <p><strong>Ms Raudah Begum Amir Khan</strong>
-<br>Assistant Year Head, Primary 2
+<br>Assistant Year Head, Lower Primary
 <br>email: raudah_begum_amir_khan@moe.edu.sg</p>
 
 <p><strong>Mrs Sharon Sakthi</strong>
 <br>Year Head, Middle Primary
 <br>email: pang_shu_fang_sharon@moe.edu.sg</p>
+	
+<p><strong>Mr Abdul Rahman B Amid Marican</strong>
+<br>Assistant Year Head, Middle Primary
+<br>email: rahman_marican@moe.edu.sg</p>
 
 <p><strong>Mr Jeff Huang</strong>
 <br>Year Head, Upper Primary
 <br>email: huang_yaosheng@moe.edu.sg</p>
-
-<p><strong>Mr Abdul Rahman B Amid Marican</strong>
-<br>Assistant Year Head, Primary 4
-<br>email: rahman_marican@moe.edu.sg</p>
+	
+<p><strong>Ms Darrell Koh</strong>
+<br>Assistant Year Head, Upper Primary
+<br>email: lim_yong_en_darrell@moe.edu.sg</p>
 
 </div>
 </li><li>
@@ -99,14 +103,6 @@ div {text-align: center;}
 <p><strong>Mrs Christina Muru</strong>
 <br>Subject Head, Pupil Management
 <br>email: christina_s_zaccheus@moe.edu.sg</p>
-
-<p><strong>Ms Goh Qi Qing</strong>
-<br>Subject Head, ICT
-<br>email: goh_qi_qing@moe.edu.sg</p>
-
-<p><strong>Ms Aslinda Bte Abdullah</strong>
-<br>Subject Head, PE
-<br>email: aslinda_abdullah@moe.edu.sg</p>
 
 <p><strong>Mr Mohammad Shaifullizan Bin Sapieah</strong>
 <br>Subject Head, CCE &amp; SS
@@ -119,6 +115,10 @@ div {text-align: center;}
 <p><strong>Ms Ng Yuting</strong>
 <br>Level Head, Chinese Language
 <br>email: ng_yuting@moe.edu.sg</p>
+	
+<p><strong>Mr Kenny Toh</strong>
+<br>Level Head, Science
+<br>email: toh_ghim_yeow@moe.edu.sg</p>
 
 <p><strong>Mdm Eity Norhyezah Asyurah</strong>
 <br>Subject Head, Malay Language
