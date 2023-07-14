@@ -2,6 +2,7 @@ collections:
   information:
     output: true
     order:
+      - Service Providers.md
       - School Canteen Advertisement/.keep
       - 2022 Parent's Seminar.md
       - 2022 Primary 1 Orientation.md
