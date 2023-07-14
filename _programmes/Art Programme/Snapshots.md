@@ -215,7 +215,7 @@ Through the art-making process and discussions, students learnt to explore the v
 </div>
 <b>Term 2</b><br>After learning to look at the creative use of materials and experimenting with objects as sources of materials for art-making, students learnt to create their own Product Advertisement using Stop-Motion Animation. They were engaged in group discussions on their storyboarding and they spent time to research on their chosen products. finally, created short clips based on what they have planned.
 <div>
-<iframe width="100%" height="300px" name="iframe_a" src="https://www.youtube.com/embed/81sz7r7AxBA" title="P6 Term 2 Snapshot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<iframe width="100%" height="500px" name="iframe_a" src="https://www.youtube.com/embed/81sz7r7AxBA" title="P6 Term 2 Snapshot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 <table style="width:100%"><tbody><tr>
 <td style="width:20%"><a class="one" href="https://www.youtube.com/embed/dfu5MVE7VKE?autoplay=1" target="iframe_a"><img src="/images/canvas_video3.jpg"></a></td>
 <td style="width:20%"><a class="one" href="https://www.youtube.com/embed/shorts/y33rYFVnELM?autoplay=1" target="iframe_a"><img src="/images/canvas_video4.jpg"></a></td>
