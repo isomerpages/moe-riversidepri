@@ -175,6 +175,22 @@ third_nav_title: Art Programme
  
 </p>
 </div>
+<b>Term 2</b><br>Students learnt landscape painting using Van Gogh's painting techniques based on his famous artwork "The Starry Night(1889)". Van Gogh often used thick and bold brushstrokes, which added texture and energy to his paintings, creating a sense of movement and dynamism. Van Gogh's colour palette was characterized by intense and vibrant hues to convey emotions and to capture the essence of his subjects. 
+Through the art-making process and discussions, students learnt to explore the visual movements in Art using colours and texture. 
+<div style="border:0px solid black;height:370px;overflow-y:hidden;overflow-x:hidden;">
+<p style="width:100%;">
+<table style="width:2160px">
+<tbody><tr>
+<td><img src="/images/Art%20Program/p5t2_01.jpeg" style="height:300px"></td>
+<td><img src="/images/Art%20Program/p5t2_02.jpeg" style="height:300px"></td>
+<td><img src="/images/Art%20Program/p5t2_03.jpeg" style="height:300px"></td>
+<td><img src="/images/Art%20Program/p5t2_04.jpeg" style="height:300px"></td>
+<td><img src="/images/Art%20Program/p5t2_05.jpeg" style="height:300px"></td>
+</tr>
+</tbody></table>
+ 
+</p>
+</div>
 </div></li>
 
 <li>
