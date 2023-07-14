@@ -10,7 +10,7 @@ third_nav_title: Art Programme
 <input type="checkbox" id="accordion1">
 <label for="accordion1"><h5 style="color:RoyalBlue">Primary 1</h5></label>
 <div>
-<b>Term 1</b><br>The students created an art piece with the theme "My Favourite Animal". The students were introduces to lines and shapes. Teacher will then demonstrate to draw an animal. After some practice, students will then draw their favourite animal.
+<b>Term 1</b><br>Students created an art piece with the theme "My Favourite Animal". They were introduced to different elements of Art like lines and shapes . Teachers demonstrated how to draw an animal using simple shapes and lines. After some practices, students drew their own favourite animal.
 <div style="border:0px solid black;height:370px;overflow-y:hidden;overflow-x:hidden;">
 <p style="width:100%;">
 <table style="width:1800px">
@@ -25,7 +25,7 @@ third_nav_title: Art Programme
  
 </p>
 </div>
-<b>Term 2</b><br>The students created an art piece with the theme "Vase of flowers". The students learn how to draw different type of flowers. The students also learn about colouring techniques using oil pastels. One technique that they learnt is blending. 
+<b>Term 2</b><br>Students created an art piece with the theme "Vase of flowers" after they were introduced to Claude Monet's "Water Lilies". They learnt how to draw different type of flowers and their petals, stalks and leaves. Besides drawing, students explored using oils pastels to do blend for their artworks.
 <div style="border:0px solid black;height:370px;overflow-y:hidden;overflow-x:hidden;">
 <p style="width:100%;">
 <table style="width:1150px">
