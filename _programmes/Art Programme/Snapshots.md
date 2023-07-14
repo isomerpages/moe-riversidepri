@@ -10,7 +10,7 @@ third_nav_title: Art Programme
 <input type="checkbox" id="accordion1">
 <label for="accordion1"><h5 style="color:RoyalBlue">Primary 1</h5></label>
 <div>
-<b>Term 1</b><br>The students created an art piece with the theme "My Favourite Animal". The students were introduces to lines and shapes. Teacher will then demonstrate to draw an animal. After some practice, students will then draw their favourite animal.
+<b>Term 1</b><br>Students created an art piece with the theme "My Favourite Animal". They were introduced to different elements of Art like lines and shapes . Teachers demonstrated how to draw an animal using simple shapes and lines. After some practices, students drew their own favourite animal.
 <div style="border:0px solid black;height:370px;overflow-y:hidden;overflow-x:hidden;">
 <p style="width:100%;">
 <table style="width:1800px">
@@ -25,7 +25,7 @@ third_nav_title: Art Programme
  
 </p>
 </div>
-<b>Term 2</b><br>The students created an art piece with the theme "Vase of flowers". The students learn how to draw different type of flowers. The students also learn about colouring techniques using oil pastels. One technique that they learnt is blending. 
+<b>Term 2</b><br>Students created an art piece with the theme "Vase of flowers" after they were introduced to Claude Monet's "Water Lilies". They learnt how to draw different type of flowers and their petals, stalks and leaves. Besides drawing, students explored using oils pastels to do blend for their artworks.
 <div style="border:0px solid black;height:370px;overflow-y:hidden;overflow-x:hidden;">
 <p style="width:100%;">
 <table style="width:1150px">
@@ -48,7 +48,7 @@ third_nav_title: Art Programme
 <input type="checkbox" id="accordion2">
 <label for="accordion2"><h5 style="color:RoyalBlue">Primary 2</h5></label>
 <div>
-<b>Term 1</b><br>Prior to the art-making processes, students were introduced to artworks by Anthony Poon (Black and White (1970s)) and Wassily Kandisky (Composition VII (1913)). Besides using shapes and lines, students created patterns on the building and scenery in their artwork to demonstrate their understanding of repeating elements in recurring patterns.
+<b>Term 1</b><br>Students created an art piece with the theme "Whimsical Landscape". Prior to the art-making processes, students were introduced to artworks by Anthony Poon (Black and White (1970s)) and Wassily Kandisky (Composition VII (1913)). Besides using shapes and lines, students created patterns on the building and scenery in their artwork to demonstrate their understanding of repeating elements in recurring patterns.
 <div style="border:0px solid black;height:370px;overflow-y:hidden;overflow-x:hidden;">
 <p style="width:100%;">
 <table style="width:2511px">
@@ -63,7 +63,7 @@ third_nav_title: Art Programme
 </tbody></table>
 </p>
 </div>
-<b>Term 2</b><br>Tapping on their skills on cutting, pasting and the concept of space, students created sea aquarium using a variety of materials including paper plates and recycled materials.
+<b>Term 2</b><br>Students created an art piece with the theme "My Aquarium". Tapping on their skills on cutting, pasting and the concept of space, students created sea aquarium using a variety of materials including paper plates and recycled materials.
 <div style="border:0px solid black;height:370px;overflow-y:hidden;overflow-x:hidden;">
 <p style="width:100%;">
 <table style="width:2765px">
@@ -138,6 +138,21 @@ third_nav_title: Art Programme
  
 </p>
 </div>
+<b>Term 2</b><br>Based on Campbell’s Mushroom Soup by Andy Warhol, the students created their own version of Pop Art using an iPad and the app "PicsArt". Pop Art drew inspiration from everyday objects and images found in advertising, comic books, movies, and popular music. They often employed bold, vibrant colors, sharp lines, and repetition of imagery to capture the essence of mass production and the commercialized nature of society. Through the artmaking process, students were aware of the impact of pop culture in daily lives.
+<div style="border:0px solid black;height:370px;overflow-y:hidden;overflow-x:hidden;">
+<p style="width:100%;">
+<table style="width:2160px">
+<tbody><tr>
+<td><img src="/images/Art%20Program/p4t2_01.jpg" style="height:300px"></td>
+<td><img src="/images/Art%20Program/p4t2_02.jpg" style="height:300px"></td>
+<td><img src="/images/Art%20Program/p4t2_03.jpg" style="height:300px"></td>
+<td><img src="/images/Art%20Program/p4t2_04.jpg" style="height:300px"></td>
+<td><img src="/images/Art%20Program/p4t2_05.jpg" style="height:300px"></td>
+</tr>
+</tbody></table>
+ 
+</p>
+</div>
 </div></li>
 	
 <li>
@@ -155,6 +170,22 @@ third_nav_title: Art Programme
 <td><img src="/images/Art%20Program/p5t1_04.jpg" style="height:300px"></td>
 <td><img src="/images/Art%20Program/p5t1_05.jpg" style="height:300px"></td>
 <td><img src="/images/Art%20Program/p5t1_06.jpg" style="height:300px"></td>
+</tr>
+</tbody></table>
+ 
+</p>
+</div>
+<b>Term 2</b><br>Students learnt landscape painting using Van Gogh's painting techniques based on his famous artwork "The Starry Night(1889)". Van Gogh often used thick and bold brushstrokes, which added texture and energy to his paintings, creating a sense of movement and dynamism. Van Gogh's colour palette was characterized by intense and vibrant hues to convey emotions and to capture the essence of his subjects. 
+Through the art-making process and discussions, students learnt to explore the visual movements in Art using colours and texture. 
+<div style="border:0px solid black;height:370px;overflow-y:hidden;overflow-x:hidden;">
+<p style="width:100%;">
+<table style="width:1760px">
+<tbody><tr>
+<td><img src="/images/Art%20Program/p5t2_01.jpeg" style="height:300px"></td>
+<td><img src="/images/Art%20Program/p5t2_02.jpeg" style="height:300px"></td>
+<td><img src="/images/Art%20Program/p5t2_03.jpeg" style="height:300px"></td>
+<td><img src="/images/Art%20Program/p5t2_04.jpeg" style="height:300px"></td>
+<td><img src="/images/Art%20Program/p5t2_05.jpeg" style="height:300px"></td>
 </tr>
 </tbody></table>
  

@@ -7,7 +7,7 @@ description: ""
 &nbsp;&nbsp;<li>
 &nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion1">
 		<label for="accordion1"><h5 style="color:RoyalBlue">Bookshop</h5></label>
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
+<div>
 <ul>
 	<li><b>Pacific Bookstores Pte Ltd</b><br>
 Contact Person: Ms. Huang Xiulan<br>  
@@ -22,11 +22,9 @@ Contact Number: 9048 2301 (Mobile)<br>
 <a href="/files/2023-p5fdn-booklist.pdf" target="blank">2023 P5 FDN Booklist</a><br>
 <a href="/files/2023-p6-booklist.pdf" target="blank">2023 P6 Booklist</a><br>
 <a href="/files/2023-p6fdn-booklist.pdf" target="blank">2023 P6 FDN Booklist</a></p>
+</li></ul>
+</div>
 </li>
-			</ul>
-		</div>
-		</li>
-	
 <li>
 				<input type="checkbox" id="accordion2">
 				<label for="accordion2"><h5 style="color:RoyalBlue">Bus Vendor</h5></label>
