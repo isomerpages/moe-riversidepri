@@ -217,10 +217,10 @@ Through the art-making process and discussions, students learnt to explore the v
 <div>
 <iframe width="100%" height="500px" name="iframe_a" src="https://www.youtube.com/embed/81sz7r7AxBA" title="P6 Term 2 Snapshot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 <table style="width:100%"><tbody><tr>
-<td style="width:25%"><a class="one" href="https://www.youtube.com/embed/dfu5MVE7VKE?autoplay=1" target="iframe_a"><img src="/images/Art%20Program/P6T2_01.jpg"></a></td>
-<td style="width:25%"><a class="one" href="https://www.youtube.com/embed/r_oANlgSiyw?autoplay=1" target="iframe_a"><img src="/images/canvas_video5.jpg"></a></td>
-<td style="width:25%"><a class="one" href="https://www.youtube.com/embed/RrnnWaTQwoE?autoplay=1" target="iframe_a"><img src="/images/canvas_video6.jpg"></a></td>
-<td style="width:25%"><a class="one" href="https://www.youtube.com/embed/js5ipMw5CLg?autoplay=1" target="iframe_a"><img src="/images/canvas_video6.jpg"></a></td>
+<td style="width:25%"><a class="one" href="https://www.youtube.com/embed/dfu5MVE7VKE?autoplay=1" target="iframe_a"><img src="/images/Art%20Program/p6t2-02.jpg"></a></td>
+<td style="width:25%"><a class="one" href="https://www.youtube.com/embed/r_oANlgSiyw?autoplay=1" target="iframe_a"><img src="/images/Art%20Program/p6t2-05.jpg"></a></td>
+<td style="width:25%"><a class="one" href="https://www.youtube.com/embed/RrnnWaTQwoE?autoplay=1" target="iframe_a"><img src="/images/Art%20Program/p6t2-06.jpg"></a></td>
+<td style="width:25%"><a class="one" href="https://www.youtube.com/embed/js5ipMw5CLg?autoplay=1" target="iframe_a"><img src="/images/Art%20Program/p6t2-01.jpg"></a></td>
 </tr></tbody></table></div>
 </div></li>
 
