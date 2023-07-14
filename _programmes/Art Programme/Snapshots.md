@@ -48,7 +48,7 @@ third_nav_title: Art Programme
 <input type="checkbox" id="accordion2">
 <label for="accordion2"><h5 style="color:RoyalBlue">Primary 2</h5></label>
 <div>
-<b>Term 1</b><br>Prior to the art-making processes, students were introduced to artworks by Anthony Poon (Black and White (1970s)) and Wassily Kandisky (Composition VII (1913)). Besides using shapes and lines, students created patterns on the building and scenery in their artwork to demonstrate their understanding of repeating elements in recurring patterns.
+<b>Term 1</b><br>Students created an art piece with the theme "Whimsical Landscape". Prior to the art-making processes, students were introduced to artworks by Anthony Poon (Black and White (1970s)) and Wassily Kandisky (Composition VII (1913)). Besides using shapes and lines, students created patterns on the building and scenery in their artwork to demonstrate their understanding of repeating elements in recurring patterns.
 <div style="border:0px solid black;height:370px;overflow-y:hidden;overflow-x:hidden;">
 <p style="width:100%;">
 <table style="width:2511px">
@@ -63,7 +63,7 @@ third_nav_title: Art Programme
 </tbody></table>
 </p>
 </div>
-<b>Term 2</b><br>Tapping on their skills on cutting, pasting and the concept of space, students created sea aquarium using a variety of materials including paper plates and recycled materials.
+<b>Term 2</b><br>Students created an art piece with the theme "My Aquarium". Tapping on their skills on cutting, pasting and the concept of space, students created sea aquarium using a variety of materials including paper plates and recycled materials.
 <div style="border:0px solid black;height:370px;overflow-y:hidden;overflow-x:hidden;">
 <p style="width:100%;">
 <table style="width:2765px">
