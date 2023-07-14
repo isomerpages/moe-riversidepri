@@ -179,7 +179,7 @@ third_nav_title: Art Programme
 Through the art-making process and discussions, students learnt to explore the visual movements in Art using colours and texture. 
 <div style="border:0px solid black;height:370px;overflow-y:hidden;overflow-x:hidden;">
 <p style="width:100%;">
-<table style="width:2160px">
+<table style="width:1760px">
 <tbody><tr>
 <td><img src="/images/Art%20Program/p5t2_01.jpeg" style="height:300px"></td>
 <td><img src="/images/Art%20Program/p5t2_02.jpeg" style="height:300px"></td>
