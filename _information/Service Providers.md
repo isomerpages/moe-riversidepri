@@ -7,7 +7,7 @@ description: ""
 &nbsp;&nbsp;<li>
 &nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion1">
 		<label for="accordion1"><h5 style="color:RoyalBlue">Bookshop</h5></label>
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
+<div>
 <ul>
 	<li><b>Pacific Bookstores Pte Ltd</b><br>
 Contact Person: Ms. Huang Xiulan<br>  
