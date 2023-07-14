@@ -138,6 +138,21 @@ third_nav_title: Art Programme
  
 </p>
 </div>
+<b>Term 2</b><br>Based on Campbell’s Mushroom Soup by Andy Warhol, the students created their own version of Pop Art using an iPad and the app "PicsArt". Pop Art drew inspiration from everyday objects and images found in advertising, comic books, movies, and popular music. They often employed bold, vibrant colors, sharp lines, and repetition of imagery to capture the essence of mass production and the commercialized nature of society. Through the artmaking process, students were aware of the impact of pop culture in daily lives.
+<div style="border:0px solid black;height:370px;overflow-y:hidden;overflow-x:hidden;">
+<p style="width:100%;">
+<table style="width:2160px">
+<tbody><tr>
+<td><img src="/images/Art%20Program/p4t2_01.jpg" style="height:300px"></td>
+<td><img src="/images/Art%20Program/p4t2_02.jpg" style="height:300px"></td>
+<td><img src="/images/Art%20Program/p4t2_03.jpg" style="height:300px"></td>
+<td><img src="/images/Art%20Program/p4t2_04.jpg" style="height:300px"></td>
+<td><img src="/images/Art%20Program/p4t2_05.jpg" style="height:300px"></td>
+</tr>
+</tbody></table>
+ 
+</p>
+</div>
 </div></li>
 	
 <li>
