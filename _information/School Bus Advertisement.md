@@ -20,7 +20,7 @@ To apply, please refer to the Service Requirements and the Application Procedure
 
 * Address: 110 Woodlands Crescent S737803
 * Contact No: 6365 4490
-* Email: aminah_saad@moe.edu.sg[aminah_saad@moe.edu.sg]
+* Email: aminah_saad@moe.edu.sg
 * Contact Person: Mdm Aminah Saad
 
 
