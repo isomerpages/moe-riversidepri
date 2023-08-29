@@ -103,23 +103,23 @@ Contact Person: Nur Hidayah Ariffin<br>  Contact Number: 8409 7083<br>
     <th>Saturday</th>
   </tr>
   <tr>
-    <td>2<br>Youth Day</td>
-    <td>3<br>Closed  - School Holiday</td>
-    <td>4<br>Closed</td>
-    <td>5<br>Closed</td>
-    <td>6<br>Closed</td>
-    <td>7<br>Closed</td>
-    <td>8</td>
+    <td><br></td>
+    <td><br></td>
+    <td><br></td>
+    <td><br></td>
+    <td><br></td>
+    <td><br>Closed</td>
+    <td>3</td>
   </tr>
 
   <tr>
-    <td>9</td>
-    <td>10<br>Closed</td>
-    <td>11<br>Open</td>
-    <td>12<br>Open</td>
-    <td>13<br>Open</td>
-    <td>14<br>Open</td>
-    <td>15</td>
+    <td>4</td>
+    <td>5<br>Closed</td>
+    <td>6<br>Open</td>
+    <td>7<br>Open</td>
+    <td>8<br>Open</td>
+    <td>9<br>Open</td>
+    <td>1</td>
   </tr>
   <tr>
     <td>16</td>    
