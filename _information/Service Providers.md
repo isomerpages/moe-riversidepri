@@ -92,7 +92,7 @@ Contact Person: Nur Hidayah Ariffin<br>  Contact Number: 8409 7083<br>
 <b>LUNCH TIME:</b>&nbsp;1 PM – 2 PM (Please do not disturb)<br>
 <table>
   <tbody><tr>
-			<th style="text-align:center" colspan="7">July 2023</th></tr>
+			<th style="text-align:center" colspan="7">September 2023</th></tr>
 		<tr border="1'">
     <th border="1'">Sunday</th>
     <th>Monday</th>
@@ -103,45 +103,50 @@ Contact Person: Nur Hidayah Ariffin<br>  Contact Number: 8409 7083<br>
     <th>Saturday</th>
   </tr>
   <tr>
-    <td>2<br>Youth Day</td>
-    <td>3<br>Closed  - School Holiday</td>
+    <td><br></td>
+    <td><br></td>
+    <td><br></td>
+    <td><br></td>
+    <td><br></td>
+    <td>1<br>Closed</td>
+    <td>2</td>
+  </tr>
+
+  <tr>
+    <td>3</td>
     <td>4<br>Closed</td>
     <td>5<br>Closed</td>
     <td>6<br>Closed</td>
     <td>7<br>Closed</td>
-    <td>8</td>
-  </tr>
-
-  <tr>
+    <td>8<br>Closed</td>
     <td>9</td>
-    <td>10<br>Closed</td>
-    <td>11<br>Open</td>
-    <td>12<br>Open</td>
+  </tr>
+  <tr>
+    <td>10</td>    
+		<td>11<br>Closed</td>
+    <td>12<br>Closed</td>
     <td>13<br>Open</td>
     <td>14<br>Open</td>
-    <td>15</td>
+    <td>15<br>Closed</td>
+    <td>16</td>		
   </tr>
   <tr>
-    <td>16</td>    
-		<td>17<br>Closed</td>
+    <td>17</td>
     <td>18<br>Closed</td>
     <td>19<br>Closed</td>
-    <td>20<br>Closed</td>
-    <td>21<br>Closed</td>
-    <td>22</td>		
-  </tr>
-  <tr>
+    <td>20<br>Open</td>
+    <td>21<br>Open</td>
+    <td>22<br>Open</td>
     <td>23</td>
-    <td>24<br>Open</td>
-    <td>25<br>Open</td>
-    <td>26<br>Open</td>
-    <td>27<br>Open</td>
-    <td>28<br>Open</td>
-    <td>29</td>
   </tr>
   <tr>
-    <td>30</td>
-    <td>31<br>Closed</td>	
+    <td>24</td>
+    <td>25<br>Closed</td>
+		<td>26<br>Closed</td>
+		<td>27<br>Open (AM)</td>
+		<td>28<br>Open</td>
+		<td>29<br>Open</td>
+		<td>30<br></td>
   </tr>		
 </tbody></table>
 <b>Buddy Clinic</b>&nbsp;(when clinic is closed)<br>
