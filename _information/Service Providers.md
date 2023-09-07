@@ -32,9 +32,43 @@ Contact Number: 9048 2301 (Mobile)<br>
 		<ul>
 			<li>&nbsp;
 <p><strong>Chang Chen Pte Ltd</strong>
+<br>Chang An Bus Transport Service (Parent Company)
+<br><br><strong>Address</strong>
+<br>Block 130 Choa Chu Kang Avenue 1 #06-36 Singapore 680130
 <br>Contact Person: Mr Grif Lim
-<br>Contact Number: 6760 4835
-<br>Email Add: <a href="mailto:griflim@hotmail.com">griflim@hotmail.com</a></p>
+<br>Contact Number: 6760 4835 / 9090 5835
+<br>Fax: 6892 5776
+<br>Email Add: <a href="mailto:griflim@hotmail.com">griflim@hotmail.com</a>
+<br><br><strong>Bus Fares</strong>
+<br>The bus fares listed below are the maximum fares for each distance cap. Actual bus fares based on other commercial considerations such as the distance, route, number of students and the size of school bus etc.
+<table style="border:1px solid black">
+  <tbody><tr>
+    <td style="border:1px solid black" rowspan="2">Distance</td>
+    <td style="border:1px solid black;text-align:center" colspan="2">Up to 15-seater</td>
+    <td style="border:1px solid black;text-align:center" colspan="2">&gt;15-seater</td>
+  </tr>		
+	<tr>
+		<td>1 way</td>
+		<td>2 way</td>
+		<td>1 way</td>
+		<td>2 way</td>
+	</tr>
+	<tr>
+		<td style="border:1px solid black">Up to 2km</td>
+		<td>$180</td>
+		<td>$180</td>
+		<td>$130</td>
+		<td>$130</td>
+	</tr>
+	<tr>
+		<td style="border:1px solid black">&gt;2 – 4km</td>
+		<td>$200</td>
+		<td>$200</td>
+		<td>$150</td>
+		<td>$150</td>
+	</tr>		
+</tbody></table>		
+</p>
 <p><a href="/files/Request_for_School_Bus_Services.pdf">Request for school bus service form</a></p></li>
 			</ul>
 		</div>
