@@ -41,6 +41,7 @@ Contact Number: 9048 2301 (Mobile)<br>
 <br>Email Add: <a href="mailto:griflim@hotmail.com">griflim@hotmail.com</a>
 <br><br><strong>Bus Fares</strong>
 <br>The bus fares listed below are the maximum fares for each distance cap. Actual bus fares based on other commercial considerations such as the distance, route, number of students and the size of school bus etc.
+	<br><br><strong>Bus fares for Daily School Bus Services by Distance for Year 2024</strong>
 <table style="border:1px solid black">
   <tbody><tr>
     <td style="border:1px solid black" rowspan="2">Distance</td>
