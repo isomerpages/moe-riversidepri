@@ -138,55 +138,55 @@ Contact Person: Nur Hidayah Ariffin<br>  Contact Number: 8409 7083<br>
     <th>Saturday</th>
   </tr>
   <tr>
-    <td><br></td>
-    <td><br></td>
-    <td><br></td>
-    <td><br></td>
-    <td><br></td>
-    <td>1<br>Closed</td>
-    <td>2</td>
+    <td>1<br></td>
+    <td>2<br>OPEN</td>
+    <td>3<br>OPEN</td>
+    <td>4<br>OPEN</td>
+    <td>5<br>OPEN</td>
+    <td>6<br>CLOSED</td>
+    <td>7</td>
   </tr>
 
   <tr>
-    <td>3</td>
-    <td>4<br>Closed</td>
-    <td>5<br>Closed</td>
-    <td>6<br>Closed</td>
-    <td>7<br>Closed</td>
-    <td>8<br>Closed</td>
-    <td>9</td>
+    <td>8</td>
+    <td>9<br>CLOSED</td>
+    <td>10<br>CLOSED</td>
+    <td>11<br>CLOSED</td>
+    <td>12<br>CLOSED</td>
+    <td>13<br>CLOSED</td>
+    <td>14</td>
   </tr>
   <tr>
-    <td>10</td>    
-		<td>11<br>Closed</td>
-    <td>12<br>Closed</td>
-    <td>13<br>Open</td>
-    <td>14<br>Open</td>
-    <td>15<br>Closed</td>
-    <td>16</td>		
+    <td>15</td>    
+		<td>16<br>CLOSED</td>
+    <td>17<br>CLOSED</td>
+    <td>18<br>CLOSED</td>
+    <td>19<br>OPEN</td>
+    <td>20<br>OPEN</td>
+    <td>21</td>		
   </tr>
   <tr>
-    <td>17</td>
-    <td>18<br>Closed</td>
-    <td>19<br>Closed</td>
-    <td>20<br>Open</td>
-    <td>21<br>Open</td>
-    <td>22<br>Open</td>
-    <td>23</td>
+    <td>22</td>
+    <td>23<br>CLOSED</td>
+    <td>24<br>CLOSED</td>
+    <td>25<br>CLOSED</td>
+    <td>26<br>CLOSED</td>
+    <td>27<br>CLOSED</td>
+    <td>28</td>
   </tr>
   <tr>
-    <td>24</td>
-    <td>25<br>Closed</td>
-		<td>26<br>Closed</td>
-		<td>27<br>Open (AM)</td>
-		<td>28<br>Open</td>
-		<td>29<br>Open</td>
-		<td>30<br></td>
+    <td>29</td>
+    <td>30<br>OPEN</td>
+		<td>31<br>OPEN</td>
+		<td><br></td>
+		<td><br></td>
+		<td><br></td>
+		<td><br></td>
   </tr>		
 </tbody></table>
-<b>Buddy Clinic</b>&nbsp;(when clinic is closed)<br>
+<b>Buddy Clinic </b>(when clinic is closed)<br>
 
-In the event that the dental clinic is closed, students who require&nbsp;<b>EMERGENCY</b>&nbsp;dental treatment can call any of the buddy clinics (see table) for an appointment.
+In the event that the dental clinic is closed, students who require <b>EMERGENCY</b> dental treatment can call any of the buddy clinics (see table) for an appointment.
 
 Please <b>CALL</b> to ensure that a dental staff is on duty, before going to the clinic:</p>
 				  
@@ -198,30 +198,30 @@ Please <b>CALL</b> to ensure that a dental staff is on duty, before going to the
     <th>Address</th>
   </tr>
   <tr>
-    <td>Admiralty Primary School</td>
+    <td>Admiralty Pri Sch</td>
     <td>8518 4719</td>
-    <td>11 Woodlands Circle Singapore 738907</td>
+    <td>11 Woodlands Circle <br>Singapore 738907</td>
   </tr>
   <tr>
-    <td>Evergreen Primary School</td>	
+    <td>Evergreen Pri Sch</td>	
    <td>9138 7503</td>	
-   <td>31 Woodlands Circle Singapore 738908</td>
+   <td>31 Woodlands Circle <br>Singapore 738908</td>
   </tr>
   
   <tr>
-    <td>Greenwood Primary School</td>	
+    <td>Greenwood Pri Sch</td>	
    <td>8522 9048</td>	
-   <td>11 Woodlands Drive 62, Singapore 737942</td>
+   <td>11 Woodlands Drive 62<br> Singapore 737942</td>
   </tr>
   <tr>
-    <td>Woodlands Primary School</td>
+    <td>Woodlands Pri Sch</td>
     <td>8764 2513</td>
-   <td>10 Woodlands Drive 50, Singapore 738853</td>
+   <td>10 Woodlands Drive 50<br> Singapore 738853</td>
   </tr>
   <tr>
     <td>MDC 12</td>
     <td>9237 9214</td>
-    <td>Please call to ask where is it located</td>
+    <td>Please call to ask <br>where is it located</td>
   </tr>
 </tbody></table>
 
