@@ -83,7 +83,7 @@ Contact Number: 9048 2301 (Mobile)<br>
 			<li>Contact Person: Mr. Ethan Koh<br>  
 Contact Number: 9029 5135<br>  
 <p>Email: <a href="mailto:finestfashioncentre@gmail.com">finestfashioncentre@gmail.com</a></p>
-<p>1. <a href="/files/Steps on Ordering Uniform Online.pdf" target="blank">Steps to Purchase School Uniform Online</a>
+<p>1. <a href="/files/steps on ordering uniform online.pdf" target="blank">Steps to Purchase School Uniform Online</a>
 	<br>2. <a href="/files/finest_uniform_order_form_and_sizing_chart.pdf" target="blank">Order form &amp; Sizing Chart (For purchase in school)</a></p>
 Address: 144 Upper Bukit Timah Rd, B1-03, Singapore 588177<br>
 Uniforms are now available for sale through School Bookshop.&nbsp;</li>
