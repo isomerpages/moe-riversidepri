@@ -4,18 +4,7 @@ permalink: /mk-riverside/mk-curriculum/hi-light/
 description: ""
 third_nav_title: Curriculum
 ---
-**Designed to support holistic development through an integrated approached in learning:**
-------------------------------------------------------------------------------------------
-
-*   Aesthetics and Creative Expression
-    
-*   Discovery of The World
-    
-*   Motor Skills Development
-    
-*   Numeracy
-    
-*   Social and Emotional Development
+For more information on our Hi-Light curriculum, you may refer to: <a target="blank" href="https://www.moe.gov.sg/preschool/moe-kindergarten/curriculum/hi-light">https://www.moe.gov.sg/preschool/moe-kindergarten/curriculum/hi-light</a>
 
 <br>
 <img src="/images/Hi_Light01.jpg" align="left" style="width:50%;">

@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/gifhomebanner.gif
       key_highlights:
-        - title: MOE Kindergaten @ Riverside
+        - title: MOE Kindergarten @ Riverside
           description: Enroll now!
           url: /mk-riverside/about-us/general-information/
         - title: Parent Suppport Group

@@ -4,9 +4,9 @@ permalink: /information/administrative-matters/
 description: ""
 ---
 <ul class="jekyllcodex_accordion">
-&nbsp;&nbsp;<li>
+<li>
 &nbsp;&nbsp;&nbsp;&nbsp;<input id="accordion1" type="checkbox">
-		<label for="accordion1"><h5 style="color:blue">Payment of Schools and Miscellaneous Fees</h5></label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion1"><h5 style="color:blue">Payment of Schools and Miscellaneous Fees</h5></label>
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
 		<p>Your child's monthly school fees will differ based on their nationality and the type of school they attend.<br> 
             <b>Note</b>:</p>
@@ -15,7 +15,7 @@ description: ""
 <li>These schools and institutions charge varying fees: Independent schools, specialised independent schools, Special Education (SPED) schools, specialised schools, polytechnics, the Institute of Technical Education (ITE) and Arts Institutions. Visit their respective websites for the latest fee information.</li>
 </ul>
 <p>To find out your child’s monthly school fees, please click on the below link.&nbsp;</p>
-<p><a href="https://www.moe.gov.sg/financial-matters/fees">https://www.moe.gov.sg/financial-matters/fees</a></p>
+<p><a target="blank" href="https://www.moe.gov.sg/financial-matters/fees">https://www.moe.gov.sg/financial-matters/fees</a></p>
 <ul>
 <li><b>How primary school fees are structured</b></li>
 </ul>
@@ -75,12 +75,15 @@ Please indicate the student’s name, UIN and school name on the reverse side of
 &nbsp;&nbsp;&nbsp;&nbsp;<input id="accordion2" type="checkbox">
 &nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion2"><h5 style="color:blue">MOE Financial Assistant Scheme</h5></label>
 	<div>
-	<p>Singapore Citizens in financial need can get assistance from MOE on school fees and other expenses. This applies to government, government-aided, specialised and some independent schools.</p>
-<p>If your child is in a government or government-aided school, autonomous government or government-aided school or specialised school, you can apply for the MOE Financial Assistance Scheme (FAS).
-<br></p>
-<p>You can click&nbsp;<a href="https://www.moe.gov.sg/financial-matters/financial-assistance">here</a>&nbsp;to find out if you are eligible for the MOE Financial Assistance Scheme.
-<br></p>
-<p>Transport Voucher Redemption Process (Only for successful applicants)<br><br>For successful applicants, please click&nbsp;<a href="/files/TransitLink_Evoucher_Redemption_Process.pdf">here</a>&nbsp;for the Transport Voucher Redemption instructions.</p>
+<p>Singapore Citizens in financial need can get assistance from MOE on school fees and other expenses. This applies to government, government-aided, special education (SPED), specialised and some independent schools.</p>
+<p>If your child is in a government or government-aided school, autonomous government or government-aided school or specialised school, you can apply for the MOE Financial Assistance Scheme (FAS).</p>
+<p>Click here to find out if you are eligible for the MOE FAS scheme.</p>
+<p>Parents can choose to apply MOE FAS using the e-FAS form which is available on Parents Gateway (under Services tab – Financial Assistance) via Singpass login.</p>
+<p>All supporting documents are to be uploaded digitally.</p>
+<p>The 2024 e-FAS form is also accessible via the link/QR code below:</p>
+<p><a target="blank" href="https://go.gov.sg/moe-efas"> https://go.gov.sg/moe-efas</a></p>
+<img src="/images/fas_qr_code.jpg" style="width:195px">
+<p>If you face any challenges submitting the e-FAS form, please approach or contact the school at 6365 4490 for the hardcopy application form.</p>
 	
 </div></li><li>
 &nbsp;&nbsp;&nbsp;&nbsp;<input id="accordion3" type="checkbox">
@@ -159,4 +162,4 @@ Please indicate the student’s name, UIN and school name on the reverse side of
 Singapore Permanent Residents: Original NRIC/Re-entry Permit; and
 <br>•	a colour passport-sized photograph taken within the last three months against a white background. The photo must show your full face from chin to crown of the head with hair neatly combed or tied up.</p>
 		</div>
-	</li>
+	</li></ul>
