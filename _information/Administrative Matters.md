@@ -81,7 +81,8 @@ Please indicate the student’s name, UIN and school name on the reverse side of
 <p>Parents can choose to apply MOE FAS using the e-FAS form which is available on Parents Gateway (under Services tab – Financial Assistance) via Singpass login.</p>
 <p>All supporting documents are to be uploaded digitally.</p>
 <p>The 2024 e-FAS form is also accessible via the link/QR code below:</p>
-<p><a href="https://go.gov.sg/moe-efas"> https://go.gov.sg/moe-efas</a></p>![](/images/fas_qr_code.jpg)
+<p><a href="https://go.gov.sg/moe-efas"> https://go.gov.sg/moe-efas</a></p>
+<img src="/images/fas_qr_code.jpg" style="width:195px">
 <p>If you face any challenges submitting the e-FAS form, please approach or contact the school at 6365 4490 for the hardcopy application form.</p>
 	
 </div></li><li>
