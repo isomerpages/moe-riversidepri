@@ -18,7 +18,7 @@ We recommend that each child has at least three sets of uniform.
 
 ### Sales of Uniform
 
-Purchase MK uniforms at&nbsp;[**www.jeepsinguniform.com**](https://jeepsinguniform.com/)&nbsp;**or**&nbsp;[**www.beauvoix.com/preschool**](http://www.beauvoix.com/preschool)
+Purchase MK uniforms at&nbsp;[**www.jeepsinguniform.com**](https://jeepsinguniform.com/)&nbsp;**or**&nbsp;[**www.beauvoix.com.sg/preschool**](http://www.beauvoix.com.sg/preschool)
 <br>
 
 ### Shoes &amp; Socks
@@ -27,10 +27,9 @@ Your child should wear socks and well-fitted shoes for safety during activities.
 
 *   Children should wear closed-toe shoes, suitable for outdoor play;
     
-*   Flip-flops and other open-toe/heel shoes are not allowed (except on the day that the class is having sand &amp; water play, where children are to wear slippers or sandals without socks to school); and
+*   Flip-flops and other open-toe/heel shoes are not allowed; and
     
-*   We strongly encourage anti-slip socks
-<br>
+*   Socks should have non-slip soles.<br>
 
 ### Hair
 Your child's hair must be well-kept and tidy.
