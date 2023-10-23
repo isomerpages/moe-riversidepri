@@ -14,15 +14,15 @@ third_nav_title: About Us
 <li><p>Afternoon session (1pm to 5pm)</p>
 </li>
 </ul>
-<p>MOE Kindergarten follows <em><strong>MOE&#39;s calendar of school terms</strong></em> and <em><strong>school holidays</strong></em>.</p>
+<p>MOE Kindergarten follows&nbsp;<em><strong>MOE's calendar of school terms</strong></em>&nbsp;and&nbsp;<em><strong>school holidays</strong></em>.</p>
 <p>All MKs offer the same curriculum and programmes.</p>
 <p>Each MK customises learning activities, teaching resources and approaches, and classroom spaces based on their children’s needs.</p>
 
 <ul class="jekyllcodex_accordion">
-  <li>
-    <input type="checkbox" id="accordion1">
+&nbsp;&nbsp;<li>
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion1">
 		<label for="accordion1"><h5 style="color:blue">Timetable</h5></label>
-    <div>
+&nbsp;&nbsp;&nbsp;&nbsp;<div>
 <p>MK Morning Session</p>
 <p style="color:red">8am to 12noon</p>
 <p>MK Afternoon Session</p>
@@ -33,8 +33,8 @@ third_nav_title: About Us
 	</li>
 	
 <li>
-    <input type="checkbox" id="accordion2">
-    <label for="accordion2"><h5 style="color:blue">Full-Day Kindergaten Care Service</h5></label>
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion2">
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion2"><h5 style="color:blue">Full-Day Kindergarten Care Service</h5></label>
 	<div>
 <p>MOE Kindergarten offers a 4-hour programme.</p>
 
@@ -66,4 +66,4 @@ third_nav_title: About Us
 
 <p><em>Parents/guardians are strongly advised to avoid the ‘black-out period’ (<strong><strong>between 7.45 – 8.15am and 4.45 – 5.15pm</strong></strong>) for drop-off/pick-up at KCare.</em></p>
 	</div>
-	</li>
+	</li></ul>
