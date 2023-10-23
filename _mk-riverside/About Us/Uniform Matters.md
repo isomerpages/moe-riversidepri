@@ -8,7 +8,7 @@ All children attending MOE Kindergarten are required to wear their kindergarten 
 
 Children are to&nbsp;**wear the prescribed kindergarten uniform and modification to the uniform is not allowed.**
 
-We recommend that each child has at least three sets of uniform
+We recommend that each child has at least three sets of uniform.
 
 <br>
 <img src="/images/mk_uniform.jpg" style="width:600px">
