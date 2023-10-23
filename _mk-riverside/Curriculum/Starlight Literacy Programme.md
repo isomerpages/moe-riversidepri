@@ -4,8 +4,8 @@ permalink: /mk-riverside/mk-curriculum/starlight-literacy-programme/
 description: ""
 third_nav_title: Curriculum
 ---
-
-<br>
+For more information on our Starlight curriculum, you may refer to: <a target="blank" href="https://www.moe.gov.sg/preschool/moe-kindergarten/curriculum/starlight">https://www.moe.gov.sg/preschool/moe-kindergarten/curriculum/starlight</a>
+<br><br>
 <img src="/images/Starlight_English.jpg" align="left" style="width:50%;">
 <img src="/images/Starlight_English01.jpg" align="right" style="width:50%;">
 <br>
@@ -44,7 +44,5 @@ third_nav_title: Curriculum
 <img src="/images/Starlight_Malay02.jpg" align="left" style="width:50%;">
 <img src="/images/Starlight_Malay03.jpg" align="right" style="width:50%;">
 <br>
-<img src="/images/Starlight_Malay04.jpg" align="left" style="width:50%;">
 <img src="/images/Starlight_Malay05.jpg" align="right" style="width:50%;">
-
-<img src="/images/Starlight_Malay06.jpg" align="left" style="width:350px">
+<img src="/images/Starlight_Malay06.jpg" align="left" style="width:50%">
