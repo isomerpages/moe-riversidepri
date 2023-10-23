@@ -15,7 +15,7 @@ description: ""
 <li>These schools and institutions charge varying fees: Independent schools, specialised independent schools, Special Education (SPED) schools, specialised schools, polytechnics, the Institute of Technical Education (ITE) and Arts Institutions. Visit their respective websites for the latest fee information.</li>
 </ul>
 <p>To find out your child’s monthly school fees, please click on the below link.&nbsp;</p>
-<p><a href="https://www.moe.gov.sg/financial-matters/fees">https://www.moe.gov.sg/financial-matters/fees</a></p>
+<p><a target="blank" href="https://www.moe.gov.sg/financial-matters/fees">https://www.moe.gov.sg/financial-matters/fees</a></p>
 <ul>
 <li><b>How primary school fees are structured</b></li>
 </ul>
@@ -81,7 +81,7 @@ Please indicate the student’s name, UIN and school name on the reverse side of
 <p>Parents can choose to apply MOE FAS using the e-FAS form which is available on Parents Gateway (under Services tab – Financial Assistance) via Singpass login.</p>
 <p>All supporting documents are to be uploaded digitally.</p>
 <p>The 2024 e-FAS form is also accessible via the link/QR code below:</p>
-<p><a href="https://go.gov.sg/moe-efas"> https://go.gov.sg/moe-efas</a></p>
+<p><a target="blank" href="https://go.gov.sg/moe-efas"> https://go.gov.sg/moe-efas</a></p>
 <img src="/images/fas_qr_code.jpg" style="width:195px">
 <p>If you face any challenges submitting the e-FAS form, please approach or contact the school at 6365 4490 for the hardcopy application form.</p>
 	
