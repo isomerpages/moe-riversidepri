@@ -15,4 +15,4 @@ To provide quality pre-school education that is affordable to Singaporeans and c
 
 **Values**
 
-Integrity the<br>Foundation<br>People our Focus<br>Learning our Passion<br>Excellence out Pursuit
+Integrity the<br>Foundation<br>People our Focus<br>Learning our Passion<br>Excellence our Pursuit
