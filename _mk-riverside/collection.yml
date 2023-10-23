@@ -2,7 +2,6 @@ collections:
   mk-riverside:
     output: true
     order:
-      - About Us/MK Forms.md
       - About Us/.keep
       - About Us/Open House 2023.md
       - About Us/General Information.md
@@ -10,6 +9,7 @@ collections:
       - About Us/Our Vision Mission And Values.md
       - About Us/Our Learning Environment.md
       - About Us/Our Fees.md
+      - About Us/MK Forms.md
       - About Us/Uniform Matters.md
       - About Us/Contact Us.md
       - Curriculum/Our Curriculum Approach.md
