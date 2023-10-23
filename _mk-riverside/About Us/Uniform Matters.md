@@ -18,7 +18,7 @@ We recommend that each child has at least three sets of uniform.
 
 ### Sales of Uniform
 
-Purchase MK uniforms at&nbsp;[**https://www.jeepsinguniform.com**](https://jeepsinguniform.com/)&nbsp;**or**&nbsp;[**https://www.beauvoix.com.sg/preschool**](https://www.beauvoix.com.sg/preschool)
+Purchase MK uniforms at&nbsp;[**https://www.jeepsinguniform.com**](https://jeepsinguniform.com/)&nbsp;**or**&nbsp;[**https://www.beauvoix.com.sg**](https://www.beauvoix.com.sg)
 <br>
 
 ### Shoes &amp; Socks
