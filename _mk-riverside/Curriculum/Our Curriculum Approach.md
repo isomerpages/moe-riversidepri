@@ -5,15 +5,7 @@ description: ""
 third_nav_title: Curriculum
 ---
 For more information on our curriculum, you may refer to <a target="blank" href="https://www.moe.gov.sg/preschool/moe-kindergarten/curriculum">https://www.moe.gov.sg/preschool/moe-kindergarten/curriculum</a>
-    
 
-**OUR PROGRAMMES**
-------------------
-
-Our curriculum comprises 2 flagship programmes, the HI-Light Programme and Starlight Literacy Programme for English and MTL. In addition, each term at MK will conclude in a Weeks of Wonder project.
-
-[**HI-LIGHT PROGRAMME**](/mk-riverside/mk-curriculum/hi-light/)
------------------------------------
 <br>
 <img src="/images/Hi_Light10.jpg" style="width:500px">
 <br>
