@@ -4,7 +4,6 @@ permalink: /mk-riverside/about-us/general-information/
 description: ""
 third_nav_title: About Us
 ---
-
 <br>
 <p>We offer 4-hour K1 and K2 programmes for children. You can choose from the following options:</p>
 
@@ -62,8 +61,8 @@ third_nav_title: About Us
 
 <br>
 
-<p>Kindergarten Care operates from 7am – 7pm on Mondays to Fridays, including school holidays. The Kindergarten Care centres close for up to 6 days each year, in addition to gazetted public holidays.</p><br>
+<p>Kindergarten Care operates from 7am – 7pm on Mondays to Fridays, including school holidays. The Kindergarten Care centres close for up to 6 days each year, in addition to gazetted public holidays.</p>
 
-<p><em>Parents/guardians are strongly advised to avoid the ‘black-out period’ (<strong><strong>between 7.45 – 8.15am and 4.45 – 5.15pm</strong></strong>) for drop-off/pick-up at KCare.</em></p>
+<p>Parents/guardians are strongly advised to avoid the "black-out" period as all staff will be in the midst of transition and handover to/from MK.</p><p>7.45am – 8.15am<br>11.45am - 12.15pm<br>4.45pm – 5.15pm</p>
 	</div>
 	</li></ul>
