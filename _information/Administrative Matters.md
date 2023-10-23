@@ -5,8 +5,8 @@ description: ""
 ---
 <ul class="jekyllcodex_accordion">
 <li>
-<input id="accordion1" type="checkbox">
-		<label for="accordion1"><h5 style="color:blue">Payment of Schools and Miscellaneous Fees</h5></label>
+&nbsp;&nbsp;&nbsp;&nbsp;<input id="accordion1" type="checkbox">
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion1"><h5 style="color:blue">Payment of Schools and Miscellaneous Fees</h5></label>
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
 		<p>Your child's monthly school fees will differ based on their nationality and the type of school they attend.<br> 
             <b>Note</b>:</p>
@@ -86,8 +86,8 @@ Please indicate the student’s name, UIN and school name on the reverse side of
 <p>If you face any challenges submitting the e-FAS form, please approach or contact the school at 6365 4490 for the hardcopy application form.</p>
 	
 </div></li><li>
-<input id="accordion3" type="checkbox">
-<label for="accordion3"><h5 style="color:blue">Insurance</h5></label>
+&nbsp;&nbsp;&nbsp;&nbsp;<input id="accordion3" type="checkbox">
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion3"><h5 style="color:blue">Insurance</h5></label>
 	<div>
 <p>Every student in Riverside Primary School is covered under the&nbsp;NTUC Income Insurance Co-operative Limited&nbsp;Group Personal Accident Insurance Plan. This plan provides accident coverage for all school activities conducted both in and out of school for the period 1 January 2018 to 31 December 2020. The plan has been extended for another three years for the period 1 January 2021 to 31 December 2023.
 <br></p>
