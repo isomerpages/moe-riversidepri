@@ -4,7 +4,7 @@ permalink: /mk-riverside/about-us/general-information/
 description: ""
 third_nav_title: About Us
 ---
-![](/images/banner%20mk.png)
+
 <br>
 <p>We offer 4-hour K1 and K2 programmes for children. You can choose from the following options:</p>
 
