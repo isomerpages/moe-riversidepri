@@ -4,7 +4,7 @@ permalink: /mk-riverside/mk-curriculum/our-curriculum-approach/
 description: ""
 third_nav_title: Curriculum
 ---
-For more information on our curriculum, you may refer to <a href="https://www.moe.gov.sg/preschool/,oe-kindergarten/curriculum">https://www.moe.gov.sg/preschool/,oe-kindergarten/curriculum</a>
+For more information on our curriculum, you may refer to <a target="blank" href="https://www.moe.gov.sg/preschool/moe-kindergarten/curriculum">https://www.moe.gov.sg/preschool/moe-kindergarten/curriculum</a>
     
 
 **OUR PROGRAMMES**
