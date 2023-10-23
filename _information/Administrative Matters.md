@@ -4,8 +4,8 @@ permalink: /information/administrative-matters/
 description: ""
 ---
 <ul class="jekyllcodex_accordion">
-&nbsp;&nbsp;<li>
-&nbsp;&nbsp;&nbsp;&nbsp;<input id="accordion1" type="checkbox">
+<li>
+<input id="accordion1" type="checkbox">
 		<label for="accordion1"><h5 style="color:blue">Payment of Schools and Miscellaneous Fees</h5></label>
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
 		<p>Your child's monthly school fees will differ based on their nationality and the type of school they attend.<br> 
