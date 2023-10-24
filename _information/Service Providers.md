@@ -5,7 +5,7 @@ description: ""
 ---
 <ul class="jekyllcodex_accordion">
 &nbsp;&nbsp;<li>
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion1">
+<input type="checkbox" id="accordion1">
 		<label for="accordion1"><h5 style="color:RoyalBlue">Bookshop</h5></label>
 <div>
 <ul>
@@ -14,15 +14,8 @@ Contact Person: Ms. Huang Xiulan<br>
 Contact Number: 9048 2301 (Mobile)<br>  
 		Email: <a href="mailto:rsps@pacificbookstores.com">rsps@pacificbookstores.com</a><br>
 <p>
-<a href="/files/2024_p1_booklist.pdf" target="blank">2024 P1 Booklist</a><br>
-<a href="/files/2023-p2-booklist.pdf" target="blank">2023 P2 Booklist</a><br>
-<a href="/files/2023-p3-booklist.pdf" target="blank">2023 P3 Booklist</a><br>
-<a href="/files/2023-p4-booklist.pdf" target="blank">2023 P4 Booklist</a><br>
-<a href="/files/2023-p5-booklist.pdf" target="blank">2023 P5 Booklist</a><br>
-<a href="/files/2023-p5fdn-booklist.pdf" target="blank">2023 P5 FDN Booklist</a><br>
-<a href="/files/2023-p6-booklist.pdf" target="blank">2023 P6 Booklist</a><br>
-<a href="/files/2023-p6fdn-booklist.pdf" target="blank">2023 P6 FDN Booklist</a></p>
-</li></ul>
+<a href="/files/2024-p1-booklist.pdf" target="blank">2024 P1 Booklist</a><br>
+</p></li></ul>
 </div>
 </li>
 <li>
@@ -70,7 +63,7 @@ Contact Number: 9048 2301 (Mobile)<br>
 	</tr>		
 </tbody></table>		
 </p>
-<p><a href="/files/request_for_school_bus_services_for_2024_cohort.pdf" target="blank">Request for school bus service form</a></p></li>
+<p><a href="/files/request-for-school-bus-services-for-2024-cohort.pdf" target="blank">Request for school bus service form</a></p></li>
 			</ul>
 		</div>
 	</li>
