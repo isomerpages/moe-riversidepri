@@ -70,7 +70,7 @@ Contact Number: 9048 2301 (Mobile)<br>
 	</tr>		
 </tbody></table>		
 </p>
-<p><a href="/files/request_for_school_bus_services_for_2024_cohort.pdf">Request for school bus service form</a></p></li>
+<p><a href="/files/request_for_school_bus_services_for_2024_cohort.pdf" target="blank">Request for school bus service form</a></p></li>
 			</ul>
 		</div>
 	</li>
