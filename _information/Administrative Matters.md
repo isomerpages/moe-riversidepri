@@ -108,7 +108,7 @@ Please indicate the student’s name, UIN and school name on the reverse side of
 <p>Primary 1 registration is a process to register your child for mainstream primary schools in the following year. For more information on the P1 Registration Exercise for Singapore Citizens and Permanent Residents, you can click&nbsp;<a href="https://www.moe.gov.sg/primary/p1-registration">here</a>.</p>
 <p><b>b)&nbsp;&nbsp;Adhoc Admission (For Singapore Citizens and Singapore Permanent Residents Only)</b></p>
 <p>For admission to current levels in the school, please call the school’s General Office at 63654490 to enquire if there are vacancies.<br></p>
-<p>To apply for school waitlist, please click&nbsp;<a href="https://go.gov.sg/riversidepri-2022waitlist">here</a>.</p>
+<p>To apply for school waitlist, please click&nbsp;<a href="https://form.gov.sg/6532768e5f9df700123dc705">here</a>.</p>
 <p><b>c)&nbsp;&nbsp;&nbsp;Application for Admission for International Students</b><br></p>
 <p>For admission for non-Singapore Citizens and non-SPR, please visit the following MOE webpage for more information on admission criteria and procedures:&nbsp;<a href="https://www.moe.gov.sg/primary/p1-registration/international-students">https://www.moe.gov.sg/primary/p1-registration/international-students</a></p>
 <p></p>
