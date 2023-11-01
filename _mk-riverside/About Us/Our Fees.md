@@ -4,7 +4,8 @@ permalink: /mk-riverside/about-us/our-fees/
 description: ""
 third_nav_title: About Us
 ---
-**MOE Kindergarten Fees**
+
+![](/images/header-ourfees.jpg)**MOE Kindergarten Fees**
 -------------------------
 
 The monthly fee for MK in 2021 and 2022 is:
