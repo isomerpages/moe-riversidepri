@@ -64,9 +64,7 @@ Sharing of food is not allowed. Exchange of food items is also not allowed.</p>
 &nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion5">
 <label for="accordion5"><h5 style="color:blue">Personal Oral Digital Thermometer</h5></label>
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
-<p>All students are to bring a working Oral Digital Thermometer to school on every school day.&nbsp;&nbsp;Pupils are encouraged to use the thermometer to monitor their own health and check if they have fever.&nbsp;&nbsp;This is to foster in pupils a sense of personal responsibility for their own health and wellbeing.<br>
-
-During this COVID-19 period, students are required to take their temperature twice daily (once in the morning and once in the afternoon if they are staying back for afternoon activities).</p>
+<p>All students are to bring a working Oral Digital Thermometer to school on every school day.&nbsp;&nbsp;Pupils are encouraged to use the thermometer to monitor their own health and check if they have fever.&nbsp;&nbsp;This is to foster in pupils a sense of personal responsibility for their own health and wellbeing.</p>
 	 </div>
 </li>&nbsp;&nbsp;
 	
