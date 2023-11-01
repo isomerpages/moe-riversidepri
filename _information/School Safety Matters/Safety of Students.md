@@ -57,7 +57,7 @@ To ensure the safety of the school community and all road users, we would like t
 </ul>
 
 <h5>(B) Dismissal of Student</h5>
-Students are dismissed at staggered timings are as follows:
+Students are dismissed at staggered timings as follows:
 
 <table style="border: 1px solid"><tbody><tr><th style="border: 1px solid">Level</th><th style="border: 1px solid">Dsimissal</th></tr>
 <tr><td style="border: 1px solid">P1 &amp; P2</td><td style="border: 1px solid">1.25pm</td></tr>
