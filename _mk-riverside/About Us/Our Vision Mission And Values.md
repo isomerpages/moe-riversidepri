@@ -4,7 +4,7 @@ permalink: /mk-riverside/about-us/our-vision-mission-and-values/
 description: ""
 third_nav_title: About Us
 ---
-![](/images/mk@riverside_logo.png)
+![](/images/header-ourvisionmissionvalues.jpg)
 **Vision**
 
 A strong start for every child.
