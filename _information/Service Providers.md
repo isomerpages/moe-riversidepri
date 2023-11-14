@@ -2,6 +2,7 @@
 title: Service Providers
 permalink: /information/service-providers/
 description: ""
+variant: markdown
 ---
 <ul class="jekyllcodex_accordion">
 &nbsp;&nbsp;<li>
@@ -15,6 +16,13 @@ Contact Number: 9048 2301 (Mobile)<br>
 		Email: <a href="mailto:rsps@pacificbookstores.com">rsps@pacificbookstores.com</a><br>
 <p>
 <a href="/files/2024-p1-booklist.pdf" target="blank">2024 P1 Booklist</a><br>
+<a href="/files/2024_booklist/2024_p2_booklist.pdf" target="blank">2024 P2 Booklist</a><br>
+<a href="/files/2024_booklist/2024_p2_booklist.pdf" target="blank">2024 P3 Booklist</a><br>
+<a href="/files/2024_booklist/2024_p2_booklist.pdf" target="blank">2024 P4 Booklist</a><br>
+<a href="/files/2024_booklist/2024_p2_booklist.pdf" target="blank">2024 P5 Booklist</a><br>
+<a href="/files/2024_booklist/2024_p2_booklist.pdf" target="blank">2024 P5 (fdn) Booklist</a><br>
+<a href="/files/2024_booklist/2024_p2_booklist.pdf" target="blank">2024 P6 Booklist</a><br>
+<a href="/files/2024_booklist/2024_p2_booklist.pdf" target="blank">2024 P6 (fdn) Booklist</a><br>
 </p></li></ul>
 </div>
 </li>
