@@ -3,6 +3,7 @@ title: Our Vision Mission And Values
 permalink: /mk-riverside/about-us/our-vision-mission-and-values/
 description: ""
 third_nav_title: About Us
+variant: markdown
 ---
 ![](/images/header-ourvisionmissionvalues.jpg)
 **Vision**
@@ -15,4 +16,4 @@ To provide quality pre-school education that is affordable to Singaporeans and c
 
 **Values**
 
-Integrity the<br>Foundation<br>People our Focus<br>Learning our Passion<br>Excellence our Pursuit
+Integrity the Foundation<br>People our Focus<br>Learning our Passion<br>Excellence our Pursuit
