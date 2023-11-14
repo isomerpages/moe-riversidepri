@@ -3,5 +3,8 @@ title: Admin and Orientation Day 2024
 permalink: /mk-riverside/about-us/admin-and-orientation-day-2024/
 description: ""
 third_nav_title: About Us
+variant: markdown
 ---
-![](/images/mk_orientation_2024.jpg)Dear Parents,<br>Kindly note that this Admin &amp; Orientation Day is only for parents with children who has received a placement with MOE Kindergarten @ Riverside in AY2024. <br>We look forward to seeing you!
+![](/images/header_MKOrientation.jpg)
+1. <a target="blank" href="/files/MK%20files/MK_Slides_for_K1_Orientation_2023.pdf"> MK Slides for K1 Orientation 2023.pdf</a><br>
+2. <a target="blank" href="/files/MK%20files/KCare_Riverside_Slides_for_K1_Orientation_2023.pdf"> KCare@Riverside Slides for K1 Orientation_2023</a>
