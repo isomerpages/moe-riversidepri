@@ -53,10 +53,14 @@ third_nav_title: Awards Gallery
 
 ![](/images/2023_awards/P4K_science_gem.jpg)
 
-![](/images/2023_awards/P4Si_star_learner.jpg)
-
-![](/images/2023_awards/P4Sienglish_gem.jpg)
+![](/images/2023_awards/P4Si_english_gem.jpg)
 
 ![](/images/2023_awards/P4Si_maths_gem.jpg)
 
 ![](/images/2023_awards/P4Si_science_gem.jpg)
+
+![](/images/2023_awards/P4_chinese_gem.jpg)
+
+![](/images/2023_awards/P4_malay_gem.jpg)
+
+![](/images/2023_awards/P4_tamil_gem.jpg)
