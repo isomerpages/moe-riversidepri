@@ -2,6 +2,7 @@
 title: Teachers
 permalink: /family/teachers/
 description: ""
+variant: markdown
 ---
 <ul class="jekyllcodex_accordion">
 <li>
@@ -38,53 +39,53 @@ description: ""
 <label for="accordion2"><h4 style="color:Blue">Primary 1 Teachers</h4></label>
 <div>
 <h5 style="color:Blue">P1 Strength</h5>
-<strong>Mrs Joanna Kong</strong>
-<br>Email: hang_siew_mei_joanna@moe.edu.sg
+<strong></strong>
+<br>Email: 
 
-<p><strong>Ms Ameerah Sharainee Zain Sha</strong>
-<br>Email: ameerah_sharainee_zain_sha@moe.edu.sg</p>
+<p><strong></strong>
+<br>Email: </p>
 
 <h5 style="color:Blue">P1 Perseverance</h5>
-<strong>Mrs Rathiga D/O Atamanadan</strong>
-<br>Email: rathiga_atamanadan@moe.edu.sg
+<strong></strong>
+<br>Email: 
 
-<p><strong>Ms Man Su Thing</strong>
-<br>Email: man_su_thing@moe.edu.sg</p>
+<p><strong></strong>
+<br>Email: </p>
 
 <h5 style="color:Blue">P1 Adaptability</h5>
-<strong>Mrs Sheryl Goh</strong>
-<br>Email: sheryl_tan@moe.edu.sg
+<strong></strong>
+<br>Email: 
 
-<p><strong>Mrs Jasmine Lee</strong>
-<br>Email: jasmine_koh_chwee_lian@moe.edu.sg</p>
+<p><strong></strong>
+<br>Email: </p>
 
 <h5 style="color:Blue">P1 Responsibility</h5>
-<strong>Mrs Normala Alex</strong>
-<br>Email: normala_sarman@moe.edu.sg
+<strong></strong>
+<br>Email: 
 
-<p><strong>Mdm Siti Suhaida</strong>
-<br>Email: siti_suhaida_surir@moe.edu.sg</p>
+<p><strong></strong>
+<br>Email: </p>
 
 <h5 style="color:Blue">P1 Kindness</h5>
-<strong>Ms Matilda Lin</strong>
-<br>Email: lin_huizi_matilda@moe.edu.sg
+<strong></strong>
+<br>Email:
 
-<p><strong>Mdm Hasnah Misnor</strong>
-<br>Email: hasnah_misnor@moe.edu.sg</p>
+<p><strong></strong>
+<br>Email: </p>
 
 <h5 style="color:Blue">P1 Leadership</h5>
-<strong>Mdm Lalithaa Kanesan</strong>
-<br>Email: lalithaa_kanesan@moe.edu.sg
+<strong></strong>
+<br>Email:
 
-<p><strong>Mdm Thang Yun Xuan</strong>
-<br>Email: thang_yun_xuan@moe.edu.sg</p>
+<p><strong></strong>
+<br>Email: </p>
 
 <h5 style="color:Blue">P1 Enthusiasm</h5>
-<strong>Ms Chin Shu Hui</strong>
-<br>Email: chin_shu_hui@moe.edu.sg
+<strong></strong>
+<br>Email: 
 
-<p><strong>Mdm Chuah Yen Ming</strong>
-<br>Email: chuah_yen_ming@moe.edu.sg</p>
+<p><strong></strong>
+<br>Email: </p>
 
 </div>
 </li><li>
