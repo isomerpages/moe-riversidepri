@@ -117,9 +117,9 @@ variant: markdown
 <input type="checkbox" id="accordion5">
 <label for="accordion5"><h5 style="color:blue">Primary 4 Teachers</h5></label>
 <div>
-<p></p><h5>P4 Strength</h5>
+<h5>P4 Strength</h5>
 <strong>Mdm Hazel Tay</strong><br>Email: tay_pei_pei@moe.edu.sg<br>
-<strong>Mrs Fio Ng</strong><br>Email: ang_hwee_tit@moe.edu.sg<p></p>
+<strong>Mrs Fio Ng</strong><br>Email: ang_hwee_tit@moe.edu.sg
 
 <p></p><h5>P4 Perseverance</h5>
 <strong>Mdm Noorfaezah Sadon</strong><br>Email: noorfaezah_sadon@moe.edu.sg<br>
