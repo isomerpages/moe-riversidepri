@@ -52,13 +52,34 @@ variant: markdown
 <input type="checkbox" id="accordion3">
 <label for="accordion3"><h5 style="color:blue">Primary 2 Teachers</h5></label>
 <div>
-<h5>P2 Strength</h5><p><br>Email:</p><p><br>Email:</p>
-<h5>P2 Perseverance</h5><p><br>Email:</p><p><br>Email:</p>
-<h5>P2 Adaptability</h5><p><br>Email:</p><p><strong> </strong><br>Email:</p>
-<h5>P2 Responsibility</h5><p><br>Email:</p><p><br>Email:</p>
-<h5>P2 Kindness</h5><p><br>Email:</p><p><br>Email:</p>
-<h5>P2 Leadership</h5><p><br>Email:</p><p><br>Email:</p>
-<h5>P2 Enthusiasm</h5><p><br>Email:</p><p><br>Email:</p>
+<p></p><h5>P2 Strength</h5>
+<strong>Mrs Joanna Kong</strong><br>Email: hang_siew_mei_joanna@moe.edu.sg<br>
+<strong>Mr Chong Keng Kok</strong><br>Email: chong_keng_kok@moe.edu.sg<p></p>
+
+<p></p><h5>P2 Perseverance</h5>
+<strong>Mrs Rathiga D/O Atamanadan</strong><br>Email: rathiga_atamanadan@moe.edu.sg<br>
+<strong>Ms Man Su Thing</strong><br>Email: man_su_thing@moe.edu.sg<p></p>
+
+<p></p><h5>P2 Adaptability</h5>
+<strong>Mrs Jasmine Lee</strong><br>Email: jasmine_koh_chwee_lian@moe.edu.sg<br>
+<strong>Mdm Jacqueline Kho</strong><br>Email: kho_ee_ling_jacqueline@moe.edu.sg<p></p>
+
+<p></p><h5>P2 Responsibility</h5>
+<strong>Mrs Normala Alex</strong><br>Email: normala_sarman@moe.edu.sg<br>
+<strong>Mr Peter Chua</strong><br><p></p>
+
+<p></p><h5>P2 Kindness</h5>
+<strong>Ms Matilda Lin</strong><br>Email: lin_huizi_matilda@moe.edu.sg<br>
+<strong>Ms Maisurah Bte Saini</strong><br>Email: maisurah_saini@moe.edu.sg<p></p>
+
+<p></p><h5>P2 Leadership</h5>
+<strong>Ms Ameerah Sharainee Zain Sha</strong><br>Email: ameerah_sharainee_zain_sha@moe.edu.sg<br>
+<strong>Mdm Nor Farhana</strong><br>Email: nor_farhana_hatwadi@moe.edu.sg<p></p>
+
+<p></p><h5>P2 Enthusiasm</h5>
+<strong>Mdm Chuah Yen Ming</strong><br>chuah_yen_ming@moe.edu.sg<br>
+<strong>Mrs Eity Norhyezah Asyurah</strong><br>Email: eity_norhyezah_asyurah@moe.edu.sg<p></p>
+
 </div>
 </li>
 
