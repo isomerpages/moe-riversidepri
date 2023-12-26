@@ -87,12 +87,29 @@ variant: markdown
 <input type="checkbox" id="accordion4">
 <label for="accordion4"><h5 style="color:blue">Primary 3 Teachers</h5></label>
 <div>
-<h5>P3 Strength</h5><p><br>Email:</p><p><br>Email:</p>
-<h5>P3 Perseverance</h5><p><br>Email:</p><p><br>Email:</p>
-<h5>P3 Adaptability</h5><p><br>Email:</p><p><br>Email:</p>
-<h5>P3 Responsibility</h5><p><br>Email:</p><p><br>Email:</p>
-<h5>P3 Kindness</h5><p><br>Email:</p><p><br>Email:</p>
-<h5>P3 Sincerity</h5><p><br>Email:</p><p><br>Email:</p>
+<p></p><h5>P3 Strength</h5>
+<strong>Ms Jasmine Poi</strong><br>email: poi_mei_ling_jasmine@moe.edu.sg<br>
+<strong>Mdm Gowri D/O V Vairavan</strong><br>Email: gowri_v_vairavan@moe.edu.sg<p></p>
+
+<p></p><h5>P3 Perseverance</h5>
+<strong>Ms Clarice Teo</strong><br>Email: clarice_teo_tze_yee@moe.edu.sg<br>
+<strong>Mr Bobby Chan</strong><br>email: chan_teck_hock_bobby@moe.edu.sg<p></p>
+
+<p></p><h5>P3 Adaptability</h5>
+<strong>Mdm Liyana</strong><br>Email: liyana_nadiah_bt_jamil@moe.edu.sg <br>
+<strong>Mr Eugene Yap</strong><br>Email: eugene_yap_hern_an@moe.edu.sg<p></p>
+
+<p></p><h5>P3 Responsibility</h5>
+<strong>Ms Tay Wee Lee</strong><br>Email: tay_wee_lee_a@moe.edu.sg<br>
+<strong>Mr Mashanafi</strong><br>Email: mashanafi_maszeni@moe.edu.sg<p></p>
+
+<p></p><h5>P3 Kindness</h5>
+<strong>Mr Abdul Rahman B Amid Marican</strong><br>email: rahman_marican@moe.edu.sg<br>
+<strong>Ms Chang Tan Ling</strong><br>Email: chang_tan_ling@moe.edu.sg<p></p>
+
+<p></p><h5>P3 Sincerity</h5>
+<strong>Mdm Noorhayati Bte Seleman</strong><br>Email: noorhayati_seleman@moe.edu.sg<br>
+<strong>Ms Ng See Tee</strong><br>Email: ng_see_tee@moe.edu.sg<p></p>
 </div>
 </li>
 
