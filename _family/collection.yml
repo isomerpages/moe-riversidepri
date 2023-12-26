@@ -2,7 +2,6 @@ collections:
   family:
     output: true
     order:
-      - Staff.md
       - School Leaders and Key Personnel.md
       - Teachers.md
       - Counsellor and Allied Educators.md
