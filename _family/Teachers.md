@@ -4,59 +4,100 @@ permalink: /family/teachers/
 description: ""
 variant: markdown
 ---
-<ul><li><p>Year Heads/Assistant Year Head</p><p><strong>Ms Lim Shin Gann</strong> <br>Year Head, Lower Primary <br>email: lim_shin_gann@moe.edu.sg</p><p><strong>Ms Raudah Begum Amir Khan</strong> <br>Assistant Year Head, Middle Primary <br>email: raudah_begum_amir_khan@moe.edu.sg</p><p><strong>Mrs Sharon Sakthi</strong> <br>Year Head, Middle Primary <br>email: pang_shu_fang_sharon@moe.edu.sg</p><p><strong>Mr Abdul Rahman B Amid Marican</strong> <br>Assistant Year Head, Middle Primary <br>email: rahman_marican@moe.edu.sg</p><p><strong>Mr Jeff Huang</strong> <br>Year Head, Upper Primary <br>email: huang_yaosheng@moe.edu.sg</p><p><strong>Ms Darrell Koh</strong> <br>Assistant Year Head, Upper Primary <br>email: lim_yong_en_darrell@moe.edu.sg</p></li>
+<ul class="jekyllcodex_accordion">
+<li>
+<input type="checkbox" id="accordion1">
+<label for="accordion1"><h5 style="color:blue">Year Heads/Assistant Year Head&lt;</h5></label>
+<div>
+<p><strong>Ms Lim Shin Gann</strong> <br>Year Head, Lower Primary <br>email: lim_shin_gann@moe.edu.sg</p><p><strong>Ms Raudah Begum Amir Khan</strong> <br>Assistant Year Head, Middle Primary <br>email: raudah_begum_amir_khan@moe.edu.sg</p><p><strong>Mrs Sharon Sakthi</strong> <br>Year Head, Middle Primary <br>email: pang_shu_fang_sharon@moe.edu.sg</p><p><strong>Mr Abdul Rahman B Amid Marican</strong> <br>Assistant Year Head, Middle Primary <br>email: rahman_marican@moe.edu.sg</p><p><strong>Mr Jeff Huang</strong> <br>Year Head, Upper Primary <br>email: huang_yaosheng@moe.edu.sg</p><p><strong>Ms Darrell Koh</strong> <br>Assistant Year Head, Upper Primary <br>email: lim_yong_en_darrell@moe.edu.sg</p>
+</div>
+</li>
 
-<li><p>Primary 1 Teachers</p>
+<li>
+<input type="checkbox" id="accordion2">
+<label for="accordion2"><h5 style="color:blue">Primary 1 Teachers</h5></label>
+<div>
 <h5>P1 Strength</h5><p><br>Email:</p><p><br>Email:</p>
 <h5>P1 Perseverance</h5><p><br>Email:</p><p><br>Email:</p>
 <h5>P1 Adaptability</h5><p><br>Email:</p><p><br>Email:</p>
 <h5>P1 Responsibility</h5><p><br>Email:</p><p><br>Email:</p>
 <h5>P1 Kindness</h5><p><br>Email:</p><p><br>Email:</p>
 <h5>P1 Leadership</h5><p><br>Email:</p><p><br>Email:</p>
-<h5>P1 Enthusiasm</h5><p><br>Email:</p><p><br>Email:</p></li>
+<h5>P1 Enthusiasm</h5><p><br>Email:</p><p><br>Email:</p>
+</div>
+</li>
 	
-<li><p>Primary 2 Teachers</p>
+<li>
+<input type="checkbox" id="accordion3">
+<label for="accordion3"><h5 style="color:blue">Primary 2 Teachers</h5></label>
+<div>
+<p>Primary 2 Teachers</p>
 <h5>P2 Strength</h5><p><br>Email:</p><p><br>Email:</p>
 <h5>P2 Perseverance</h5><p><br>Email:</p><p><br>Email:</p>
 <h5>P2 Adaptability</h5><p><br>Email:</p><p><strong> </strong><br>Email:</p>
 <h5>P2 Responsibility</h5><p><br>Email:</p><p><br>Email:</p>
 <h5>P2 Kindness</h5><p><br>Email:</p><p><br>Email:</p>
 <h5>P2 Leadership</h5><p><br>Email:</p><p><br>Email:</p>
-<h5>P2 Enthusiasm</h5><p><br>Email:</p><p><br>Email:</p></li>
+<h5>P2 Enthusiasm</h5><p><br>Email:</p><p><br>Email:</p>
+</div>
+</li>
 
-<li><p>Primary 3 Teachers</p>
+<li>
+<input type="checkbox" id="accordion4">
+<label for="accordion4"><h5 style="color:blue">Primary 3 Teachers</h5></label>
+<div>
 <h5>P3 Strength</h5><p><br>Email:</p><p><br>Email:</p>
 <h5>P3 Perseverance</h5><p><br>Email:</p><p><br>Email:</p>
 <h5>P3 Adaptability</h5><p><br>Email:</p><p><br>Email:</p>
 <h5>P3 Responsibility</h5><p><br>Email:</p><p><br>Email:</p>
 <h5>P3 Kindness</h5><p><br>Email:</p><p><br>Email:</p>
-<h5>P3 Sincerity</h5><p><br>Email:</p><p><br>Email:</p></li>
+<h5>P3 Sincerity</h5><p><br>Email:</p><p><br>Email:</p>
+</div>
+</li>
 
-<li><p>Primary 4 Teachers</p>
+<li>
+<input type="checkbox" id="accordion5">
+<label for="accordion5"><h5 style="color:blue">Primary 4 Teachers</h5></label>
+<div>
 <h5>P4 Strength</h5><p><br>Email:</p>
 <h5>P4 Perseverance</h5><p><br>Email:</p><p><br>Email:</p>
 <h5>P4 Adaptability</h5><p><br>Email:</p><p><br>email:</p>
 <h5>P4 Responsibility</h5><p><br>Email:</p><p><br>Email:</p>
 <h5>P4 Kindness</h5><p><br>email:</p><p><br>Email:</p>
-<h5>P4 Sincerity</h5><p><br>Email:</p><p><br>Email:</p></li>
+<h5>P4 Sincerity</h5><p><br>Email:</p><p><br>Email:</p>
+</div>
+</li>
 	
-<li><p>Primary 5 Teachers</p>
+<li>
+<input type="checkbox" id="accordion6">
+<label for="accordion6"><h5 style="color:blue">Primary 5 Teachers</h5></label>
+<div>
 <h5>P5 Strength</h5><p><br>Email:</p><p><br>Email:</p>
 <h5>P5 Perseverance</h5><p><br>Email:</p><p><br>Email:</p>
 <h5>P5 Adaptability</h5><p><br>Email:</p><p><br>Email:</p>
 <h5>P5 Responsibility</h5><p><br>Email:</p>
 <h5>P5 Kindness</h5><p><br>Email:</p><p><br>Email:</p>
-<h5>P5 Sincerity</h5><p><br>Email:</p><p><br>Email:</p></li>
+<h5>P5 Sincerity</h5><p><br>Email:</p><p><br>Email:</p>
+</div>
+</li>
 	
-<li><p>Primary 6 Teachers</p>
+<li>
+<input type="checkbox" id="accordion7">
+<label for="accordion7"><h5 style="color:blue">Primary 6 Teachers</h5></label>
+<div>
 <h5>P6 Strength</h5><p><br>Email:</p><p><br>Email:</p>
 <h5>P6 Perseverance</h5><p><br>Email:</p><p><br>Email:</p>
 <h5>P6 Adaptability</h5><p><br>Email:</p><p><br>Email:</p>
 <h5>P6 Responsibility</h5><p><br>Email:</p><p><br>Email:</p>
 <h5>P6 Kindness</h5><p><br>Email:</p><p><br>Email:</p>
-<h5>P6 Sincerity</h5><p><br>Email:</p><p><br>Email:</p></li>
+<h5>P6 Sincerity</h5><p><br>Email:</p><p><br>Email:</p>
+</div>
+</li>
 	
-<li><p>Mother Tongue Teachers</p>
+<li>
+<input type="checkbox" id="accordion8">
+<label for="accordion8"><h5 style="color:blue">Mother Tongue Teachers</h5></label>
+<div>
 <p><strong>Ms Ng See Tee</strong> <br>Email: ng_see_tee@moe.edu.sg</p>
 <p><strong>Mdm Ng Yuting</strong> <br>Email: ng_yuting@moe.edu.sg</p>
 <p><strong>Ms Tang Wai San</strong> <br>Email: tang_wai_san@moe.edu.sg</p>
@@ -74,4 +115,4 @@ variant: markdown
 <p><strong>Mrs Gayathiri Anasooya</strong> <br>Email: gayathiri_anasooya_mohanaruben@moe.edu.sg</p>
 <p><strong>Mdm Gowri d/o V Vairavan</strong><br>Email: gowri_v_vairavan@moe.edu.sg</p>
 <p><strong>Mdm Nagaraj Hema</strong> <br>Email: nagaraj_hema@moe.edu.sg</p>
-<p><strong>Ms Yamunah D/O Balakrishnan</strong> <br>Email: yamunah_balakrishnan@moe.edu.sg</p></li></ul>
+<p><strong>Ms Yamunah D/O Balakrishnan</strong> <br>Email: yamunah_balakrishnan@moe.edu.sg</p></div></li></ul>
