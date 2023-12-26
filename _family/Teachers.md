@@ -17,13 +17,34 @@ variant: markdown
 <input type="checkbox" id="accordion2">
 <label for="accordion2"><h5 style="color:blue">Primary 1 Teachers</h5></label>
 <div>
-<h5>P1 Strength</h5><p><br>Email:</p><p><br>Email:</p>
-<h5>P1 Perseverance</h5><p><br>Email:</p><p><br>Email:</p>
-<h5>P1 Adaptability</h5><p><br>Email:</p><p><br>Email:</p>
-<h5>P1 Responsibility</h5><p><br>Email:</p><p><br>Email:</p>
-<h5>P1 Kindness</h5><p><br>Email:</p><p><br>Email:</p>
-<h5>P1 Leadership</h5><p><br>Email:</p><p><br>Email:</p>
-<h5>P1 Enthusiasm</h5><p><br>Email:</p><p><br>Email:</p>
+<h5>P1 Strength</h5>
+<p><strong>Mdm Aslinda Abdullah</strong><br>Email: aslinda_abdullah@moe.edu.sg
+<br><strong>Ms Amaluna Mastura Binte Azman</strong><br>Email: amaluna_mastura_azman@moe.edu.sg</p>
+
+<h5>P1 Perseverance</h5>
+<p><strong>Mdm Raudah Begum</strong><br>Email: raudah_begum_amir_khan@moe.edu.sg<br>
+<strong>Mr Seow Soon Kiat</strong><br>Email: seow_soon_kiat@moe.edu.sg</p>
+
+<h5>P1 Adaptability</h5>
+<p><strong>Mdm Ngo Sook Peng</strong><br>Email: ngo_sook_peng@moe.edu.sg<br>
+<strong>Mdm Hasnah Misnor</strong><br>Email: hasnah_misnor@moe.edu.sg</p>
+
+<h5>P1 Responsibility</h5>
+<p><strong>Mrs Sheryl Goh</strong><br>Email: sheryl_tan@moe.edu.sg<br>
+<strong>Mdm Ng Yuting</strong><br>Email: ng_yuting@moe.edu.sg</p>
+
+<h5>P1 Kindness</h5>
+<p><strong>Mdm Lalithaa Kanesan</strong><br>Email: lalithaa_kanesan@<br>
+<strong>Ms Chin Shu Hui</strong><br>Email: chin_shu_hui@moe.edu.sg</p>
+
+<h5>P1 Leadership</h5>
+<p><strong>Mrs Azura</strong><br>Email: nur_azura_mohamed_zaid@moe.edu.sg<br>
+<strong>Mrs Choo-Ng Sook Fern</strong><br>Email: ng_sook_fern@moe.edu.sg</p>
+
+<h5>P1 Enthusiasm</h5>
+<p><strong>Mdm Sabrina Bte Sabtu</strong><br>Email: sabrina_sabtu@moe.edu.sg<br>
+<strong>Ms Tang Wai San</strong><br>Email: tang_wai_san@moe.edu.sg</p>
+
 </div>
 </li>
 	
