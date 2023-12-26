@@ -7,7 +7,7 @@ variant: markdown
 <ul class="jekyllcodex_accordion">
 <li>
 <input type="checkbox" id="accordion1">
-<label for="accordion1"><h5 style="color:blue">Year Heads/Assistant Year Head&lt;</h5></label>
+<label for="accordion1"><h5 style="color:blue">Year Heads/Assistant Year Head</h5></label>
 <div>
 <p><strong>Ms Lim Shin Gann</strong> <br>Year Head, Lower Primary <br>email: lim_shin_gann@moe.edu.sg</p><p><strong>Ms Raudah Begum Amir Khan</strong> <br>Assistant Year Head, Middle Primary <br>email: raudah_begum_amir_khan@moe.edu.sg</p><p><strong>Mrs Sharon Sakthi</strong> <br>Year Head, Middle Primary <br>email: pang_shu_fang_sharon@moe.edu.sg</p><p><strong>Mr Abdul Rahman B Amid Marican</strong> <br>Assistant Year Head, Middle Primary <br>email: rahman_marican@moe.edu.sg</p><p><strong>Mr Jeff Huang</strong> <br>Year Head, Upper Primary <br>email: huang_yaosheng@moe.edu.sg</p><p><strong>Ms Darrell Koh</strong> <br>Assistant Year Head, Upper Primary <br>email: lim_yong_en_darrell@moe.edu.sg</p>
 </div>
@@ -31,7 +31,6 @@ variant: markdown
 <input type="checkbox" id="accordion3">
 <label for="accordion3"><h5 style="color:blue">Primary 2 Teachers</h5></label>
 <div>
-<p>Primary 2 Teachers</p>
 <h5>P2 Strength</h5><p><br>Email:</p><p><br>Email:</p>
 <h5>P2 Perseverance</h5><p><br>Email:</p><p><br>Email:</p>
 <h5>P2 Adaptability</h5><p><br>Email:</p><p><strong> </strong><br>Email:</p>
