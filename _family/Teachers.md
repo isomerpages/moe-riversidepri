@@ -148,9 +148,9 @@ variant: markdown
 <input type="checkbox" id="accordion6">
 <label for="accordion6"><h5 style="color:blue">Primary 5 Teachers</h5></label>
 <div>
-<p></p><h5>P5 Strength</h5>
+<h5>P5 Strength</h5>
 <strong>Ms Chan Yu Min Wendy</strong><br>Email: chan_yu_min_wendy@moe.edu.sg<br>
-<strong>Mr Daryl Chew</strong><br><p></p>
+<strong>Mr Daryl Chew</strong><br>
 
 <p></p><h5>P5 Perseverance</h5>
 <strong>Ms Hailey Tan</strong><br>Email: tan_yan_yi@moe.edu.sg<br>
@@ -179,9 +179,9 @@ variant: markdown
 <input type="checkbox" id="accordion7">
 <label for="accordion7"><h5 style="color:blue">Primary 6 Teachers</h5></label>
 <div>
-<p></p><h5>P6 Strength</h5>
+<h5>P6 Strength</h5>
 <strong>Mdm Joyce Bong</strong><br>Email: bong_suan_choo_joyce@moe.edu.sg<br>
-<strong>Mdm Ardriza Isnin</strong><br>Email: ardriza_isnin@moe.edu.sg<p></p>
+<strong>Mdm Ardriza Isnin</strong><br>Email: ardriza_isnin@moe.edu.sg
 
 <p></p><h5>P6 Perseverance</h5>
 <strong>Mr Sun Chin Keong</strong><br>Email: sun_chin_keong@moe.edu.sg<br>
