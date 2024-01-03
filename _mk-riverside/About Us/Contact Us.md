@@ -3,8 +3,8 @@ title: Contact Us
 permalink: /mk-riverside/about-us/contact-us/
 description: ""
 third_nav_title: About Us
+variant: markdown
 ---
-
 ![](/images/header-contact%20us.jpg)**For MK-Related Matters**
 --------------------------
 
@@ -15,6 +15,6 @@ third_nav_title: About Us
 **For KCare-Related Matters**
 --------------------------------------
 
-**phone:**&nbsp;87748156
+**phone:**&nbsp;8803 6855
 
-**email:**&nbsp;<a href="mailto:admission_cls_riverside_kcare@commilearning.com.sg">admission_cls_riverside_kcare@commilearning.com.sg</a>
+**email:**&nbsp;<a href="mailto:admission_cls_riverside_kcare@commitlearning.com.sg">admission_cls_riverside_kcare@commitlearning.com.sg</a>

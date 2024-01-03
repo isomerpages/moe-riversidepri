@@ -98,17 +98,11 @@ Uniforms are now available for sale through School Bookshop.&nbsp;</li>
 	<div>
 		<ul>
 			<li>
-<b>Raffles Student Care Centre</b>  
-Contact Person: Nur Hidayah Ariffin<br>  Contact Number: 8409 7083<br> 
+<b>Commit Learning SchoolHouse</b>  
+<br>  Contact Number: 8925 1268<br> 
 
-<p>Email:&nbsp;<a href="mailto:hidayahariffin@rafflesstudentcare.com">hidayahariffin@rafflesstudentcare.com</a></p>
-<br>
-<b>Student Care Centre Registration</b>
-<p><a href="/files/Introductory-Letter-to-Incoming-P1-Parents-Raffles-Student-Care.pdf">Introductory Letter to Incoming P1 Parents  by Raffles Student Care</a>
-<br>
-<a href="/files/Letter-to-P12018-Parents-on-SCC.pdf">Letter to P1(2018) Parents on SCC</a>
-<br>
-<a href="/files/Registration-Form-Student-Care-Centre-at-Riverside-Pri.pdf">Registration Form - Student Care Centre at Riverside Pri</a></p>
+<p>Email:&nbsp;<a href="mailto:clsriversidepri@gmail.com">clsriversidepri@gmail.com</a></p>
+<p></p>
 </li>
 			</ul>
 		</div>

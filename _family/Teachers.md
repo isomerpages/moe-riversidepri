@@ -66,7 +66,7 @@ variant: markdown
 
 <p></p><h5>P2 Responsibility</h5>
 <strong>Mrs Normala Alex</strong><br>Email: normala_sarman@moe.edu.sg<br>
-<strong>Mr Peter Chua</strong><br><p></p>
+<strong>Mr Peter Chua</strong><br>Email: chua_kok_leong_peter@moe.edu.sg
 
 <p></p><h5>P2 Kindness</h5>
 <strong>Ms Matilda Lin</strong><br>Email: lin_huizi_matilda@moe.edu.sg<br>
@@ -150,7 +150,7 @@ variant: markdown
 <div>
 <h5>P5 Strength</h5>
 <strong>Ms Chan Yu Min Wendy</strong><br>Email: chan_yu_min_wendy@moe.edu.sg<br>
-<strong>Mr Daryl Chew</strong><br>
+<strong>Mr Daryl Chew</strong><br>Email: chew_yi_hern_daryl@moe.edu.sg
 
 <p></p><h5>P5 Perseverance</h5>
 <strong>Ms Hailey Tan</strong><br>Email: tan_yan_yi@moe.edu.sg<br>
