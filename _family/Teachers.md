@@ -34,7 +34,7 @@ variant: markdown
 <strong>Mdm Ng Yuting</strong><br>Email: ng_yuting@moe.edu.sg</p>
 
 <h5>P1 Kindness</h5>
-<p><strong>Mdm Lalithaa Kanesan</strong><br>Email: lalithaa_kanesan@<br>
+<p><strong>Mdm Lalithaa Kanesan</strong><br>Email: lalithaa_kanesan@moe.edu.sg<br>
 <strong>Ms Chin Shu Hui</strong><br>Email: chin_shu_hui@moe.edu.sg</p>
 
 <h5>P1 Leadership</h5>
