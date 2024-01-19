@@ -5,3 +5,4 @@ variant: markdown
 description: ""
 third_nav_title: About Us
 ---
+![](/images/MK/MK_open_house_2024.jpg)
