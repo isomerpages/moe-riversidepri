@@ -2,9 +2,9 @@ collections:
   mk-riverside:
     output: true
     order:
-      - About Us/Open House 2024.md
       - About Us/.keep
       - About Us/Admin and Orientation Day 2024.md
+      - About Us/Open House 2024.md
       - About Us/General Information.md
       - About Us/Our Instagram.md
       - About Us/Our Vision Mission And Values.md
