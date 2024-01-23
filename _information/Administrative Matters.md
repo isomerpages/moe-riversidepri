@@ -2,6 +2,7 @@
 title: Administrative Matters
 permalink: /information/administrative-matters/
 description: ""
+variant: markdown
 ---
 <ul class="jekyllcodex_accordion">
 <li>
@@ -109,6 +110,8 @@ Please indicate the student’s name, UIN and school name on the reverse side of
 <p><b>b)&nbsp;&nbsp;Adhoc Admission (For Singapore Citizens and Singapore Permanent Residents Only)</b></p>
 <p>For admission to current levels in the school, please call the school’s General Office at 63654490 to enquire if there are vacancies.<br></p>
 <p>To apply for school waitlist, please click&nbsp;<a href="https://form.gov.sg/6532768e5f9df700123dc705">here</a>.</p>
+<p style="color:purple">Please note that this School Waitlist Application is only for Year 2024.<br>
+<em>If you do not hear from us by the end of Nov and you are still interested to place your child on the waitlist for the following year, please submit a fresh application for the following year.</em></p>
 <p><b>c)&nbsp;&nbsp;&nbsp;Application for Admission for International Students</b><br></p>
 <p>For admission for non-Singapore Citizens and non-SPR, please visit the following MOE webpage for more information on admission criteria and procedures:&nbsp;<a href="https://www.moe.gov.sg/primary/p1-registration/international-students">https://www.moe.gov.sg/primary/p1-registration/international-students</a></p>
 <p></p>
