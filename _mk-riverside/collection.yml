@@ -1,0 +1,19 @@
+collections:
+  mk-riverside:
+    output: true
+    order:
+      - About Us/.keep
+      - About Us/Open House 2024.md
+      - About Us/Admin and Orientation Day 2024.md
+      - About Us/General Information.md
+      - About Us/Our Instagram.md
+      - About Us/Our Vision Mission And Values.md
+      - About Us/Our Learning Environment.md
+      - About Us/Our Fees.md
+      - About Us/MK Forms.md
+      - About Us/Uniform Matters.md
+      - About Us/Contact Us.md
+      - Curriculum/Our Curriculum Approach.md
+      - Curriculum/Hi Light.md
+      - Curriculum/Starlight Literacy Programme.md
+      - Curriculum/.keep

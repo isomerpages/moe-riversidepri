@@ -1,0 +1,14 @@
+logo: /images/logo2.png
+links:
+  - title: About US
+    collection: about
+  - title: Family
+    collection: family
+  - title: Programmes
+    collection: programmes
+  - title: Partnerships
+    collection: partnerships
+  - title: Information
+    collection: information
+  - title: Mk @Riverside
+    collection: mk-riverside
