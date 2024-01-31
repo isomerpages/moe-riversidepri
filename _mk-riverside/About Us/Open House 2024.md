@@ -6,7 +6,5 @@ description: ""
 third_nav_title: About Us
 ---
 
-  alt : <a href="/files/MK%20files/2024_MOE_Kindergarten_Open_House_Presentation.pdf">MOE Kindergarten Open House</a>
-
 
 ![](/images/MK/MK_open_house_2024.jpg)
