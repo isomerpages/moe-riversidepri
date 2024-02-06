@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Academic
 variant: tiptap
 ---
-<ul>
+<ul data-tight="true" class="tight">
 <li>
 <p>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;</p>
 <h5>Chinese Language</h5>
