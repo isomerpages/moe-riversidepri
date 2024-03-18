@@ -15,7 +15,7 @@ Every PSG Member a STAR:
 For Riverside and Riverians!
 
 Join us now!  
-<a target="blank" href="https://form.gov.sg/6592b99cf-b50c9001192948d">
+<a target="blank" href="https://form.gov.sg/6592b99cfb50c9001192948d">
 Registration Form for Parent Support Group</a>
 
 #### Some highlights of Parents involvement
