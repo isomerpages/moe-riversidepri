@@ -124,7 +124,7 @@ Uniforms are now available for sale through School Bookshop.&nbsp;</li>
 <b>LUNCH TIME:</b>&nbsp;1 PM – 2 PM (Please do not disturb)<br>
 <table>
   <tbody><tr>
-			<th style="text-align:center" colspan="7">September 2023</th></tr>
+			<th style="text-align:center" colspan="7">March 2024</th></tr>
 		<tr border="1'">
     <th border="1'">Sunday</th>
     <th>Monday</th>
@@ -135,51 +135,80 @@ Uniforms are now available for sale through School Bookshop.&nbsp;</li>
     <th>Saturday</th>
   </tr>
   <tr>
-    <td>1<br></td>
+    <td>17<br></td>
+    <td>18<br>CLOSED</td>
+    <td>19<br>OPEN</td>
+    <td>20<br>CLOSED</td>
+    <td>21<br>OPEN</td>
+    <td>22<br>OPEN</td>
+    <td>23</td>
+  </tr>
+
+  <tr>
+    <td>24</td>
+    <td>25<br>CLOSED</td>
+    <td>26<br>CLOSED</td>
+    <td>27<br>CLOSED</td>
+    <td>29<br>CLOSED</td>
+    <td>29<br>PUBLIC HOLIDAY</td>
+    <td>30</td>
+  </tr>
+	<tr>
+			<th style="text-align:center" colspan="7">April 2024</th></tr>
+		<tr border="1'">
+    <th border="1'">Sunday</th>
+    <th>Monday</th>
+    <th>Tuesday</th>
+    <th>Wednesday</th>
+    <th>Thursday</th>
+    <th>Friday</th>
+    <th>Saturday</th>
+  </tr>
+  <tr>
+    <td></td>    
+		<td>1<br>OPEN</td>
     <td>2<br>OPEN</td>
     <td>3<br>OPEN</td>
     <td>4<br>OPEN</td>
     <td>5<br>OPEN</td>
-    <td>6<br>CLOSED</td>
-    <td>7</td>
+    <td>6</td>		
   </tr>
-
   <tr>
-    <td>8</td>
+    <td>7</td>
+    <td>8<br>CLOSED</td>
     <td>9<br>CLOSED</td>
-    <td>10<br>CLOSED</td>
+    <td>10<br>PUBLIC HOLIDAY</td>
     <td>11<br>CLOSED</td>
     <td>12<br>CLOSED</td>
-    <td>13<br>CLOSED</td>
+    <td>13</td>
+  </tr>
+  <tr>
     <td>14</td>
+    <td>15<br>OPEN</td>
+		<td>16<br>OPEN</td>
+		<td>17<br>OPEN</td>
+		<td>18<br>OPEN</td>
+		<td>19<br>OPEN</td>
+		<td>20<br></td>
   </tr>
-  <tr>
-    <td>15</td>    
-		<td>16<br>CLOSED</td>
-    <td>17<br>CLOSED</td>
-    <td>18<br>CLOSED</td>
-    <td>19<br>OPEN</td>
-    <td>20<br>OPEN</td>
-    <td>21</td>		
+	  <tr>
+    <td>21</td>
+    <td>22<br>CLOSED</td>
+		<td>23<br>CLOSED</td>
+		<td>24<br>CLOSED</td>
+		<td>25<br>CLOSED</td>
+		<td>26<br>CLOSED</td>
+		<td>27<br></td>
   </tr>
-  <tr>
-    <td>22</td>
-    <td>23<br>CLOSED</td>
-    <td>24<br>CLOSED</td>
-    <td>25<br>CLOSED</td>
-    <td>26<br>CLOSED</td>
-    <td>27<br>CLOSED</td>
+	  <tr>
     <td>28</td>
-  </tr>
-  <tr>
-    <td>29</td>
-    <td>30<br>OPEN</td>
-		<td>31<br>OPEN</td>
+    <td>29<br>OPEN</td>
+		<td>30<br>OPEN</td>
 		<td><br></td>
 		<td><br></td>
 		<td><br></td>
 		<td><br></td>
-  </tr>		
+  </tr>	
 </tbody></table>
 <b>Buddy Clinic </b>(when clinic is closed)<br>
 
