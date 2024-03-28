@@ -41,4 +41,5 @@ If you wish to contact our Support and Administrative Staff, please email to&nbs
 <b>Mr Hardi Mustaffa</b><br>ICT Manager<br><br>
 <b>Mr Muhammad Zaki Ahmad</b><br>ICT Manager<br><br>
 <b>Mr Patrick Tan</b><br>Desktop Engineer<br><br>
+<b>Mr Yip Yong Xian</b><br>Desktop Engineer	
 </div></li></ul>
