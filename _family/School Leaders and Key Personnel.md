@@ -2,6 +2,7 @@
 title: School Leaders and Key Personnel
 permalink: /family/school-leaders-and-key-personnel/
 description: ""
+variant: markdown
 ---
 <style>
 h1 {text-align: center;}
@@ -65,6 +66,10 @@ div {text-align: center;}
 <p><strong>Mrs Yip Wenjun</strong>
 <br>Head of Department, Aesthetics
 <br>email: huang_wenjun@moe.edu.sg</p>
+	
+<p><strong>Mr Daryl Chew</strong>
+<br>Head of Department, Mathematics
+<br>email: chew_yi_hern_daryl@schools.gov.sg</p>
 
 <p><strong>Ms Ameerah Sharainee Zain Bte Sha</strong>
 <br>School Staff Developer
