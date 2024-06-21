@@ -101,7 +101,6 @@ variant: markdown
 
 <p></p><h5>P3 Responsibility</h5>
 <strong>Ms Tay Wee Lee</strong><br>Email: tay_wee_lee_a@moe.edu.sg<br>
-<strong>Mr Mashanafi</strong><br>Email: mashanafi_maszeni@moe.edu.sg<p></p>
 
 <p></p><h5>P3 Kindness</h5>
 <strong>Mr Abdul Rahman B Amid Marican</strong><br>email: rahman_marican@moe.edu.sg<br>
