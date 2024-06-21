@@ -151,10 +151,6 @@ div {text-align: center;}
 <br>Senior Teacher, Chinese Language
 <br>email: ma_shaowen@moe.edu.sg</p>
 	
-<p><strong>Mrs Candice Chua</strong>
-<br>Senior Teacher, English Language
-<br>email: chua_cheng_cheng_candice@moe.edu.sg</p>
-	
 <p><strong>Mr Eugene Yap</strong>
 <br>Senior Teacher, Physical Education
 <br>email: eugene_yap_hern_an@moe.edu.sg</p>
