@@ -113,10 +113,6 @@ div {text-align: center;}
 <br>Subject Head, CCE &amp; SS
 <br>email: mohammad_shaifullizan_sapi@moe.edu.sg</p>
 
-<p><strong>Ms Jasmine Poi</strong>
-<br>Level Head, Mathematics
-<br>email: poi_mei_ling_jasmine@moe.edu.sg</p>
-
 <p><strong>Ms Ng Yuting</strong>
 <br>Level Head, Chinese Language
 <br>email: ng_yuting@moe.edu.sg</p>
