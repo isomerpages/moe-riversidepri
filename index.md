@@ -18,11 +18,12 @@ sections:
   - infobar:
       title: 2024 Virtual Open House
   - infobar:
-      description: <p>Video By P1 Riverians<br><iframe width="560" height="315"
-        src="https://youtu.be/yQ5-nLn8ckU" title="YouTube video player"
-        frameborder="0" allow="accelerometer; autoplay; clipboard-write;
-        encrypted-media; gyroscope; picture-in-picture"
-        allowfullscreen=""></iframe></p>
+      description: <p>Video By P1 Riverians<br><iframe allowfullscreen=""
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+        gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube
+        video player"
+        src="https://www.youtube.com/embed/yQ5-nLn8ckU?si=hK2LlPRX6FEWKqnF"
+        height="315" width="560"></iframe></p>
   - resources:
       title: ANNOUNCEMENTS
       button: View all news here
