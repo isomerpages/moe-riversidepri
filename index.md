@@ -16,12 +16,11 @@ sections:
           description: Join us!
           url: /partnerships/parents-support-group/
   - infobar:
-      title: 2024 Virtual Open House
+      title: 2024 Open House Video by P1 Students
   - infobar:
-      description: <p>Video By P1 Riverians<br><iframe allowfullscreen=""
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media;
-        gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube
-        video player"
+      description: <p><iframe allowfullscreen="" allow="accelerometer; autoplay;
+        clipboard-write; encrypted-media; gyroscope; picture-in-picture;
+        web-share" frameborder="0" title="YouTube video player"
         src="https://www.youtube.com/embed/yQ5-nLn8ckU?si=hK2LlPRX6FEWKqnF"
         height="315" width="560"></iframe></p>
   - resources:
