@@ -78,7 +78,7 @@ variant: markdown
 
 <p></p><h5>P2 Enthusiasm</h5>
 <strong>Mdm Chuah Yen Ming</strong><br>chuah_yen_ming@moe.edu.sg<br>
-<strong>Mrs Eity Norhyezah Asyurah</strong><br>Email: eity_norhyezah_asyurah@moe.edu.sg<p></p>
+<strong>Ms Eity Norhyezah Asyurah</strong><br>Email: eity_norhyezah_asyurah@moe.edu.sg<p></p>
 
 </div>
 </li>
@@ -223,6 +223,8 @@ variant: markdown
 <p><strong>Mdm Siti Suhaida Surir</strong> <br>Email: siti_suhaida_surir@moe.edu.sg</p>
 <p><strong>Mdm Ardriza Isnin</strong> <br>Email: ardriza_isnin@moe.edu.sg</p>
 <p><strong>Mdm Hasnah Misnor</strong> <br>Email: hasnah_misnor@moe.edu.sg</p>
+<p><strong>Mdm Sharifah Munirah</strong> <br>Email: sharifah_munirah_syed_ahmad@moe.edu.sg</p>
+<p><strong>Mdm Liyana Nadiah</strong> <br>Email: liyana_nadiah_bt_jamil@moe.edu.sg</p>
 <p><strong>Mrs Gayathiri Anasooya</strong> <br>Email: gayathiri_anasooya_mohanaruben@moe.edu.sg</p>
 <p><strong>Mdm Gowri d/o V Vairavan</strong><br>Email: gowri_v_vairavan@moe.edu.sg</p>
 <p><strong>Mdm Nagaraj Hema</strong> <br>Email: nagaraj_hema@moe.edu.sg</p>
