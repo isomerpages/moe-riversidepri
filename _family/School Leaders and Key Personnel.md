@@ -124,6 +124,10 @@ div {text-align: center;}
 <p><strong>Mdm Eity Norhyezah Asyurah</strong>
 <br>Subject Head, Malay Language
 <br>email: eity_norhyezah_asyurah@moe.edu.sg</p>
+	
+<p><strong>Mdm Thang Yun Xuan</strong>
+<br>Subject Head, Student Well-Being
+<br>email: thang_yun_xuan@moe.edu.sg</p>
 
 </div>
 </li><li>
