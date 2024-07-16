@@ -14,3 +14,9 @@ Allied Educator, Special Educational Needs Officer
 
 **Shajutha Banu Binti Abdullah**  
 Allied Educator, Special Educational Needs Officer
+
+**Phua Wei Xuan**  
+Allied Educator, Special Educational Needs Officer
+
+**Nursabrina Binte Jasni**  
+Allied Educator, Special Educational Needs Officer
