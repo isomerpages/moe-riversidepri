@@ -73,8 +73,8 @@ variant: markdown
 <strong>Ms Maisurah Bte Saini</strong><br>Email: maisurah_saini@moe.edu.sg<p></p>
 
 <p></p><h5>P2 Leadership</h5>
-<strong>Ms Ameerah Sharainee Zain Sha</strong><br>Email: ameerah_sharainee_zain_sha@moe.edu.sg<br>
-<strong>Mdm Nor Farhana</strong><br>Email: nor_farhana_hatwadi@moe.edu.sg<p></p>
+<strong>Mdm Nor Farhana</strong><br>Email: nor_farhana_hatwadi@moe.edu.sg<br>
+<strong>Mr Rasyid</strong><p></p>
 
 <p></p><h5>P2 Enthusiasm</h5>
 <strong>Mdm Chuah Yen Ming</strong><br>chuah_yen_ming@moe.edu.sg<br>
@@ -160,8 +160,8 @@ variant: markdown
 <strong>Ms Angela Gan</strong><br>Email: angela_gan_peck_loo@moe.edu.sg<p></p>
 
 <p></p><h5>P5 Responsibility</h5>
-<strong>Mr Wong Wai Tatt</strong><br>Email: wong_wai_tatt@moe.edu.sg<br>
-<strong>Mrs Yip Wenjun</strong><br>email: huang_wenjun@moe.edu.sg<p></p>
+<strong>Mr Shaifullizan</strong><br>Email: mohammad_shaifullizan_sapi@moe.edu.sg<br>
+<strong>Mr Wong Wai Tatt</strong><br>email: wong_wai_tatt@moe.edu.sg<p></p>
 
 <p></p><h5>P5 Kindness</h5>
 <strong>Mr Hairil Asraf</strong><br>Email: muhammad_hairil_asraf@moe.edu.sg<br>
