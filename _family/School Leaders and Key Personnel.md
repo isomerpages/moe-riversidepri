@@ -128,6 +128,10 @@ div {text-align: center;}
 <p><strong>Mdm Thang Yun Xuan</strong>
 <br>Subject Head, Student Well-Being
 <br>email: thang_yun_xuan@moe.edu.sg</p>
+	
+<p><strong>Mr Chua Kok Leong Peter</strong>
+<br>Subject Head, PE
+<br>email: chua_kok_leong_peter@moe.edu.sg</p>
 
 </div>
 </li><li>
