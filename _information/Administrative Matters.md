@@ -51,12 +51,13 @@ The SGQR code is unique to each bill. Always use the SGQR code on the latest bil
 <br>5.	Select 'MOE - Student Bill'. 
 <br>6.	Follow the on-screen instructions.
 <br><br>•	SingPost SAM web
-			<br>1.	Visit <a href="https://www.mysam.sg">https://www.mysam.sg </a>.
-<br>2.	Create and log in to your SAM account.
-<br>3.	Select 'Payments'.
-<br>4.	Select 'Ministry of Education' under Education.
-<br>5.	Select 'Student Bill'.
-<br>6.	Follow the on-screen instructions.
+<br>1.	Download the SingPost Mobile App from App Store or Google Play.
+<br>2.	Create an account using your mobile number.
+	<br>3.	Visit <a target="blank" href="https://mysam.singpost.com">https://mysam.singpost.com </a>
+<br>4.	Log in using your mobile number and PIN number.
+<br>5.	Select "Education", followed by "Ministry of Education".
+<br>6.	Select "MOE - Student Bill".
+<br>7. Follow the on-screen instructions.
 <br><br>•	SingPost SAM kiosk
 <br>1.	Locate your nearest SAM kiosk at <a target="blank" href="https://www.singpost.com/locate-us">https://www.singpost.com/locate-us</a>.
 <br>2.	At the kiosk, Select 'Payments'.
