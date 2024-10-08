@@ -15,31 +15,24 @@ Contact Person: Ms. Huang Xiulan<br>
 Contact Number: 9048 2301 (Mobile)<br>  
 		Email: <a href="mailto:rsps@pacificbookstores.com">rsps@pacificbookstores.com</a><br>
 <p>
-<a href="/files/2024-p1-booklist.pdf" target="blank">2024 P1 Booklist</a><br>
-<a href="/files/2024_booklist/2024_p2_booklist.pdf" target="blank">2024 P2 Booklist</a><br>
-<a href="/files/2024_booklist/2024_p3_booklist.pdf" target="blank">2024 P3 Booklist</a><br>
-<a href="/files/2024_booklist/2024_p4_booklist.pdf" target="blank">2024 P4 Booklist</a><br>
-<a href="/files/2024_booklist/2024_p5_booklist.pdf" target="blank">2024 P5 Booklist</a><br>
-<a href="/files/2024_booklist/2024_p5fdn_booklist.pdf" target="blank">2024 P5 (fdn) Booklist</a><br>
-<a href="/files/2024_booklist/2024_p6_booklist.pdf" target="blank">2024 P6 Booklist</a><br>
-<a href="/files/2024_booklist/2024_p6fdn_booklist.pdf" target="blank">2024 P6 (fdn) Booklist</a><br>
-</p></li></ul>
-</div>
-</li>
-<li>
+<a href="/files/2025_P1_Booklist.pdf" target="blank">2025 P1 Booklist</a><br>
+<a target="blank"></a></p></li></ul><a target="blank">
+</a></div><a target="blank">
+</a></li><a target="blank">
+</a><li><a target="blank">
 				<input type="checkbox" id="accordion2">
 				<label for="accordion2"><h5 style="color:RoyalBlue">Bus Vendor</h5></label>
-	<div>
-		<ul>
-			<li>&nbsp;
-<p><strong>Chang Chen Pte Ltd</strong>
+	</a><div><a target="blank">
+		</a><ul><a target="blank">
+			</a><li><a target="blank">&nbsp;
+</a><p><a target="blank"><strong>Chang Chen Pte Ltd</strong>
 <br>Chang An Bus Transport Service (Parent Company)
 <br><br><strong>Address</strong>
 <br>Block 130 Choa Chu Kang Avenue 1 #06-36 Singapore 680130
 <br>Contact Person: Mr Grif Lim
 <br>Contact Number: 6760 4835 / 9090 5835
 <br>Fax: 6892 5776
-<br>Email Add: <a href="mailto:griflim@hotmail.com">griflim@hotmail.com</a>
+<br>Email Add: </a><a href="mailto:griflim@hotmail.com">griflim@hotmail.com</a>
 <br><br><strong>Bus Fares</strong>
 <br>The bus fares listed below are the maximum fares for each distance cap. Actual bus fares based on other commercial considerations such as the distance, route, number of students and the size of school bus etc.
 	<br><br><strong>Bus fares for Daily School Bus Services by Distance for Year 2024</strong>
@@ -71,7 +64,7 @@ Contact Number: 9048 2301 (Mobile)<br>
 	</tr>		
 </tbody></table>		
 </p>
-<p><a href="/files/request-for-school-bus-services-for-2024-cohort.pdf" target="blank">Request for school bus service form</a></p></li>
+<p><a href="/files/Request_for_School_Bus_Services_for_2025_cohort.pdf" target="blank">Request for school bus service form</a></p></li>
 			</ul>
 		</div>
 	</li>
@@ -85,7 +78,7 @@ Contact Number: 9048 2301 (Mobile)<br>
 Contact Number: 9029 5135<br>  
 <p>Email: <a href="mailto:finestfashioncentre@gmail.com">finestfashioncentre@gmail.com</a></p>
 <p>1. <a href="/files/steps on ordering uniform online.pdf" target="blank">Steps to Purchase School Uniform Online</a>
-	<br>2. <a href="/files/finest_uniform_order_form_and_sizing_chart.pdf" target="blank">Order form &amp; Sizing Chart (For purchase in school)</a></p>
+	<br>2. <a href="/files/Finest_Uniform_Order_Form_2025.pdf" target="blank">Order form &amp; Sizing Chart (For purchase in school)</a></p>
 Address: 144 Upper Bukit Timah Rd, B1-03, Singapore 588177<br>
 Uniforms are now available for sale through School Bookshop.&nbsp;</li>
 			</ul>
@@ -99,6 +92,8 @@ Uniforms are now available for sale through School Bookshop.&nbsp;</li>
 		<ul>
 			<li>
 <b>Commit Learning SchoolHouse</b>  
+<br><a href="/files/Commit_Learning_SchoolHouse__CLS__Student_Care_Centre__SCC_____Introduction_Letter.pdf" target="blank">CLS Introduction Letter</a>
+<br><a href="/files/Commit_Learning_SchoolHouse__CLS__Student_Care_Centre__SCC_____Introduction_Letter___Riverside_Primary_School.pdf" target="blank">FAQ</a>
 <br>  Contact Number: 8925 1268<br> 
 
 <p>Email:&nbsp;<a href="mailto:clsriversidepri@gmail.com">clsriversidepri@gmail.com</a></p>
