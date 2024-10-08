@@ -19,6 +19,7 @@ Contact Number: 9048 2301 (Mobile)<br>
 <a target="blank"></a></p></li></ul><a target="blank">
 </a></div><a target="blank">
 </a></li><a target="blank">
+	</a><li><a target="blank">
 				<input type="checkbox" id="accordion2">
 				<label for="accordion2"><h5 style="color:RoyalBlue">Bus Vendor</h5></label>
 	</a><div><a target="blank">
@@ -68,7 +69,7 @@ Contact Number: 9048 2301 (Mobile)<br>
 		</div>
 	
 		
-<li>
+</li><li>
 				<input type="checkbox" id="accordion3">
 				<label for="accordion3"><h5 style="color:RoyalBlue">Uniform Vendor</h5></label>
 	<div>
