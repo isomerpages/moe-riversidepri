@@ -19,10 +19,10 @@ Contact Number: 9048 2301 (Mobile)<br>
 <a target="blank"></a></p></li></ul><a target="blank">
 </a></div><a target="blank">
 </a></li><a target="blank">
-	</a><li>
+	</a><li><a target="blank">
 				<input type="checkbox" id="accordion2">
 				<label for="accordion2"><h5 style="color:RoyalBlue">Bus Vendor</h5></label>
-	<div><a target="blank">
+	</a><div><a target="blank">
 		</a><ul><a target="blank">
 			</a><li><a target="blank">&nbsp;
 </a><p><a target="blank"><strong>Chang Chen Pte Ltd</strong>
