@@ -19,7 +19,6 @@ Contact Number: 9048 2301 (Mobile)<br>
 <a target="blank"></a></p></li></ul><a target="blank">
 </a></div><a target="blank">
 </a></li><a target="blank">
-</a><li><a target="blank">
 				<input type="checkbox" id="accordion2">
 				<label for="accordion2"><h5 style="color:RoyalBlue">Bus Vendor</h5></label>
 	</a><div><a target="blank">
@@ -67,7 +66,7 @@ Contact Number: 9048 2301 (Mobile)<br>
 <p><a href="/files/Request_for_School_Bus_Services_for_2025_cohort.pdf" target="blank">Request for school bus service form</a></p></li>
 			</ul>
 		</div>
-	</li>
+	
 		
 <li>
 				<input type="checkbox" id="accordion3">
@@ -92,8 +91,8 @@ Uniforms are now available for sale through School Bookshop.&nbsp;</li>
 		<ul>
 			<li>
 <b>Commit Learning SchoolHouse</b>  
-<br><a href="/files/Commit_Learning_SchoolHouse__CLS__Student_Care_Centre__SCC_____Introduction_Letter.pdf" target="blank">CLS Introduction Letter</a>
-<br><a href="/files/Commit_Learning_SchoolHouse__CLS__Student_Care_Centre__SCC_____Introduction_Letter___Riverside_Primary_School.pdf" target="blank">FAQ</a>
+<br><a href="/files/commit_learning_schoolhouse_introduction_letter.pdf" target="blank">CLS Introduction Letter</a>
+<br><a href="/files/commit_learning_schoolhouse_2025_faqs.pdf" target="blank">FAQ</a>
 <br>  Contact Number: 8925 1268<br> 
 
 <p>Email:&nbsp;<a href="mailto:clsriversidepri@gmail.com">clsriversidepri@gmail.com</a></p>
