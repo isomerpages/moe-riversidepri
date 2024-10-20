@@ -2,11 +2,11 @@ collections:
   mk-riverside:
     output: true
     order:
-      - MK@Riverside/Our Team.md
       - MK@Riverside/.keep
       - MK@Riverside/Welcome!.md
       - MK@Riverside/General Information.md
       - MK@Riverside/Our Vision Mission And Values.md
+      - MK@Riverside/Our Team.md
       - MK@Riverside/Our Learning Environment.md
       - MK@Riverside/Our Instagram.md
       - Our Curriculum.md
