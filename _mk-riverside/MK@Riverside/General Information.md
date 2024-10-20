@@ -22,3 +22,5 @@ Learn more about our <a target="blank" href="https://www.moe.gov.sg/preschool/mo
 If you require a full-day service, you can register for Kindergarten Care (KCare), which is offered at all MKs. Your child will be in KCare before and after the MK session within the same premises.
 
 <a target="blank" href="https://www.moe.gov.sg/preschool/moe-kindergarten/kindergarten-care">Learn more about KCare, their fees, and how to register</a>.
+
+![](/images/MK/General_Information.jpg)
