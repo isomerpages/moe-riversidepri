@@ -9,13 +9,13 @@ description: ""
 and Starlight Literacy Programme for English and Mother Tongue Language
 (MTL). In addition, each term at MK will conclude in a Weeks of Wonder
 project.</p>
-<p></p><a target="blank" href="https://www.moe.gov.sg/preschool/moe-kindergarten/curriculum-and-learning-environment/curriculum/hi-light"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Hi_Light.jpg"></a>
+<p></p><a href="https://www.moe.gov.sg/preschool/moe-kindergarten/curriculum-and-learning-environment/curriculum/hi-light"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Hi_Light.jpg"></a>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Starlight.jpg">
-</div>
+
+<a target="blank" href="https://www.moe.gov.sg/preschool/moe-kindergarten/curriculum-and-learning-environment/curriculum/starlight"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Starlight.jpg"></a>
+
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/WoW.jpg">
-</div>
+
+<a target="blank"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/WoW.jpg"></a>
+
 <p></p>
