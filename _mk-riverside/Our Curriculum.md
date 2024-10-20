@@ -16,6 +16,6 @@ project.</p>
 
 <p></p>
 
-<a target="blank"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/WoW.jpg"></a>
+<a target="blank" href="https://www.moe.gov.sg/preschool/moe-kindergarten/curriculum-and-learning-environment/curriculum/weeks-of-wonder"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/WoW.jpg"></a>
 
 <p></p>
