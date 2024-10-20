@@ -2,6 +2,7 @@ collections:
   mk-riverside:
     output: true
     order:
+      - MK@Riverside/Welcome!.md
       - MK@Riverside/.keep
       - MK@Riverside/General Information.md
       - MK@Riverside/Our Instagram.md
