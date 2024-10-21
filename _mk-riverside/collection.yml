@@ -2,18 +2,17 @@ collections:
   mk-riverside:
     output: true
     order:
-      - About Us/.keep
-      - About Us/Open House 2024.md
-      - About Us/Admin and Orientation Day 2024.md
-      - About Us/General Information.md
-      - About Us/Our Instagram.md
-      - About Us/Our Vision Mission And Values.md
-      - About Us/Our Learning Environment.md
-      - About Us/Our Fees.md
-      - About Us/MK Forms.md
-      - About Us/Uniform Matters.md
-      - About Us/Contact Us.md
-      - Curriculum/Our Curriculum Approach.md
-      - Curriculum/Hi Light.md
-      - Curriculum/Starlight Literacy Programme.md
-      - Curriculum/.keep
+      - MK@Riverside/.keep
+      - MK@Riverside/Welcome!.md
+      - MK@Riverside/General Information.md
+      - MK@Riverside/Our Vision Mission And Values.md
+      - MK@Riverside/Our Team.md
+      - MK@Riverside/Our Learning Environment.md
+      - MK@Riverside/Our Instagram.md
+      - Our Curriculum.md
+      - Information for Parents/.keep
+      - Information for Parents/Our Fees.md
+      - Information for Parents/MK Forms.md
+      - Information for Parents/Uniform Matters.md
+      - Information for Parents/Kindergarten Care (KCare).md
+      - Information for Parents/Contact Us.md
