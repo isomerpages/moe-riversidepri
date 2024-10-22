@@ -19,5 +19,5 @@ project.</p>
 <a target="blank" href="https://www.moe.gov.sg/preschool/moe-kindergarten/curriculum-and-learning-environment/curriculum/weeks-of-wonder"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/WoW.jpg"></a>
 
 <p></p>
-<iframe src="https://www.youtube.com/embed/jBjeLzvxSDo" height="480" width="640">
+<iframe src="https://www.youtube.com/embed/jBjeLzvxSDo" height="540" width="960">
 </iframe>
