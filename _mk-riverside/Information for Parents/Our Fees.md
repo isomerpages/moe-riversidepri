@@ -19,3 +19,6 @@ Fees are also payable during the June and December holidays. There are no additi
 -------------------------------------------------------------------
 
 If your child is a Singapore Citizen, they may qualify for financial assistance under the <a target="blank" href="https://www.ecda.gov.sg/parents/subsidies-financial-assistance#KIFAS">Kindergarten Fee Assistance Scheme (KiFAS)</a>. KiFAS is provided by the Early Childhood Development Agency (ECDA) and applies only to MK school fees.
+
+For the latest information, please visit:<br>
+<a target="blank" href="https://www.moe.gov.sg/preschool/moe-kindergarten/fees">https://www.moe.gov.sg/preschool/moe-kindergarten/fees</a>
