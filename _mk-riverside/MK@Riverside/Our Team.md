@@ -18,7 +18,7 @@ Ms Hanah (Senior Teacher - Child Development)<br>
 Ms Ana<br>
 Ms Eli<br>
 Ms May May<br>
-Ms Sok Chinbr&gt;
+Ms Sok Chin<br>
 Ms Suria<br>
 Ms Syafiqah<br>
 Ms Yasmin  
