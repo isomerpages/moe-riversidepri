@@ -119,7 +119,7 @@ Uniforms are now available for sale through School Bookshop.&nbsp;</li>
 <b>LUNCH TIME:</b>&nbsp;1 PM – 2 PM (Please do not disturb)<br>
 <table>
   <tbody><tr>
-			<th style="text-align:center" colspan="7">March 2024</th></tr>
+			<th style="text-align:center" colspan="7">November 2024</th></tr>
 		<tr border="1'">
     <th border="1'">Sunday</th>
     <th>Monday</th>
@@ -130,26 +130,44 @@ Uniforms are now available for sale through School Bookshop.&nbsp;</li>
     <th>Saturday</th>
   </tr>
   <tr>
+    <td>3<br></td>
+    <td>4<br>CLOSED</td>
+    <td>5<br>CLOSED</td>
+    <td>6<br>CLOSED</td>
+    <td>7<br>CLOSED</td>
+    <td>8<br>CLOSED</td>
+    <td>9</td>
+  </tr>
+	  <tr>
+    <td>10<br></td>
+    <td>11<br>OPEN</td>
+    <td>12<br>CLOSED</td>
+    <td>13<br>CLOSED</td>
+    <td>14<br>OPEN</td>
+    <td>15<br>OPEN</td>
+    <td>16</td>
+  </tr>
+  <tr>
     <td>17<br></td>
     <td>18<br>CLOSED</td>
-    <td>19<br>OPEN</td>
+    <td>19<br>CLOSED</td>
     <td>20<br>CLOSED</td>
-    <td>21<br>OPEN</td>
-    <td>22<br>OPEN</td>
+    <td>21<br>CLOSED</td>
+    <td>22<br>CLOSED</td>
     <td>23</td>
   </tr>
 
   <tr>
     <td>24</td>
-    <td>25<br>CLOSED</td>
-    <td>26<br>CLOSED</td>
+    <td>25<br>OPEN</td>
+    <td>26<br>OPEN</td>
     <td>27<br>CLOSED</td>
     <td>29<br>CLOSED</td>
-    <td>29<br>PUBLIC HOLIDAY</td>
+    <td>29<br>CLOSED</td>
     <td>30</td>
   </tr>
 	<tr>
-			<th style="text-align:center" colspan="7">April 2024</th></tr>
+			<th style="text-align:center" colspan="7">December 2024</th></tr>
 		<tr border="1'">
     <th border="1'">Sunday</th>
     <th>Monday</th>
@@ -160,45 +178,45 @@ Uniforms are now available for sale through School Bookshop.&nbsp;</li>
     <th>Saturday</th>
   </tr>
   <tr>
-    <td></td>    
-		<td>1<br>OPEN</td>
-    <td>2<br>OPEN</td>
-    <td>3<br>OPEN</td>
-    <td>4<br>OPEN</td>
-    <td>5<br>OPEN</td>
-    <td>6</td>		
+    <td>1<br></td>
+    <td>2<br>CLOSED</td>
+    <td>3<br>CLOSED</td>
+    <td>4<br>CLOSED</td>
+    <td>5<br>CLOSED</td>
+    <td>6<br>CLOSED</td>	
+		<td>7</td>
   </tr>
   <tr>
-    <td>7</td>
-    <td>8<br>CLOSED</td>
-    <td>9<br>CLOSED</td>
-    <td>10<br>PUBLIC HOLIDAY</td>
-    <td>11<br>CLOSED</td>
-    <td>12<br>CLOSED</td>
-    <td>13</td>
+    <td>8<br></td>
+    <td>9<br>OPEN</td>
+    <td>10<br>OPEN</td>
+    <td>11<br>OPEN</td>
+    <td>12<br>OPEN(AM)</td>
+    <td>13<br>OPEN</td>
+		<td>14</td>
   </tr>
   <tr>
-    <td>14</td>
-    <td>15<br>OPEN</td>
-		<td>16<br>OPEN</td>
-		<td>17<br>OPEN</td>
-		<td>18<br>OPEN</td>
-		<td>19<br>OPEN</td>
-		<td>20<br></td>
+   <td>15<br></td>
+		<td>16<br>CLOSED</td>
+		<td>17<br>CLOSED</td>
+		<td>18<br>CLOSED</td>
+		<td>19<br>CLOSED</td>
+		<td>20<br>CLOSED</td>
+		<td>21<br></td>
   </tr>
 	  <tr>
-    <td>21</td>
-    <td>22<br>CLOSED</td>
+    <td>22<br></td>
 		<td>23<br>CLOSED</td>
-		<td>24<br>CLOSED</td>
-		<td>25<br>CLOSED</td>
+		<td>24<br>OPEN(AM)</td>
+		<td>25<br>HOLIDAY</td>
 		<td>26<br>CLOSED</td>
-		<td>27<br></td>
+		<td>27<br>CLOSED</td>
+		<td>28<br></td>
   </tr>
 	  <tr>
-    <td>28</td>
-    <td>29<br>OPEN</td>
-		<td>30<br>OPEN</td>
+    <td>29<br></td>
+		<td>30<br>CLOSED</td>
+		<td>31<br>CLOSED</td>
 		<td><br></td>
 		<td><br></td>
 		<td><br></td>
