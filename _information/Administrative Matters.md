@@ -110,7 +110,7 @@ Please indicate the student’s name, UIN and school name on the reverse side of
 <p>Primary 1 registration is a process to register your child for mainstream primary schools in the following year. For more information on the P1 Registration Exercise for Singapore Citizens and Permanent Residents, you can click&nbsp;<a href="https://www.moe.gov.sg/primary/p1-registration">here</a>.</p>
 <p><b>b)&nbsp;&nbsp;Adhoc Admission (For Singapore Citizens and Singapore Permanent Residents Only)</b></p>
 <p>For admission to current levels in the school, please call the school’s General Office at 63654490 to enquire if there are vacancies.<br></p>
-<p>To apply for school waitlist, please click&nbsp;<a target="blank" href="https://form.gov.sg/admin/form/671f26f5c5e90c8bca54240d">here</a>.</p>
+<p>To apply for school waitlist, please click&nbsp;<a target="blank" href="https://form.gov.sg/671f26f5c5e90c8bca54240d">here</a>.</p>
 <p style="color:purple">Please note that this School Waitlist Application is only for Year 2025.<br>
 <em>If you do not hear from us by the end of Oct and you are still interested to place your child on the waitlist for the following year, please submit a fresh application for the following year.</em></p>
 <p><b>c)&nbsp;&nbsp;&nbsp;Application for Admission for International Students</b><br></p>
