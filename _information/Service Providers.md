@@ -16,13 +16,13 @@ Contact Number: 9048 2301 (Mobile)<br>
 		Email: <a href="mailto:rsps@pacificbookstores.com">rsps@pacificbookstores.com</a><br>
 <p>
 <a href="/files/2025_P1_Booklist.pdf" target="blank">2025 P1 Booklist</a><br>
-<a href="/files/2025_Booklist/2025_P2_Booklist.pdf" target="blank">2025 P2 Booklist</a><br>
-	<a href="/files/2025_Booklist/2025_P3_Booklist.pdf" target="blank">2025 P3 Booklist</a><br>
-	<a href="/files/2025_Booklist/2025_P4_Booklist.pdf" target="blank">2025 P4 Booklist</a><br>
-	<a href="/files/2025_Booklist/2025_P5_Booklist.pdf" target="blank">2025 P5 Booklist</a><br>
-	<a href="/files/2025_Booklist/2025_P5_FDN_Booklist.pdf" target="blank">2025 P5 Foundation Booklist</a><br>
-	<a href="/files/2025_Booklist/2025_P6_Booklist.pdf" target="blank">2025 P6 Booklist</a><br>
-	<a href="/files/2025_Booklist/2025_P6_FDN_Booklist.pdf" target="blank">2025 P6 Foundation Booklist</a><br>
+<a href="/files/2025%20Booklist/2025_P2_Booklist.pdf" target="blank">2025 P2 Booklist</a><br>
+	<a href="/files/2025%20Booklist/2025_P3_Booklist.pdf" target="blank">2025 P3 Booklist</a><br>
+	<a href="/files/2025%20Booklist/2025_P4_Booklist.pdf" target="blank">2025 P4 Booklist</a><br>
+	<a href="/files/2025%20Booklist/2025_P5_Booklist.pdf" target="blank">2025 P5 Booklist</a><br>
+	<a href="/files/2025%20Booklist/2025_P5_FDN_Booklist.pdf" target="blank">2025 P5 Foundation Booklist</a><br>
+	<a href="/files/2025%20Booklist/2025_P6_Booklist.pdf" target="blank">2025 P6 Booklist</a><br>
+	<a href="/files/2025%20Booklist/2025_P6_FDN_Booklist.pdf" target="blank">2025 P6 Foundation Booklist</a><br>
 <a target="blank"></a></p></li></ul><a target="blank">
 </a></div><a target="blank">
 </a></li><a target="blank">
