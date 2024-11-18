@@ -1,0 +1,60 @@
+---
+title: 2024 Award Winners
+permalink: /2024-award-winners/
+date: 2024-11-18
+layout: post
+description: ""
+image: ""
+variant: markdown
+---
+<style>
+h1 {text-align: center;}
+p {text-align: center;}
+div {text-align: center;}
+</style>
+
+<ul class="jekyllcodex_accordion">
+<li>
+<input id="accordion1" type="checkbox">
+<label for="accordion1"><h4 style="color:Blue">P1 Award Winners</h4></label>
+<div align="centre">
+<p><img src="/images/2024_awards/P1_Strength_Star.jpg">
+</p><p><img src="/images/2024_awards/P1_Strength_Gem.jpg">
+</p><p><img src="/images/2024_awards/P1_Perseverance_Star.jpg">
+</p><p><img src="/images/2024_awards/P1_Perseverance_Gem.jpg">
+</p><p><img src="/images/2024_awards/P1_Adaptability_Star.jpg">
+</p><p><img src="/images/2024_awards/P1_Adaptability_Gem.jpg">
+</p><p><img src="/images/2024_awards/P1_Responsibility_Star.jpg">
+</p><p><img src="/images/2024_awards/P1_Responsibility_Gem.jpg">
+</p><p><img src="/images/2024_awards/P1_Kindness_Star.jpg">
+</p><p><img src="/images/2024_awards/P1_Kindness_Gem.jpg">
+</p><p><img src="/images/2024_awards/P1_Leadership_Star.jpg">
+</p><p><img src="/images/2024_awards/P1_Leadership_Gem.jpg">
+</p><p><img src="/images/2024_awards/P1_Enthusiasm_Star.jpg">
+</p><p><img src="/images/2024_awards/P1_Enthusiasm_Gem.jpg">
+</p><p><img src="/images/2024_awards/P1_Character_Award.jpg">
+</p><p><img src="/images/2024_awards/P1_Talent_Award.jpg">
+</p></div>
+</li><li>
+	
+<input id="accordion2" type="checkbox">
+<label for="accordion2"><h4 style="color:Blue">P2 Award Winners</h4></label>
+<div align="centre">
+	<p><img src="/images/2024_awards/P2_Strength_Star.jpg">
+</p><p><img src="/images/2024_awards/P2_Strength_Gem.jpg">
+</p><p><img src="/images/2024_awards/P2_Perseverance_Star.jpg">
+</p><p><img src="/images/2024_awards/P2_Perseverance_Gem.jpg">
+</p><p><img src="/images/2024_awards/P2_Adaptability_Star.jpg">
+</p><p><img src="/images/2024_awards/P2_Adaptability_Gem.jpg">
+</p><p><img src="/images/2024_awards/P2_Responsibility_Star.jpg">
+</p><p><img src="/images/2024_awards/P2_Responsibility_Gem.jpg">
+</p><p><img src="/images/2024_awards/P2_Kindness_Star.jpg">
+</p><p><img src="/images/2024_awards/P2_Kindness_Gem.jpg">
+</p><p><img src="/images/2024_awards/P2_Leadership_Star.jpg">
+</p><p><img src="/images/2024_awards/P2_Leadership_Gem.jpg">
+</p><p><img src="/images/2024_awards/P2_Enthusiasm_Star.jpg">
+</p><p><img src="/images/2024_awards/P2_Enthusiasm_Gem.jpg">
+</p><p><img src="/images/2024_awards/P2_Character_Award.jpg">
+</p></div>
+</li><li>
+</li></ul>
