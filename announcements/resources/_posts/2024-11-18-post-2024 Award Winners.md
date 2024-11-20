@@ -57,4 +57,24 @@ div {text-align: center;}
 </p><p><img src="/images/2024_awards/P2_Character_Award.jpg">
 </p></div>
 </li><li>
+	
+	<input id="accordion3" type="checkbox">
+<label for="accordion3"><h4 style="color:Blue">P3 Award Winners</h4></label>
+<div align="centre">
+	<p><img src="/images/2024_awards/P3_Strength_Star.jpg">
+</p><p><img src="/images/2024_awards/P3_Strength_Gem.jpg">
+</p><p><img src="/images/2024_awards/p3_perseverance_star.jpg">
+</p><p><img src="/images/2024_awards/p3_perseverance_gem.jpg">
+</p><p><img src="/images/2024_awards/P3_Adaptability_Star.jpg">
+</p><p><img src="/images/2024_awards/P3_Adaptability_Gem.jpg">
+</p><p><img src="/images/2024_awards/P3_Responsibility_Star.jpg">
+</p><p><img src="/images/2024_awards/P3_Responsibility_Gem.jpg">
+</p><p><img src="/images/2024_awards/P3_Kindness_Star.jpg">
+</p><p><img src="/images/2024_awards/P3_Kindness_Gem.jpg">
+</p><p><img src="/images/2024_awards/P3_Sincerity_Star.jpg">
+</p><p><img src="/images/2024_awards/P3_Sincerity_Gem.jpg">
+</p><p><img src="/images/2024_awards/P3_Talent.jpg">
+</p><p><img src="/images/2024_awards/P3_Character.jpg">
+</p></div>
+</li><li>
 </li></ul>
