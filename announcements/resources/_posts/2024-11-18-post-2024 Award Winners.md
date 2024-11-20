@@ -100,4 +100,23 @@ div {text-align: center;}
 </p></div>
 </li><li>
 	
+	<input id="accordion5" type="checkbox">
+<label for="accordion5"><h4 style="color:Blue">P5 Award Winners</h4></label>
+<div align="centre">
+<p></p><p><img src="/images/2024_awards/P5_Strength_Gem.jpg">
+</p><p><img src="/images/2024_awards/P5_Perseverance_Gem.jpg">
+</p><p><img src="/images/2024_awards/P5_Adaptability_Gem.jpg">
+</p><p><img src="/images/2024_awards/P5_Responsibility_Gem.jpg">
+</p><p><img src="/images/2024_awards/P5_Kindness_Gem.jpg">
+</p><p><img src="/images/2024_awards/P5_Sincerity_Gem.jpg">
+	</p><p><img src="/images/2024_awards/P5_CL_Award.jpg">
+</p><p><img src="/images/2024_awards/P5_ML_CL_Award.jpg">
+</p><p><img src="/images/2024_awards/P5_Talent_Award.jpg">
+	</p><p><img src="/images/2024_awards/P5_Star_Learner.jpg">
+	</p><p><img src="/images/2024_awards/P5_Leadership_Award.jpg">
+</p><p><img src="/images/2024_awards/P5_Character_Award.jpg">
+	</p><p><img src="/images/2024_awards/P5_Service_Award.jpg">
+</p></div>
+</li><li>
+	
 </li></ul>
