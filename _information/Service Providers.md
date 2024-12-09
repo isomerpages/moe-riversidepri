@@ -22,14 +22,16 @@ Contact Number: 9048 2301 (Mobile)<br>
 	<a href="/files/2025%20Booklist/2025_P5_Booklist.pdf" target="blank">2025 P5 Booklist</a><br>
 	<a href="/files/2025%20Booklist/2025_P5_FDN_Booklist.pdf" target="blank">2025 P5 Foundation Booklist</a><br>
 	<a href="/files/2025%20Booklist/2025_P6_Booklist.pdf" target="blank">2025 P6 Booklist</a><br>
-	<a href="/files/2025%20Booklist/2025_P6_FDN_Booklist.pdf" target="blank">2025 P6 Foundation Booklist</a><br>
-</p></li><li>
+	<a href="/files/2025%20Booklist/2025_P6_FDN_Booklist.pdf" target="blank">2025 P6 Foundation Booklist</a></p></li>
+			</ul>
+		</div>
+	</li>
+	
+<li>
 				<input type="checkbox" id="accordion2">
 				<label for="accordion2"><h5 style="color:RoyalBlue">Bus Vendor</h5></label>
 	<div><a target="blank">
-		</a><ul><a target="blank">
-			</a><li><a target="blank">&nbsp;
-</a><p><a target="blank"><strong>Chang Chen Pte Ltd</strong>
+		</a><ul><li><p><a target="blank"><strong>Chang Chen Pte Ltd</strong>
 <br>Chang An Bus Transport Service (Parent Company)
 <br><br><strong>Address</strong>
 <br>Block 130 Choa Chu Kang Avenue 1 #06-36 Singapore 680130
@@ -271,4 +273,4 @@ Please <b>CALL</b> to ensure that a dental staff is on duty, before going to the
 <p>For emergencies such as dental trauma, facial/gum swelling or toothache, please call the Health Promotion Board’s School Dental Centre at 6435 3782 for assistance.</p>
 			</li>
 			</ul>
-		</div></li></ul></div></li></ul>
+		</div></li></ul>
