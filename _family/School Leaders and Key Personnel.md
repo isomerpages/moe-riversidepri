@@ -29,10 +29,10 @@ div {text-align: center;}
 <br>Vice-Principal 2
 <br>email: Ranuka_PALANIVELU@schools.gov.sg</p>
 
-<p><img style="width:210px;height:247px;" src="/images/karin_neo.jpg">
-<strong>Ms Karin Neo</strong>
+
+<strong>Dalbir Singh</strong>
 <br>Vice-Principal (Administration)
-<br>email: Karin_NEO@schools.gov.sg</p>
+<br>email: Dalbir_Singh_SURAT_SINGH@schools.gov.sg<p></p>
 </div>
 </li><li>
 	
