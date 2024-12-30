@@ -70,6 +70,11 @@ div {text-align: center;}
 <p><strong>Mr Daryl Chew</strong>
 <br>Head of Department, Mathematics
 <br>email: chew_yi_hern_daryl@schools.gov.sg</p>
+		
+<p><strong>Ms Korine Chung</strong>
+<br>Head of Department, Special Educational Needs
+<br>email: </p>
+	
 
 <p><strong>Ms Ameerah Sharainee Zain Bte Sha</strong>
 <br>School Staff Developer
