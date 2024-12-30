@@ -215,7 +215,6 @@ variant: markdown
 <label for="accordion8"><h5 style="color:blue">Mother Tongue Teachers</h5></label>
 <div>
 <p><strong>Ms Ng See Tee</strong> <br>Email: ng_see_tee@moe.edu.sg</p>
-<p><strong>Mdm Ng Yuting</strong> <br>Email: ng_yuting@moe.edu.sg</p>
 <p><strong>Ms Tang Wai San</strong> <br>Email: tang_wai_san@moe.edu.sg</p>
 <p><strong>Ms Chang Tan Ling</strong> <br>Email: chang_tan_ling@moe.edu.sg</p>
 <p><strong>Mr Chong Keng Kok</strong> <br>Email: chong_keng_kok@moe.edu.sg</p><p><strong>Mdm Ma Shaowen</strong> <br>Email: ma_shaowen@moe.edu.sg</p>
@@ -224,6 +223,11 @@ variant: markdown
 <p><strong>Mdm Thang Yun Xuan</strong> <br>Email: thang_yun_xuan@moe.edu.sg</p>
 <p><strong>Mr Wong Wai Tatt</strong> <br>Email: wong_wai_tatt@moe.edu.sg</p>
 <p><strong>Ms Lim Shin Gann</strong> <br>Email: lim_shin_gann@moe.edu.sg</p>
+<p><strong>Ms Yong Lok Ping</strong><br>Email: yong_lok_ping@moe.edu.sg</p>
+<p><strong>Mdm Jacqueline Kho </strong><br>Email: kho_ee_ling_jacqueline@moe.edu.sg</p>
+<p><strong>Mrs Choo-Ng Sook Fern</strong><br>Email: ng_sook_fern@moe.edu.sg</p>
+<p><strong>Ms Chin Shu Hui</strong><br>Email: chin_shu_hui@moe.edu.sg</p>
+<p><strong>Mr Chong Boon Hing</strong><br>Email: </p>
 <p><strong>Mrs Eity Norhyezah Asyurah</strong> <br>Email: eity_norhyezah_asyurah@moe.edu.sg</p>
 <p><strong>Mdm Siti Suhaida Surir</strong> <br>Email: siti_suhaida_surir@moe.edu.sg</p>
 <p><strong>Mdm Ardriza Isnin</strong> <br>Email: ardriza_isnin@moe.edu.sg</p>
@@ -233,4 +237,4 @@ variant: markdown
 <p><strong>Mrs Gayathiri Anasooya</strong> <br>Email: gayathiri_anasooya_mohanaruben@moe.edu.sg</p>
 <p><strong>Mdm Gowri d/o V Vairavan</strong><br>Email: gowri_v_vairavan@moe.edu.sg</p>
 <p><strong>Mdm Nagaraj Hema</strong> <br>Email: nagaraj_hema@moe.edu.sg</p>
-<p><strong>Ms Yamunah D/O Balakrishnan</strong> <br>Email: yamunah_balakrishnan@moe.edu.sg</p></div></li></ul>
+<p><strong>Ms Mohanapreyaa</strong><br>Email: </p></div></li></ul>
