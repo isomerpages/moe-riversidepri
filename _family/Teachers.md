@@ -59,7 +59,7 @@ variant: markdown
 <strong>Mdm Dzuraiha</strong><br>Email: <p></p>
 
 <p></p><h5>P2 Perseverance</h5>
-<strong>Ms Matilda Lin</strong><br>Email: rathiga_atamanadan@moe.edu.sg<br>
+<strong>Ms Matilda Lin</strong><br>Email: lin_huizi_matilda@moe.edu.sg <br>
 <strong>Mr Seow Soon Kiat</strong><br>Email: seow_soon_kiat@moe.edu.sg<p></p>
 
 <p></p><h5>P2 Adaptability</h5>
@@ -120,7 +120,7 @@ variant: markdown
 <label for="accordion5"><h5 style="color:blue">Primary 4 Teachers</h5></label>
 <div>
 <h5>P4 Strength</h5>
-<strong>Mr Sun Chin Keong</strong><br>Email:sun_chin_keong@moe.edu.sg<br>
+<strong>Mr Sun Chin Keong</strong><br>Email: sun_chin_keong@moe.edu.sg<br>
 <strong>Gowri d/o V Vairavan</strong><br>Email: gowri_v_vairavan@moe.edu.sg<p></p>
 
 <p></p><h5>P4 Perseverance</h5>
@@ -129,7 +129,7 @@ variant: markdown
 
 <p></p><h5>P4 Adaptability</h5>
 <strong>Mrs Fio Ng</strong><br>Email: ang_hwee_tit@moe.edu.sg<br>
-<strong>Mr Eugene Yap</strong><br>Email: eric_lim_kee_ben@moe.edu.sg<p></p>
+<strong>Mr Eugene Yap</strong><br>Email: eugene_yap_hern_an@moe.edu.sg<p></p>
 
 <p></p><h5>P4 Responsibility</h5>
 <strong>Ms Tay Wee Lee</strong><br>Email: tay_wee_lee_a@moe.edu.sg<br>
