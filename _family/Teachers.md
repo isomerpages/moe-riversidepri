@@ -55,7 +55,8 @@ variant: markdown
 <div>
 <p></p><h5>P2 Strength</h5>
 <strong>Mrs Normala Alex</strong><br>Email: normala_sarman@moe.edu.sg<br>
-<strong>Mdm Aslinda Abdullah</strong><br>Email: aslinda_abdullah@moe.edu.sg<p></p>
+<strong>Mdm Aslinda Abdullah</strong><br>Email: aslinda_abdullah@moe.edu.sg<br>
+<strong>Mdm Dzuraiha</strong><br>Email: <p></p>
 
 <p></p><h5>P2 Perseverance</h5>
 <strong>Ms Matilda Lin</strong><br>Email: rathiga_atamanadan@moe.edu.sg<br>
@@ -67,7 +68,7 @@ variant: markdown
 
 <p></p><h5>P2 Responsibility</h5>
 <strong>Mrs Sheryl Goh</strong><br>Email: sheryl_tan@moe.edu.sg<br>
-<strong>Mdm Siti Suhaida</strong><br>Email: siti_suhaida_surir@moe.edu.sg
+<strong>Mdm Siti Suhaida</strong><br>Email: siti_suhaida_surir@moe.edu.sg<p></p>
 
 <p></p><h5>P2 Kindness</h5>
 <strong>Mdm Lalithaa Kanesan</strong><br>Email: lalithaa_kanesan@moe.edu.sg<br>
