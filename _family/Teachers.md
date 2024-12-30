@@ -119,16 +119,16 @@ variant: markdown
 <label for="accordion5"><h5 style="color:blue">Primary 4 Teachers</h5></label>
 <div>
 <h5>P4 Strength</h5>
-<strong>Mdm Hazel Tay</strong><br>Email: tay_pei_pei@moe.edu.sg<br>
-<strong>Mrs Fio Ng</strong><br>Email: ang_hwee_tit@moe.edu.sg
+<strong>Mr Sun Chin Keong</strong><br>Email:sun_chin_keong@moe.edu.sg<br>
+<strong>Gowri d/o V Vairavan</strong><br>Email: gowri_v_vairavan@moe.edu.sg
 
 <p></p><h5>P4 Perseverance</h5>
-<strong>Mdm Noorfaezah Sadon</strong><br>Email: noorfaezah_sadon@moe.edu.sg<br>
-<strong>Mr Mohamed Shahnaz</strong><br>Email: mohamed_shahnaz_mohamed_hu@moe.edu.sg<p></p>
+<strong>Ms Clarice Teo</strong><br>Email: clarice_teo_tze_yee@moe.edu.sg<br>
+<strong>Mdm Suraiya Abdul Latib</strong><br>Email: suraiya_abdul_latib@moe.edu.sg<p></p>
 
 <p></p><h5>P4 Adaptability</h5>
-<strong>Mrs Gayathiri Anasooya</strong><br>Email: gayathiri_anasooya_mohanaruben@moe.edu.sg<br>
-<strong>Mr Eric Lim</strong><br>Email: eric_lim_kee_ben@moe.edu.sg<p></p>
+<strong>Mrs Fio Ng</strong><br>Email: ang_hwee_tit@moe.edu.sg<br>
+<strong>Mr Eugene Yap</strong><br>Email: eric_lim_kee_ben@moe.edu.sg<p></p>
 
 <p></p><h5>P4 Responsibility</h5>
 <strong>Mdm Lena Chua</strong><br>Email: chua_mui_ling_lena@moe.edu.sg<br>
