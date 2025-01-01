@@ -28,33 +28,39 @@ As part of promoting healthy living and the habit of drinking plain water among 
   </tr>
   <tr>
     <td>1</td>
-    <td>Chinese Noodle</td>
-    <td>Mdm Wong Sie Chooi</td>
-		<td>Please Click <a href="/files/Stall_1_Chinese_Noodle.pdf" target="blank"> Here</a></td>
+    <td>Chinese Rice</td>
+    <td> Mr Law Kim Kong</td>
+		<td>Please Click <a href="/files/2025_STALL_1_Chinese_Rice_Menu.pdf" target="blank"> Here</a></td>
   </tr>
   <tr>
     <td>2</td>
-    <td>Chinese Rice</td>
+    <td>Chinese Noodles</td>
     <td>Mdm Cheong Pui Feng</td>
-		<td>Please Click <a href="/files/stall_2_chinese_rice.pdf" target="blank"> Here</a></td>
+		<td>Please Click <a href="/files/2025_STALL_2_Chinese_Noodles_Menu.pdf" target="blank"> Here</a></td>
   </tr>
   <tr>
     <td>3</td>
     <td>Western Food</td>
     <td>Mdm Rozita</td>
-		<td>Please Click <a href="/files/Stall_3_Halal_Western.pdf" target="blank"> Here</a></td>
+		<td>Please Click <a href="/files/2025_STALL_3_Halal_Western_Food_Menu.pdf" target="blank"> Here</a></td>
   </tr>
   <tr>
     <td>4</td>
     <td>Malay Noodles</td>
     <td>Mdm Sofia Suzan</td>
-		<td>Please Click <a href="/files/Stall_4_Malay_Noodle_4_1_24.pdf" target="blank"> Here</a></td>
+		<td>Please Click <a href="/files/2025_STALL_4_Malay_Noodle_Menu.pdf" target="blank"> Here</a></td>
   </tr>	
   <tr>
     <td>5</td>
     <td>Dim Sum</td>
     <td>Mdm Tang Ching Shih</td>
 		<td>Please Click <a href="/files/STALL_5_MENU.pdf" target="blank"> Here</a></td>
+  </tr>	
+		  <tr>
+    <td>6</td>
+    <td>Malay&nbsp;Rice</td>
+    <td>Mdm Srihati</td>
+		<td>Please Click <a href="/files/2025_STALL_6_Malay_Rice_Menu.pdf" target="blank"> Here</a></td>
   </tr>	
 </tbody></table>
 
