@@ -18,33 +18,21 @@ variant: markdown
 <label for="accordion2"><h5 style="color:blue">Primary 1 Teachers</h5></label>
 <div>
 <h5>P1 Strength</h5>
-<p><strong>Mdm Nor Farhana</strong><br>Email: nor_farhana_hatwadi@moe.edu.sg
-<br><strong>Mdm Nagaraj Hema</strong><br>Email: nagaraj_hema@moe.edu.sg</p>
+<p><strong></strong><br><br>
+<strong></strong><br></p>
 
 <h5>P1 Perseverance</h5>
-<p><strong>Mdm Raudah Begum</strong><br>Email: raudah_begum_amir_khan@moe.edu.sg<br>
-<strong>Ms Yong Lok Ping</strong><br>Email: yong_lok_ping@moe.edu.sg</p>
 
 <h5>P1 Adaptability</h5>
-<p><strong>Mrs Joanna Kong</strong><br>Email: hang_siew_mei_joanna@moe.edu.sg<br>
-<strong>Ms Man Su Thing</strong><br>Email: man_su_thing@moe.edu.sg</p>
 
 <h5>P1 Responsibility</h5>
-<p><strong>Mrs Rathiga D/O Atamanadan</strong><br>Email: rathiga_atamanadan@moe.edu.sg@moe.edu.sg<br>
-<strong>Mdm Ardriza Isnin</strong><br>Email: ardriza_isnin@moe.edu.sg</p>
 
 <h5>P1 Kindness</h5>
-<p><strong>Ms Ameerah Sharainee Zain</strong><br>Email: ameerah_sharainee_zain_sha@moe.edu.sg<br>
-<strong>Ms Thio Su Ping</strong><br>Email: thio_su_ping@moe.edu.sg</p>
 
 <h5>P1 Leadership</h5>
-<p><strong>Ms Sandra Ong</strong><br>Email: <br>
-<strong>Ms Maisurah Bte Saini</strong><br>Email: maisurah_saini@moe.edu.sg</p>
 
 <h5>P1 Enthusiasm</h5>
-<p><strong>Mdm Nur'Khairiyah </strong><br>Email: <br>
-<strong>Mdm Jacqueline Kho </strong><br>Email: kho_ee_ling_jacqueline@moe.edu.sg<br>
-<strong>Ms Amaluna Mastura</strong><br>Email: amaluna_mastura_azman@moe.edu.sg</p>
+
 
 </div>
 </li>
