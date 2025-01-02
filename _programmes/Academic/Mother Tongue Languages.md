@@ -10,18 +10,10 @@ variant: markdown
 <p>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;</p>
 <h5>Chinese Language</h5>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p>一、部门目标</p>
+<p>部门目标</p>
 <p>培养一批对学习华文与中华文化充满热忱的学生。</p>
-<p><strong>二、部门团队</strong>
-</p>
-<p>母语部主任:&nbsp;&nbsp;&nbsp;&nbsp; 黄诗智</p>
-<p>华文级主任:&nbsp;&nbsp;&nbsp;&nbsp; 黄毓婷</p>
-<p>华文高级教师:&nbsp;&nbsp; 邓慧姗&nbsp;&nbsp;&nbsp;&nbsp; 马少文</p>
-<p>华文老师： 邱燕玲&nbsp;&nbsp;&nbsp;&nbsp; 谭韵璇&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 林欣颜</p>
-<p>毛淑婷&nbsp;&nbsp;&nbsp;&nbsp; 伍淑芬&nbsp;&nbsp;&nbsp;&nbsp; 庄耿国&nbsp;&nbsp;&nbsp;&nbsp;
-黄伟达&nbsp;&nbsp;&nbsp;&nbsp; 萧顺杰</p>
-<p>杨若嫔&nbsp;&nbsp;&nbsp;&nbsp; 张丹龄&nbsp;&nbsp;&nbsp;&nbsp; 陈淑慧</p>
-<p><strong>三、部门活动</strong>
+
+<p><strong>部门活动</strong>
 </p>
 <p><strong>阅读计划</strong>
 </p>
@@ -109,17 +101,7 @@ mendengar, bertutur, membaca dan menulis.</p>
 <p>Mewujudkan suasana pembelajaran yang tulen dan penuh dengan kekayaan budaya.</p>
 </li>
 </ul>
-<p><strong>KAKITANGAN JABATAN</strong>
-</p>
-<p>Cikgu Eity Norhyezah Asyurah
-<br>Cikgu Siti Suhaida bte Surir
-<br>Cikgu Liyana Nadiah
-<br>Cikgu Hasnah Misnor
-<br>Cikgu Sharifah Munirah Syed Ahmad
-<br>Cikgu Ardriza Isnin
-<br>
-<br>
-</p>
+<p></p>
 <p><strong>PROGRAM UTAMA</strong>
 </p>
 <p>A. Program Membaca</p>
@@ -274,15 +256,7 @@ pelbagai wadah yang dapat memperkayakan pembelajaran.</p>
 <p>•&nbsp;&nbsp;&nbsp; ‘வாண்டு’ கற்றல் தளம் – <a rel="noopener noreferrer nofollow" target="_blank">vaandu.sg/#/</a>
 </p>
 <p>&nbsp;</p>
-<p><strong><u>தமிழ் ஆசிரியர்கள்</u></strong>
-</p>
-<p>•&nbsp;&nbsp;&nbsp; திருமதி காயத்திரி அனுசூயா (மூத்த ஆசிரியர் / தமிழ்)</p>
-<p>•&nbsp;&nbsp;&nbsp; திருமதி கௌரி</p>
-<p>•&nbsp;&nbsp;&nbsp; திருமதி ஹேமா</p>
-<p>•&nbsp;&nbsp;&nbsp; குமாரி யமுனா</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p></p>
-<p></p>
+
 <p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p></p>
 <p>&nbsp;&nbsp;</p>
