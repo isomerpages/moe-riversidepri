@@ -81,9 +81,9 @@ Contact Number: 9048 2301 (Mobile)<br>
 	<div>
 		<ul>
 			<li>Online Purchase: <a href="www.jeepsinguniform.com.sg" target="blank">www.jeepsinguniform.com.sg</a><br>  
-<br>![](/images/uniform_qr.png)
+<br><img style="width:352px;height:340px;" src="/images/uniform_qr.png"><br>
 Address: 4012 Ang Mo Kio Ave 10, #01-09 Techplace 1, Singapore 569628<br>
-Uniforms are now available for sale through School Bookshop.&nbsp;</li>
+				Enquiry form: <a href="https://bit.ly/JSFSUPPORT" target="blank">https://bit.ly/JSFSUPPORT</a></li>
 			</ul>
 		</div>
 	</li>
