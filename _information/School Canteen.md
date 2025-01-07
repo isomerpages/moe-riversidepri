@@ -18,7 +18,7 @@ As part of promoting healthy living and the habit of drinking plain water among 
 &nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion1">
 		<label for="accordion1"><h5 style="color:blue">Canteen Stalls</h5></label>
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
-			<p> There are 5 food stalls in the school canteen.</p>
+			<p> There are 6 food stalls in the school canteen.</p>
 <table>
   <tbody><tr>
     <th>Stall</th>
