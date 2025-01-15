@@ -38,12 +38,13 @@ variant: markdown
 <strong>Ms Thio Su Ping</strong><br>Email: thio_su_ping@moe.edu.sg<p></p>
 
 <p></p><h5>P1 Leadership</h5>
-<strong>Mrs Azura</strong><br>Email: nur_azura_mohamed_zaid@moe.edu.sg<br>
-<strong>Mrs Choo-Ng Sook Fern</strong><br>Email: ng_sook_fern@moe.edu.sg<p></p>
+<strong>Ms Sandra Ong</strong><br>Email: ong_li_hong_sandra@moe.edu.sg<br>
+<strong>Ms Maisurah Bte Saini</strong><br>Email: maisurah_saini@moe.edu.sg<p></p>
 
 <p></p><h5>P1 Enthusiasm</h5>
-<strong>Mdm Sabrina Bte Sabtu</strong><br>sabrina_sabtu@moe.edu.sg<br>
-<strong>Ms Tang Wai San</strong><br>Email: tang_wai_san@moe.edu.sg<p></p>
+<strong>Mdm Jacqueline Kho</strong><br>Email: kho_ee_ling_jacqueline@moe.edu.sg<br>
+<strong>Ms Amaluna Mastura Binte Azman</strong><br>Email: amaluna_mastura_azman@moe.edu.sg
+<p></p>
 </div>
 </li>
 	
