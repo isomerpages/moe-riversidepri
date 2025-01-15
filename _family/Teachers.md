@@ -17,23 +17,33 @@ variant: markdown
 <input type="checkbox" id="accordion2">
 <label for="accordion2"><h5 style="color:blue">Primary 1 Teachers</h5></label>
 <div>
-<h5>P1 Strength</h5>
-<p><strong></strong><br><br>
-<strong></strong><br></p>
+<p></p><h5>P1 Strength</h5>
+<strong>Mdm Nor Farhana</strong><br>Email: nor_farhana_hatwadi@moe.edu.sg<br>
+<strong>Mdm Nagaraj Hema</strong><br>Email: nagaraj_hema@moe.edu.sg<br>
 
-<h5>P1 Perseverance</h5>
+<p></p><h5>P1 Perseverance</h5>
+<strong>Mdm Raudah Begum</strong><br>Email: raudah_begum_amir_khan@moe.edu.sg <br>
+<strong>Ms Yong Lok Ping</strong><br>Email: yong_lok_ping@moe.edu.sg<p></p>
 
-<h5>P1 Adaptability</h5>
+<p></p><h5>P1 Adaptability</h5>
+<strong>Mrs Joanna Kong</strong><br>Email: hang_siew_mei_joanna@moe.edu.sg<br>
+<strong>Ms Man Su Thing</strong><br>Email: man_su_thing@moe.edu.sg<p></p>
 
-<h5>P1 Responsibility</h5>
+<p></p><h5>P1 Responsibility</h5>
+<strong>Mrs Rathiga D/O Atamanadan</strong><br>Email: rathiga_atamanadan@moe.edu.sg<br>
+<strong>Mdm Ardriza Isnin</strong><br>Email: ardriza_isnin@moe.edu.sg<p></p>
 
-<h5>P1 Kindness</h5>
+<p></p><h5>P1 Kindness</h5>
+<strong>Ms Ameerah Sharainee Zain Sha</strong><br>Email: ameerah_sharainee_zain_sha@moe.edu.sg<br>
+<strong>Ms Thio Su Ping</strong><br>Email: thio_su_ping@moe.edu.sg<p></p>
 
-<h5>P1 Leadership</h5>
+<p></p><h5>P1 Leadership</h5>
+<strong>Mrs Azura</strong><br>Email: nur_azura_mohamed_zaid@moe.edu.sg<br>
+<strong>Mrs Choo-Ng Sook Fern</strong><br>Email: ng_sook_fern@moe.edu.sg<p></p>
 
-<h5>P1 Enthusiasm</h5>
-
-
+<p></p><h5>P1 Enthusiasm</h5>
+<strong>Mdm Sabrina Bte Sabtu</strong><br>sabrina_sabtu@moe.edu.sg<br>
+<strong>Ms Tang Wai San</strong><br>Email: tang_wai_san@moe.edu.sg<p></p>
 </div>
 </li>
 	
