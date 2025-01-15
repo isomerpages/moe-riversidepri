@@ -116,7 +116,7 @@ div {text-align: center;}
 <br>email: christina_s_zaccheus@moe.edu.sg</p>
 
 <p><strong>Mr Mohammad Shaifullizan Bin Sapieah</strong>
-<br>Subject Head, Level Head English Language &amp; Social Studies
+<br>Level Head, English Language &amp; Social Studies
 <br>email: mohammad_shaifullizan_sapi@moe.edu.sg</p>
 	
 <p><strong>Mr Kenny Toh</strong>
