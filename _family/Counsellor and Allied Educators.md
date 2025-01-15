@@ -6,7 +6,7 @@ variant: markdown
 ---
 If you wish to contact our Counsellor and Allied Educator, please email to [riverside\_ps@moe.edu.sg](mailto:riverside_ps@moe.edu.sg).
 
-**Ms Jolene Lau**  
+**Ms Tammy**  
 School Counsellor
 
 **Mr Mashafiz Bin Ma'at**  
