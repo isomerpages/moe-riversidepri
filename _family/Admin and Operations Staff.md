@@ -17,7 +17,6 @@ If you wish to contact our Support and Administrative Staff, please email to&nbs
 <b>Ms Siti Zarina Jamil</b><br>Administrative Executive<br><br>
 <b>Mdm Sharon Lim</b><br>Administrative Executive<br><br>
 <b>Mdm Nurul Nabilah</b><br>Administrative Executive<br><br>
-<b>Mdm Masriyah Zahar</b><br>Administrative Executive<br><br>	
 <b>Mdm Halimah Ali</b><br>Corporate Support Officer
 </div>
 
@@ -31,7 +30,7 @@ If you wish to contact our Support and Administrative Staff, please email to&nbs
 <b>Mdm Koh Chu Tee</b><br>Operations Support Officer<br><br>
 <b>Mdm Liow Luan Wah</b><br>Operations Support Officer<br><br>
 <b>Mdm Chong Lai Keun</b><br>Operations Support Officer<br><br>
-<b>Mdm Jesslyn Choo</b><br>Operations Support Officer<br><br>
+<b>Mdm Zubaidah</b><br>Operations Support Officer<br><br>
 <b>Mrs Mohan</b><br>Operations Support Officer	
 </div></li>
 	
@@ -41,5 +40,5 @@ If you wish to contact our Support and Administrative Staff, please email to&nbs
 <b>Mr Hardi Mustaffa</b><br>ICT Manager<br><br>
 <b>Mr Muhammad Zaki Ahmad</b><br>ICT Manager<br><br>
 <b>Mr Patrick Tan</b><br>Desktop Engineer<br><br>
-<b>Mr Yip Yong Xian</b><br>Desktop Engineer	
+<b>Mr Najmi Safian</b><br>Desktop Engineer	
 </div></li></ul>
