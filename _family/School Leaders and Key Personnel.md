@@ -30,9 +30,10 @@ div {text-align: center;}
 <br>email: Ranuka_PALANIVELU@schools.gov.sg</p>
 
 
-<strong>Dalbir Singh</strong>
+<p><img style="width:210px;height:247px;" src="/images/Dalbir_Singh.jpg">
+	<strong>Dalbir Singh</strong>
 <br>Vice-Principal (Administration)
-<br>email: Dalbir_Singh_SURAT_SINGH@schools.gov.sg<p></p>
+<br>email: Dalbir_Singh_SURAT_SINGH@schools.gov.sg</p>
 </div>
 </li><li>
 	
@@ -48,11 +49,11 @@ div {text-align: center;}
 <br>email: chan_teck_hock_bobby@moe.edu.sg</p>
 
 <p><strong>Mr Sun Chin Keong</strong>
-<br>Head of Department, ICT
+<br>Head of Department, Educational Technology
 <br>email: sun_chin_keong@moe.edu.sg</p>
 
 <p><strong>Ms Chan Yu Min Wendy</strong>
-<br>Head of Department, English Language
+<br>Head of Department, English Language &amp; Social Studies
 <br>email: chan_yu_min_wendy@moe.edu.sg</p>
 
 <p><strong>Mrs Fio Ng</strong>
@@ -69,11 +70,11 @@ div {text-align: center;}
 	
 <p><strong>Mr Daryl Chew</strong>
 <br>Head of Department, Mathematics
-<br>email: chew_yi_hern_daryl@schools.gov.sg</p>
+<br>email: chew_yi_hern_daryl@moe.edu.sg</p>
 		
 <p><strong>Ms Korine Chung</strong>
 <br>Head of Department, Special Educational Needs
-<br>email: </p>
+<br>email: chung_joo_yi@moe.edu.sg</p>
 	
 
 <p><strong>Ms Ameerah Sharainee Zain Bte Sha</strong>
@@ -115,12 +116,8 @@ div {text-align: center;}
 <br>email: christina_s_zaccheus@moe.edu.sg</p>
 
 <p><strong>Mr Mohammad Shaifullizan Bin Sapieah</strong>
-<br>Subject Head, CCE &amp; SS
+<br>Subject Head, Level Head English Language &amp; Social Studies
 <br>email: mohammad_shaifullizan_sapi@moe.edu.sg</p>
-
-<p><strong>Ms Ng Yuting</strong>
-<br>Level Head, Chinese Language
-<br>email: ng_yuting@moe.edu.sg</p>
 	
 <p><strong>Mr Kenny Toh</strong>
 <br>Level Head, Science
