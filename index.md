@@ -14,7 +14,7 @@ sections:
           url: /mk-riverside/about-us/general-information/
         - title: Parent Suppport Group
           description: Join us!
-          url: /partnerships/parents-support-group/
+          url: /partnerships/parent-support-group/
   - infobar:
       title: 2024 Virtual Open House
   - infobar:
