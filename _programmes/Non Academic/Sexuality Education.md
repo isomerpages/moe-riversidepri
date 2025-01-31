@@ -24,7 +24,7 @@ variant: markdown
 		</tr>
 		<tr>
 			<td>c.</td>
-			<td>To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of positive mainstream values and attitudes about sexuality. </td>
+			<td>To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of positive mainstream values and attitudes about sexuality.  </td>
 		</tr>	
 	</tbody></table>
 	</div>
