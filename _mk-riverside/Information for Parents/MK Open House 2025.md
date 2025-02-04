@@ -5,5 +5,5 @@ variant: markdown
 description: ""
 third_nav_title: Information for Parents
 ---
-<a target="blank" href="https://form.gov.sg/67440d2352ba8c426f31566e"><img style="width: 100%" height="auto" width="100%" src="/images/MK/Open_House_2025.jpg"></a>
-#### Sign up for our Open House <a target="blank" href="https://form.gov.sg/67440d2352ba8c426f31566e"> here</a>!
+<a target="blank" href="https://form.gov.sg/67440d2352ba8c426f31566e"><img style="width: 100%" height="auto" width="100%" src="/images/MK/Open_House_2025.jpg"></a><br>
+Sign up for our Open House <a target="blank" href="https://form.gov.sg/67440d2352ba8c426f31566e"> here</a>!<br>Sign up for our Open House 
