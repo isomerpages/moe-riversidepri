@@ -8,7 +8,7 @@ third_nav_title: Information for Parents
 ![](/images/header-ourfees.jpg)**MOE Kindergarten Fees**
 -------------------------
 
-The monthly fee for MK in 2024 is:<br>$160 for Singapore Citizens.
+The monthly fee for MK in 2025 is:<br>$160 for Singapore Citizens.
 <br>$320 for Singapore Permanent Residents.
 
 Fees are also payable during the June and December holidays. There are no additional out-of-pocket expenses for complementary programmes such as field trips.
