@@ -4,7 +4,9 @@ permalink: /partnerships/parent-support-group/
 description: ""
 variant: markdown
 ---
-To register to be a member of the school's Parent Support Group (PSG), please click on the link to access an e-registration form. Thank you for your interest in being a part of the PSG and your passion to contribute your expertise and service to Riverside and Riverians!
+To register to be a member of the school's Parent Support Group (PSG), please click on the link <a target="blank" href="https://form.gov.sg/6592b99cfb50c9001192948d">here</a> or scan QR Code
+![](/images/PSG_application_qr.jpg)
+to access an e-registration form. Thank you for your interest in being a part of the PSG and your passion to contribute your expertise and service to Riverside and Riverians!
 
 Every PSG Member a STAR:  
 **S**&nbsp; Service Leader  
