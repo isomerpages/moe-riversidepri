@@ -4,6 +4,6 @@ permalink: /information/2025-parents-seminar/
 description: ""
 variant: markdown
 ---
-- [2024 Lower Primary Parent's Seminar Slides](https://go.gov.sg/s1reer)
-- [2024 Middle Primary Parent's Seminar Slides](https://go.gov.sg/fhb8mu)
-- [2024 Upper Primary Parent's Seminar Slides](https://go.gov.sg/78i8kj)
+- [2025 Lower Primary Parent's Seminar Slides](https://file.for.edu.sg/4wghyf.pdf)
+- [2025 Middle Primary Parent's Seminar Slides](https://file.for.edu.sg/v0y32a.pdf)
+- [2025 Upper Primary Parent's Seminar Slides](https://file.for.edu.sg/bzksbp.pdf)
