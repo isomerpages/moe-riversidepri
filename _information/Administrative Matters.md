@@ -24,7 +24,7 @@ variant: markdown
 <p>1.  <b>School fees</b>&nbsp;are set by MOE and go towards government revenue. These fees are different for&nbsp;Singapore Citizens, Permanent Residents&nbsp;and international students.<br></p>
 <p>2.  <b>Miscellaneous fees</b>&nbsp;are set by MOE but go towards individual schools’ budgets and operating expenses. The same rate applies to all students, regardless of nationality.</p>
 
-<p>Singapore Citizens can choose to pay the miscellaneous fees from their Edusave account by completing the online <a target="blank" href="https://form.gov.sg/">Edusave Standing Order form</a> with either parent's SingPass login.</p>
+<p>Singapore Citizens can choose to pay the miscellaneous fees from their Edusave account by completing the online <a target="blank" href="https://form.gov.sg/#!/5be24a1bb3f842000fdc4e59">Edusave Standing Order form</a> with either parent's SingPass login.</p>
 	
 They may also be eligible for <a target="blank" href="https://www.moe.gov.sg/financial-matters/financial-assistance">financial assistance</a> or <a target="blank" href="https://www.moe.gov.sg/financial-matters/awards-scholarships/">merit-based awards and scholarships</a>.
 
