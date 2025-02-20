@@ -23,9 +23,10 @@ variant: markdown
 <p>Monthly fees in primary schools have 3 different components:</p>
 <p>1.  <b>School fees</b>&nbsp;are set by MOE and go towards government revenue. These fees are different for&nbsp;Singapore Citizens, Permanent Residents&nbsp;and international students.<br></p>
 <p>2.  <b>Miscellaneous fees</b>&nbsp;are set by MOE but go towards individual schools’ budgets and operating expenses. The same rate applies to all students, regardless of nationality.</p>
-<p>3.  <b>Second-tier miscellaneous fees</b>&nbsp;are set by the schools within a range determined by MOE, which is up to 100% of the standard miscellaneous fees. The fees go towards individual schools’ budgets and operating expenses. The same rate applies to all students, regardless of nationality.
-<br></p>
-<p>Singapore Citizens in primary schools may be eligible for financial assistance under the&nbsp;MOE Financial Assistance Scheme. Some students may also be eligible for&nbsp;merit-based awards and scholarships.</p>
+
+<p>Singapore Citizens can choose to pay the miscellaneous fees from their Edusave account by completing the online <a target="blank" href="https://form.gov.sg/">Edusave Standing Order form</a> with either parent's SingPass login.</p>
+	
+They may also be eligible for <a target="blank" href="https://www.moe.gov.sg/financial-matters/financial-assistance">financial assistance</a> or <a target="blank" href="https://www.moe.gov.sg/financial-matters/awards-scholarships/">merit-based awards and scholarships</a>.
 
 Account holders from the following banks can sign up for the GIRO scheme with MOE through <a target="blank" href="https://www.moe.gov.sg/financial-matters/fees/egiro">eGIRO: </a>
 <br>•	Bank of China (BOC)
@@ -41,21 +42,21 @@ Account holders from the following banks can sign up for the GIRO scheme with MO
 	<br>1.	Launch your preferred payment app from those shown in the bill.
 <br>2.	Scan the SGQR.
 <br>3.	Check that you are paying to 'Ministry of Education'.
-<br>4.	Follow the on-screen instructions.
+<br>4.	Follow the on-screen instructions.<br>
 The SGQR code is unique to each bill. Always use the SGQR code on the latest bill so that your payment will be updated promptly.
 <br><br>•	AXS Mobile App<br>
-Download the AXS Mobile App from App Store or Google Play.<br>
+	Download the <a target="blank" href="https://www.axs.com.sg/axs-mstation/">AXS Mobile App</a> from App Store or Google Play.<br>
 Select 'eServices' icon.<br>
 Select ‘Education or Government’, followed by 'Ministry of Education'.<br>
 Select 'MOE - Student Bill'.<br>
 Follow the on-screen instructions.
-<br><br>AXS web<br>
+<br><br>•	AXS web<br>
 	Visit <a target="blank" href="https://e-station.axs.com.sg">https://e-station.axs.com.sg</a>.<br>
 Select 'eServices' icon.<br>
 Select ‘Education or Government’, followed by 'Ministry of Education'.<br>
 Select 'MOE - Student Bill'.<br>
 Follow the on-screen instructions.
-<br><br>AXS kiosk<br>
+<br><br>•	AXS kiosk<br>
 Locate your nearest AXS kiosk at <a target="blank" href="https://www.axs.com.sg/axs-station-locations">https://www.axs.com.sg/axs-station-locations</a>.<br>
 At the kiosk, Select 'Education' or 'Government'.<br>
 Select 'Ministry of Education'.<br>
@@ -76,10 +77,10 @@ Please indicate the student’s name, UIN and school name on the reverse side of
 	<div>
 <p>Singapore Citizens in financial need can get assistance from MOE on school fees and other expenses. This applies to government, government-aided, special education (SPED), specialised and some independent schools.</p>
 <p>If your child is in a government or government-aided school, autonomous government or government-aided school or specialised school, you can apply for the MOE Financial Assistance Scheme (FAS).</p>
-<p>Click here to find out if you are eligible for the MOE FAS scheme.</p>
+<p>Click <a target="blank" href="https://www.moe.gov.sg/financial-matters/financial-assistance">here</a> to find out if you are eligible for the MOE FAS scheme.</p>
 <p>Parents can choose to apply MOE FAS using the e-FAS form which is available on Parents Gateway (under Services tab – Financial Assistance) via Singpass login.</p>
 <p>All supporting documents are to be uploaded digitally.</p>
-<p>The 2024 e-FAS form is also accessible via the link/QR code below:</p>
+<p>The 2025 e-FAS form is also accessible via the link/QR code below:</p>
 <p><a target="blank" href="https://go.gov.sg/moe-efas"> https://go.gov.sg/moe-efas</a></p>
 <img src="/images/fas_qr_code.jpg" style="width:195px">
 <p>If you face any challenges submitting the e-FAS form, please approach or contact the school at 6365 4490 for the hardcopy application form.</p>
@@ -88,12 +89,11 @@ Please indicate the student’s name, UIN and school name on the reverse side of
 &nbsp;&nbsp;&nbsp;&nbsp;<input id="accordion3" type="checkbox">
 &nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion3"><h5 style="color:blue">Insurance</h5></label>
 	<div>
-<p>Every student in Riverside Primary School is covered under the&nbsp;NTUC Income Insurance Co-operative Limited&nbsp;Group Personal Accident Insurance Plan. This plan provides accident coverage for all school activities conducted both in and out of school for the period 1 January 2018 to 31 December 2020. The plan has been extended for another three years for the period 1 January 2021 to 31 December 2023.
+<p>Every student in Riverside Primary School is covered under the MOE GPAInsurance Plan under Income Insurance Limited (Income Insurance). This plan provides accident coverage for all school activities conducted both in and out of school for the period 1 January 2024 to 31 December 2026. 
 <br></p>
-<p>Premiums for the policy are borne fully by the Ministry of Education.<br></p>
-<p><a href="/files/Product_Fact_Sheet_Year_2023.pdf" target="blank">Group Personal Accident Insurance for Students Fact Sheet.</a>
-<br>
-<a href="/files/StudentGPA-User-Guide-for-Parent.pdf">eSubmission User Guide</a><br></p>
+<p>Link: GPA Factsheet 2025 (see attached)<br>
+Submission link for parents :<br>
+<a target="blank" href="https://studentgpa.incomegroupins.com.sg/#/">https://studentgpa.incomegroupins.com.sg/#/</a></p>
 <p>For claim-related enquires, you can&nbsp;contact or approach the General Office.</p>    
 	</div>
 	</li>
@@ -132,35 +132,10 @@ Please indicate the student’s name, UIN and school name on the reverse side of
 &nbsp;&nbsp;&nbsp;&nbsp;<input id="accordion6" type="checkbox">
 &nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion6"><h5 style="color:blue">School Smart Card</h5></label>
 	<div>
-<p>Every student is issued with a School Smart Card (SCC).&nbsp;&nbsp;For more information on the School Smart Card, please refer to the TransitLink website by clicking on this <a href="https://www.transitlink.com.sg/PSdetail.aspx?ty=art&amp;Id=49">link.</a>&nbsp;</p>
-<ul>
-<li><b>What should you do if your child lost her School Smart Card (SCC)?</b></li>
-</ul>
-<p>If the School Smart Card is lost, you can call 1800-CALL ONE (1800-2255 663) which operates daily from 8am to 6pm (excluding public holidays) and provide your NRIC number or concession card number along with your contact number. If you are calling after operating hours, just leave a voice mail.&nbsp;
-<br></p>
-<p>And for security reasons, the loss report is irreversible once it is lodged in their system and the card, even if found, would no longer be usable.
-<br></p>
-<p>Please take note that you will have to inform the school library and the National Library Board (NLB) of the lost concession card. You can call NLB's helpdesk at 6332 3255
-<br></p>
-<p>Should there be any misuse before the card is cancelled, TransitLink will not be liable. Any remaining value will be refunded to you in cash after 10 days.
-<br></p>
-<ul>
-<li><b>What should you do if your child’s School Smart Card (SCC) is faulty?</b></li>
-</ul>
-<p>If your child’s card is faulty, just approach any TransitLink Ticket Office to obtain a Temporary Card when you present the technically faulty card to the staff.
-<br></p>
-<p>The Temporary Card is encoded with $5.00 in travel value to help you make your way to the TransitLink Concession Card Replacement Office for an immediate replacement. Do take note that the Temporary Card is valid for only 10 days. You may also top-up the card for use and adult fare will be deducted. When making your new concession card, the Temporary Card must be returned.
-<br></p>
-<ul>
-<li><b>You can apply for a concession card replacement via the following channels to enjoy a lower admin fee:</b>
-</li>
-</ul>
-<p>•	<a href="https://www.transitlink.com.sg/lost-card-replacement" target="blank">TransitLink website</a>
-<br>•	TL SimplyGo app
-<br>•	TransitLink Kiosk
-<br>For immediate card replacement or for those with damaged / defective concession card, please bring the following items to any Concession Card Replacement Office:
-<br><br>•	Singapore Citizens: Original NRIC/Passport/Birth Certificate (for students without NRIC)
-Singapore Permanent Residents: Original NRIC/Re-entry Permit; and
-<br>•	a colour passport-sized photograph taken within the last three months against a white background. The photo must show your full face from chin to crown of the head with hair neatly combed or tied up.</p>
+<p>Every student is issued with a School Smart Card (SCC).
+The School Smart Card and Non-MOE School Smart Card are stored value travel cards that enable cardholders to enjoy concessionary fares and purchase Monthly Concession Passes for unlimited travel on train and bus services. For more information on the School Smart Card, please refer to this <a target="blank" href="https://www.simplygo.com.sg/concession-monthly-travel-cards/students/school-smart-cardnon-moe-school-smart-concession-card/">link</a>.<br><br>
+Replacement of Lost Concession Card<br>
+You can apply for a replacement <a target="blank" href="https://svc.simplygo.com.sg/eservice/econcession/app_form1.php?app_type=2">here</a>.
+</p>
 		</div>
 	</li></ul>
