@@ -43,27 +43,24 @@ Account holders from the following banks can sign up for the GIRO scheme with MO
 <br>3.	Check that you are paying to 'Ministry of Education'.
 <br>4.	Follow the on-screen instructions.
 The SGQR code is unique to each bill. Always use the SGQR code on the latest bill so that your payment will be updated promptly.
-<br><br>•	SingPost Mobile App
-	<br>1.	Download the <a target="blank" href="https://www.singpost.com/mobileapp"> SingPost Mobile App</a> from App Store or Google Play. Create an account using your mobile number.
-<br>2.	Select 'Pay with SAM' icon. 
-<br>3.	Log in with your 6-digit account PIN. 
-<br>4.	Select ‘Education’, followed by 'Ministry of Education'.
-<br>5.	Select 'MOE - Student Bill'. 
-<br>6.	Follow the on-screen instructions.
-<br><br>•	SingPost SAM web
-<br>1.	Download the SingPost Mobile App from App Store or Google Play.
-<br>2.	Create an account using your mobile number.
-	<br>3.	Visit <a target="blank" href="https://mysam.singpost.com">https://mysam.singpost.com </a>
-<br>4.	Log in using your mobile number and PIN number.
-<br>5.	Select "Education", followed by "Ministry of Education".
-<br>6.	Select "MOE - Student Bill".
-<br>7. Follow the on-screen instructions.
-<br><br>•	SingPost SAM kiosk
-<br>1.	Locate your nearest SAM kiosk at <a target="blank" href="https://www.singpost.com/locate-us">https://www.singpost.com/locate-us</a>.
-<br>2.	At the kiosk, Select 'Payments'.
-<br>3.	Select 'Ministry of Education' under Education.
-<br>4.	Select 'Student Bill'.
-<br>5.	Follow the on-screen instructions.
+<br><br>•	AXS Mobile App<br>
+Download the AXS Mobile App from App Store or Google Play.<br>
+Select 'eServices' icon.<br>
+Select ‘Education or Government’, followed by 'Ministry of Education'.<br>
+Select 'MOE - Student Bill'.<br>
+Follow the on-screen instructions.
+<br><br>AXS web<br>
+	Visit <a target="blank" href="https://e-station.axs.com.sg">https://e-station.axs.com.sg</a>.<br>
+Select 'eServices' icon.<br>
+Select ‘Education or Government’, followed by 'Ministry of Education'.<br>
+Select 'MOE - Student Bill'.<br>
+Follow the on-screen instructions.
+<br><br>AXS kiosk<br>
+Locate your nearest AXS kiosk at <a target="blank" href="https://www.axs.com.sg/axs-station-locations">https://www.axs.com.sg/axs-station-locations</a>.<br>
+At the kiosk, Select 'Education' or 'Government'.<br>
+Select 'Ministry of Education'.<br>
+Select 'MOE - Student Bill'.<br>
+Follow the on-screen instructions.
 <br><br>•	Cash, Cheque or Cashier’s Order
 <br>You can pay by cash, cheque or cashier’s order at the school. Cheque payment or cashier's order should be made payable to ‘Ministry of Education’.
 Please indicate the student’s name, UIN and school name on the reverse side of the cheque. If your cheque is for more than one student, please state the amount for each student.
