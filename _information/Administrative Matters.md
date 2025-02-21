@@ -30,6 +30,7 @@ They may also be eligible for <a target="blank" href="https://www.moe.gov.sg/fin
 
 Account holders from the following banks can sign up for the GIRO scheme with MOE through <a target="blank" href="https://www.moe.gov.sg/financial-matters/fees/egiro">eGIRO: </a>
 <br>•	Bank of China (BOC)
+<br>• Citibank
 <br>•	DBS Bank or POSB
 <br>•	Maybank
 <br>•	Oversea-Chinese Banking Corporation Limited (OCBC)
