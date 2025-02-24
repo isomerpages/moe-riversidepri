@@ -112,8 +112,8 @@ Address: 4012 Ang Mo Kio Ave 10, #01-09 Techplace 1, Singapore 569628<br>
 	<div>
 		<ul>
 			<li>&nbsp;
-				<p><b>Dental Clinic @ Riverside Primary School</b>  
-(Dental Therapist from HPB)&nbsp;Ms Lin Liang Chen<br>
+				<p><b>Dental Clinic @ Riverside Primary School</b> <br> 
+(Dental Therapist from HPB) Ms Ouh Wei Qi<br>
 (Contact Number) 87641760<br>
 <b>OPENING DAYS:</b><br>	
 <b>MON to THURS:</b>&nbsp;8 AM – 5:30 PM<br>
