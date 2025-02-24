@@ -112,8 +112,8 @@ Address: 4012 Ang Mo Kio Ave 10, #01-09 Techplace 1, Singapore 569628<br>
 	<div>
 		<ul>
 			<li>&nbsp;
-				<p><b>Dental Clinic @ Riverside Primary School</b>  
-(Dental Therapist from HPB)&nbsp;Ms Lin Liang Chen<br>
+				<p><b>Dental Clinic @ Riverside Primary School</b> <br> 
+(Dental Therapist from HPB) Ms Ouh Wei Qi<br>
 (Contact Number) 87641760<br>
 <b>OPENING DAYS:</b><br>	
 <b>MON to THURS:</b>&nbsp;8 AM – 5:30 PM<br>
@@ -122,7 +122,7 @@ Address: 4012 Ang Mo Kio Ave 10, #01-09 Techplace 1, Singapore 569628<br>
 <b>LUNCH TIME:</b>&nbsp;1 PM – 2 PM (Please do not disturb)<br>
 <table>
   <tbody><tr>
-			<th style="text-align:center" colspan="7">November 2024</th></tr>
+			<th style="text-align:center" colspan="7">March 2025</th></tr>
 		<tr border="1'">
     <th border="1'">Sunday</th>
     <th>Monday</th>
@@ -133,98 +133,46 @@ Address: 4012 Ang Mo Kio Ave 10, #01-09 Techplace 1, Singapore 569628<br>
     <th>Saturday</th>
   </tr>
   <tr>
-    <td>3<br></td>
-    <td>4<br>CLOSED</td>
+    <td>2<br></td>
+    <td>3<br>CLOSED</td>
     <td>5<br>CLOSED</td>
-    <td>6<br>CLOSED</td>
-    <td>7<br>CLOSED</td>
-    <td>8<br>CLOSED</td>
-    <td>9</td>
+    <td>5<br>OPEN</td>
+    <td>6<br>OPEN</td>
+    <td>7<br>OPEN</td>
+    <td>8</td>
   </tr>
 	  <tr>
-    <td>10<br></td>
-    <td>11<br>OPEN</td>
+    <td>9<br></td>
+    <td>10<br>CLOSED</td>
+    <td>11<br>CLOSED</td>
     <td>12<br>CLOSED</td>
     <td>13<br>CLOSED</td>
-    <td>14<br>OPEN</td>
-    <td>15<br>OPEN</td>
-    <td>16</td>
+    <td>14<br>CLOSED</td>
+    <td>15</td>
   </tr>
   <tr>
-    <td>17<br></td>
-    <td>18<br>CLOSED</td>
-    <td>19<br>CLOSED</td>
-    <td>20<br>CLOSED</td>
-    <td>21<br>CLOSED</td>
-    <td>22<br>CLOSED</td>
+    <td>16<br></td>
+    <td>17<br>School Holiday<br>OPEN</td>
+    <td>18<br>School Holiday<br>OPEN</td>
+    <td>19<br>School Holiday<br>OPEN</td>
+    <td>20<br>School Holiday<br>OPEN</td>
+    <td>21<br>School Holiday<br>OPEN</td>
+    <td>22</td>
+  </tr>
+  <tr>
     <td>23</td>
-  </tr>
-
-  <tr>
-    <td>24</td>
-    <td>25<br>OPEN</td>
-    <td>26<br>OPEN</td>
+    <td>24<br>CLOSED</td>
+    <td>25<br>CLOSED</td>
+    <td>26<br>CLOSED</td>
     <td>27<br>CLOSED</td>
-    <td>29<br>CLOSED</td>
-    <td>29<br>CLOSED</td>
+    <td>28<br>CLOSED</td>
+    <td>29</td>
+  </tr>
+  <tr>
     <td>30</td>
+    <td>31<br>Public Holiday<br>CLOSED</td>
+
   </tr>
-	<tr>
-			<th style="text-align:center" colspan="7">December 2024</th></tr>
-		<tr border="1'">
-    <th border="1'">Sunday</th>
-    <th>Monday</th>
-    <th>Tuesday</th>
-    <th>Wednesday</th>
-    <th>Thursday</th>
-    <th>Friday</th>
-    <th>Saturday</th>
-  </tr>
-  <tr>
-    <td>1<br></td>
-    <td>2<br>CLOSED</td>
-    <td>3<br>CLOSED</td>
-    <td>4<br>CLOSED</td>
-    <td>5<br>CLOSED</td>
-    <td>6<br>CLOSED</td>	
-		<td>7</td>
-  </tr>
-  <tr>
-    <td>8<br></td>
-    <td>9<br>OPEN</td>
-    <td>10<br>OPEN</td>
-    <td>11<br>OPEN</td>
-    <td>12<br>OPEN(AM)</td>
-    <td>13<br>OPEN</td>
-		<td>14</td>
-  </tr>
-  <tr>
-   <td>15<br></td>
-		<td>16<br>CLOSED</td>
-		<td>17<br>CLOSED</td>
-		<td>18<br>CLOSED</td>
-		<td>19<br>CLOSED</td>
-		<td>20<br>CLOSED</td>
-		<td>21<br></td>
-  </tr>
-	  <tr>
-    <td>22<br></td>
-		<td>23<br>CLOSED</td>
-		<td>24<br>OPEN(AM)</td>
-		<td>25<br>HOLIDAY</td>
-		<td>26<br>CLOSED</td>
-		<td>27<br>CLOSED</td>
-		<td>28<br></td>
-  </tr>
-	  <tr>
-    <td>29<br></td>
-		<td>30<br>CLOSED</td>
-		<td>31<br>CLOSED</td>
-		<td><br></td>
-		<td><br></td>
-		<td><br></td>
-		<td><br></td>
-  </tr>	
 </tbody></table>
 <b>Buddy Clinic </b>(when clinic is closed)<br>
 
