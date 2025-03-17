@@ -1,7 +1,7 @@
 ---
-title: School Canteen Advertisement
-permalink: /school-canteen-advertisement/
-date: 2025-02-11
+title: Canteen Advertisement
+permalink: /canteen-advertisement/
+date: 2025-03-17
 layout: post
 description: ""
 image: ""
@@ -9,7 +9,7 @@ variant: markdown
 ---
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Chinese Noodle Stall | 28 February 2025 | Noodle stall|
+| Chinese Noodle Stall | 31 March 2025  | Noodle stall|
 
 **Application Procedure**
 
