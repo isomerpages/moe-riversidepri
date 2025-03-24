@@ -29,7 +29,7 @@ As part of promoting healthy living and the habit of drinking plain water among 
  
   <tr>
     <td>2</td>
-    <td>Chicken Rice Stall</td>
+    <td>Chinese Rice Stall</td>
     <td>Mdm Cheong Pui Feng</td>
 		<td>Please Click <a href="/files/STALL_2_Chinese_Rice_Stall_Menu.pdf" target="blank"> Here</a></td>
   </tr>
