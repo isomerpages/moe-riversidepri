@@ -55,7 +55,7 @@ As part of promoting healthy living and the habit of drinking plain water among 
     <td>6</td>
     <td>Malay&nbsp;Rice</td>
     <td>Mdm Srihati</td>
-		<td>Please Click <a href="/files/2025_STALL_6_Malay_Rice_Menu.pdf" target="blank"> Here</a></td>
+		<td>Please Click <a href="/files/STALL_6_MENU_Upated_7_4_25.pdf" target="blank"> Here</a></td>
   </tr>	
 </tbody></table>
 
