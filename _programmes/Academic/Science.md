@@ -26,7 +26,7 @@ The outer ring represents the domains that make up the strong science fundamenta
   
 <img src="/images/Science2.png">
 
-Key Programmes
+### **Key Programmes**
 
 <ul class="jekyllcodex_accordion">
 <li>
