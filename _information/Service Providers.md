@@ -122,55 +122,44 @@ Address: 4012 Ang Mo Kio Ave 10, #01-09 Techplace 1, Singapore 569628<br>
 <b>LUNCH TIME:</b>&nbsp;1 PM – 2 PM (Please do not disturb)<br>
 <table>
   <tbody><tr>
-			<th style="text-align:center" colspan="7">March 2025</th></tr>
+			<th style="text-align:center" colspan="7">June 2025</th></tr>
 		<tr border="1'">
-    <th border="1'">Sunday</th>
-    <th>Monday</th>
+    <th border="1'">Monday</th>
     <th>Tuesday</th>
     <th>Wednesday</th>
     <th>Thursday</th>
     <th>Friday</th>
-    <th>Saturday</th>
   </tr>
   <tr>
-    <td>2<br></td>
-    <td>3<br>CLOSED</td>
-    <td>5<br>CLOSED</td>
-    <td>5<br>OPEN</td>
-    <td>6<br>OPEN</td>
-    <td>7<br>OPEN</td>
-    <td>8</td>
+    <td>2<br>Open<br>2 - 5pm</td>
+    <td>3<br>Open<br>8 - 5.30pm</td>
+    <td>4<br>Open<br>8 - 5pm</td>
+    <td>5<br>Open<br>2 - 5pm</td>
+    <td>6<br>Open<br>8 - 10.30pm</td>
   </tr>
 	  <tr>
-    <td>9<br></td>
-    <td>10<br>CLOSED</td>
-    <td>11<br>CLOSED</td>
-    <td>12<br>CLOSED</td>
-    <td>13<br>CLOSED</td>
-    <td>14<br>CLOSED</td>
-    <td>15</td>
+    <td>9<br>Closed</td>
+    <td>10<br>Open<br>8 - 5.30pm</td>
+    <td>11<br>Open<br>2 - 5pm</td>
+    <td>12<br>Closed</td>
+    <td>13<br>Open<br>2 - 5pm</td>
   </tr>
   <tr>
-    <td>16<br></td>
-    <td>17<br>School Holiday<br>OPEN</td>
-    <td>18<br>School Holiday<br>OPEN</td>
-    <td>19<br>School Holiday<br>OPEN</td>
-    <td>20<br>School Holiday<br>OPEN</td>
-    <td>21<br>School Holiday<br>OPEN</td>
-    <td>22</td>
+    <td>16<br>Closed</td>
+    <td>17<br>Open<br>8 - 5.30pm</td>
+    <td>18<br>Open<br>8 - 5pm</td>
+    <td>29<br>Open<br>8 - 5.30pm</td>
+    <td>20<br>Closed</td>
   </tr>
   <tr>
-    <td>23</td>
-    <td>24<br>CLOSED</td>
-    <td>25<br>CLOSED</td>
-    <td>26<br>CLOSED</td>
-    <td>27<br>CLOSED</td>
-    <td>28<br>CLOSED</td>
-    <td>29</td>
+    <td>23<br>Closed</td>
+    <td>24<br>Open<br>8 - 5.30pm</td>
+    <td>25<br>Open<br>8 - 5pm</td>
+    <td>26<br>Open<br>8 - 5.30pm</td>
+    <td>27<br>Open<br>8 - 5pm</td>
   </tr>
   <tr>
-    <td>30</td>
-    <td>31<br>Public Holiday<br>CLOSED</td>
+    <td>30<br>Closed</td>
 
   </tr>
 </tbody></table>
