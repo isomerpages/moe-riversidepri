@@ -3,6 +3,7 @@ title: English Language
 permalink: /programmes/academic/english/
 description: ""
 third_nav_title: Academic
+variant: markdown
 ---
 ### **Mission**
 
@@ -10,8 +11,8 @@ To develop enthusiastic readers and effective communicators
 
 ### **4 Key Areas of Language Learning**
 
-*   **Listening** and **Reading** are receptive skills which are required for the making and generation of meaning from ideas or information.
-*   **Speaking** and **Writing** are productive skills that enable the creation and communication of meaning.
+*   **Listening**&nbsp;and&nbsp;**Reading**&nbsp;are receptive skills which are required for the making and generation of meaning from ideas or information.
+*   **Speaking**&nbsp;and&nbsp;**Writing**&nbsp;are productive skills that enable the creation and communication of meaning.
 
 <ul class="jekyllcodex_accordion">
 <li>
@@ -20,7 +21,7 @@ To develop enthusiastic readers and effective communicators
 <div>
 <p>A STELLAR Way to Learn English!</p>
 <p>English is taught in our schools through the STELLAR (STrategies for English Language Learning and Reading) programme. With the aim to develop 21st century competencies to enable our students to communicate effectively and confidently in the globalised world.</p>
-<p>For students who are weak in the language, the school supports them through the different Learning Support Programmes, such as the Reading Remediation Programme (RRP) and School-based Dyslexia Remediation Programme (SDR), which provide early interventions to help these students access learning beyond  the regular classroom.</p>
+<p>For students who are weak in the language, the school supports them through the different Learning Support Programmes, such as the Reading Remediation Programme (RRP) and School-based Dyslexia Remediation Programme (SDR), which provide early interventions to help these students access learning beyond&nbsp; the regular classroom.</p>
 <p>STELLAR aims to strengthen students’ language and reading skills as well as promote a positive attitude towards learning in the foundational years. The programme uses research-based teaching strategies and age-appropriate materials to engage pupils in the learning of English.</p>
 <p><img src="/images/image001.jpg" style="width:300px"></p>
 <p><img src="/images/image003.jpg" style="width:300px"></p>
@@ -29,13 +30,12 @@ To develop enthusiastic readers and effective communicators
 <em>Language Learning through Dramatisation, Games and Learning Journeys</em></p>
 <h3 id="lower-primary-strategies">Lower Primary Strategies</h3>
 <ul>
-<li><strong>Shared Book Approach (SBA):</strong> First, the teacher introduces and shares a Big Book with the pupils. In the second part, the teacher teaches language items, structures and skills explicitly, including concepts of print, phonics and grammar. There is a range of follow-up activities such as drama and art and craft for teachers to select according to their pupils’ learning needs.</li>
-<li><strong>Modified Language Experience Approach (MLEA):</strong> In MLEA, there is a shared experience that is linked to the Big Book that has been read during Shared Reading. The shared experience provides the context and content for pupils to think and talk about, using the target language structures and vocabulary they have been exposed to in SBA. With the help of the teacher who transcribes the children&#39;s input, the pupils come up with a piece of class writing. This becomes the basis for group writing, when the children work in small groups, before they go on to individual writing. The whole process is scaffolded for success and pupils also learn about cooperative learning as they work together in mixed-ability groups.</li>
-<li><strong>Learning Centres (LC):</strong> The language skills learnt in both SBA and MLEA are reinforced in the Learning Centres (LC). In LC, activities are planned and differentiated for the pupils in three main learning centres – the Reading Centre, the Word Study Centre and the Listening Centre. Pupils have the opportunity to re-learn, revisit or extend what they have learnt at their own pace and in differentiated ability groups.</li>
+<li><strong>Shared Book Approach (SBA):</strong>&nbsp;First, the teacher introduces and shares a Big Book with the pupils. In the second part, the teacher teaches language items, structures and skills explicitly, including concepts of print, phonics and grammar. There is a range of follow-up activities such as drama and art and craft for teachers to select according to their pupils’ learning needs.</li>
+<li><strong>Modified Language Experience Approach (MLEA):</strong>&nbsp;In MLEA, there is a shared experience that is linked to the Big Book that has been read during Shared Reading. The shared experience provides the context and content for pupils to think and talk about, using the target language structures and vocabulary they have been exposed to in SBA. With the help of the teacher who transcribes the children's input, the pupils come up with a piece of class writing. This becomes the basis for group writing, when the children work in small groups, before they go on to individual writing. The whole process is scaffolded for success and pupils also learn about cooperative learning as they work together in mixed-ability groups.</li>
+<li><strong>Learning Centres (LC):</strong>&nbsp;The language skills learnt in both SBA and MLEA are reinforced in the Learning Centres (LC). In LC, activities are planned and differentiated for the pupils in three main learning centres – the Reading Centre, the Word Study Centre and the Listening Centre. Pupils have the opportunity to re-learn, revisit or extend what they have learnt at their own pace and in differentiated ability groups.</li>
 </ul>
 <h3 id="upper-primary-strategies">Upper Primary Strategies</h3>
 <p><img src="/images/STELLARUpper2.png" style="width 1000px"></p>
-<p>More information on STELLAR can be viewed at <a href="http://www.stellarliteracy.sg/">http://www.stellarliteracy.sg/</a>.</p>
 <p><img src="/images/image009.jpg" style="width:300px"></p>
 <p><img src="/images/image011.jpg" style="width:300px"></p>
 <p><img src="/images/image013.jpg" style="width:300px"></p>
@@ -59,7 +59,7 @@ To develop enthusiastic readers and effective communicators
 <label for="accordion3"><h5 style="color:blue">“Be Enthusiastic About Reading (BEAR)” Scheme</h5></label>
 <div>
 <p>Twice a week, Reading Champions and their Reading Buddies get together in the morning for reading. This Buddy Reading Programme harnesses peer support in improving reading proficiency among pupils.</p>
-<p><img src="/images/image021.jpg" style="width:300px">   <img src="/images/image023.jpg" style="width:300px"></p>
+<p><img src="/images/image021.jpg" style="width:300px">&nbsp; &nbsp;<img src="/images/image023.jpg" style="width:300px"></p>
 <p>The BEAR Scheme aims to inculcate good reading habits in pupils in the foundational years. Pupils are each given a Reading Log to record their book loans.</p>
 
 
@@ -72,5 +72,5 @@ To develop enthusiastic readers and effective communicators
 <p><img src="/images/image027.jpg" style="width:300px"></p>
 <p><img src="/images/image029.jpg" style="width:300px"></p>
 <p><img src="/images/image031.jpg" style="width:300px"></p>
-<p> <em>R.Cove Bustle</em></p>
-</div>
+<p>&nbsp;<em>R.Cove Bustle</em></p>
+</div></li></ul>
