@@ -31,7 +31,8 @@ variant: markdown
 
 <p></p><h5>P1 Responsibility</h5>
 <strong>Mrs Rathiga D/O Atamanadan</strong><br>Email: rathiga_atamanadan@moe.edu.sg<br>
-<strong>Mdm Ardriza Isnin</strong><br>Email: ardriza_isnin@moe.edu.sg<p></p>
+<strong>Mdm Ardriza Isnin</strong><br>Email: ardriza_isnin@moe.edu.sg<br>
+<strong>Mdm Chuah Yen Ming</strong><br>Email: chuah_yen_ming@moe.edu.sg<p></p>
 
 <p></p><h5>P1 Kindness</h5>
 <strong>Ms Ameerah Sharainee Zain Sha</strong><br>Email: ameerah_sharainee_zain_sha@moe.edu.sg<br>
@@ -43,7 +44,7 @@ variant: markdown
 
 <p></p><h5>P1 Enthusiasm</h5>
 <strong>Mdm Jacqueline Kho</strong><br>Email: kho_ee_ling_jacqueline@moe.edu.sg<br>
-<strong>Ms Amaluna Mastura Binte Azman</strong><br>Email: amaluna_mastura_azman@moe.edu.sg
+<strong>Ms Nur'Khairiyah Binte Mohd Khairi</strong><br>Email: nur_khairiyah@moe.edu.sg
 <p></p>
 </div>
 </li>
@@ -66,10 +67,9 @@ variant: markdown
 <strong>Mdm Hasnah Misnor</strong><br>Email: hasnah_misnor@moe.edu.sg<p></p>
 
 <p></p><h5>P2 Responsibility</h5>
-<strong>Mrs Sheryl Goh</strong><br>Email: sheryl_tan@moe.edu.sg<br>
 <strong>Mdm Siti Suhaida</strong><br>Email: siti_suhaida_surir@moe.edu.sg<p></p>
 
-<p>&lt;</p><h5>P2 Kindness</h5>
+<p></p><h5>P2 Kindness</h5>
 <strong>Mdm Lalithaa Kanesan</strong><br>Email: lalithaa_kanesan@moe.edu.sg<br>
 <strong>Mr Chong Keng Kok</strong><br>Email: chong_keng_kok@moe.edu.sg<p></p>
 
@@ -93,7 +93,7 @@ variant: markdown
 <strong>Mr Peter Chua</strong><br>Email:chua_kok_leong_peter@moe.edu.sg
 
 <p></p><h5>P3 Perseverance</h5>
-<strong>Mdm Hazel Tay</strong><br>Email: tay_pei_pei@moe.edu.sg<br>
+<strong>Mdm Huang Wenjun</strong><br>Email: huang_wenjun@moe.edu.sg<br>
 <strong>Mr Chong Boon Hing</strong><br>email: chong_boon_hing@moe.edu.sg<p></p>
 
 <p></p><h5>P3 Adaptability</h5>
@@ -120,7 +120,8 @@ variant: markdown
 <div>
 <h5>P4 Strength</h5>
 <strong>Mr Sun Chin Keong</strong><br>Email: sun_chin_keong@moe.edu.sg<br>
-<strong>Gowri d/o V Vairavan</strong><br>Email: gowri_v_vairavan@moe.edu.sg<p></p>
+<strong>Mdm Gowri d/o V Vairavan</strong><br>Email: gowri_v_vairavan@moe.edu.sg<br>
+<strong>Mrs Jasmine Loh</strong><br>Email: poi_mei_ling_jasmine@moe.edu.sg<p></p>
 
 <p></p><h5>P4 Perseverance</h5>
 <strong>Ms Clarice Teo</strong><br>Email: clarice_teo_tze_yee@moe.edu.sg<br>
@@ -167,8 +168,8 @@ variant: markdown
 <strong>Ms Darrell Koh</strong><br>Email: lim_yong_en_darrell@moe.edu.sg<p></p>
 
 <p></p><h5>P5 Kindness</h5>
-<strong>Mdm Lois Lim</strong><br>Email: lim_yun_wen_lois@moe.edu.sg<br>
-<strong>Mr Fauzy</strong><br>Email: mohamed_fauzy_juffrey@moe.edu.sg<p></p>
+<strong>Mr Fauzy</strong><br>Email: mohamed_fauzy_juffrey@moe.edu.sg<br>
+<strong>Mdm Zawiyah</strong><br>Email: zawiyah_kosman@moe.edu.sg<p></p>
 
 <p></p><h5>P5 Sincerity</h5>
 <strong>Ms Jasmine Chia</strong><br>Email: chia_li_shan_jasmine@moe.edu.sg<br>
@@ -232,6 +233,7 @@ variant: markdown
 <p><strong>Mdm Hasnah Misnor</strong> <br>Email: hasnah_misnor@moe.edu.sg</p>
 <p><strong>Mdm Sharifah Munirah</strong> <br>Email: sharifah_munirah_syed_ahmad@moe.edu.sg</p>
 <p><strong>Mdm Liyana Nadiah</strong> <br>Email: liyana_nadiah_bt_jamil@moe.edu.sg</p>
+<p><strong>Mdm Zawiyah</strong> <br>Email: zawiyah_kosman@moe.edu.sg</p>
 <p><strong>Mrs Gayathiri Anasooya</strong> <br>Email: gayathiri_anasooya_mohanaruben@moe.edu.sg</p>
 <p><strong>Mdm Gowri d/o V Vairavan</strong><br>Email: gowri_v_vairavan@moe.edu.sg</p>
 <p><strong>Mdm Nagaraj Hema</strong> <br>Email: nagaraj_hema@moe.edu.sg</p>
