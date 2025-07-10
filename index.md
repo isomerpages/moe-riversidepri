@@ -16,13 +16,13 @@ sections:
           description: Join us!
           url: /partnerships/parent-support-group/
   - infobar:
-      title: 2024 Virtual Open House
+      title: 2025 Virtual Open House
   - infobar:
-      description: <p>2024 Open House Video by P1 Students<br><iframe
+      description: <p>2025 Open House Video by P1 Students<br><iframe
         allowfullscreen="" allow="accelerometer; autoplay; clipboard-write;
         encrypted-media; gyroscope; picture-in-picture; web-share"
         frameborder="0" title="YouTube video player"
-        src="https://www.youtube.com/embed/yQ5-nLn8ckU?si=hK2LlPRX6FEWKqnF"
+        src="https://www.youtube.com/embed/xt3VerZfZAE?si=WiXFAfXMfXMzHJLx"
         height="315" width="560"></iframe></p>
   - resources:
       title: ANNOUNCEMENTS
