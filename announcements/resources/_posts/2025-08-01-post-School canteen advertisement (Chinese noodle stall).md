@@ -1,7 +1,7 @@
 ---
-title: Canteen Advertisement
-permalink: /canteen-advertisement/
-date: 2025-03-17
+title: School canteen advertisement (Chinese noodle stall)
+permalink: /school-canteen-advertisement-chinese-noodle-stall/
+date: 2025-08-01
 layout: post
 description: ""
 image: ""
@@ -9,7 +9,7 @@ variant: markdown
 ---
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Chinese Noodle Stall | 31 March 2025  | Noodle stall|
+| Chinese Noodle Stall | 22 August 2025 | Noodle stall|
 
 **Application Procedure**
 
@@ -36,8 +36,8 @@ variant: markdown
 **Interested applicants must meet the following criteria:**
 * Singapore citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant.
 * Able to provide good service and quality food with prices determined in consultation with the school.
-* Able to provide cooked food that meets the health / nutritional standards set by the Health Promotion Board (HPB) under the "Healthy Meals in Schools Programme (HMSP)" guidelines (see link]  
-Healthy Meals in Schools Programme (hpb.gov.sg).
+* Able to provide cooked food that meets the health / nutritional standards set by the Health Promotion Board (HPB) under the "Healthy Meals in Schools Programme (HMSP)" guidelines  
+[Healthy Meals in Schools Programme (hpb.gov.sg)]( https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme)
 * Able to maintain high standard of food safety and personal hygiene.
 * Healthy and fit to operate the stall.
 
