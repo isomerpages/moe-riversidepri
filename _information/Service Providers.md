@@ -118,10 +118,10 @@ Address: 4012 Ang Mo Kio Ave 10, #01-09 Techplace 1, Singapore 569628<br>
 <b>MON to THURS:</b>&nbsp;8 AM – 5:30 PM<br>
 <b>FRI:</b>&nbsp;8 AM – 5 PM <br>
 					
-<b>LUNCH TIME:</b>&nbsp;1 PM – 2 PM (Please do not disturb)<br>
+<b>LUNCH TIME:</b> 1 PM – 2 PM (Please do not disturb)<br>
 <table>
   <tbody><tr>
-			<th style="text-align:center" colspan="7">June 2025</th></tr>
+			<th style="text-align:center" colspan="7">August 2025</th></tr>
 		<tr border="1'">
     <th border="1'">Monday</th>
     <th>Tuesday</th>
