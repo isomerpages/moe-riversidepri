@@ -148,7 +148,7 @@ Address: 4012 Ang Mo Kio Ave 10, #01-09 Techplace 1, Singapore 569628<br>
     <td>19<br>Closed<br></td>
     <td>20<br>Open<br>8 - 5pm</td>
     <td>21<br>Open<br>8 - 5.30pm</td>
-    <td>22<br>Open<br>8 - 10am</td>
+    <td>22<br>Open<br>8 - 5pm</td>
   </tr>
   <tr>
     <td>25<br>Closed<br></td>
