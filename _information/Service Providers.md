@@ -111,7 +111,6 @@ Address: 4012 Ang Mo Kio Ave 10, #01-09 Techplace 1, Singapore 569628<br>
 				<label for="accordion5"><h5 style="color:RoyalBlue">Dental Clinic</h5></label>
 	<div>
 		<ul>
-			<li>&nbsp;
 				<p><b>Dental Clinic @ Riverside Primary School</b> <br> 
 (Dental Therapist from HPB) Ms Ouh Wei Qi<br>
 (Contact Number) 87641760<br>
@@ -205,6 +204,6 @@ Please <b>CALL</b> to ensure that a dental staff is on duty, before going to the
 </tbody></table>
 
 <p>For emergencies such as dental trauma, facial/gum swelling or toothache, please call the Health Promotion Board’s School Dental Centre at 6435 3782 for assistance.</p>
-			</li>
+			
 			</ul>
 		</div></li></ul>
