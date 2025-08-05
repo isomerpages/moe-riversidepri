@@ -131,45 +131,40 @@ Address: 4012 Ang Mo Kio Ave 10, #01-09 Techplace 1, Singapore 569628<br>
     <th>Friday</th>
   </tr>
   <tr>
-    <td>2<br>Open<br>2 - 5pm</td>
-    <td>3<br>Open<br>8 - 5.30pm</td>
-    <td>4<br>Open<br>8 - 5pm</td>
-    <td>5<br>Open<br>2 - 5pm</td>
-    <td>6<br>Open<br>8 - 10.30pm</td>
-  </tr>
-	  <tr>
-    <td>9<br>Closed</td>
-    <td>10<br>Open<br>8 - 5.30pm</td>
-    <td>11<br>Open<br>2 - 5pm</td>
-    <td>12<br>Closed</td>
-    <td>13<br>Open<br>2 - 5pm</td>
+    <td>4<br>Closed<br></td>
+    <td>5<br>Closed<br></td>
+    <td>6<br>Open<br>8 - 5pm</td>
+    <td>7<br>Open<br>8 - 5.30pm</td>
+    <td>8<br>Open<br>8 - 10am</td>
   </tr>
   <tr>
-    <td>16<br>Closed</td>
-    <td>17<br>Open<br>8 - 5.30pm</td>
-    <td>18<br>Open<br>8 - 5pm</td>
-    <td>29<br>Open<br>8 - 5.30pm</td>
-    <td>20<br>Closed</td>
+    <td>11<br>Closed<br></td>
+    <td>12<br>Closed<br></td>
+    <td>13<br>Closed<br></td>
+    <td>14<br>Closed<br></td>
+    <td>15<br>Closed<br></td>
   </tr>
   <tr>
-    <td>23<br>Closed</td>
-    <td>24<br>Open<br>8 - 5.30pm</td>
-    <td>25<br>Open<br>8 - 5pm</td>
-    <td>26<br>Open<br>8 - 5.30pm</td>
-    <td>27<br>Open<br>8 - 5pm</td>
+    <td>18<br>Closed<br></td>
+    <td>19<br>Closed<br></td>
+    <td>20<br>Open<br>8 - 5pm</td>
+    <td>21<br>Open<br>8 - 5.30pm</td>
+    <td>22<br>Open<br>8 - 10am</td>
   </tr>
   <tr>
-    <td>30<br>Closed</td>
+    <td>25<br>Closed<br></td>
+    <td>26<br>Closed<br></td>
+    <td>27<br>Closed<br></td>
+    <td>28<br>Closed<br></td>
+    <td>29<br>Closed<br></td>
+  </tr>
 
-  </tr>
 </tbody></table>
 <b>Buddy Clinic </b>(when clinic is closed)<br>
-
-In the event that the dental clinic is closed, students who require <b>EMERGENCY</b> dental treatment can call any of the buddy clinics (see table) for an appointment.
+If you require any URGENT dental treatment and the clinic is closed, please call one of the following BUDDY clinics for assistance. 
+<br>For general enquiry, please email: contact_yps@hpb.gov.sg
 
 Please <b>CALL</b> to ensure that a dental staff is on duty, before going to the clinic:</p>
-				  
-
 <table>
   <tbody><tr>
     <th>Dental Clinic</th>
@@ -177,9 +172,14 @@ Please <b>CALL</b> to ensure that a dental staff is on duty, before going to the
     <th>Address</th>
   </tr>
   <tr>
-    <td>Admiralty Pri Sch</td>
-    <td>8518 4719</td>
-    <td>11 Woodlands Circle <br>Singapore 738907</td>
+    <td>Sembawang Pri Sch</td>
+    <td>8764 1854</td>
+    <td>10 Sembawang Dr <br>Singapore 757715</td>
+  </tr>
+  <tr>
+    <td>CHIJ St. Nicholas Girls’ School</td>
+    <td>8764 1924</td>
+    <td>501 Ang Mo Kio Street 13 <br>Singapore 569405</td>
   </tr>
   <tr>
     <td>Evergreen Pri Sch</td>	
@@ -198,9 +198,9 @@ Please <b>CALL</b> to ensure that a dental staff is on duty, before going to the
    <td>10 Woodlands Drive 50<br> Singapore 738853</td>
   </tr>
   <tr>
-    <td>MDC 12</td>
-    <td>9237 9214</td>
-    <td>Please call to ask <br>where is it located</td>
+    <td>Admiralty Primary School</td>
+    <td>8518 4719</td>
+   <td>11 Woodlands Circle <br>Singapore 738907</td>
   </tr>
 </tbody></table>
 
