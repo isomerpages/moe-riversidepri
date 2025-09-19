@@ -144,11 +144,11 @@ Address: 4012 Ang Mo Kio Ave 10, #01-09 Techplace 1, Singapore 569628<br>
     <td>12<br>Closed<br></td>
   </tr>
   <tr>
-    <td>15<br>Closed<br></td>
-    <td>16<br>Closed<br></td>
+    <td>15<br>Open<br>8 - 5pm</td>
+    <td>16<br>Open<br>8 - 5.30pm</td>
     <td>17<br>Open<br>8 - 5pm</td>
-    <td>18<br>Open<br>8 - 5.30pm</td>
-    <td>19<br>Open<br>8 - 10am</td>
+    <td>18<br>Open<br>8 - 1pm</td>
+    <td>19<br>Open<br>8 - 9.30am</td>
   </tr>
   <tr>
     <td>22<br>Closed<br></td>
@@ -158,8 +158,8 @@ Address: 4012 Ang Mo Kio Ave 10, #01-09 Techplace 1, Singapore 569628<br>
     <td>26<br>Closed<br></td>
   </tr>
   <tr>
-    <td>29<br>Closed<br></td>
-    <td>30<br>Closed<br></td>
+    <td>29<br>Open<br>8 - 5pm</td>
+    <td>30<br>Open<br>8 - 5.30pm</td>
   </tr>
 </tbody></table>
 <b>Buddy Clinic </b>(when clinic is closed)<br>
