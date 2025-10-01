@@ -95,8 +95,8 @@ Address: 4012 Ang Mo Kio Ave 10, #01-09 Techplace 1, Singapore 569628<br>
 		<ul>
 			<li>
 <b>Commit Learning SchoolHouse</b>  
-<br><a href="/files/Commit_Learning_SchoolHouse_CLS_Student_Care_Centre_SCC_Introduction_Letter.pdf" target="blank">CLS Introduction Letter</a>
-<br><a href="/files/Commit_Learning_SchoolHouse_CLS_Student_Care_Centre_SCC_2026_FAQs.pdf" target="blank">FAQ</a>
+<br><a href="/files/commit_learning_schoolhouse_cls_student_care_centre_scc_introduction_letter.pdf" target="blank">CLS Introduction Letter</a>
+<br><a href="/files/commit_learning_schoolhouse_cls_student_care_centre_scc_2026_faqs.pdf" target="blank">FAQ</a>
 <br>  Contact Number: 8925 1268<br> 
 
 <p>Email:&nbsp;<a href="mailto:clsriversidepri@gmail.com">clsriversidepri@gmail.com</a></p>
