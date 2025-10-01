@@ -210,6 +210,7 @@ Please <b>CALL</b> to ensure that a dental staff is on duty, before going to the
 </tbody></table>
 
 <p>For emergencies such as dental trauma, facial/gum swelling or toothache, please call the Health Promotion Board’s School Dental Centre at 6435 3782 for assistance.</p>
-			
+
 			</ul>
-		</div></li></ul>
+		</div>
+	</li></ul>
