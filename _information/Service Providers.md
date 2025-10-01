@@ -70,7 +70,7 @@ Contact Number: 9048 2301 (Mobile)<br>
 	</tr>		
 </tbody></table>		
 </p>
-<p><a href="/files/2026 Request for school bus service form.pdf" target="blank">Request for school bus service form</a></p></li>
+<p><a href="/files/2026_Request_for_school_bus_service_form.pdf" target="blank">Request for school bus service form</a></p></li>
 			</ul>
 		</div>
 	
@@ -95,8 +95,8 @@ Address: 4012 Ang Mo Kio Ave 10, #01-09 Techplace 1, Singapore 569628<br>
 		<ul>
 			<li>
 <b>Commit Learning SchoolHouse</b>  
-<br><a href="/files/Commit Learning SchoolHouse (CLS) Student Care Centre (SCC) -  Introduction Letter.pdf" target="blank">CLS Introduction Letter</a>
-<br><a href="/files/Commit Learning SchoolHouse (CLS) Student Care Centre (SCC) - 2026 FAQs.pdf" target="blank">FAQ</a>
+<br><a href="/files/Commit_Learning_SchoolHouse_CLS_Student_Care_Centre_SCC_Introduction_Letter.pdf" target="blank">CLS Introduction Letter</a>
+<br><a href="/files/Commit_Learning_SchoolHouse_CLS_Student_Care_Centre_SCC_2026_FAQs.pdf" target="blank">FAQ</a>
 <br>  Contact Number: 8925 1268<br> 
 
 <p>Email:&nbsp;<a href="mailto:clsriversidepri@gmail.com">clsriversidepri@gmail.com</a></p>
