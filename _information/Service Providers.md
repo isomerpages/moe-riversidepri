@@ -56,21 +56,21 @@ Contact Number: 9048 2301 (Mobile)<br>
 	</tr>
 	<tr>
 		<td style="border:1px solid black">Up to 2km</td>
-		<td>$180</td>
-		<td>$180</td>
-		<td>$130</td>
-		<td>$130</td>
+		<td>$200</td>
+		<td>$200</td>
+		<td>$150</td>
+		<td>$150</td>
 	</tr>
 	<tr>
 		<td style="border:1px solid black">&gt;2 – 4km</td>
-		<td>$200</td>
-		<td>$200</td>
-		<td>$150</td>
-		<td>$150</td>
+		<td>$240</td>
+		<td>$240</td>
+		<td>$170</td>
+		<td>$170</td>
 	</tr>		
 </tbody></table>		
 </p>
-<p><a href="/files/Request_for_School_Bus_Services_for_2025_cohort.pdf" target="blank">Request for school bus service form</a></p></li>
+<p><a href="/files/2026_Request_for_school_bus_service_form.pdf" target="blank">Request for school bus service form</a></p></li>
 			</ul>
 		</div>
 	
@@ -95,8 +95,8 @@ Address: 4012 Ang Mo Kio Ave 10, #01-09 Techplace 1, Singapore 569628<br>
 		<ul>
 			<li>
 <b>Commit Learning SchoolHouse</b>  
-<br><a href="/files/commit_learning_schoolhouse_introduction_letter.pdf" target="blank">CLS Introduction Letter</a>
-<br><a href="/files/commit_learning_schoolhouse_2025_faqs.pdf" target="blank">FAQ</a>
+<br><a href="/files/commit_learning_schoolhouse_cls_student_care_centre_scc_introduction_letter.pdf" target="blank">CLS Introduction Letter</a>
+<br><a href="/files/commit_learning_schoolhouse_cls_student_care_centre_scc_2026_faqs.pdf" target="blank">FAQ</a>
 <br>  Contact Number: 8925 1268<br> 
 
 <p>Email:&nbsp;<a href="mailto:clsriversidepri@gmail.com">clsriversidepri@gmail.com</a></p>
