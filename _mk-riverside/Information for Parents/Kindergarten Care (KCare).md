@@ -5,22 +5,16 @@ variant: tiptap
 description: ""
 third_nav_title: Information for Parents
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/KCare1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/kcare_slide1.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/KCare2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/kcare_slide2.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/KCare3.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/KCare4.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/KCare5.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/KCare6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/kcare_slide3.jpg">
 </div>
 <p></p>
