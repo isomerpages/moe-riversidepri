@@ -14,3 +14,6 @@ The registration period runs from <b>9:00 AM, Friday, 7 February 2025</b>, to <b
 You will receive the outcome of your registration via email by <b>Tuesday, 15 April 2025</b>, if you have submitted an Open Admissions (OA) application form.
 
 If your application is unsuccessful, you can join our waiting list <a target="blank" href="https://go.gov.sg/mkrs-waitlist1">here</a>. If you do not see the outcome email in your inbox, please check your spam or junk email folder. For further assistance, contact MK directly.
+
+**For more information on registration, you may refer to: <br>
+https://www.moe.gov.sg/preschool/moe-kindergarten/register**
