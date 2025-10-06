@@ -17,11 +17,13 @@ Ms Amy<br>
 Ms Ana<br>
 Ms Ashwini<br>
 Ms Eli<br>
+Ms Hazwani<br>
 Ms Izzah<br>
 Ms May May<br>
 Ms Sok Chin<br>
 Ms Suria<br>
 Ms Syafiqah<br>
+Ms Syahira<br>
 Ms Yasmin<br>
 
 
@@ -35,5 +37,6 @@ Xiao Lao Shi<br>
 Zhou Lao Shi<br>
 Cikgu Diana<br>
 Cikgu Izyan<br>
+Cikgu Maizianah<br>
 Cikgu Rinah<br>
 Aaseriyar Indhu<br>
