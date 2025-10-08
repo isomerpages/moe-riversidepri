@@ -81,6 +81,7 @@ Contact Number: 9048 2301 (Mobile)<br>
 	<div>
 		<ul>
 			<li>Online Purchase: <a href="https://jeepsinguniform.com/collections/riverside-primary-school" target="blank">https://jeepsinguniform.com/collections/riverside-primary-school</a><br>  
+<a target="blank" href="/files/Riverside_Pri_sale_schedule_Y25_Uniform.pdf">2025 End of year Sale of School Uniform for Riverside Primary School</a><br>
 <br><img style="width:352px;height:340px;" src="/images/uniform_qr.png"><br>
 Address: 4012 Ang Mo Kio Ave 10, #01-09 Techplace 1, Singapore 569628<br>
 				Enquiry form: <a href="https://bit.ly/JSFSUPPORT" target="blank">https://bit.ly/JSFSUPPORT</a></li>
