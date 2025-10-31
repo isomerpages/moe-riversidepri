@@ -62,7 +62,6 @@ variant: markdown
 <ul><li>racially and/or religiously insensitive,</li>
 <li>vulgar and/or offensive, or</li>
 <li>hurtful to others.</li>	
-</ul>					
-			
+</ul>
 </li></ul></div>
 </li></ul>
