@@ -9,11 +9,10 @@ variant: markdown
 <br>
 
 <ul class="jekyllcodex_accordion">
-&nbsp;&nbsp;<li>
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion1">
+<li>
+<input type="checkbox" id="accordion1">
 		<label for="accordion1"><h5 style="color:RoyalBlue">SPARKLE Value Programme</h5></label>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
+<div>
 <ul>
 <li>
 <p>Term 1: Adaptability &amp; Responsibility</p>
