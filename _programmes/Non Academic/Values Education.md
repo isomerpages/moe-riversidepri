@@ -83,13 +83,13 @@ Your child can make responsible decisions if he/she has the capacity to identify
 		<ul>
 			<li><h5 style="color:RoyalBlue">Acceptable Use Policy (AUP) for use of EdTech Resources</h5><b>Purpose of the Acceptable Use Policy (AUP)</b>
 <p>Technology is an essential part of learning in today’s world. 
-<br>This Acceptable Use Policy (AUP) establishes guidelines on the appropriate use of EdTech resources to help you understand how to use these resources safely and responsibly, in line with efforts to develop your digital literacies and growth as digitally responsible citizens.
+</p><p>This Acceptable Use Policy (AUP) establishes guidelines on the appropriate use of EdTech resources to help you understand how to use these resources safely and responsibly, in line with efforts to develop your digital literacies and growth as digitally responsible citizens.
 <br>EdTech resources include the following, but are not limited to:
 </p><ul><li>Learning devices (e.g. Personal Learning Devices (PLDs), school devices)</li>
 <li>ICT system accounts (e.g. Singapore Student Learning Space (SLS), iCON); and school internet networks.</li>
 </ul>	
 <p>
-</p></li><li><h5 style="color:RoyalBlue">General</h5>	
+				</p></li><li><h5 style="color:RoyalBlue">General</h5>
 <ol><li>You should not attempt to access data, system and information that you are not authorised to.</li>
 			</ol></li></ul>
 		</div>
