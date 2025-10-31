@@ -78,17 +78,19 @@ Your child can make responsible decisions if he/she has the capacity to identify
 
 <li>
 <input type="checkbox" id="accordion4">
-<label for="accordion4"><h5 style="color:RoyalBlue">Kindness Movement in RSPS</h5></label>
+<label for="accordion4"><h5 style="color:RoyalBlue">Cyberwellness</h5></label>
 	<div>
 		<ul>
-			<li>
-<p>Being Kind to one another helps to improve relationships, makes one feel more appreciative and optimistic and hence, enhances mental and emotional well-being. In Riverside Primary School, we have a series of kindness programmes which helps to evoke positive emotion and positive language.</p>
-<ul>
-<li>Kindness Pledge</li>
-<li>Kindness Lesson Package</li>
-<li>Friend of Singa</li>
-<li>Gratitude and Appreciation</li>
-</ul></li>
-			</ul>
+			<li><h5 style="color:RoyalBlue">Acceptable Use Policy (AUP) for use of EdTech Resources</h5><b>Purpose of the Acceptable Use Policy (AUP)</b>
+<p>Technology is an essential part of learning in today’s world. 
+<br>This Acceptable Use Policy (AUP) establishes guidelines on the appropriate use of EdTech resources to help you understand how to use these resources safely and responsibly, in line with efforts to develop your digital literacies and growth as digitally responsible citizens.
+<br>EdTech resources include the following, but are not limited to:
+</p><ul><li>Learning devices (e.g. Personal Learning Devices (PLDs), school devices)</li>
+<li>ICT system accounts (e.g. Singapore Student Learning Space (SLS), iCON); and school internet networks.</li>
+</ul>	
+<p>
+</p></li><li><h5 style="color:RoyalBlue">General</h5>	
+<ol><li>You should not attempt to access data, system and information that you are not authorised to.</li>
+			</ol></li></ul>
 		</div>
-</li>	
+</li>
