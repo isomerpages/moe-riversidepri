@@ -58,10 +58,17 @@ variant: markdown
 </p><h5 style="color:RoyalBlue">General</h5>
 <ol><li>You should not attempt to access data, system and information that you are not authorised to.</li>
 <li>You are reminded that the use of learning devices and school’s EdTech resources should solely be for the purpose of learning. </li></ol><h5 style="color:RoyalBlue">Being a Responsible Digital Citizen</h5>	
-<ol><li>You should interact with others in a respectful and responsible way. You should not post online remarks that are</li></ol>
+<ol><li>You should interact with others in a respectful and responsible way. You should not post online remarks that are</li>
 <ul><li>racially and/or religiously insensitive,</li>
-<li>vulgar and/or offensive, or</li>
+<li>make threats, cause harassment or embarrassment, impersonate or intimidate others.</li>
 <li>hurtful to others.</li>	
 </ul>
+<li>You should not use any devices to</li>
+<ul><li>store, modify, create or share content (e.g. documents, presentations, pictures and videos) that is inappropriate (e.g. indecent, pornographic, defamatory, hurtful to self or others).</li>
+<li>make threats, cause harassment or embarrassment, impersonate or intimidate others.</li>
+</ul>	
+<li>You should not use MOE/school-deployed ICT system accounts for any commercial activities (e.g. buying and selling of goods and services).</li>	
+</ol>
+Non-compliance with the above will lead to disciplinary action in accordance with the school’s discipline policy.				
 </li></ul></div>
 </li></ul>
