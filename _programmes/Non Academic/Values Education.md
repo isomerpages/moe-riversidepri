@@ -91,6 +91,8 @@ Your child can make responsible decisions if he/she has the capacity to identify
 <p>
 				</p></li><li><h5 style="color:RoyalBlue">General</h5>
 <ol><li>You should not attempt to access data, system and information that you are not authorised to.</li>
+<li>You are reminded that the use of learning devices and school’s EdTech resources should solely be for the purpose of learning. </li><h5 style="color:RoyalBlue">Being a Responsible Digital Citizen</h5>	
+<li>Being a Responsible Digital Citizen</li>	
 			</ol></li></ul>
 		</div>
 </li>
