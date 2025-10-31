@@ -7,7 +7,6 @@ variant: markdown
 ---
 <p>Values inculcation is important as we want our students to be anchored with sound values, have a strong sense of what is right and wrong, have the courage to take responsibility for their own choices and actions. We want our students to possess the right attitude which will help them attain their life goals and succeed in life.</p>
 <br>
-
 <ul class="jekyllcodex_accordion">
 <li>
 <input type="checkbox" id="accordion1">
@@ -25,7 +24,6 @@ variant: markdown
 			</ul>
 		</div>
 </li>	
-	
 <li>
 <input type="checkbox" id="accordion2">
 <label for="accordion2"><h5 style="color:RoyalBlue">Kindness Movement in RSPS</h5></label>
@@ -44,8 +42,8 @@ variant: markdown
 </li>	
 	
 <li>
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion3">
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion3"><h5 style="color:RoyalBlue">Form Teacher Guidance Period(FTGP)</h5></label>
+<input type="checkbox" id="accordion3">
+<label for="accordion3"><h5 style="color:RoyalBlue">Form Teacher Guidance Period(FTGP)</h5></label>
 	<div>
 		<ul>
 			<li>
