@@ -72,8 +72,8 @@ Your child can manage relationships effectively if he/she has the ability to est
 </div></div></div>
 </li></ul></div></li>
 <li>
-<input type="checkbox" id="accordion3">
-<label for="accordion3"><h5 style="color:RoyalBlue">Cyberwellness</h5></label>
+<input type="checkbox" id="accordion4">
+<label for="accordion4"><h5 style="color:RoyalBlue">Cyberwellness</h5></label>
 	<div>
 		<ul>
 			<li><h5 style="color:RoyalBlue">Acceptable Use Policy (AUP) for use of EdTech Resources</h5><b>Purpose of the Acceptable Use Policy (AUP)</b>
