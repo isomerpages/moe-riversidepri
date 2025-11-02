@@ -69,6 +69,27 @@ variant: markdown
 </ul>	
 <li>You should not use MOE/school-deployed ICT system accounts for any commercial activities (e.g. buying and selling of goods and services).</li>	
 </ol>
-Non-compliance with the above will lead to disciplinary action in accordance with the school’s discipline policy.				
+Non-compliance with the above will lead to disciplinary action in accordance with the school’s discipline policy.
+<h5 style="color:RoyalBlue">Respecting Copyright</h5>	
+	<ol start="6"><li>You are reminded to obtain explicit permission from the content owner(s) before downloading, copying or sharing any copyrighted materials (e.g. pictures, videos, music).</li>
+<li>You should not use, copy, edit or share digital files in an unauthorised or illegal manner.
+Using Artificial Intelligence (AI)</li>
+<li>You must ensure that you meet the minimum age requirement specified in each AI tool's age restrictions before using it.</li>
+<li>If the use of AI is permitted, you should acknowledge the use of AI in weighted assessments and homework as required.</li>
+<li>You are to practice academic integrity and be responsible for your own learning when using AI. Understand that you are ultimately short-changing yourself if you pass off other’s work as your own.
+Staying Safe and Secure online</li></ol>
+<h5 style="color:RoyalBlue">Staying Safe and Secure online</h5>	
+<ol start="11">				
+<li>You should report any incidents (e.g. unusual device behaviour or inappropriate use of devices), to the school. </li>
+<li>You are reminded to develop online safety habits. This includes not disclosing personal access credentials (e.g. MIMS password, PLD passcode, etc.), sensitive personal data (e.g. home address, passwords) online or on AI platforms, verifying credibility of online content before sharing, avoiding clicking on suspicious links or downloading unknown files, and being cautious when interacting with others online (e.g. on social media) by not engaging with strangers.</li>
+<li>You should exercise caution regarding the limitations of AI tools, including potential inaccuracies / fabricated responses, inherent biases and outdated information.
+Digital Wellbeing and Balance</li></ol>
+<h5 style="color:RoyalBlue">Digital Wellbeing and Balance</h5>	
+<ol start="14">
+<li>You are reminded to balance screentime with other activities including physical exercise and face-to-face social interactions. </li>
+<li>You should avoid excessive use of your devices outside learning hours.</li>
+<li>You should take regular breaks to rest your eyes and mind.</li>
+<li>You are reminded to practice good sleep hygiene by not using your devices one hour before bedtime.</li>
+</ol>	
 </li></ul></div>
 </li></ul>
