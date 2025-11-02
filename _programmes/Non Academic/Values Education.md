@@ -89,7 +89,39 @@ Digital Wellbeing and Balance</li></ol>
 <li>You are reminded to balance screentime with other activities including physical exercise and face-to-face social interactions. </li>
 <li>You should avoid excessive use of your devices outside learning hours.</li>
 <li>You should take regular breaks to rest your eyes and mind.</li>
-<li>You are reminded to practice good sleep hygiene by not using your devices one hour before bedtime.</li>
-</ol>	
-</li></ul></div>
+<li>You are reminded to practice good sleep hygiene by not using your devices one hour before bedtime.</li></ol></li></ul></div>
 </li></ul>
+<li>
+<input type="checkbox" id="accordion4">
+<label for="accordion4"><h5 style="color:RoyalBlue">Form Teacher Guidance Period(FTGP)</h5></label>
+<div><ul><li>
+Being Kind to one another helps to improve relationships, makes one feel more appreciative and Form Teachers play a central role in shaping the development of their young charges. The Form Teacher Guidance Period (FTGP) enables Form Teachers to better cater to each pupil’s holistic development (especially their Social and Emotional Learning) and build closer teacher-pupil rapport.
+<p>The Social-Emotional Competencies we seek to develop in every child are as follows:
+</p><p><b>Self-Awareness</b> Your child has self-awareness if he/she understands his/her own emotions, strengths, inclinations and weaknesses.
+<br><b>Self-Management</b> Your child can manage himself/herself effectively if he/she has the capacity to manage his/her own emotions. He/She should be self-motivated, exercise discipline and display strong goal-setting and organizational skills.
+<br><b>Social Awareness</b> Your child has social awareness if he/she has the ability to accurately discern different perspectives, recognize and appreciate diversity, empathize with and respect others.
+<br><b>Relationship Management</b>
+Your child can manage relationships effectively if he/she has the ability to establish and maintain healthy and rewarding relationships through effective communication, and is able to work with others to resolve issues and provide assistance.
+<br><b>Responsible Decision-Making</b> Your child can make responsible decisions if he/she has the capacity to identify and analyze a situation competently. He/She should be able to reflect upon the implications of decisions made, based on personal, moral and ethical considerations.
+</p><div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Primary 1 and Primary 2</div>
+<div class="isomer-card-description">Feeling Safe and Happy<br>Knowing My Teacher and Friend<br>We Work Well Together<br>Cyberwellness<br>Protection From Abuse</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Primary 3 and Primary 4</div>
+<div class="isomer-card-description">Growing Together<br>We Enjoy Working As One<br>Explore and Discover<br>Cyberwellness<br>Protection From Abuse<br>Education and Career Guidance</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Primary 5</div>
+<div class="isomer-card-description">Deepening Our Bonds<br>We Have Team Spirit<br>Dream For Our Future<br>Knowing Myself<br>Appreciating Diversity</div>
+</div></div></div>
+</li>
+</ul>
+</div>
+</li>	
