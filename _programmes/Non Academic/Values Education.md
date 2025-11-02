@@ -58,7 +58,7 @@ variant: markdown
 </p><h5 style="color:RoyalBlue">General</h5>
 <ol><li>You should not attempt to access data, system and information that you are not authorised to.</li>
 <li>You are reminded that the use of learning devices and school’s EdTech resources should solely be for the purpose of learning. </li></ol><h5 style="color:RoyalBlue">Being a Responsible Digital Citizen</h5>	
-<ol><li>You should interact with others in a respectful and responsible way. You should not post online remarks that are</li>
+	<ol start="3"><li>You should interact with others in a respectful and responsible way. You should not post online remarks that are</li>
 <ul><li>racially and/or religiously insensitive,</li>
 <li>make threats, cause harassment or embarrassment, impersonate or intimidate others.</li>
 <li>hurtful to others.</li>	
