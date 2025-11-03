@@ -3,32 +3,30 @@ title: Values Education
 permalink: /programmes/non-academic/form-teacher-guidance-period-ftgp/
 description: ""
 third_nav_title: Non Academic
+variant: markdown
 ---
 <p>Values inculcation is important as we want our students to be anchored with sound values, have a strong sense of what is right and wrong, have the courage to take responsibility for their own choices and actions. We want our students to possess the right attitude which will help them attain their life goals and succeed in life.</p>
 <br>
-
 <ul class="jekyllcodex_accordion">
-  <li>
-    <input type="checkbox" id="accordion1">
+<li>
+<input type="checkbox" id="accordion1">
 		<label for="accordion1"><h5 style="color:RoyalBlue">SPARKLE Value Programme</h5></label>
-
-    <div>
+<div>
 <ul>
 <li>
-<p>Term 1: Adaptability & Responsibility</p>
-<p>Term 2: Sincerity & Kindness</p>
-<p>Term 3: Enthusiasm & Perseverance</p>
-<p>Term 4: Leadership & Strength of Character</p>
+<p>Term 1: Adaptability &amp; Responsibility</p>
+<p>Term 2: Sincerity &amp; Kindness</p>
+<p>Term 3: Enthusiasm &amp; Perseverance</p>
+<p>Term 4: Leadership &amp; Strength of Character</p>
 
-<p>Values lessons were conducted in the classroom. Beyond classroom learning, we provide opportunities for students to reflect and apply their learning in authentic day-to-day life experiences. Interesting recess activities were also carried out to help students to reinforce and  internalise the SPARKLE values learnt.</p>
+<p>Values lessons were conducted in the classroom. Beyond classroom learning, we provide opportunities for students to reflect and apply their learning in authentic day-to-day life experiences. Interesting recess activities were also carried out to help students to reinforce and&nbsp; internalise the SPARKLE values learnt.</p>
 	</li>
 			</ul>
 		</div>
 </li>	
-	
 <li>
-    <input type="checkbox" id="accordion2">
-    <label for="accordion2"><h5 style="color:RoyalBlue">Kindness Movement in RSPS</h5></label>
+<input type="checkbox" id="accordion2">
+<label for="accordion2"><h5 style="color:RoyalBlue">Kindness Movement in RSPS</h5></label>
 	<div>
 		<ul>
 			<li>
@@ -41,35 +39,84 @@ third_nav_title: Non Academic
 </ul></li>
 			</ul>
 		</div>
-</li>	
-	
+</li>
 <li>
-    <input type="checkbox" id="accordion3">
-    <label for="accordion3"><h5 style="color:RoyalBlue">Form Teacher Guidance Period(FTGP)</h5></label>
+<input type="checkbox" id="accordion3">
+<label for="accordion3"><h5 style="color:RoyalBlue">Form Teacher Guidance Period(FTGP)</h5></label>
+<div><ul><li>
+<p>Being Kind to one another helps to improve relationships, makes one feel more appreciative and Form Teachers play a central role in shaping the development of their young charges. The Form Teacher Guidance Period (FTGP) enables Form Teachers to better cater to each pupil’s holistic development (especially their Social and Emotional Learning) and build closer teacher-pupil rapport.</p>
+<p>The Social-Emotional Competencies we seek to develop in every child are as follows:
+</p><p><b>Self-Awareness</b> Your child has self-awareness if he/she understands his/her own emotions, strengths, inclinations and weaknesses.
+<br><b>Self-Management</b> Your child can manage himself/herself effectively if he/she has the capacity to manage his/her own emotions. He/She should be self-motivated, exercise discipline and display strong goal-setting and organizational skills.
+<br><b>Social Awareness</b> Your child has social awareness if he/she has the ability to accurately discern different perspectives, recognize and appreciate diversity, empathize with and respect others.
+<br><b>Relationship Management</b>
+Your child can manage relationships effectively if he/she has the ability to establish and maintain healthy and rewarding relationships through effective communication, and is able to work with others to resolve issues and provide assistance.
+<br><b>Responsible Decision-Making</b> Your child can make responsible decisions if he/she has the capacity to identify and analyze a situation competently. He/She should be able to reflect upon the implications of decisions made, based on personal, moral and ethical considerations.
+</p><div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Primary 1 &amp; Primary 2</div>
+<div class="isomer-card-description">Feeling Safe and Happy<br>Knowing My Teacher and Friend<br>We Work Well Together<br>Cyberwellness<br>Protection From Abuse</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Primary 3 &amp; Primary 4</div>
+<div class="isomer-card-description">Growing Together<br>We Enjoy Working As One<br>Explore and Discover<br>Cyberwellness<br>Protection From Abuse<br>Education and Career Guidance</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Primary 5</div>
+<div class="isomer-card-description">Deepening Our Bonds<br>We Have Team Spirit<br>Dream For Our Future<br>Knowing Myself<br>Appreciating Diversity</div>
+</div></div></div>
+</li></ul></div></li>
+<li>
+<input type="checkbox" id="accordion4">
+<label for="accordion4"><h5 style="color:RoyalBlue">Cyberwellness</h5></label>
 	<div>
 		<ul>
-			<li>
-
-<p>Form Teachers play a central role in shaping the development of their young charges. The Form Teacher Guidance Period (FTGP) enables Form Teachers to better cater to each pupil’s holistic development (especially their Social and Emotional Learning) and build closer teacher-pupil rapport.</p><br>
-				
-<p>The Social-Emotional Competencies we seek to develop in every child are as follows:</p>
-
-<b>Self-Awareness</b>
-Your child has self-awareness if he/she understands his/her own emotions, strengths, inclinations and weaknesses.<br>
-				
-<b>Self-Management</b> 
-Your child can manage himself/herself effectively if he/she has the capacity to manage his/her own emotions. He/She should be self-motivated, exercise discipline and display strong goal-setting and organizational skills.<br>
-
-<b>Social Awareness</b> 
-Your child has social awareness if he/she has the ability to accurately discern different perspectives, recognize and appreciate diversity, empathize with and respect others.<br>
-
-<b>Relationship Management</b><br>
-Your child can manage relationships effectively if he/she has the ability to establish and maintain healthy and rewarding relationships through effective communication, and is able to work with others to resolve issues and provide assistance.<br>
-
-<b>Responsible Decision-Making</b>  
-Your child can make responsible decisions if he/she has the capacity to identify and analyze a situation competently. He/She should be able to reflect upon the implications of decisions made, based on personal, moral and ethical considerations.<br>
-				
-<p>FTGP Lesson Focuses</p>
-				
-				
-<table class="table table-bordered" style="box-sizing: border-box; border: 1px solid rgb(221, 221, 221); font-size: 18px; font-style: normal; font-weight: 400; margin: 0px 0px 20px; outline: 0px; padding: 0px; vertical-align: baseline; border-collapse: collapse; border-spacing: 0px; width: 973.021px; background-color: rgb(224, 247, 254); max-width: 100%; color: rgb(51, 51, 51); font-family: Lato; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: justify; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><tbody style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"><tr style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"><td style="box-sizing: border-box; border: 1px solid rgb(221, 221, 221); font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; text-align: left; line-height: 1.42857; width: 324.01px;"><b style="box-sizing: border-box; font-weight: 700;">Primary One &amp; Primary Two</b></td><td style="box-sizing: border-box; border: 1px solid rgb(221, 221, 221); font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; text-align: left; line-height: 1.42857; width: 324.01px;"><b style="box-sizing: border-box; font-weight: 700;">Primary Three and Primary Four</b></td><td style="box-sizing: border-box; border: 1px solid rgb(221, 221, 221); font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; text-align: left; line-height: 1.42857; width: 324.01px;"><b style="box-sizing: border-box; font-weight: 700;">Primary Five</b></td></tr><tr style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"><td style="box-sizing: border-box; border: 1px solid rgb(221, 221, 221); font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; text-align: left; line-height: 1.42857; width: 324.01px;"><span style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: 400; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;">Feeling Safe and Happy</span></td><td style="box-sizing: border-box; border: 1px solid rgb(221, 221, 221); font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; text-align: left; line-height: 1.42857; width: 324.01px;"><span style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: 400; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;">Growing Together</span></td><td style="box-sizing: border-box; border: 1px solid rgb(221, 221, 221); font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; text-align: left; line-height: 1.42857; width: 324.01px;"><span style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: 400; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;">Deepening Our Bonds</span></td></tr><tr style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"><td style="box-sizing: border-box; border: 1px solid rgb(221, 221, 221); font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; text-align: left; line-height: 1.42857; width: 324.01px;"><span style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: 400; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;">Knowing My Teacher and Friend</span></td><td style="box-sizing: border-box; border: 1px solid rgb(221, 221, 221); font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; text-align: left; line-height: 1.42857; width: 324.01px;"><span style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: 400; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;">We Enjoy Working As One</span></td><td style="box-sizing: border-box; border: 1px solid rgb(221, 221, 221); font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; text-align: left; line-height: 1.42857; width: 324.01px;"><span style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: 400; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;">We Have Team Spirit</span></td></tr><tr style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"><td style="box-sizing: border-box; border: 1px solid rgb(221, 221, 221); font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; text-align: left; line-height: 1.42857; width: 324.01px;"><span style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: 400; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;">We Work Well Together</span></td><td style="box-sizing: border-box; border: 1px solid rgb(221, 221, 221); font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; text-align: left; line-height: 1.42857; width: 324.01px;"><span style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: 400; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;">Explore and Discover</span></td><td style="box-sizing: border-box; border: 1px solid rgb(221, 221, 221); font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; text-align: left; line-height: 1.42857; width: 324.01px;"><span style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: 400; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;">Dream For Our Future</span></td></tr><tr style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"><td style="box-sizing: border-box; border: 1px solid rgb(221, 221, 221); font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; text-align: left; line-height: 1.42857; width: 324.01px;"><span style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: 400; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;">Cyberwellness</span></td><td style="box-sizing: border-box; border: 1px solid rgb(221, 221, 221); font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; text-align: left; line-height: 1.42857; width: 324.01px;"><span style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: 400; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;">Cyberwellness</span></td><td style="box-sizing: border-box; border: 1px solid rgb(221, 221, 221); font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; text-align: left; line-height: 1.42857; width: 324.01px;"><span style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: 400; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;">Knowing Myself</span></td></tr><tr style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"><td style="box-sizing: border-box; border: 1px solid rgb(221, 221, 221); font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; text-align: left; line-height: 1.42857; width: 324.01px;"><span style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: 400; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;">Protection From Abuse</span><span style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: 400; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"><br style="box-sizing: border-box;"></span></td><td style="box-sizing: border-box; border: 1px solid rgb(221, 221, 221); font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; text-align: left; line-height: 1.42857; width: 324.01px;"><span style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: 400; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;">Protection From Abuse</span></td><td style="box-sizing: border-box; border: 1px solid rgb(221, 221, 221); font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; text-align: left; line-height: 1.42857; width: 324.01px;"><span style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: 400; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;">Appreciating Diversity</span></td></tr><tr style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"><td style="box-sizing: border-box; border: 1px solid rgb(221, 221, 221); font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; text-align: left; line-height: 1.42857; width: 324.01px;"><span style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: 400; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;">&nbsp;</span></td><td style="box-sizing: border-box; border: 1px solid rgb(221, 221, 221); font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; text-align: left; line-height: 1.42857; width: 324.01px;"><span style="box-sizing: border-box; border: 0px; font-size: 18px; font-style: inherit; font-weight: 400; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;">Education and Career Guidance</span></td><td style="box-sizing: border-box; border: 1px solid rgb(221, 221, 221); font-size: 18px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: top; text-align: left; line-height: 1.42857; width: 324.01px;">
+			<li><h5 style="color:RoyalBlue">Acceptable Use Policy (AUP) for use of EdTech Resources</h5><b>Purpose of the Acceptable Use Policy (AUP)</b>
+<p>Technology is an essential part of learning in today’s world. 
+</p><p>This Acceptable Use Policy (AUP) establishes guidelines on the appropriate use of EdTech resources to help you understand how to use these resources safely and responsibly, in line with efforts to develop your digital literacies and growth as digitally responsible citizens.
+<br>EdTech resources include the following, but are not limited to:
+</p><ul><li>Learning devices (e.g. Personal Learning Devices (PLDs), school devices)</li>
+<li>ICT system accounts (e.g. Singapore Student Learning Space (SLS), iCON); and school internet networks.</li>
+</ul>	
+<p>
+</p><h5 style="color:RoyalBlue">General</h5>
+<ol><li>You should not attempt to access data, system and information that you are not authorised to.</li>
+<li>You are reminded that the use of learning devices and school’s EdTech resources should solely be for the purpose of learning. </li></ol><h5 style="color:RoyalBlue">Being a Responsible Digital Citizen</h5>	
+	<ol start="3"><li>You should interact with others in a respectful and responsible way. You should not post online remarks that are</li>
+<ul><li>racially and/or religiously insensitive,</li>
+<li>make threats, cause harassment or embarrassment, impersonate or intimidate others.</li>
+<li>hurtful to others.</li>	
+</ul>
+<li>You should not use any devices to</li>
+<ul><li>store, modify, create or share content (e.g. documents, presentations, pictures and videos) that is inappropriate (e.g. indecent, pornographic, defamatory, hurtful to self or others).</li>
+<li>make threats, cause harassment or embarrassment, impersonate or intimidate others.</li>
+</ul>	
+<li>You should not use MOE/school-deployed ICT system accounts for any commercial activities (e.g. buying and selling of goods and services).</li>	
+</ol>
+Non-compliance with the above will lead to disciplinary action in accordance with the school’s discipline policy.
+<h5 style="color:RoyalBlue">Respecting Copyright</h5>	
+	<ol start="6"><li>You are reminded to obtain explicit permission from the content owner(s) before downloading, copying or sharing any copyrighted materials (e.g. pictures, videos, music).</li>
+<li>You should not use, copy, edit or share digital files in an unauthorised or illegal manner.
+Using Artificial Intelligence (AI)</li>
+<li>You must ensure that you meet the minimum age requirement specified in each AI tool's age restrictions before using it.</li>
+<li>If the use of AI is permitted, you should acknowledge the use of AI in weighted assessments and homework as required.</li>
+<li>You are to practice academic integrity and be responsible for your own learning when using AI. Understand that you are ultimately short-changing yourself if you pass off other’s work as your own.
+Staying Safe and Secure online</li></ol>
+<h5 style="color:RoyalBlue">Staying Safe and Secure online</h5>	
+<ol start="11">				
+<li>You should report any incidents (e.g. unusual device behaviour or inappropriate use of devices), to the school. </li>
+<li>You are reminded to develop online safety habits. This includes not disclosing personal access credentials (e.g. MIMS password, PLD passcode, etc.), sensitive personal data (e.g. home address, passwords) online or on AI platforms, verifying credibility of online content before sharing, avoiding clicking on suspicious links or downloading unknown files, and being cautious when interacting with others online (e.g. on social media) by not engaging with strangers.</li>
+<li>You should exercise caution regarding the limitations of AI tools, including potential inaccuracies / fabricated responses, inherent biases and outdated information.
+Digital Wellbeing and Balance</li></ol>
+<h5 style="color:RoyalBlue">Digital Wellbeing and Balance</h5>	
+<ol start="14">
+<li>You are reminded to balance screentime with other activities including physical exercise and face-to-face social interactions. </li>
+<li>You should avoid excessive use of your devices outside learning hours.</li>
+<li>You should take regular breaks to rest your eyes and mind.</li>
+<li>You are reminded to practice good sleep hygiene by not using your devices one hour before bedtime.</li></ol></li></ul></div>
+</li>	</ul>
