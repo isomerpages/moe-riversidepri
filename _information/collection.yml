@@ -2,8 +2,6 @@ collections:
   information:
     output: true
     order:
-      - 2025 Award Photos/P1 Award Winners.md
-      - 2025 Award Photos/.keep
       - 2025 Parent's Seminar.md
       - 2025 Primary 1 Orientation.md
       - School Safety Matters/.keep
@@ -17,3 +15,5 @@ collections:
       - School Opening Matters.md
       - School Canteen.md
       - Service Providers.md
+      - 2025 Award Photos/.keep
+      - 2025 Award Photos/P1 Award Winners.md
