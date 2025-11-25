@@ -5,5 +5,5 @@ layout: link
 description: ""
 image: ""
 variant: tiptap
-external: https://www.riversidepri.moe.edu.sg/information/p1-award-winners/
+external: https://www.riversidepri.moe.edu.sg/p1-award-winners/
 ---
