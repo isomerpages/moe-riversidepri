@@ -2,6 +2,7 @@ collections:
   information:
     output: true
     order:
+      - Items To Bring On School Opening Days.md
       - 2026 Booklists.md
       - 2025 Parent's Seminar.md
       - School Safety Matters/.keep
