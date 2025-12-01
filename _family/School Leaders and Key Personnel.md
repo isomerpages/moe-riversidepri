@@ -40,21 +40,21 @@ div {text-align: center;}
 <input id="accordion2" type="checkbox">
 <label for="accordion2"><h4 style="color:Blue">Head of Department/Year Head/Assistant Year Head</h4></label>
 <div>
-<p><strong>Ms Ng See Tee</strong>
-<br>Head of Department, Mother Tongue Languages
-<br>email: ng_see_tee@moe.edu.sg</p>
+<p><strong></strong>
+<br>
+<br></p>
 
-<p><strong>Mr Bobby Chan</strong>
-<br>Head of Department, Physical Education and Co-Curricular Activities
-<br>email: chan_teck_hock_bobby@moe.edu.sg</p>
+<p><strong></strong>
+<br>
+<br></p>
 
-<p><strong>Mr Sun Chin Keong</strong>
-<br>Head of Department, Educational Technology
-<br>email: sun_chin_keong@moe.edu.sg</p>
+<p><strong></strong>
+<br>
+<br></p>
 
-<p><strong>Ms Chan Yu Min Wendy</strong>
-<br>Head of Department, English Language &amp; Social Studies
-<br>email: chan_yu_min_wendy@moe.edu.sg</p>
+<p><strong></strong>
+<br>
+<br></p>
 
 <p><strong>Mrs Fio Ng</strong>
 <br>Head of Department, Science
