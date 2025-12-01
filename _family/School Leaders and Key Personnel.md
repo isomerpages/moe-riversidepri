@@ -146,23 +146,42 @@ div {text-align: center;}
 </li><li>
 
 <input id="accordion4" type="checkbox">
-<label for="accordion4"><h4 style="color:Blue">Senior Teacher/Lead Teacher</h4></label>
+<label for="accordion4"><h4 style="color:Blue">Lead Teacher/Senior Teacher</h4></label>
 <div>
-<p><strong></strong>
-<br>
-<br></p>
+<p><strong>Lead Teacher, High Ability Learners</strong>
+<br>Ms Chan Sau Mei
+<br>email: </p>
 
-	<p><strong></strong>
-<br>
-<br></p>
+	<p><strong>Lead Teacher, Physical Education</strong>
+<br>Mr Eugene Yap
+<br>email: eugene_yap_hern_an@moe.edu.sg</p>
 	
-	<p><strong></strong>
-<br>
-<br></p>
+	<p><strong>Senior Teacher, English Language</strong>
+<br>Ms Candice Chua
+<br>email: chua_cheng_cheng_candice@moe.edu.sg</p>
 	
-	<p><strong></strong>
-<br>
-<br></p>
-
+	<p><strong>Senior Teacher, Chinese Language</strong>
+<br>Ms Tang Wai San
+<br>email: tang_wai_san@moe.edu.sg</p>
+	
+	<p><strong>Senior Teacher, Chinese Language</strong>
+<br>Mdm Ma Shaowen
+<br>email: ma_shaowen@moe.edu.sg</p>
+	
+	<p><strong>Senior Teacher, Tamil Language</strong>
+<br>Mrs Gayathiri Anasooya
+<br>email: gayathiri_anasooya_mohanaruben@moe.edu.sg</p>
+	
+	<p><strong>Senior Teacher, Lower Primary Learners</strong>
+<br>Mrs Joanna Kong
+<br>email: hang_siew_mei_joanna@moe.edu.sg</p>
+	
+	<p><strong>Senior Teacher, Mathematics (Internal)</strong>
+<br>Mdm Noorfaezah Sadon
+<br>email: noorfaezah_sadon@moe.edu.sg</p>
+	
+	<p><strong>Senior Teacher, Educational Support (Internal)</strong>
+<br>Mrs Sharon Choong
+<br>email: leong_seok_han_sharon@moe.edu.sg</p>
 </div>
 </li></ul>
