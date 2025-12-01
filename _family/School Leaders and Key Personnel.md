@@ -38,127 +38,150 @@ div {text-align: center;}
 </li><li>
 	
 <input id="accordion2" type="checkbox">
-<label for="accordion2"><h4 style="color:Blue">Head of Department/Year Head/Assistant Year Head</h4></label>
+<label for="accordion2"><h4 style="color:Blue">Head of Department/Year Head</h4></label>
 <div>
-<p><strong>Ms Ng See Tee</strong>
-<br>Head of Department, Mother Tongue Languages
-<br>email: ng_see_tee@moe.edu.sg</p>
-
-<p><strong>Mr Bobby Chan</strong>
-<br>Head of Department, Physical Education and Co-Curricular Activities
-<br>email: chan_teck_hock_bobby@moe.edu.sg</p>
-
-<p><strong>Mr Sun Chin Keong</strong>
-<br>Head of Department, Educational Technology
-<br>email: sun_chin_keong@moe.edu.sg</p>
-
-<p><strong>Ms Chan Yu Min Wendy</strong>
-<br>Head of Department, English Language &amp; Social Studies
+<p><strong>Head of Department, English Language</strong>
+<br>Ms Chan Yu Min Wendy (Covering)
 <br>email: chan_yu_min_wendy@moe.edu.sg</p>
 
-<p><strong>Mrs Fio Ng</strong>
-<br>Head of Department, Science
-<br>email: ang_hwee_tit@moe.edu.sg</p>
+<p><strong>Head of Department, Mother Tongue Languages
+</strong>
+<br>Ms Ng See Tee
+<br>email: ng_see_tee@moe.edu.sg</p>
 
-<p><strong>Mdm Jacqueline Kho</strong>
-<br>Head of Department, CCE
-<br>email: kho_ee_ling_jacqueline@moe.edu.sg</p>
-
-<p><strong>Mrs Yip Wenjun</strong>
-<br>Head of Department, Aesthetics
-<br>email: huang_wenjun@moe.edu.sg</p>
-	
-<p><strong>Mr Daryl Chew</strong>
-<br>Head of Department, Mathematics
+<p><strong>Head of Department, Mathematics</strong>
+<br>Mr Daryl Chew
 <br>email: chew_yi_hern_daryl@moe.edu.sg</p>
-		
-<p><strong>Ms Korine Chung</strong>
-<br>Head of Department, Special Educational Needs
-<br>email: chung_joo_yi@moe.edu.sg</p>
-	
 
-<p><strong>Ms Ameerah Sharainee Zain Bte Sha</strong>
-<br>School Staff Developer
+<p><strong>Head of Department, Science</strong>
+<br>Ms Ameerah Sharainee Zain Sha
 <br>email: ameerah_sharainee_zain_sha@moe.edu.sg</p>
+
+<p><strong>Head of Department, Physical Education and Co-Curricular Activities</strong>
+<br>Mr Bobby Chan
+<br>email: chan_teck_hock_bobby@moe.edu.sg</p>
+
+<p><strong>Head of Department, Aesthetics</strong>
+<br>Ms Huang Wenjun
+<br>email: huang_wenjun@moe.edu.sg</p>
+
+<p><strong>Head of Department, Character and Citizenship Education</strong>
+<br>Ms Jacqueline Kho
+<br>email: kho_ee_ling_jacqueline@moe.edu.sg</p>
 	
-<p><strong>Ms Lim Shin Gann</strong>
-<br>Year Head, Lower Primary
-<br>email: lim_shin_gann@moe.edu.sg</p>
+<p><strong>Head of Department, Educational Technology</strong>
+<br>Mr Sun Chin Keong
+<br>email: sun_chin_keong@moe.edu.sg</p>
+		
+<p><strong>Head of Department, Special Needs Educational</strong>
+<br>Ms Chung Joo Yi Korine
+<br>email: chung_joo_yi@moe.edu.sg</p>
+
+<p><strong>School Staff Developer</strong>
+<br>Ms Chan Yu Min Wendy
+<br>email: chan_yu_min_wendy@moe.edu.sg</p>
 	
-<p><strong>Ms Raudah Begum Amir Khan</strong>
-<br>Assistant Year Head, Lower Primary
+<p><strong>Year Head, Lower Primary</strong>
+<br>Ms Raudah Begum Amir Khan
 <br>email: raudah_begum_amir_khan@moe.edu.sg</p>
-
-<p><strong>Mrs Sharon Sakthi</strong>
-<br>Year Head, Middle Primary
-<br>email: pang_shu_fang_sharon@moe.edu.sg</p>
 	
-<p><strong>Mr Abdul Rahman B Amid Marican</strong>
-<br>Assistant Year Head, Middle Primary
-<br>email: rahman_marican@moe.edu.sg</p>
+<p><strong>Year Head, Middle Primary</strong>
+<br>Ms Lim Shin Gann
+<br>email: lim_shin_gann@moe.edu.sg</p>
 
-<p><strong>Mr Jeff Huang</strong>
-<br>Year Head, Upper Primary
+<p><strong>Year Head, Upper Primary</strong>
+<br>Mr Jeff Huang
 <br>email: huang_yaosheng@moe.edu.sg</p>
 	
-<p><strong>Ms Darrell Koh</strong>
-<br>Assistant Year Head, Upper Primary
-<br>email: lim_yong_en_darrell@moe.edu.sg</p>
-
 </div>
 </li><li>
 
 <input id="accordion3" type="checkbox">
-<label for="accordion3"><h4 style="color:Blue">Subject Head/Level Head</h4></label>
+<label for="accordion3"><h4 style="color:Blue">Level Head/Subject Head/Assistant Year Head</h4></label>
 <div>
-<p><strong>Mrs Christina Muru</strong>
-<br>Subject Head, Pupil Management
-<br>email: christina_s_zaccheus@moe.edu.sg</p>
-
-<p><strong>Mr Mohammad Shaifullizan Bin Sapieah</strong>
-<br>Level Head, English Language &amp; Social Studies
+<p><strong>Level Head, English Language and Social Studies</strong>
+<br>Mr Mohammad Shaifullizan Bin Sapieah
 <br>email: mohammad_shaifullizan_sapi@moe.edu.sg</p>
 	
-<p><strong>Mr Kenny Toh</strong>
-<br>Level Head, Science
-<br>email: toh_ghim_yeow@moe.edu.sg</p>
+	<p><strong>Level Head, Mathematics</strong>
+<br>Ms Darrell Koh
+<br>Email: lim_yong_en_darrell@moe.edu.sg</p>
+	
+	<p><strong>Level Head, Science (Internal)</strong>
+<br>Mr Kanakarajh Raman
+<br>Email: kanakarajh_raman@moe.edu.sg</p>
 
-<p><strong>Mdm Eity Norhyezah Asyurah</strong>
-<br>Subject Head, Malay Language
+<p><strong>Subject Head, Malay Language</strong>
+<br>Mdm Eity Norhyezah Asyurah
 <br>email: eity_norhyezah_asyurah@moe.edu.sg</p>
 	
-<p><strong>Mdm Thang Yun Xuan</strong>
-<br>Subject Head, Student Well-Being
-<br>email: thang_yun_xuan@moe.edu.sg</p>
-	
-<p><strong>Mr Chua Kok Leong Peter</strong>
-<br>Subject Head, PE
-<br>email: chua_kok_leong_peter@moe.edu.sg</p>
+<p><strong>Subject Head,  Chinese Language (Internal)</strong>
+<br>Ms Chang Tan Ling
+<br>email: chang_tan_ling@moe.edu.sg</p>
 
+<p><strong>Subject Head, Physical Education</strong>
+<br>Mr Chua Kok Leong Peter
+<br>email: chua_kok_leong_peter@moe.edu.sg</p>
+	
+<p><strong>Subject Head, Discipline</strong>
+<br>Mrs Christina Muru
+<br>email: christina_s_zaccheus@moe.edu.sg</p>
+	
+<p><strong>Subject Head, Student Well-Being</strong>
+<br>Ms Thang Yun Xuan
+<br>email: thang_yun_xuan@moe.edu.sg</p>
+
+	<p><strong>Subject Head, Assessment</strong>
+<br>Mdm Prema
+<br>email: prema_a@moe.edu.sg</p>
+	
+	<p><strong>Assistant Year Head</strong>
+<br>Mr Joshua Kum Han Wen
+<br>email: kum_han_wen@moe.edu.sg</p>
+	
+	<p><strong>Assistant Year Head (Internal)</strong>
+<br>Ms Hailey Tan Yan Yi
+<br>email: tan_yan_yi@moe.edu.sg</p>
 </div>
 </li><li>
 
 <input id="accordion4" type="checkbox">
-<label for="accordion4"><h4 style="color:Blue">Senior Teacher/Lead Teacher</h4></label>
+<label for="accordion4"><h4 style="color:Blue">Lead Teacher/Senior Teacher</h4></label>
 <div>
-<p><strong>Ms Tang Wai San</strong>
-<br>Senior Teacher, Chinese Language
-<br>email: tang_wai_san@moe.edu.sg</p>
+<p><strong>Lead Teacher, High Ability Learners</strong>
+<br>Ms Chan Sau Mei
+<br>email: </p>
 
-<p><strong>Mrs Gayathiri Anasooya</strong>
-<br>Senior Teacher, Tamil Language
-<br>email: gayathiri_anasooya_mohanaruben@moe.edu.sg</p>
-
-<p><strong>Mrs Joanna Kong</strong>
-<br>Senior Teacher, Lower Primary Learners
-<br>email: hang_siew_mei_joanna@moe.edu.sg</p>
+	<p><strong>Lead Teacher, Physical Education</strong>
+<br>Mr Eugene Yap
+<br>email: eugene_yap_hern_an@moe.edu.sg</p>
 	
-<p><strong>Mdm Ma Shaowen</strong>
-<br>Senior Teacher, Chinese Language
+	<p><strong>Senior Teacher, English Language</strong>
+<br>Ms Candice Chua
+<br>email: chua_cheng_cheng_candice@moe.edu.sg</p>
+	
+	<p><strong>Senior Teacher, Chinese Language</strong>
+<br>Ms Tang Wai San
+<br>email: tang_wai_san@moe.edu.sg</p>
+	
+	<p><strong>Senior Teacher, Chinese Language</strong>
+<br>Mdm Ma Shaowen
 <br>email: ma_shaowen@moe.edu.sg</p>
 	
-<p><strong>Mr Eugene Yap</strong>
-<br>Senior Teacher, Physical Education
-<br>email: eugene_yap_hern_an@moe.edu.sg</p>
+	<p><strong>Senior Teacher, Tamil Language</strong>
+<br>Mrs Gayathiri Anasooya
+<br>email: gayathiri_anasooya_mohanaruben@moe.edu.sg</p>
+	
+	<p><strong>Senior Teacher, Lower Primary Learners</strong>
+<br>Mrs Joanna Kong
+<br>email: hang_siew_mei_joanna@moe.edu.sg</p>
+	
+	<p><strong>Senior Teacher, Mathematics (Internal)</strong>
+<br>Mdm Noorfaezah Sadon
+<br>email: noorfaezah_sadon@moe.edu.sg</p>
+	
+	<p><strong>Senior Teacher, Educational Support (Internal)</strong>
+<br>Mrs Sharon Choong
+<br>email: leong_seok_han_sharon@moe.edu.sg</p>
 </div>
 </li></ul>
