@@ -99,7 +99,7 @@ div {text-align: center;}
 <input id="accordion3" type="checkbox">
 <label for="accordion3"><h4 style="color:Blue">Level Head/Subject Head/Assistant Year Head</h4></label>
 <div>
-<p><strong>Level Head, English Language &amp; Social Studies</strong>
+<p><strong>Level Head, English Language and Social Studies</strong>
 <br>Mr Mohammad Shaifullizan Bin Sapieah
 <br>email: mohammad_shaifullizan_sapi@moe.edu.sg</p>
 	
@@ -117,7 +117,7 @@ div {text-align: center;}
 	
 <p><strong>Subject Head,  Chinese Language (Internal)</strong>
 <br>Ms Chang Tan Ling
-<br>Email: chang_tan_ling@moe.edu.sg</p>
+<br>email: chang_tan_ling@moe.edu.sg</p>
 
 <p><strong>Subject Head, Physical Education</strong>
 <br>Mr Chua Kok Leong Peter
@@ -127,10 +127,21 @@ div {text-align: center;}
 <br>Mrs Christina Muru
 <br>email: christina_s_zaccheus@moe.edu.sg</p>
 	
-<p><strong></strong>
-<br>
-<br></p>
+<p><strong>Subject Head, Student Well-Being</strong>
+<br>Ms Thang Yun Xuan
+<br>email: thang_yun_xuan@moe.edu.sg</p>
 
+	<p><strong>Subject Head, Assessment</strong>
+<br>Mdm Prema
+<br>email: prema_a@moe.edu.sg</p>
+	
+	<p><strong>Assistant Year Head</strong>
+<br>Mr Joshua Kum Han Wen
+<br>email: kum_han_wen@moe.edu.sg</p>
+	
+	<p><strong>Assistant Year Head (Internal)</strong>
+<br>Ms Hailey Tan Yan Yi
+<br>email: tan_yan_yi@moe.edu.sg</p>
 </div>
 </li><li>
 
