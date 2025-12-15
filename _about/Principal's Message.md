@@ -4,22 +4,24 @@ permalink: /about/principals-message/
 description: ""
 variant: markdown
 ---
-<img src="/images/tony_tan.jpg" style="width:210px">
+<img src="/images/albert_chia.jpg" style="width:210px">
 
-**_Learning Together, Growing Together, Sparkling Together_**
+**_Nurturing the Sparkle: Evidence-Based Learning for Every Riverian_**
 
-At the heart of Riverside Primary School lies a simple yet powerful belief: every child possesses unique potential waiting to be discovered and nurtured. As educators, we are privileged to guide our Riverians on their transformative educational journey, inspiring joy in learning and fostering an environment where curiosity thrives.
+As I step into the role of Principal at Riverside Primary School, I am deeply grateful to Mr Tony Tan for his dedicated leadership and the strong foundation he has built for our school community. His commitment to nurturing every child's unique potential and fostering a culture of excellence has positioned Riverside Primary as a place where learning truly comes alive. I am honoured to build upon this legacy as we continue our journey together.
 
-Our approach to education is holistic and forward-looking. We seamlessly integrate Educational Technology (EdTech) to create dynamic, interactive learning experiences that empower our students to take ownership of their educational journey. Through Assessment for Learning (AfL), we cultivate reflective learners who understand their strengths and embrace areas for growth, developing resilience and confidence along the way.
+Our school's vision remains steadfast: "The Best from Each, A Better Future for All." This vision is brought to life through our SPARKLE Values ([https://www.riversidepri.moe.edu.sg/about/sparkle-values/](https://www.riversidepri.moe.edu.sg/about/sparkle-values/)), which form the cornerstone of who we are as Riverians.&nbsp; As we move forward, my vision is to ensure that every Riverian owns their learning with joy and retains that bright sparkle in their eyes throughout their six years with us. To achieve this, we will ground our approach in the Science of Learning—evidence-based principles that illuminate how children learn best and enable us to create truly transformative educational experiences.
 
-At Riverside Primary, education extends beyond academic excellence. We focus on developing well-rounded individuals through our comprehensive Character and Citizenship Education (CCE) programmes and emphasis on 21st Century Competencies (21CC). Our SPARKLE Values guide Riverians in becoming responsible citizens who contribute meaningfully to Singapore's future.
+Our focus will be fourfold. First, we will strive to create&nbsp;an environment where our Riverians can be empowered with the agency to make informed choices about their learning. This empowerment transforms them into confident, self-directed learners who can adapt and thrive in any situation.&nbsp; Second,&nbsp;we will strengthen our Riverians' socio-emotional learning, recognising that emotional intelligence and self-awareness are essential foundations for academic success and personal wellbeing. Third, we will continue developing their 21st Century Competencies, equipping them with the critical thinking, communication, collaboration, and creativity skills needed to thrive in tomorrow's world. Finally, and most importantly, we will empower our teachers as future-oriented educators who employ evidence-based teaching practices that leverage each Riverian's unique strengths and interests whilst nurturing their capacity for self-directed learning.
 
-Our school is more than an institution of learning—it is a vibrant community where students, parents, and teachers collaborate to create an inclusive and nurturing environment. This partnership is fundamental to our success in bringing out the best in each Riverian.
+When teachers understand the Science of Learning—how memory works, how motivation develops, how practice leads to mastery—they can design learning experiences that are not only effective but also deeply engaging. By recognising and building upon each child's individual strengths and interests, and by teaching them to recognise these for themselves, we create pathways for every Riverian to experience success, develop confidence, and discover the joy of learning. More importantly, we equip them with the tools to continue learning independently, long after they leave our school.
 
-Our motto, "Learning Together, Growing Together, Sparkling Together," reflects our commitment to igniting a lifelong passion for learning while building our students' confidence and character. It embodies our vision: "The Best from Each, A Better Future for All."
+Our school remains a vibrant community where students, parents, and teachers work hand in hand. This partnership is essential as we prepare our Riverians not just for examinations, but for life itself. Together, we will nurture learners who are curious, compassionate, and capable—young people who understand themselves as learners and can take charge of their own growth, contributing meaningfully to Singapore's future whilst maintaining the wonder and enthusiasm that makes childhood learning so magical.
 
-Together, we will continue to work hand in hand with our parents and community to prepare our Riverians not just for academic success, but for life itself—equipping them with the knowledge, skills, and values to thrive in an ever-evolving world.
+"Learning Together, Growing Together, Sparkling Together" is more than our motto—it is our promise to every child who walks through our doors. Together, let us ensure that the sparkle in their eyes never dims, but grows brighter with each discovery, each achievement, and each step forward on their learning journey—a journey they increasingly navigate with confidence, purpose, and joy.
+
+We cannot become what we want to be by remaining what we are -  &nbsp;**_Max DePree_**
 
 
-Tony Tan  
+Albert Chia  
 Principal
