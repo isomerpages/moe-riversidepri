@@ -10,21 +10,21 @@ Centre Head - Ms Yvonne<br>
 Deputy Centre Head - Ms Farlyanna
 
 #### English Language Teachers
-Ms Ezza (Level Head)<br>
-Ms Feline (Senior Teacher)<br>
-Ms Hanah (Senior Teacher - Child Development)<br>
-Ms Amy<br>
-Ms Ana<br>
-Ms Ashwini<br>
-Ms Eli<br>
-Ms Hazwani<br>
-Ms Izzah<br>
-Ms May May<br>
-Ms Sok Chin<br>
-Ms Suria<br>
-Ms Syafiqah<br>
-Ms Syahira<br>
-Ms Yasmin<br>
+Ms Ezza (Level Head)  
+Ms Feline (Senior Teacher)  
+Ms Hanah (Senior Teacher - Child Development)  
+Ms Amy  
+Ms Ana  
+Ms Ashwini  
+Ms Eli  
+Ms Ginny  
+Ms Hazwani  
+Ms Izzah  
+Ms May May  
+Ms Suria  
+Ms Syafiqah  
+Ms Syahira  
+Ms Yasmin
 
 
 #### Mother Tongue Language Teachers
