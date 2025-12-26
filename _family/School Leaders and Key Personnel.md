@@ -15,9 +15,9 @@ div {text-align: center;}
 <input id="accordion1" type="checkbox">
 <label for="accordion1"><h4 style="color:Blue">School Leaders</h4></label>
 <div align="centre">
-<p><img style="width:210px;height:247px;" src="/images/tony_tan.jpg"><strong>Mr Tony Tan</strong>
+<p><img style="width:210px;height:247px;" src="/images/Mr_albert_chia.jpg"><strong>Mr Albert Chia</strong>
 <br>Principal
-<br>email: tan_choon_kheng@schools.gov.sg</p>
+<br>email: albert_chia@schools.gov.sg</p>
 
 <p><img style="width:210px;height:247px;" src="/images/regina_khoo.jpg">
 <strong>Mdm Regina Khoo</strong>
