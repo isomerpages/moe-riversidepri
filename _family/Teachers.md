@@ -233,7 +233,6 @@ variant: markdown
 <p><strong>Ms Chin Shu Hui</strong><br>Email: chin_shu_hui@moe.edu.sg</p>
 <p><strong>Mr Chong Boon Hing</strong><br>Email: chong_boon_hing@moe.edu.sg</p>
 <p><strong>Mrs Eity Norhyezah Asyurah</strong> <br>Email: eity_norhyezah_asyurah@moe.edu.sg</p>
-<p><strong>Mdm Siti Suhaida Surir</strong> <br>Email: siti_suhaida_surir@moe.edu.sg</p>
 <p><strong>Mdm Ardriza Isnin</strong> <br>Email: ardriza_isnin@moe.edu.sg</p>
 <p><strong>Mdm Hasnah Misnor</strong> <br>Email: hasnah_misnor@moe.edu.sg</p>
 <p><strong>Mdm Sharifah Munirah</strong> <br>Email: sharifah_munirah_syed_ahmad@moe.edu.sg</p>
