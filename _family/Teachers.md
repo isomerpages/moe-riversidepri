@@ -23,7 +23,7 @@ variant: markdown
 <strong>Mdm Zawiyah</strong><br>Email: zawiyah_kosman@moe.edu.sg
 
 <p></p><h5>P1-2</h5>
-<strong>Mrs Sherl Goh</strong><br>Email: tan_see_see@moe.edu.sg <br>
+<strong>Mrs Sheryl Goh</strong><br>Email: tan_see_see@moe.edu.sg <br>
 <strong>Mdm Rohani</strong><br><p></p>
 
 <p></p><h5>P1-3</h5>
