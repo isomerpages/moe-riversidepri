@@ -9,7 +9,7 @@ variant: markdown
 <input type="checkbox" id="accordion1">
 <label for="accordion1"><h5 style="color:blue">Year Heads/Assistant Year Head</h5></label>
 <div>
-<p><strong>Ms Lim Shin Gann</strong> <br>Year Head, Lower Primary <br>email: lim_shin_gann@moe.edu.sg</p><p><strong>Ms Raudah Begum Amir Khan</strong> <br>Assistant Year Head, Middle Primary <br>email: raudah_begum_amir_khan@moe.edu.sg</p><p><strong>Mrs Sharon Sakthi</strong> <br>Year Head, Middle Primary <br>email: pang_shu_fang_sharon@moe.edu.sg</p><p><strong>Mr Abdul Rahman B Amid Marican</strong> <br>Assistant Year Head, Middle Primary <br>email: rahman_marican@moe.edu.sg</p><p><strong>Mr Jeff Huang</strong> <br>Year Head, Upper Primary <br>email: huang_yaosheng@moe.edu.sg</p><p><strong>Ms Darrell Koh</strong> <br>Assistant Year Head, Upper Primary <br>email: lim_yong_en_darrell@moe.edu.sg</p>
+<p><strong>Ms Raudah Begum Amir Khan</strong> <br>Assistant Year Head, Middle Primary <br>email: raudah_begum_amir_khan@moe.edu.sg</p><p><strong>Ms Lim Shin Gann</strong> <br>Year Head, Middle Primary <br>email: lim_shin_gann@moe.edu.sg</p><p><strong>Mr Jeff Huang</strong> <br>Year Head, Upper Primary <br>email: huang_yaosheng@moe.edu.sg</p><p><strong>Ms Darrell Koh</strong> <br>Assistant Year Head, Upper Primary <br>email: lim_yong_en_darrell@moe.edu.sg</p>
 </div>
 </li>
 
@@ -17,35 +17,35 @@ variant: markdown
 <input type="checkbox" id="accordion2">
 <label for="accordion2"><h5 style="color:blue">Primary 1 Teachers</h5></label>
 <div>
-<p></p><h5>P1 Strength</h5>
-<strong>Mdm Nor Farhana</strong><br>Email: nor_farhana_hatwadi@moe.edu.sg<br>
-<strong>Mdm Nagaraj Hema</strong><br>Email: nagaraj_hema@moe.edu.sg<br>
+<p></p><h5>P1-1</h5>
+<strong>Mrs Matilda Hoe</strong><br>Email: lin_huizi_matilda@moe.edu.sg<br>
+<strong>Ms Nur'Khairiyah Binte Mohd Khairi</strong><br>Email: nur_khairiyah@moe.edu.sg<br>
+<strong>Mdm Zawiyah</strong><br>Email: zawiyah_kosman@moe.edu.sg
 
-<p></p><h5>P1 Perseverance</h5>
-<strong>Mdm Raudah Begum</strong><br>Email: raudah_begum_amir_khan@moe.edu.sg <br>
-<strong>Ms Yong Lok Ping</strong><br>Email: yong_lok_ping@moe.edu.sg<p></p>
+<p></p><h5>P1-2</h5>
+<strong>Mrs Sherl Goh</strong><br>Email: tan_see_see@moe.edu.sg <br>
+<strong>Mdm Rohani</strong><br><p></p>
 
-<p></p><h5>P1 Adaptability</h5>
-<strong>Mrs Joanna Kong</strong><br>Email: hang_siew_mei_joanna@moe.edu.sg<br>
-<strong>Ms Man Su Thing</strong><br>Email: man_su_thing@moe.edu.sg<p></p>
-
-<p></p><h5>P1 Responsibility</h5>
+<p></p><h5>P1-3</h5>
 <strong>Mrs Rathiga D/O Atamanadan</strong><br>Email: rathiga_atamanadan@moe.edu.sg<br>
-<strong>Mdm Ardriza Isnin</strong><br>Email: ardriza_isnin@moe.edu.sg<br>
-<strong>Mdm Chuah Yen Ming</strong><br>Email: chuah_yen_ming@moe.edu.sg<p></p>
+<strong>Mr Chong Boon Hing</strong><br>email: chong_boon_hing@moe.edu.sg<p></p>
 
-<p></p><h5>P1 Kindness</h5>
-<strong>Ms Ameerah Sharainee Zain Sha</strong><br>Email: ameerah_sharainee_zain_sha@moe.edu.sg<br>
-<strong>Ms Thio Su Ping</strong><br>Email: thio_su_ping@moe.edu.sg<p></p>
+<p></p><h5>P1-4</h5>
+<strong>Mrs Normala Alex</strong><br>Email: normala_sarman@moe.edu.sg<br>
+<strong>Mr Seow Soon Kiat</strong><br>Email: seow_soon_kiat@moe.edu.sg<p></p>
 
-<p></p><h5>P1 Leadership</h5>
-<strong>Ms Sandra Ong</strong><br>Email: ong_li_hong_sandra@moe.edu.sg<br>
-<strong>Ms Maisurah Bte Saini</strong><br>Email: maisurah_saini@moe.edu.sg<p></p>
+<p></p><h5>P1-5</h5>
+<strong>Ms Khalisah Suherman</strong><br>Email: khalisah_suherman@moe.edu.sg<br>
+<strong>Ms Chin Shu Hui</strong><br>Email: chin_shu_hui@moe.edu.sg<br>
+<strong>Ms Pearly Yeo</strong><br>Email: <p></p>
 
-<p></p><h5>P1 Enthusiasm</h5>
-<strong>Mdm Jacqueline Kho</strong><br>Email: kho_ee_ling_jacqueline@moe.edu.sg<br>
-<strong>Ms Nur'Khairiyah Binte Mohd Khairi</strong><br>Email: nur_khairiyah@moe.edu.sg
-<p></p>
+<p></p><h5>P1-6</h5>
+<strong>Mdm Sabrina Bte Sabtu</strong><br>sabrina_sabtu@moe.edu.sg<br>
+<strong>Ms Mohanapreyaa</strong><br>Email: v_s_mohanapreyaa@moe.edu.sg<p></p>
+
+<p></p><h5>P1-7</h5>
+<strong>Mrs Azura</strong><br>Email: nur_azura_mohamed_zaid@moe.edu.sg<br>
+<strong>Mr Hairil Asraf</strong><br>Email: muhammad_hairil_asraf@moe.edu.sg<br>
 </div>
 </li>
 	
@@ -54,17 +54,18 @@ variant: markdown
 <label for="accordion3"><h5 style="color:blue">Primary 2 Teachers</h5></label>
 <div>
 <h5>P2 Strength</h5>
-<strong>Mrs Normala Alex</strong><br>Email: normala_sarman@moe.edu.sg<br>
-<strong>Mdm Aslinda Abdullah</strong><br>Email: aslinda_abdullah@moe.edu.sg<br>
-<strong>Mdm Dzuraiha</strong><br>Email: dzuraiha_mohd_dzulqhifly@moe.edu.sg
+<strong>Mdm Nor Farhana Hatwadi</strong><br>Email: nor_farhana_hatwadi@moe.edu.sg<br>
+<strong>Mdm Nagaraj Hema</strong> <br>Email: nagaraj_hema@moe.edu.sg<br>
+<strong>Mdm Seah Si Ming</strong> <br>Email:seah_si_ming@moe.edu.sg
 
 <p></p><h5>P2 Perseverance</h5>
-<strong>Mrs Matilda Hoe</strong><br>Email: lin_huizi_matilda@moe.edu.sg <br>
-<strong>Mr Seow Soon Kiat</strong><br>Email: seow_soon_kiat@moe.edu.sg<p></p>
+<strong>Mdm Aslinda Abdullah</strong><br>Email: aslinda_abdullah@moe.edu.sg<br>
+<strong>Ms Yong Lok Ping</strong><br>Email: yong_lok_ping@moe.edu.sg<p></p>
 
 <p></p><h5>P2 Adaptability</h5>
-<strong>Mdm Ngo Sook Peng</strong><br>Email: ngo_sook_peng@moe.edu.sg<br>
-<strong>Mdm Hasnah Misnor</strong><br>Email: hasnah_misnor@moe.edu.sg<p></p>
+<strong>Mrs Joanna Kong</strong><br>Email: hang_siew_mei_joanna@moe.edu.sg<br>
+<strong>Ms Man Su Thing Jamie</strong> <br>Email: man_su_thing@moe.edu.sg<p></p>
+<p></p>
 
 <p></p><h5>P2 Responsibility</h5>
 <strong>Mdm Siti Suhaida</strong><br>Email: siti_suhaida_surir@moe.edu.sg<p></p>
@@ -94,7 +95,7 @@ variant: markdown
 
 <p></p><h5>P3 Perseverance</h5>
 <strong>Mdm Huang Wenjun</strong><br>Email: huang_wenjun@moe.edu.sg<br>
-<strong>Mr Chong Boon Hing</strong><br>email: chong_boon_hing@moe.edu.sg<p></p>
+
 
 <p></p><h5>P3 Adaptability</h5>
 <strong>Mdm Rohaidah</strong><br>Email: rohaidah_mohd_taib@moe.edu.sg<br>
