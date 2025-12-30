@@ -36,8 +36,7 @@ variant: markdown
 
 <p></p><h5>P1-5</h5>
 <strong>Ms Khalisah Suherman</strong><br>Email: khalisah_suherman@moe.edu.sg<br>
-<strong>Ms Chin Shu Hui</strong><br>Email: chin_shu_hui@moe.edu.sg<br>
-<strong>Ms Pearly Yeo</strong><br>Email: <p></p>
+<strong>Ms Chin Shu Hui</strong><br>Email: chin_shu_hui@moe.edu.sg <p></p>
 
 <p></p><h5>P1-6</h5>
 <strong>Mdm Sabrina Bte Sabtu</strong><br>sabrina_sabtu@moe.edu.sg<br>
