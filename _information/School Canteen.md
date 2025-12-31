@@ -31,19 +31,19 @@ As part of promoting healthy living and the habit of drinking plain water among 
     <td>2</td>
     <td>Chinese Rice Stall</td>
     <td>Mdm Cheong Pui Feng</td>
-		<td>Please Click <a href="/files/STALL_2_Chinese_Rice_Stall_Menu.pdf" target="blank"> Here</a></td>
+		<td>Please Click <a href="/files/Stall_2_Chinese_Rice_Menu_31122025.pdf" target="blank"> Here</a></td>
   </tr>
   <tr>
     <td>3</td>
     <td>Western Food</td>
     <td>Mdm Rozita</td>
-		<td>Please Click <a href="/files/2025_STALL_3_Halal_Western_Food_Menu.pdf" target="blank"> Here</a></td>
+		<td>Please Click <a href="/files/Stall_3_Western_Menu_31122025.pdf" target="blank"> Here</a></td>
   </tr>
   <tr>
     <td>4</td>
     <td>Malay Noodles</td>
     <td>Mdm Sofia Suzan</td>
-		<td>Please Click <a href="/files/STALL_4_Menu_update_on_27_5_25.pdf" target="blank"> Here</a></td>
+		<td>Please Click <a href="/files/Stall_4_Malay_Noodle_Menu_31122025.pdf" target="blank"> Here</a></td>
   </tr>	
   <tr>
     <td>5</td>
@@ -55,7 +55,7 @@ As part of promoting healthy living and the habit of drinking plain water among 
     <td>6</td>
     <td>Malay&nbsp;Rice</td>
     <td>Mdm Srihati</td>
-		<td>Please Click <a href="/files/STALL_6_MENU_Upated_7_4_25.pdf" target="blank"> Here</a></td>
+		<td>Please Click <a href="/files/Stall_6_Malay_Rice_Menu_31122025.pdf" target="blank"> Here</a></td>
   </tr>	
 </tbody></table>
 
