@@ -122,7 +122,7 @@ Address: 4012 Ang Mo Kio Ave 10, #01-09 Techplace 1, Singapore 569628<br>
 <b>LUNCH TIME:</b> 1 PM – 2 PM (Please do not disturb)<br>
 <table>
   <tbody><tr>
-			<th style="text-align:center" colspan="7">November 2025</th></tr>
+			<th style="text-align:center" colspan="7">Janurary 2026</th></tr>
 		<tr border="1'">
     <th border="1'">Monday</th>
     <th>Tuesday</th>
@@ -131,32 +131,39 @@ Address: 4012 Ang Mo Kio Ave 10, #01-09 Techplace 1, Singapore 569628<br>
     <th>Friday</th>
   </tr>
   <tr>
-    <td>3<br>Closed<br></td>
-    <td>4<br>Closed<br></td>
+    <td><br><br></td>
+    <td><br><br></td>
+    <td><br><br></td>
+    <td>1<br>PH: New Year's Day Closed<br></td>
+    <td>2<br>Closed<br></td>
+  </tr>
+  <tr>
     <td>5<br>Closed<br></td>
     <td>6<br>Closed<br></td>
     <td>7<br>Closed<br></td>
+    <td>8<br>Closed<br></td>
+    <td>9<br>Closed<br></td>
   </tr>
   <tr>
-    <td>10<br>Open<br>8 - 5pm</td>
-    <td>11<br>Closed<br></td>
-    <td>12<br>Open<br>8 - 5pm</td>
+    <td>12<br>Closed<br></td>
     <td>13<br>Open<br>8 - 5.30pm</td>
     <td>14<br>Open<br>8 - 5pm</td>
+    <td>15<br>Closed<br></td>
+    <td>16<br>Closed<br></td>
   </tr>
   <tr>
-    <td>17<br>Closed<br></td>
-    <td>18<br>Closed<br></td>
-    <td>19<br>Closed<br></td>
-    <td>20<br>Closed<br></td>
-    <td>21<br>Closed<br></td>
+    <td>19<br>Open<br>8 - 5pm</td>
+    <td>20<br>Open<br>8 - 5.30pm</td>
+		<td>21<br>Open<br>8 - 5pm</td>
+		<td>22<br>Closed<br></td>
+		<td>23<br>Closed<br></td>
   </tr>
-  <tr>
-    <td>24<br>Open<br>8 - 5pm</td>
-    <td>25<br>Open<br>8 - 5.30pm</td>
-		<td>26<br>Open<br>2.30 - 5pm</td>
-		<td>27<br>Open<br>8 - 5.30pm</td>
-		<td>28<br>Open<br>8 - 5pm</td>
+		  <tr>
+    <td>26<br>Closed<br></td>
+    <td>27<br>Closed<br></td>
+		<td>28<br>Closed<br></td>
+		<td>29<br>Closed<br></td>
+		<td>30<br>Closed<br></td>
   </tr>
 </tbody></table>
 <b>Buddy Clinic </b>(when clinic is closed)<br>
