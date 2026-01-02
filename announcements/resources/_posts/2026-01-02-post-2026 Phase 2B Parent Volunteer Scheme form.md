@@ -8,7 +8,6 @@ image: ""
 variant: tiptap
 ---
 <p>2026 Phase 2B Parent Volunteer Scheme form for children registering for
-Primary One in 2027 and entering Primary One in 2028.&nbsp;
-<br>
-<br><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/rsp2026phase2bpv</a>
+Primary One in 2027 and entering Primary One in 2028.&nbsp;</p>
+<p><a href="https://go.gov.sg/rsp2026phase2bpv" rel="noopener nofollow" target="_blank">Registration Form</a>
 </p>
