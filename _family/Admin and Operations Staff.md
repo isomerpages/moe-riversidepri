@@ -26,6 +26,7 @@ If you wish to contact our Support and Administrative Staff, please email to&nbs
 <label for="accordion2"><h5 style="color:blue">Operations Staff</h5></label>
 <div>
 <b>Mr Teo Teck Lam</b><br>Operations Manager<br><br>
+<b>Mr Hamran Mohd Zain</b><br>Operations Manager<br><br>
 <b>Mdm Tan Ai Tuan</b><br>Operations Support Officer<br><br>
 <b>Mdm Koh Chu Tee</b><br>Operations Support Officer<br><br>
 <b>Mdm Liow Luan Wah</b><br>Operations Support Officer<br><br>
