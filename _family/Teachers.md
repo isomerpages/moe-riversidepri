@@ -17,22 +17,22 @@ variant: markdown
 <input type="checkbox" id="accordion2">
 <label for="accordion2"><h5 style="color:blue">Primary 1 Teachers</h5></label>
 <div>
-<p></p><h5>P1-1</h5>
+<h5>P1-1</h5>
 <strong>Mrs Matilda Hoe</strong><br>Email: lin_huizi_matilda@moe.edu.sg<br>
 <strong>Ms Nur'Khairiyah Binte Mohd Khairi</strong><br>Email: nur_khairiyah@moe.edu.sg<br>
 <strong>Mdm Zawiyah</strong><br>Email: zawiyah_kosman@moe.edu.sg
 
-<p></p><h5>P1-2</h5>
+<h5>P1-2</h5>
 <strong>Mrs Sheryl Goh</strong><br>Email: sheryl_tan@moe.edu.sg <br>
-<strong>Mdm Rohani</strong><br>Email: rohani_ishak@moe.edu.sg<p></p>
+<strong>Mdm Rohani</strong><br>Email: rohani_ishak@moe.edu.sg
 
-<p></p><h5>P1-3</h5>
+<h5>P1-3</h5>
 <strong>Mrs Rathiga D/O Atamanadan</strong><br>Email: rathiga_atamanadan@moe.edu.sg<br>
-<strong>Mr Chong Boon Hing</strong><br>Email: chong_boon_hing@moe.edu.sg<p></p>
+<strong>Mr Chong Boon Hing</strong><br>Email: chong_boon_hing@moe.edu.sg
 
-<p></p><h5>P1-4</h5>
+<h5>P1-4</h5>
 <strong>Mrs Normala Alex</strong><br>Email: normala_sarman@moe.edu.sg<br>
-<strong>Mr Seow Soon Kiat</strong><br>Email: seow_soon_kiat@moe.edu.sg<p></p>
+<strong>Mr Seow Soon Kiat</strong><br>Email: seow_soon_kiat@moe.edu.sg
 
 <p></p><h5>P1-5</h5>
 <strong>Ms Khalisah Suherman</strong><br>Email: khalisah_suherman@moe.edu.sg<br>
