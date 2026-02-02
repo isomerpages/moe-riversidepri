@@ -12,26 +12,26 @@ variant: markdown
 <input type="checkbox" id="accordion1">
 <label for="accordion1"><h5 style="color:blue">Goals of Sexuality Education</h5></label>
 <div>
-	2. The Goals of Sexuality Education are:
+	2. The <b>Goals</b> of Sexuality Education are:
 	<table>
 		<tbody><tr>
 			<td>a.</td>
-			<td>To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate knowledge on human sexuality and the consequences of sexual activity;</td>
+			<td>To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate <u>knowledge</u> on human sexuality and the consequences of sexual activity;</td>
 		</tr>
 		<tr>
 			<td>b.</td>
-			<td>To help students know themselves and build healthy and rewarding relationships through the acquisition of social and emotional skills of self-awareness, management of their thoughts, feelings and behaviours, development of empathy for others, possession of effective communication, problem-solving and decision-making skills; and</td>
+			<td>To help students know themselves and build healthy and rewarding relationships through the acquisition of <u>social and emotional skills</u> of self-awareness, management of their thoughts, feelings and behaviours, development of empathy for others, possession of effective communication, problem-solving and decision-making skills; and</td>
 		</tr>
 		<tr>
 			<td>c.</td>
-			<td>To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of positive mainstream values and attitudes about sexuality.  </td>
+			<td>To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of <u>positive mainstream values and attitudes</u> about sexuality.  </td>
 		</tr>	
 	</tbody></table>
 	</div>
 </li><li>
 <input type="checkbox" id="accordion2">
 <label for="accordion2"><h5 style="color:blue">Key Messages of Sexuality Education</h5></label>
-<div>3. The Key Messages of Sexuality Education are:
+	<div>3. The <b>Key Messages</b> of Sexuality Education are:
 	<table><tbody><tr>
 		<td>a.</td>
 		<td>Love and respect yourself as you love and respect others;</td>
@@ -127,9 +127,6 @@ Lesson 2<br>(60 min)</td>
 		<td>In this lesson, students will learn healthy ways to manage the emotions arising from infatuation and recognise the importance of respecting the boundaries of any relationship. They will also recognise the negative impact of teasing their peers who may be experiencing the feelings of infatuation and learn to behave maturely towards each other</td>
 		<td>Term 4</td>
 		</tr><tr>
-		<td>Did you know?<br>(60 min)</td>
-		<td>This lesson focuses on helping students to know what pornography is and how it can affect themselves and others. Students will learn the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy ‘Stop-Think-Do’.<br><br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</td>
-		<td>Term 4</td>
 		</tr></tbody></table>
 	</div>
 	</li><li>
@@ -140,7 +137,7 @@ Lesson 2<br>(60 min)</td>
 		<td>Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers.</td>
 		</tr><tr>
 		<td>9</td>
-		<td>Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form is also downloadable <a href="/files/2024_SEd_Letter_to_Parents.pdf" target="blank">here</a>. The completed opt-out form is to be submitted by 28 February 2025.</td>
+		<td>Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form is also downloadable <a href="/files/2024_SEd_Letter_to_Parents.pdf" target="blank">here</a>. The completed opt-out form is to be submitted by <b>Friday, 27 February 2026</b>.</td>
 		</tr><tr>
 		<td>10</td>
 		<td>Parents can contact Mrs Christina Muru (Subject Head, Student Management) at (tel) 63654490 or (email) riverside_ps@moe.edu.sg for discussion or to seek clarification about the school’s Sexuality Education programme.</td>
