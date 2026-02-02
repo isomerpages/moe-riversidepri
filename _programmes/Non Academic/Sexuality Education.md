@@ -31,7 +31,7 @@ variant: markdown
 </li><li>
 <input type="checkbox" id="accordion2">
 <label for="accordion2"><h5 style="color:blue">Key Messages of Sexuality Education</h5></label>
-<div>3. The Key Messages of Sexuality Education are:
+	<div>3. The <b>Key Messages</b> of Sexuality Education are:
 	<table><tbody><tr>
 		<td>a.</td>
 		<td>Love and respect yourself as you love and respect others;</td>
@@ -127,9 +127,6 @@ Lesson 2<br>(60 min)</td>
 		<td>In this lesson, students will learn healthy ways to manage the emotions arising from infatuation and recognise the importance of respecting the boundaries of any relationship. They will also recognise the negative impact of teasing their peers who may be experiencing the feelings of infatuation and learn to behave maturely towards each other</td>
 		<td>Term 4</td>
 		</tr><tr>
-		<td>Did you know?<br>(60 min)</td>
-		<td>This lesson focuses on helping students to know what pornography is and how it can affect themselves and others. Students will learn the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy ‘Stop-Think-Do’.<br><br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</td>
-		<td>Term 4</td>
 		</tr></tbody></table>
 	</div>
 	</li><li>
@@ -140,7 +137,7 @@ Lesson 2<br>(60 min)</td>
 		<td>Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers.</td>
 		</tr><tr>
 		<td>9</td>
-		<td>Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form is also downloadable <a href="/files/2024_SEd_Letter_to_Parents.pdf" target="blank">here</a>. The completed opt-out form is to be submitted by 28 February 2025.</td>
+		<td>Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form is also downloadable <a href="/files/2024_SEd_Letter_to_Parents.pdf" target="blank">here</a>. The completed opt-out form is to be submitted by 2Friday, 27 February 2026.</td>
 		</tr><tr>
 		<td>10</td>
 		<td>Parents can contact Mrs Christina Muru (Subject Head, Student Management) at (tel) 63654490 or (email) riverside_ps@moe.edu.sg for discussion or to seek clarification about the school’s Sexuality Education programme.</td>
