@@ -50,7 +50,7 @@ variant: markdown
 	</div>
 	</li><li>
 <input type="checkbox" id="accordion3">
-<label for="accordion3"><h5 style="color:blue">Overview of Riverside Primary School's Sexuality Education Programme for 2025</h5></label>
+<label for="accordion3"><h5 style="color:blue">Overview of Riverside Primary School's Sexuality Education Programme for 2026</h5></label>
 <div>
 <table>
 <tbody><tr>
@@ -76,7 +76,7 @@ variant: markdown
 	<td>Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. In SEd, students learn to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters</td>
 	</tr>
 	</tbody></table>
-At Riverside Primary School, the following Sexuality Education lessons will be taught in <b>2025:<br><br>Primary 5</b><br>
+At Riverside Primary School, the following Sexuality Education lessons will be taught in <b>2026:<br><br>Primary 5</b><br>
 <table border="1">
 	<tbody><tr>
 		<th>CCE (FTGP) THEME</th>
