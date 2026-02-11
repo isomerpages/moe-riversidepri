@@ -21,10 +21,10 @@ Ms Ginny
 Ms Hazwani  
 Ms Izzah  
 Ms May May  
-Ms Suria  
 Ms Syafiqah  
 Ms Syahira  
-Ms Yasmin
+Ms Yasmin<br>
+Ms Sok Chin
 
 
 #### Mother Tongue Language Teachers

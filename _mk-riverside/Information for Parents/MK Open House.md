@@ -5,5 +5,4 @@ variant: markdown
 description: ""
 third_nav_title: Information for Parents
 ---
-<a target="blank" href="https://form.gov.sg/67440d2352ba8c426f31566e"><img style="width: 100%" height="auto" width="100%" src="/images/MK/Watch_this_space.png"></a><br>
-<br>View our Open House Slides <a target="blank" href="/files/MK%20files/MK_Open_House_2025.pdf">here</a>!
+<a target="blank" href="https://mkrs-openhouse2026.app.entry.gov.sg/form/6a899ebc-f734-4cee-8bbd-d9329ff23fb0"><img height="auto" width="100%" src="/images/MKOpenHouse2026.jpg"></a><br>Sign up for our Open House <a target="blank" href="https://mkrs-openhouse2026.app.entry.gov.sg/form/6a899ebc-f734-4cee-8bbd-d9329ff23fb0">here</a>!
