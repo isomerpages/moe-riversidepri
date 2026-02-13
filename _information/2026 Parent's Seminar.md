@@ -1,6 +1,6 @@
 ---
 title: 2026 Parent's Seminar
-permalink: /information/2025-parents-seminar/
+permalink: /information/parents-seminar/
 description: ""
 variant: markdown
 ---
