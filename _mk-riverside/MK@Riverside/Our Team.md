@@ -20,12 +20,11 @@ Ms Eli
 Ms Ginny  
 Ms Hazwani  
 Ms Izzah  
-Ms May May  
+Ms May May<br> 
+Ms Sok Chin<br>
 Ms Syafiqah  
 Ms Syahira  
-Ms Yasmin<br>
-Ms Sok Chin
-
+Ms Yasmin
 
 #### Mother Tongue Language Teachers
 Zhou Rui Lao Shi (Senior Teacher)<br>
