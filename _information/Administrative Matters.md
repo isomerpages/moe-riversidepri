@@ -76,7 +76,7 @@ Please indicate the student’s name, UIN and school name on the reverse side of
 	<div>
 <p>Every student in Riverside Primary School is covered under the MOE GPAInsurance Plan under Income Insurance Limited (Income Insurance). This plan provides accident coverage for all school activities conducted both in and out of school for the period 1 January 2024 to 31 December 2026. 
 <br></p>
-<p>Link: GPA Factsheet 2025 (Please Click <a href="/files/product_fact_sheet_year_2026.pdf" target="blank"> Here</a>)<br>
+<p>Link: GPA Factsheet 2026 (Please Click <a href="/files/product_fact_sheet_year_2026.pdf" target="blank"> Here</a>)<br>
 	
 Submission link for parents :<br>
 <a target="blank" href="https://studentgpa.incomegroupins.com.sg/#/">https://studentgpa.incomegroupins.com.sg/#/</a></p>
