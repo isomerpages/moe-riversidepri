@@ -9,7 +9,7 @@ variant: markdown
 <input id="accordion1" type="checkbox">
 <label for="accordion1"><h5 style="color:blue">Payment of Schools and Miscellaneous Fees</h5></label>
 <div>
-		<p>The monthly fees include the school fees and miscellaneous fees. The amount will differ based on your child's nationality and the type of school they attend.<br> 
+		<p>The monthly fees include the school fees and miscellaneous fees. The amount will differ based on your child's nationality and <a target="blank" href="https://www.moe.gov.sg/education-in-sg/our-schools/types-of-schools">the type of school</a> they attend.<br> 
 <br>The monthly fees are exclusive of GST for Singapore Citizens and Singapore Permanent Residents as the applicable GST is subsidised by MOE. The fees for International Students are inclusive of GST.
 <br><br>To find out your child's monthly school fees, please click on the below link.<br>
 <a target="blank" href="https://www.moe.gov.sg/financial-matters/fees">https://www.moe.gov.sg/financial-matters/fees</a>			
