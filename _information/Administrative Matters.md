@@ -9,38 +9,50 @@ variant: markdown
 <input id="accordion1" type="checkbox">
 <label for="accordion1"><h5 style="color:blue">Payment of Schools and Miscellaneous Fees</h5></label>
 <div>
-		<p>Your child's monthly school fees will differ based on their nationality and the type of school they attend.<br> 
-            <b>Note</b>:</p>
-<ul>
-<li>The Association of Southeast Asian Nations (ASEAN) countries include Brunei Darussalam, Cambodia, Indonesia, Lao PDR, Malaysia, Myanmar, the Philippines, Singapore, Thailand, and Vietnam.</li>
-<li>These schools and institutions charge varying fees: Independent schools, specialised independent schools, Special Education (SPED) schools, specialised schools, polytechnics, the Institute of Technical Education (ITE) and Arts Institutions. Visit their respective websites for the latest fee information.</li>
-</ul>
-<p>To find out your child’s monthly school fees, please click on the below link.&nbsp;</p>
-<p><a target="blank" href="https://www.moe.gov.sg/financial-matters/fees">https://www.moe.gov.sg/financial-matters/fees</a></p>
-<ul>
-<li><b>How primary school fees are structured</b></li>
-</ul>
-<p>Monthly fees in primary schools have 3 different components:</p>
-<p>1.  <b>School fees</b>&nbsp;are set by MOE and go towards government revenue. These fees are different for&nbsp;Singapore Citizens, Permanent Residents&nbsp;and international students.<br></p>
-<p>2.  <b>Miscellaneous fees</b>&nbsp;are set by MOE but go towards individual schools’ budgets and operating expenses. The same rate applies to all students, regardless of nationality.</p>
-
-<p>Singapore Citizens can choose to pay the miscellaneous fees from their Edusave account by completing the online <a target="blank" href="https://form.gov.sg/#!/5be24a1bb3f842000fdc4e59">Edusave Standing Order form</a> with either parent's SingPass login.</p>
-	
-They may also be eligible for <a target="blank" href="https://www.moe.gov.sg/financial-matters/financial-assistance">financial assistance</a> or <a target="blank" href="https://www.moe.gov.sg/financial-matters/awards-scholarships/">merit-based awards and scholarships</a>.
-
-Account holders from the following banks can sign up for the GIRO scheme with MOE through <a target="blank" href="https://www.moe.gov.sg/financial-matters/fees/egiro">eGIRO: </a>
+		<p>The monthly fees include the school fees and miscellaneous fees. The amount will differ based on your child's nationality and <a target="blank" href="https://www.moe.gov.sg/education-in-sg/our-schools/types-of-schools">the type of school</a> they attend.<br> 
+<br>The monthly fees are exclusive of GST for Singapore Citizens and Singapore Permanent Residents as the applicable GST is subsidised by MOE. The fees for International Students are inclusive of GST.
+<br><br>To find out your child's monthly school fees, please click on the below link.<br>
+<a target="blank" href="https://www.moe.gov.sg/financial-matters/fees">https://www.moe.gov.sg/financial-matters/fees</a>			
+	</p><p></p><h5>How to pay:</h5>Account holders from the following banks can sign up for the GIRO scheme with MOE through <a target="blank" href="https://www.moe.gov.sg/financial-matters/fees/egiro">eGIRO: </a>
 <br>•	Bank of China (BOC)
 <br>• Citibank
 <br>•	DBS Bank or POSB
+<br>•	Hongkong and Shanghai Banking Corporation Limited(HSBC)
+<br>• Industrial and Commercial Bank of China (ICBC)^	
+<br>•	MariBank	
 <br>•	Maybank
 <br>•	Oversea-Chinese Banking Corporation Limited (OCBC)
 <br>•	Standard Chartered Bank (SCB)
-<br>•	Hongkong and Shanghai Banking Corporation Limited(HSBC)
 <br>•	United Overseas Bank (UOB)
-<br><br>Other bank account holders will need to complete a <a target="blank" href="https://www.moe.gov.sg/-/media/files/financial-matters/fees/egiro/giro_application_form_nov2022.ashx?la=en&amp;hash=3D960AF72CE5628676A1654992A5EE12C50C317A">GIRO application form </a> and submit the original signed form to your child’s school. 
-<br><br>Other Methods of payment are as follows:
-<br>•	SGQR
-	<br>1.	Launch your preferred payment app from those shown in the bill.
+<br>^ICBC customers must use their 11-digit account number for GIRO setup
+<br><br>If you are an account holder of:
+<br>•Corporate account
+<br>•	Joint account with 2 signatories
+<br>•	OCBC joint accounts
+<br>•	Other banks
+<br>You need to complete <a target="blank" href="https://go.gov.sg/moegiroapplicationform">a hardcopy GIRO application form</a> and submit the original signed form to your child’s school. It may take up to 3 months to process once we receive the form.
+	
+<h5>Note</h5>
+	<ul><li>Child Development Account (Baby Bonus Scheme) <b>cannot</b> be used.</li>
+<li>Trust Bank and MariBank customers cannot submit hardcopy GIRO forms as these digital banks do not maintain physical customer signatures.</li>
+<li>This GIRO instruction will continue as long as your child remains in a government or government-aided school. If applicable, the same GIRO arrangement will be extended to cover the payment of:</li>
+<ul>
+<li>Enrichment programmes</li>
+<li>School charges</li>
+<li>National Examination fees (Primary School Leaving Examination and GCE examinations)</li></ul>
+<li>Find more information on <a target="blank" href="https://www.moe.gov.sg/api/media/e82dead7-d03b-4044-b79e-296e27327ae4/giro_general_information_apr2023.pdf">GIRO scheme with MOE</a>.</li></ul>
+	
+<h5>Payment Timeline</h5>
+	GIRO deductions are made on the 26th of every month from February to December.
+If the 26th is a weekend or public holiday, the deduction will happen on the next working day.
+<br>Check for the exact deduction dates on <a target="blank" href="https://www.moe.gov.sg/calendar">our calendar</a> by filtering for "GIRO deductions".
+<ul>
+	<li><b>There is no deduction in January</b> as the fees for January and February are combined into one bill for deduction in February.</li>
+<li><b>There will still be deductions in November and December</b> as the fees payable are calculated on an annual basis and spread out over a period of 12 months, including school holidays.</li></ul>	
+
+<h5>Other Methods</h5>
+•	SGQR
+<br>1.	Launch your preferred payment app from those shown in the bill.
 <br>2.	Scan the SGQR.
 <br>3.	Check that you are paying to 'Ministry of Education'.
 <br>4.	Follow the on-screen instructions.<br>
@@ -65,7 +77,15 @@ Select 'MOE - Student Bill'.<br>
 Follow the on-screen instructions.
 <br><br>•	Cash, Cheque or Cashier’s Order
 <br>You can pay by cash, cheque or cashier’s order at the school. Cheque payment or cashier's order should be made payable to ‘Ministry of Education’.
-Please indicate the student’s name, UIN and school name on the reverse side of the cheque. If your cheque is for more than one student, please state the amount for each student.
+<br>Please indicate the student’s name, UIN and school name on the reverse side of the cheque. If your cheque is for more than one student, please state the amount for each student.
+<h5>Payment Timeline</h5>
+You will receive monthly MOE bills through postal mails, except in January and December.
+<ul>
+	<li><b>Fees for January and February are billed together in February.</b> You will receive a combined bill dated 16 February.</li>
+	<li><b>Fees for November and December are billed together in November.</b> You will receive a combined bill dated 16 November. Fees payable are calculated on an annual basis and spread out over 12 months, including school holidays.</li>
+<li>Deadline for payment is 26th of the month. Unpaid fees will be carried over to the next bill.</li></ul>
+<h5>Note</h5>
+If you are paying through any of the AXS payment channels, you will see the latest fees payable from 11th of the month, except in January and December. The fees for January and December will be reflected in the bill for February and November respectively. 	
 </div>
 </li>
 
