@@ -40,6 +40,10 @@ div {text-align: center;}
 <input id="accordion2" type="checkbox">
 <label for="accordion2"><h4 style="color:Blue">Head of Department/Year Head</h4></label>
 <div>
+<p><strong>School Staff Developer</strong>
+<br>Ms Chan Yu Min Wendy
+<br>email: chan_yu_min_wendy@moe.edu.sg</p>
+
 <p><strong>Head of Department, English Language</strong>
 <br>Ms Chan Yu Min Wendy (Covering)
 <br>email: chan_yu_min_wendy@moe.edu.sg</p>
@@ -77,10 +81,6 @@ div {text-align: center;}
 <br>Ms Chung Joo Yi Korine
 <br>email: chung_joo_yi@moe.edu.sg</p>
 
-<p><strong>School Staff Developer</strong>
-<br>Ms Chan Yu Min Wendy
-<br>email: chan_yu_min_wendy@moe.edu.sg</p>
-	
 <p><strong>Year Head, Lower Primary</strong>
 <br>Ms Raudah Begum Amir Khan
 <br>email: raudah_begum_amir_khan@moe.edu.sg</p>
