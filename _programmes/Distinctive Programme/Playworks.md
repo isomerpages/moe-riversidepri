@@ -186,6 +186,4 @@ Figure 3.  Riverside's PeerWorks Model
 <img src="/images/llp07.jpg" align="left" style="width:100%;">
 <img src="/images/llp08.jpg" align="left" style="width:100%;">
 <img src="/images/llp09.jpg" align="left" style="width:100%;">
-
-	
-	</div></li></ul>
+</div></li></ul>
