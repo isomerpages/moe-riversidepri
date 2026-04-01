@@ -18,7 +18,6 @@ Thank you for visiting us at the MOE Kindergarten Open House!
 *Registration Outcome:*
 - Applicants who registered during the open registration period (23 March - 31 March) will be notified of the outcome via email by 1st June 2026.
 
-Should you have any questions, please visit <a target="blank" href="www.moe.gov.sg/preschool/moe-kindergarten">www.moe.gov.sg/preschool/moe-kindergarten</a> for more information.
+Should you have any questions, please visit <a target="blank" href="https://www.moe.gov.sg/preschool/moe-kindergarten">https://www.moe.gov.sg/preschool/moe-kindergarten</a> for more information.
 
 We look forward to welcoming your child to MOE Kindergarten!
-
