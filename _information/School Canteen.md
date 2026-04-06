@@ -49,7 +49,7 @@ As part of promoting healthy living and the habit of drinking plain water among 
     <td>5</td>
     <td>Dim Sum</td>
     <td>Mdm Tang Ching Shih</td>
-		<td>Please Click <a href="/files/STALL_5_MENU.pdf" target="blank"> Here</a></td>
+		<td>Please Click <a href="/files/Stall_5_Menu_010426.pdf" target="blank"> Here</a></td>
   </tr>	
 		  <tr>
     <td>6</td>
