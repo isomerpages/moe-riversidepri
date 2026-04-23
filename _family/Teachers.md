@@ -17,32 +17,32 @@ variant: markdown
 <input type="checkbox" id="accordion2">
 <label for="accordion2"><h5 style="color:blue">Primary 1 Teachers</h5></label>
 <div>
-<h5>P1-1</h5>
+<h5>P1 Strength</h5>
 <strong>Mrs Matilda Hoe</strong><br>Email: lin_huizi_matilda@moe.edu.sg<br>
 <strong>Ms Nur'Khairiyah Binte Mohd Khairi</strong><br>Email: nur_khairiyah@moe.edu.sg<br>
 <strong>Mdm Zawiyah</strong><br>Email: zawiyah_kosman@moe.edu.sg
 
-<h5>P1-2</h5>
+<h5>P1 Perseverance</h5>
 <strong>Mrs Sheryl Goh</strong><br>Email: sheryl_tan@moe.edu.sg <br>
 <strong>Mdm Rohani</strong><br>Email: rohani_ishak@moe.edu.sg
 
-<h5>P1-3</h5>
+<h5>P1 Adaptability</h5>
 <strong>Mrs Rathiga D/O Atamanadan</strong><br>Email: rathiga_atamanadan@moe.edu.sg<br>
 <strong>Mr Chong Boon Hing</strong><br>Email: chong_boon_hing@moe.edu.sg
 
-<h5>P1-4</h5>
+<h5>P1 Responsibility</h5>
 <strong>Mrs Normala Alex</strong><br>Email: normala_sarman@moe.edu.sg<br>
 <strong>Mr Seow Soon Kiat</strong><br>Email: seow_soon_kiat@moe.edu.sg
 
-<p></p><h5>P1-5</h5>
+<p></p><h5>P1 Kindness</h5>
 <strong>Ms Khalisah Suherman</strong><br>Email: khalisah_suherman@moe.edu.sg<br>
 <strong>Ms Chin Shu Hui</strong><br>Email: chin_shu_hui@moe.edu.sg <p></p>
 
-<p></p><h5>P1-6</h5>
+<p></p><h5>P1 Leadership</h5>
 <strong>Mdm Sabrina Bte Sabtu</strong><br>sabrina_sabtu@moe.edu.sg<br>
 <strong>Ms Mohanapreyaa</strong><br>Email: v_s_mohanapreyaa@moe.edu.sg<p></p>
 
-<p></p><h5>P1-7</h5>
+<p></p><h5>P1-Enthusiasm</h5>
 <strong>Mrs Azura</strong><br>Email: nur_azura_mohamed_zaid@moe.edu.sg<br>
 <strong>Mr Hairil Asraf</strong><br>Email: muhammad_hairil_asraf@moe.edu.sg<br>
 </div>
