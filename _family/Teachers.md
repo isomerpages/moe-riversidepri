@@ -18,7 +18,6 @@ variant: markdown
 <label for="accordion2"><h5 style="color:blue">Primary 1 Teachers</h5></label>
 <div>
 <h5>P1 Strength</h5>
-<strong>Mrs Matilda Hoe</strong><br>Email: lin_huizi_matilda@moe.edu.sg<br>
 <strong>Ms Nur'Khairiyah Binte Mohd Khairi</strong><br>Email: nur_khairiyah@moe.edu.sg<br>
 <strong>Mdm Zawiyah</strong><br>Email: zawiyah_kosman@moe.edu.sg
 
@@ -67,6 +66,7 @@ variant: markdown
 <p></p>
 
 <p></p><h5>P2 Responsibility</h5>
+<strong>Mrs Matilda Hoe</strong><br>Email: lin_huizi_matilda@moe.edu.sg<br>
 <strong>Mdm Chuah Yen Ming</strong><br>Email: chuah_yen_ming@moe.edu.sg<br>
 <strong>Mr Mani Pariasamy</strong><br>Email: mani_pariasamy_b@moe.edu.sg<p></p>
 
