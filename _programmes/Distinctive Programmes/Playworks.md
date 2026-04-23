@@ -2,7 +2,7 @@
 title: Playworks
 permalink: /programmes/distinctive-programme/playworks/
 description: ""
-third_nav_title: Distinctive Programme
+third_nav_title: Distinctive Programmes
 variant: markdown
 ---
 <br>

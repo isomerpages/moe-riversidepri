@@ -3,7 +3,7 @@ title: Learning for Life Programme (LLP) PeerWorks
 permalink: /learning-for-life-programme-llp-peerworks/
 variant: tiptap
 description: ""
-third_nav_title: Distinctive Programme
+third_nav_title: Distinctive Programmes
 ---
 <p><strong>Building Self, Supporting One Another, Serving the Community Together.</strong>
 <br>PeerWorks is one of Riverside Primary School’s Distinctive Programme,
