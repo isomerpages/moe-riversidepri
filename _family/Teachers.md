@@ -114,7 +114,7 @@ variant: markdown
 
 <p></p><h5>P3 Sincerity</h5>
 <strong>Ms Clarice Teo</strong><br>Email: clarice_teo_tze_yee@moe.edu.sg<br>
-<strong>Mdm Suraiya Abdul Latib</strong><br>Email: suraiya_abdul_latib@moe.edu.sg<p></p>
+<strong>Mdm Suraiya</strong><br>Email: suraiya_abdul_latib@moe.edu.sg<p></p>
 </div>
 </li>
 
