@@ -125,36 +125,36 @@ Address: 4012 Ang Mo Kio Ave 10, #01-09 Techplace 1, Singapore 569628<br>
   <tr>
     <td><br><br></td>
     <td><br><br></td>
+    <td><br><br></td>
+    <td><br><br></td>
     <td>1<br>Closed<br></td>
-    <td>2<br>Closed<br></td>
-    <td>3<br>Closed<br></td>
   </tr>
   <tr>
-    <td>6<br>Open<br>8 - 5pm</td>
-    <td>7<br>Open<br>8 - 5.30pm</td>
-    <td>8<br>Open<br>8 - 5pm</td>
-    <td>9<br>Open<br>8 - 5.30pm</td>
-    <td>10<br>Open<br>8 - 5pm</td>
+    <td>4<br>Open<br>8am - 5pm</td>
+    <td>5<br>Open<br>8am - 5.30pm</td>
+    <td>6<br>Open<br>8am - 5pm</td>
+    <td>7<br>Open<br>8am - 5.30pm</td>
+    <td>8<br>Open<br>Closed</td>
   </tr>
   <tr>
+    <td>11<br>Closed<br></td>
+    <td>12<br>Closed<br></td>
     <td>13<br>Closed<br></td>
     <td>14<br>Closed<br></td>
     <td>15<br>Closed<br></td>
-    <td>16<br>Closed<br></td>
-    <td>17<br>Closed<br></td>
   </tr>
   <tr>
-    <td>20<br>Open<br>8 - 5pm</td>
-    <td>21<br>Open<br>8 - 5.30pm</td>
-		<td>22<br>Open<br>8 - 5pm</td>
-		<td>23<br>Open<br>8 - 5.30pm</td>
-		<td>24<br>Open<br>8 - 5pm</td>
+    <td>18<br>Open<br>8am - 5pm</td>
+    <td>19<br>Open<br>8am - 5.30pm</td>
+		<td>20<br>Open<br>8am - 5pm</td>
+		<td>21<br>Open<br>8am - 5.30pm</td>
+		<td>22<br>Open<br>8am - 5pm</td>
   </tr>
 		  <tr>
-    <td>27<br>Closed<br></td>
-    <td>28<br>Closed<br></td>
-		<td>29<br>Closed<br></td>
-		<td>30<br>Closed<br></td>
+    <td>25<br>Closed<br></td>
+    <td>26<br>Closed<br></td>
+		<td>27<br>Closed<br></td>
+		<td>28<br>Closed<br></td>
 		<td><br><br></td>
   </tr>
 </tbody></table>
