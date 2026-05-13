@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/gifhomebanner.gif
+      background: /images/School_Website_Banner.gif
       key_highlights:
         - title: MOE Kindergarten @ Riverside
           description: Enroll now!
