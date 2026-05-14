@@ -81,7 +81,7 @@ div {text-align: center;}
 <br>Ms Chung Joo Yi Korine
 <br>email: chung_joo_yi@moe.edu.sg</p>
 
-<p><strong>Year Head, Lower Primary</strong>
+<p><strong>Year Head, Lower Primary (Covering)</strong>
 <br>Ms Raudah Begum Amir Khan
 <br>email: raudah_begum_amir_khan@moe.edu.sg</p>
 	
@@ -103,11 +103,11 @@ div {text-align: center;}
 <br>Mr Mohammad Shaifullizan Bin Sapieah
 <br>email: mohammad_shaifullizan_sapi@moe.edu.sg</p>
 	
-	<p><strong>Level Head, Mathematics</strong>
+<p><strong>Level Head, Mathematics</strong>
 <br>Ms Darrell Koh
 <br>Email: lim_yong_en_darrell@moe.edu.sg</p>
 	
-	<p><strong>Level Head, Science (Internal)</strong>
+<p><strong>Level Head, Science (Internal)</strong>
 <br>Mr Kanakarajh Raman
 <br>Email: kanakarajh_raman@moe.edu.sg</p>
 
@@ -131,15 +131,15 @@ div {text-align: center;}
 <br>Ms Thang Yun Xuan
 <br>email: thang_yun_xuan@moe.edu.sg</p>
 
-	<p><strong>Subject Head, Assessment</strong>
+<p><strong>Subject Head, Assessment</strong>
 <br>Mdm Prema
 <br>email: prema_a@moe.edu.sg</p>
 	
-	<p><strong>Assistant Year Head</strong>
+<p><strong>Assistant Year Head</strong>
 <br>Mr Joshua Kum Han Wen
 <br>email: kum_han_wen@moe.edu.sg</p>
 	
-	<p><strong>Assistant Year Head (Internal)</strong>
+<p><strong>Subject Head, Talent Management (Internal)</strong>
 <br>Ms Hailey Tan Yan Yi
 <br>email: tan_yan_yi@moe.edu.sg</p>
 </div>
@@ -150,37 +150,37 @@ div {text-align: center;}
 <div>
 <p><strong>Lead Teacher, High Ability Learners</strong>
 <br>Ms Chan Sau Mei
-<br>email: </p>
+<br>email: chan_sau_mei@moe.edu.sg</p>
 
-	<p><strong>Lead Teacher, Physical Education</strong>
+<p><strong>Lead Teacher, Physical Education</strong>
 <br>Mr Eugene Yap
 <br>email: eugene_yap_hern_an@moe.edu.sg</p>
 	
-	<p><strong>Senior Teacher, English Language</strong>
+<p><strong>Senior Teacher, English Language</strong>
 <br>Ms Candice Chua
 <br>email: chua_cheng_cheng_candice@moe.edu.sg</p>
 	
-	<p><strong>Senior Teacher, Chinese Language</strong>
+<p><strong>Senior Teacher, Chinese Language</strong>
 <br>Ms Tang Wai San
 <br>email: tang_wai_san@moe.edu.sg</p>
 	
-	<p><strong>Senior Teacher, Chinese Language</strong>
+<p><strong>Senior Teacher, Chinese Language</strong>
 <br>Mdm Ma Shaowen
 <br>email: ma_shaowen@moe.edu.sg</p>
 	
-	<p><strong>Senior Teacher, Tamil Language</strong>
+<p><strong>Senior Teacher, Tamil Language</strong>
 <br>Mrs Gayathiri Anasooya
 <br>email: gayathiri_anasooya_mohanaruben@moe.edu.sg</p>
 	
-	<p><strong>Senior Teacher, Lower Primary Learners</strong>
+<p><strong>Senior Teacher, Lower Primary Learners</strong>
 <br>Mrs Joanna Kong
 <br>email: hang_siew_mei_joanna@moe.edu.sg</p>
 	
-	<p><strong>Senior Teacher, Mathematics (Internal)</strong>
+<p><strong>Senior Teacher, Mathematics (Internal)</strong>
 <br>Mdm Noorfaezah Sadon
 <br>email: noorfaezah_sadon@moe.edu.sg</p>
 	
-	<p><strong>Senior Teacher, Educational Support (Internal)</strong>
+<p><strong>Senior Teacher, Educational Support (Internal)</strong>
 <br>Mrs Sharon Choong
 <br>email: leong_seok_han_sharon@moe.edu.sg</p>
 </div>
