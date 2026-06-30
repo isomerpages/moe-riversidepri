@@ -30,7 +30,6 @@ Ms Yasmin
 Zhou Rui Lao Shi (Senior Teacher)<br>
 Chen Lao Shi<br>
 Lin Lao Shi<br>
-Lu Lao Shi<br>
 Sisi Lao Shi<br>
 Xiao Lao Shi<br>
 Zhou Lao Shi<br>
