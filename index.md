@@ -22,7 +22,7 @@ sections:
         allowfullscreen="" allow="accelerometer; autoplay; clipboard-write;
         encrypted-media; gyroscope; picture-in-picture; web-share"
         frameborder="0" title="YouTube video player"
-        src="https://www.youtube.com/embed/doNUuFyC84E?si=OGj2ctOqvness1zs"
+        src="https://www.youtube.com/embed/YSfKxefxpO4?si=fz1cRg5Ql_f-4cpU"
         height="315" width="560"></iframe></p>
   - resources:
       title: ANNOUNCEMENTS
