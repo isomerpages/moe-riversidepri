@@ -9,7 +9,7 @@ variant: markdown
 <input type="checkbox" id="accordion1">
 <label for="accordion1"><h5 style="color:blue">Year Heads/Assistant Year Head</h5></label>
 <div>
-<p><strong>Ms Raudah Begum Amir Khan</strong> <br>Assistant Year Head, Lower Primary <br>email: raudah_begum_amir_khan@moe.edu.sg</p><p><strong>Ms Lim Shin Gann</strong> <br>Year Head, Middle Primary <br>email: lim_shin_gann@moe.edu.sg</p><p><strong>Mr Jeff Huang</strong> <br>Year Head, Upper Primary <br>email: huang_yaosheng@moe.edu.sg</p><p><strong>Ms Darrell Koh</strong> <br>Assistant Year Head, Upper Primary <br>email: lim_yong_en_darrell@moe.edu.sg</p>
+<p><strong>Ms Raudah Begum Amir Khan</strong> <br>Year Head, Lower Primary (Covering) <br>email: raudah_begum_amir_khan@moe.edu.sg</p><p><strong>Ms Lim Shin Gann</strong> <br>Year Head, Middle Primary <br>email: lim_shin_gann@moe.edu.sg</p><p><strong>Mr Jeff Huang</strong> <br>Year Head, Upper Primary <br>email: huang_yaosheng@moe.edu.sg</p><p><strong>Mr Joshua Kum Han Wen</strong> <br>Assistant Year Head, Upper Primary <br>email: kum _han_wen@moe.edu.sg</p>
 </div>
 </li>
 
